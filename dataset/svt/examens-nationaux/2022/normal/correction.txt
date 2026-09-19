@@ -1,0 +1,158 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2022 - Session Normale - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2022-normale-corrige.pdf
+Element: https://www.alloschool.com/element/138542
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة العادية 2022 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+NR32F
+
+## Première partie (5 pts)
+
+I.
+1. (Acceptez toute définition correcte.)
+- La chaîne respiratoire : ensemble de complexes protéiques et de molécules situés dans la membrane interne mitochondriale et participant aux réactions d'oxydoréduction libératrices d'énergie. (0,5 pt)
+- Le rendement énergétique : le pourcentage de l'énergie produite sous forme d'ATP par rapport à l'énergie potentielle du glucose. (0,5 pt)
+2. (Acceptez deux voies métaboliques parmi : 2 x 0,5 pt)
+- Voie anaérobie alactique : ADP + PCr → ATP + Cr ou ADP + ADP → ATP + AMP
+- Voie anaérobie lactique (fermentation lactique) : C6H12O6 + 2 ADP + 2 Pi → 2 CH3-CHOH-COOH + 2 ATP
+- Voie aérobie (de la respiration cellulaire) : C6H12O6 + 6 O2 + 36 ADP + 36 Pi → 6 CO2 + 6 H2O + 36 ATP
+Acceptez : C6H12O6 + 6 O2 + 38 ADP + 38 Pi → 6 CO2 + 6 H2O + 38 ATP
+
+II. (1, b) ; (2, a) ; (3, c) ; (4, c) — 0,5 pt x 4
+
+III. (1, c) ; (2, a) ; (3, e) ; (4, b) — 0,25 pt x 4
+
+## Deuxième partie (15 pts)
+
+### Exercice 1 (4,5 pts)
+
+1.
+• Comparaison :
+- Chez l'individu sain : la quantité des grandes sous-unités est égale à celle des petites sous-unités (= 46 UA). (0,25 pt)
+- Chez l'individu malade : la quantité des petites sous-unités (= 23 UA) ne représente que la moitié de la quantité des grandes sous-unités (= 46 UA). (0,25 pt)
+• Explication : manque des petites sous-unités ribosomiques par rapport aux grandes sous-unités → formation d'un nombre faible de ribosomes fonctionnels → une faible traduction d'ARNm des hémoglobines → formation d'une faible quantité d'hémoglobine. (0,5 pt)
+
+2.
+• L'ARNm et la séquence d'acides aminés correspondants à :
+- L'allèle normal :
+ARNm : CAG – CAG – GAG – UUC – GUC – AGA – GCC – CUA – AGA – AGA
+Séquence d'acides aminés : Gln – Gln – Ac. Glu – Phe – Val – Arg – Ala – Leu – Arg – Arg. (0,25 pt)
+- L'allèle anormal :
+ARNm : CAG – CAG – GAG – UUC – UUC – AGA – GCC – CGA – AGA – AGA
+Séquence d'acides aminés : Gln – Gln – Ac. Glu – Phe – Phe – Arg – Ala – Arg – Arg – Arg. (0,25 pt)
+• Relation gène – protéine – caractère :
+- Deux mutations par substitution au niveau du triplet 15 (substitution de G par T) et du triplet 18 (substitution de T par G) dans le brin non transcrit. (0,25 pt)
+(On accepte le raisonnement en se basant sur le brin transcrit.)
+- Synthèse de la protéine RSP19 anormale (non fonctionnelle) ce qui diminue la quantité des petites sous-unités ribosomiques. (0,25 pt)
+- Formation d'un nombre faible de ribosomes fonctionnels. (0,25 pt)
+- Production faible d'hémoglobine dans les globules rouges conduisant à l'apparition de la maladie Blackfan-Diamond (caractère). (0,25 pt)
+
+3.
+a. Mode de transmission de la maladie Blackfan-Diamond :
+- Chaque individu malade est issu d'un parent malade (ou la maladie se manifeste dans toutes les générations), et puisque les individus I2, II2 et II6 sont homozygotes, donc l'allèle responsable de la maladie est dominant et l'allèle normal est récessif. (0,5 pt)
+- La maladie touche les mâles et les femelles, donc l'allèle responsable de la maladie n'est pas porté par le chromosome Y. Les mâles malades sont issus de mères saines, donc l'allèle responsable de la maladie n'est pas porté par le chromosome X. → La maladie est portée par un autosome (chromosome non sexuel). (0,5 pt)
+b. Calcul de probabilité :
+Parents : II5 × II6 — Phénotypes : [B] × [b] — Génotypes : (B//b) × (b//b). (0,25 pt)
+Gamètes : (50 %) B/, (50 %) b/ × (100 %) b/. (0,25 pt)
+Échiquier de croisement : (0,25 pt)
+
+|  | (50 %) B/ | (50 %) b/ |
+|---|---|---|
+| (100 %) b/ | (B//b) [B] (50 %) | (b//b) [b] (50 %) |
+
+La probabilité d'avoir un enfant sain est de 1/2 (50 %). (0,25 pt)
+
+### Exercice 2 (4,5 pts)
+
+1.
+- Le croisement 1 a donné une génération de drosophiles homogène aux ailes longues et corps clair donc :
+- L'allèle responsable des « ailes longues » est dominant (vg+) ; l'allèle responsable des « ailes vestigiales » est récessif (vg).
+- L'allèle responsable du « corps clair » est dominant (b+) ; l'allèle responsable du « corps noir » est récessif (b). (0,25 pt)
+- Les deux gènes sont portés sur le même chromosome n° 2 donc ils sont liés. (0,25 pt)
+- Les deux gènes sont portés par un autosome donc les deux caractères ne sont pas liés au sexe. (0,25 pt)
+
+2.
+- Le génotype de la lignée A : (vg+ b+ // vg+ b+) ; le génotype de la lignée C : (vg b // vg b).
+Justification : les deux parents sont de lignée pure selon la première loi de Mendel et les allèles responsables du corps clair et des ailes longues sont dominants.
+- Le génotype de la lignée B : (vg+ b+ // vg b).
+Justification : la lignée C est pure et la descendance du deuxième croisement est constituée de phénotypes parentaux et recombinés.
+[Barème détaillé extrait partiel ; total 1 pt.]
+
+3. Interprétation chromosomique des résultats du deuxième croisement :
+Parents : lignée C × lignée B — Phénotypes : [vg, b] × [vg+, b+]
+Génotypes : (vg b // vg b) × (vg+ b+ // vg b)
+Gamètes : (vg b) 100 % × (vg+ b+) 40,5 %, (vg b) 40,5 %, (vg+ b) 9,5 %, (vg b+) 9,5 %. (0,5 pt)
+Échiquier de croisement : (0,5 pt)
+
+|  | (vg+ b+) 40,5 % | (vg b) 40,5 % | (vg+ b) 9,5 % | (vg b+) 9,5 % |
+|---|---|---|---|---|
+| (vg b) 100 % | [vg+, b+] 40,5 % | [vg, b] 40,5 % | [vg+, b] 9,5 % | [vg, b+] 9,5 % |
+
+La descendance du deuxième croisement est constituée de :
+- phénotypes parentaux : 40,5 % [vg+, b+] et 40,5 % [vg, b] ;
+- phénotypes recombinés : 9,5 % [vg+, b] et 9,5 % [vg, b+]. (0,25 pt)
+
+4. On observe que la fréquence du phénotype ailes vestigiales diminue au fil des générations. Elle passe de 0,8 (la 1ère génération) à 0,1 (la 50ème génération). (0,25)
+
+5. Explication : les individus à ailes vestigiales sont incapables de voler pour atteindre la nourriture (0,25 pt) → la mort des individus à ailes vestigiales (0,25 pt) → diminution de la capacité de reproduction de ces individus et par conséquent la diminution de la transmission de l'allèle « ailes vestigiales » (0,25 pt) → diminution de la fréquence du phénotype « ailes vestigiales » (0,25 pt).
+Déduction : le facteur responsable de la variation de la fréquence phénotypique des individus à ailes vestigiales est la sélection naturelle (sélection négative envers les individus à ailes vestigiales). (0,25 pt)
+
+### Exercice 3 (3 pts)
+
+1.
+• Description :
+- Le virus apparaît directement après la contamination. Sa quantité augmente (elle atteint 4,5 UA) puis diminue progressivement pour disparaître au 12ème jour. (0,25 pt)
+- Les lymphocytes apparaissent à partir du 2ème jour. Leur quantité augmente progressivement, se stabilise (à 5,5 UA) puis diminue progressivement après le 10ème jour. (0,25 pt)
+- Les anticorps apparaissent à partir du 5ème jour. Leur quantité augmente progressivement, elle atteint la valeur de 5,5 UA, puis connaît une légère diminution. (0,25 pt)
+• Déduction : la nature de la réponse immunitaire : réponse immunitaire spécifique à médiation humorale et cellulaire. (0,25 pt)
+
+2. Les anticorps anti-hémagglutinine se fixent sur les protéines hémagglutinine ce qui empêche les virus de reconnaître les récepteurs de la cellule cible et empêche l'infection de cette cellule. (0,5)
+
+3.
+a. La cellule doit être infectée. (0,25 pt)
+- Les LTc doivent être sensibilisées contre le virus. (0,25 pt)
+- Les LTc doivent être sensibilisées par le même virus qui a infecté la cellule cible. (0,25 pt)
+b. Le récepteur T des LTc se fixe sur le complexe CMHI – antigène de la cellule infectée. (0,25 pt)
+- Libération des perforines et des granzymes. (0,25 pt)
+- Formation des pores dans la membrane de la cellule infectée et entrée du granzyme, entraînant le déclenchement de la mort de la cellule infectée (cellule cible). (0,25 pt)
+
+### Exercice 4 (3 pts)
+
+1. (Acceptez 4 caractéristiques parmi les suivantes : 4 x 0,25 pt)
+- Présence d'une fosse océanique.
+- Prisme d'accrétion.
+- Épaississement de la croûte continentale.
+- Présence d'une activité volcanique.
+- Anomalies thermiques.
+
+2. Les conditions sont :
+- la péridotite doit être hydratée (présence de l'eau). (0,25 pt)
+- une profondeur entre 80 km et 160 km. (0,25 pt)
+- une température qui varie entre 800 °C et 1250 °C. (0,25 pt)
+- une pression entre 2,5 GPa et 5 GPa. (0,25 pt)
+
+3. Ces conditions se réalisent dans la zone de subduction car :
+- la zone de fusion partielle se situe à une profondeur entre 80 km et 150 km. (0,25 pt)
+- la zone de fusion partielle se recoupe avec l'isotherme 750 °C et l'isotherme 1000 °C. (0,25 pt)
+- la croûte océanique plongeante libère le H2O. (0,25 pt)
+- cette libération d'eau conduit à l'hydratation des péridotites. (0,25 pt)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Référence : NR 32F.
+- Exercice 2, question 2 : génotypes reconstitués (extraction partielle) ; barème détaillé extrait partiel.
+- Exercice 2, question 3 : tableau reconstitué (extraction partielle) ; pourcentages conformes au corrigé (40,5 / 9,5).
+- Exercice 3, question 1 : « 4,5 UA » (virus) transcrit tel qu'extrait alors que le tableau du sujet indique un maximum de 4,4 UA.
+- Exercice 4, question 3 : « entre 80 km et 150 km » transcrit tel qu'extrait (la question 2 indique 160 km).

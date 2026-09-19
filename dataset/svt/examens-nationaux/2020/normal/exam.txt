@@ -1,0 +1,190 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2020 - Session Normale - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2020-normale-sujet.pdf
+Element: https://www.alloschool.com/element/109869
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2020 - الموضوع -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+NS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I. Répondre, sur la feuille de rédaction, aux questions suivantes :
+a. Définir le génie génétique. (0,5 pt) [question reconstituée d'après le corrigé officiel]
+b. Citer deux exemples d'application du génie génétique, l'un dans le domaine agricole et l'autre dans le domaine médical. (0,5 pt)
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte. Recopier, sur la feuille de rédaction, les couples ci-dessous et adresser à chaque numéro la lettre qui correspond à la suggestion correcte. (1, …) (2, …) (3, …) (4, …) (2 pts)
+
+1. Les yeux de réplication apparaissent au cours de :
+a. la prophase ;
+b. l'interphase ;
+c. la métaphase ;
+d. la télophase.
+
+2. La méiose donne :
+a. quatre cellules diploïdes à partir d'une cellule mère diploïde ;
+b. deux cellules diploïdes à partir d'une cellule mère diploïde ;
+c. quatre cellules haploïdes à partir d'une cellule mère diploïde ;
+d. deux cellules haploïdes à partir d'une cellule mère diploïde.
+
+3. Une personne atteinte du syndrome de Down possède :
+a. le chromosome 22 en un seul exemplaire ;
+b. le chromosome 21 en trois exemplaires ;
+c. le chromosome 22 en trois exemplaires ;
+d. le chromosome 21 en un seul exemplaire.
+
+4. La formule chromosomique d'un individu atteint du syndrome de Klinefelter est :
+a. 2n - 1 = 22AA + Y ;
+b. 2n - 1 = 22AA + X ;
+c. 2n + 1 = 22AA + XXY ;
+d. 2n + 1 = 22AA + XYY.
+
+III. Copier sur la feuille de rédaction, la lettre correspondante à chaque proposition parmi les propositions suivantes, puis écrire devant chaque lettre « Vrai » ou « Faux ». (1 pt)
+
+a. L'anomalie chromosomique est une modification du nombre ou de la structure des chromosomes.
+b. La translocation réciproque est le transfert d'un fragment de chromosome sur un autre chromosome.
+c. La translocation chromosomique équilibrée modifie le nombre des chromosomes chez l'individu porteur de cette anomalie.
+d. Les maladies héréditaires récessives liées au chromosome sexuel X affectent les femelles plus que les mâles.
+
+IV. Afin de relier les modifications de nombre et d'aspect des chromosomes (Groupe 1) aux phases qui leur correspondent (Groupe 2), copier sur votre feuille de rédaction, les couples ci-dessous et adresser à chaque numéro dans le groupe 1 la lettre qui lui correspond dans le groupe 2. (1, …) (2, …) (3, …) (4, …) (1 pt)
+
+| Groupe 1 | Groupe 2 |
+|---|---|
+| 1. Les paires de chromosomes homologues forment des tétrades dispersées dans le cytoplasme | a. Métaphase I |
+| 2. Les centromères des chromosomes homologues sont situés de part et d'autre du plan équatorial de la cellule | b. Prophase I |
+| 3. Les centromères des chromosomes à deux chromatides sont situés au niveau du plan équatorial de la cellule | c. Télophase II |
+| 4. Les chromosomes non dédoublés perdent leur condensation formant la chromatine | d. Métaphase II |
+
+## Partie II : Raisonnement scientifique et expression écrite et graphique (15 pts)
+
+### Exercice 1 (5 points)
+
+Pour comprendre le rôle du muscle squelettique dans la conversion de l'énergie chimique en énergie mécanique au cours de la contraction musculaire, on propose les données expérimentales suivantes :
+
+● Donnée 1
+
+Expérience 1 : Pour identifier certaines conditions nécessaires à la contraction musculaire, des myofibrilles sont extraites à partir de cellules musculaires et réparties en trois milieux. Le document 1 présente l'état initial de ces myofibrilles et le résultat obtenu après l'ajout de différentes substances dans chaque milieu.
+
+Document 1 :
+
+| Milieu | État initial des myofibrilles | Substances ajoutées | Résultat |
+|---|---|---|---|
+| 1 | Relâché | Ca++ et ATP | Contraction |
+| 2 | Relâché | Ca++, ATP et Salyrgan | Pas de contraction |
+| 3 | Relâché | Ca++, ATP et EGTA | Pas de contraction |
+
+NB : - Salyrgan : une substance qui bloque l'hydrolyse de l'ATP.
+- EGTA : un chélateur qui fixe les ions Ca++ et inhibe leur action.
+
+1. En se basant sur le document 1, dégager les conditions nécessaires à la contraction musculaire. Justifier votre réponse. (1,5 pt)
+
+Expérience 2 : On cultive des fibres musculaires dans un milieu contenant des ions Ca++ radioactifs. On observe par autoradiographie que la radioactivité est localisée dans le réticulum sarcoplasmique quand les fibres musculaires sont relâchées et dans le sarcoplasme quand les fibres musculaires sont contractées.
+
+2. En se basant sur les données de l'expérience 2, relier la localisation cellulaire des ions Ca++ à l'état de la fibre musculaire. (0,5 pt)
+
+● Donnée 2
+
+Au cours de la contraction d'une fibre musculaire, il s'établit des interactions entre les myofilaments d'actine et de myosine au cours desquelles l'ATP est consommé. Le document 2 présente l'évolution de la tension d'une fibre musculaire dans différentes conditions expérimentales. Le document 3 présente les interactions entre la myosine et l'actine à l'origine de la contraction musculaire.
+
+Document 2 — Tension de la fibre musculaire (UA) : Phase A : 0,5 ; Phase B : 2,5 ; Phase C : 0,1. [Courbe non extraite.]
+
+[Figure — Document 3, cycle des interactions actine-myosine : Tropomyosine, Troponine, site de fixation de la tête de myosine, Actine, Tête de myosine, ADP + Pi, hydrolyse de l'ATP, ions Ca++.]
+
+3. En se basant sur les documents 2 et 3, expliquer l'évolution de la tension de la fibre musculaire observée dans le document 2 au cours de la phase de contraction (Phase A) et au cours de la phase de relâchement (Phase C). (2 pts)
+
+● Donnée 3
+
+La rigidité cadavérique se caractérise par le raidissement des muscles striés squelettiques. Elle intervient immédiatement suite à une mort violente (noyade par exemple) et disparaît lorsque commence la putréfaction (décomposition du cadavre). Après la mort, l'ATP n'est plus produit par la cellule et les réserves en cette molécule s'épuisent rapidement.
+
+4. En exploitant les données du document 2 (Phase B) et en s'aidant du document 3, proposer une explication du phénomène de la rigidité cadavérique. (1 pt)
+
+### Exercice 2 (6,5 pts)
+
+La maladie de Rendu-Osler-Weber (ROW) est une maladie héréditaire. Parmi ses symptômes : des saignements spontanés du nez, des hémorragies digestives et une atteinte du foie. Ces symptômes sont dus à des malformations artério-veineuses qui entraînent l'absence de réseaux capillaires entre les artères et les veines. Pour déterminer l'origine génétique de cette maladie, on propose l'exploitation des données suivantes :
+
+● Donnée 1 : Plusieurs facteurs de croissance se lient à […] [début tronqué à l'extraction]. Le fonctionnement de ces récepteurs nécessite l'intervention d'une protéine nommée « Endogline » constituée de 633 acides aminés. Les recherches ont montré la relation entre cette protéine et la maladie de ROW. Les figures a et b du document 1 représentent la relation entre l'Endogline et l'activité d'un récepteur membranaire qui intervient dans l'angiogenèse chez une personne saine (figure a) et chez une personne atteinte de la maladie de ROW (figure b).
+
+[Figure — Document 1 : figure (a) personne saine : Facteur de croissance + Endogline normale + Récepteur membranaire → Récepteur membranaire fonctionnel → Angiogenèse normale ; figure (b) personne atteinte de ROW : Facteur de croissance + Endogline anormale → Récepteur membranaire non fonctionnel → Angiogenèse anormale.]
+
+1. En exploitant le document 1, montrer la relation protéine – caractère. (0,75 pt)
+
+● Donnée 2 : La synthèse de l'Endogline est contrôlée par un gène appelé (Eng) qui existe sous deux formes alléliques. Le document 2 présente un fragment de l'allèle normal (brin non transcrit) chez un sujet sain et un fragment de l'allèle anormal (brin non transcrit) chez un sujet atteint de la maladie de ROW. Le document 3 présente le tableau du code génétique.
+
+Document 2 :
+
+| Numéros des triplets | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+|---|---|---|---|---|---|---|---|---|
+| Fragment de l'allèle normal | CCC | CAC | GTG | GAC | AGC | ATG | GAC | CGC |
+| Fragment de l'allèle anormal | CCC | CAC | ATG | GAC | AGC | ATG | GAC | CGC |
+
+Sens de lecture →
+
+Document 3 — Tableau du code génétique (standard) : UUU, UUC : Phe ; UUA, UUG : Leu ; UCU, UCC, UCA, UCG : Ser ; UAU, UAC : Tyr ; UAA, UAG : Stop ; UGU, UGC : Cys ; UGA : Stop ; UGG : Trp ; CUU, CUC, CUA, CUG : Leu ; CCU, CCC, CCA, CCG : Pro ; CAU, CAC : His ; CAA, CAG : Gln ; CGU, CGC, CGA, CGG : Arg ; AUU, AUC, AUA : Ile ; AUG : Met ; ACU, ACC, ACA, ACG : Thr ; AAU, AAC : Asn ; AAA, AAG : Lys ; AGU, AGC : Ser ; AGA, AGG : Arg ; GUU, GUC, GUA, GUG : Val ; GCU, GCC, GCA, GCG : Ala ; GAU, GAC : Ac. asp ; GAA, GAG : Ac. glu ; GGU, GGC, GGA, GGG : Gly.
+
+2. En se basant sur les documents 1, 2 et 3, donner les séquences d'ARNm et des acides aminés correspondantes aux deux fragments de l'allèle normal et de l'allèle anormal, puis expliquer l'origine génétique de la maladie. (1,5 pt)
+
+● Donnée 3 : Le document 4 présente l'arbre généalogique d'une famille dont certains membres sont atteints par la maladie de ROW.
+
+[Figure — Document 4, arbre généalogique : génération I (1, 2) ; génération II (1 à 9) ; génération III (1 à 6) ; légende : Homme sain, Femme saine, Homme atteint, Femme atteinte. Arbre non extrait en détail.]
+
+3. En se basant sur le document 4 :
+a. Montrer que l'allèle responsable de la maladie est dominant et que le gène étudié est porté par un chromosome non sexuel (autosome). (1,25 pt)
+b. Déterminer la probabilité pour que le couple II8 et II9 donne naissance à un enfant sain. Justifier votre réponse en utilisant l'échiquier de croisement. (1 pt)
+(Utiliser les symboles R et r pour les deux allèles du gène étudié.)
+
+● Donnée 4 : La maladie de ROW est une maladie héréditaire rare. Dans une population donnée cette maladie touche une personne sur 5000.
+
+4. Considérant que cette population obéit à la loi de Hardy-Weinberg :
+a. Calculer la fréquence de l'allèle responsable de la maladie et celle de l'allèle normal. (1,25 pt)
+b. Calculer les fréquences des différents génotypes dans la population étudiée. (0,75 pt)
+
+N.B : Se contenter de quatre chiffres après la virgule dans les applications numériques.
+
+### Exercice 3 (3,5 points)
+
+Dans le cadre de l'étude de la transmission des caractères héréditaires chez les diploïdes, on propose l'étude de la transmission de deux caractères héréditaires chez les ovins : la forme des oreilles et la couleur du museau.
+
+Croisement 1 : Moutons à oreilles non dressées x Brebis à oreilles dressées → Agneaux à oreilles dressées.
+
+Croisement 2 : Moutons à museau sombre x Brebis à museau clair → Agneaux à museau clair.
+
+1. Que peut-on déduire des résultats des deux croisements 1 et 2 ? Justifier votre réponse. (1 pt)
+
+Croisement 3 : Le croisement-test entre des brebis à phénotype dominant pour les deux caractères et des moutons double-récessifs a donné les résultats suivants :
+- 45 agneaux avec des oreilles dressées et des museaux clairs ;
+- 38 agneaux avec des oreilles non dressées et des museaux sombres ;
+- 9 agneaux avec des oreilles dressées et des museaux sombres ;
+- 8 agneaux avec des oreilles non dressées et des museaux clairs.
+
+2. Montrer que les deux gènes étudiés sont liés et déduire les génotypes des parents dans le 3ème croisement. (1 pt)
+
+3. Interpréter les résultats du croisement-test en vous aidant d'un échiquier de croisement. (1 pt)
+
+4. Établir la carte factorielle des deux gènes étudiés. (0,5 pt)
+
+Utiliser les symboles suivants :
+- D et d pour les allèles responsables de la forme des oreilles.
+- S et s pour les allèles responsables de la couleur du museau.
+
+« Fin »
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question I-a : énoncé reconstitué d'après le corrigé officiel (« Définir le génie génétique »).
+- Exercice 2, donnée 1 : début de la phrase tronqué à l'extraction.
+- Exercice 1, document 2 : courbe non extraite ; valeurs des phases A, B et C transcrites telles qu'extraites.
+- Exercice 2, document 4 : arbre généalogique non extrait en détail ; résumé d'après le corrigé officiel (III1 saine, parents II5 et II6 malades ; couple II8 × II9).
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

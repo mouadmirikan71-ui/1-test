@@ -1,0 +1,182 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2025 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2025-rattrapage-corrige.pdf
+Element: https://www.alloschool.com/element/145883
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة الاستدراكية 2025 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+RR32F
+
+## Première partie : Restitution des connaissances (5 points)
+
+I. Deux caractéristiques de la réaction immunitaire spécifique comme : (0,25 x 2)
+– la spécificité ;
+– la coopération cellulaire ;
+– la mémoire immunitaire.
+
+II. (1, d) ; (2, c) ; (3, c) ; (4, d) — 0,5 pt x 4
+
+III. a – Faux ; b – Vrai ; c – Vrai ; d – Faux. — 0,25 pt x 4
+
+IV.
+a – Le nom de la structure : anticorps ou immunoglobuline. (0,25 pt)
+1 → site de fixation de l'antigène. (0,25 pt)
+2 → chaîne lourde. (0,25 pt)
+3 → chaîne légère. (0,25 pt)
+b – Deux rôles de l'anticorps parmi : (0,25 pt x 2)
+- neutralisation de l'antigène (formation du complexe immun) ;
+- opsonisation ;
+- activation des facteurs du complément ;
+- activation des plasmocytes (lors des réactions allergiques) [sic : lire mastocytes].
+
+## Deuxième partie : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 (3 points)
+
+1. Lors du passage de l'état relâché à l'état contracté, on observe deux modifications structurales parmi : (2 x 0,25 pt)
+- raccourcissement du sarcomère (rapprochement des stries Z) ;
+- raccourcissement de la zone H ;
+- raccourcissement de la bande claire.
+
+2.
+• Description : (0,5 pt)
+- En présence uniquement des ions Ca²⁺ ou uniquement de l'ATP → la tension de la myofibrille est nulle.
+- En présence des ions Ca²⁺ et de l'ATP → augmentation de la tension de la myofibrille.
+- En bloquant l'hydrolyse de l'ATP par le Salyrgan → la tension de la myofibrille diminue puis s'annule.
+- En inhibant l'action des ions Ca²⁺ par l'EDTA → la tension de la myofibrille diminue puis s'annule.
+• Déduction des conditions nécessaires à la contraction musculaire : (0,25 pt)
+- présence de l'ATP et son hydrolyse ;
+- présence des ions Ca²⁺ libres.
+
+3.
+• Description : (0,75 pt)
+- Dans le milieu 1 : pas de formation de complexe actomyosine et faible hydrolyse d'ATP ;
+- Dans le milieu 2 : pas de formation de complexe actomyosine et pas d'hydrolyse d'ATP ;
+- Dans le milieu 3 : formation du complexe actomyosine et forte hydrolyse d'ATP.
+• La condition de l'hydrolyse de l'ATP : (0,25 pt)
+- la formation du complexe actomyosine.
+
+4.
+• L'enchaînement des événements conduisant à la contraction musculaire : (0,5 pt)
+Excitation efficace → libération des ions Ca²⁺ → formation de complexes actomyosines → hydrolyse d'ATP → glissement des filaments d'actine par rapport aux filaments de la myosine → rapprochement des filaments d'actine → contraction musculaire.
+• Vérification de l'hypothèse : (0,25 pt)
+→ L'hypothèse proposée est vraie (vérifiée).
+
+### Exercice 2 (6 points)
+
+1. Relation protéine – caractère : (0,5 pt)
+▪ Chez la personne saine : l'enzyme α-GA (protéine) normale → transformation de glycogène en glucose → fibres musculaires normales (petits lysosomes) → force musculaire normale → personne saine (caractère héréditaire).
+▪ Chez la personne atteinte : enzyme α-GA (protéine) anormale → pas de transformation de glycogène en glucose → fibres musculaires altérées (grands lysosomes) → force musculaire faible → maladie de Pompe (caractère héréditaire).
+
+2.
+• Chez l'individu sain : (0,5 pt)
+ARNm : UGC ACG AAA UCA AGG UGG.
+Séquence des acides aminés : Cys – Thr – Lys – Ser – Arg – Trp.
+• Chez l'individu atteint : (0,5 pt)
+ARNm : UGC ACG AAU CAA GGU GG.
+Séquence des acides aminés : Cys – Thr – Asn – Gln – Gly.
+• Origine de la maladie : (0,75 pt)
+- Mutation par délétion du nucléotide T numéro 525 dans le brin transcrit → décalage du cadre de lecture et changement des codons de l'ARNm qui suivent le point de délétion → protéine α-GA différente non fonctionnelle et apparition de la maladie.
+
+3. Mode de transmission de la maladie : (4 x 0,25 pt)
+- Le couple (II2 × II3) sain a donné un garçon III1 (ou la fille III2) atteint montre que l'allèle responsable de la maladie est récessif noté (m), et l'allèle normal est dominant noté (M).
+- La présence de femmes atteintes montre que l'allèle n'est pas porté par le chromosome Y.
+- La présence de la fille III2 atteinte issue d'un père sain montre que l'allèle n'est pas porté par le chromosome X.
+- Donc l'allèle responsable de la maladie de Pompe est porté par un autosome.
+
+4.
+a – Les génotypes des individus II2 et II3 :
+Les deux parents II2 et II3 sont sains et ont donné naissance à des individus malades. Donc ils sont hétérozygotes et leur génotype est M//m. (0,5 pt)
+b – Calcul de la probabilité pour que le fœtus III3 soit malade :
+• Parents : II2 × II3 — Phénotypes : [M] ; [M] — Génotypes : M//m ; M//m.
+• Gamètes : ½ M/ ; ½ m/ ; ½ M/ ; ½ m/.
+• Échiquier de croisement : (0,5 pt)
+
+| ♂ \ ♀ | ½ M/ | ½ m/ |
+|---|---|---|
+| ½ M/ | ¼ M//M [M] | ¼ M//m [M] |
+| ½ m/ | ¼ M//m [M] | ¼ m//m [m] |
+
+→ La probabilité pour que le fœtus III3 soit atteint [m] est 1/4 (25 %). (0,25 pt)
+
+5.
+a – Calcul des fréquences (allèle anormal et allèle normal) :
+Le génotype d'un individu atteint est : mm.
+f(mm) = 1/138000 = q².
+f(m) = q = √(1/138000) = 0,00269. (0,5 pt)
+Calcul de la fréquence de l'allèle normal (sauvage) : p + q = 1 ; p = 1 – q ; f(M) = p = 1 – 0,00269 = 0,99731. (0,5 pt)
+b – Calcul de la fréquence des individus sains porteurs : (0,5 pt)
+Un individu sain porteur est hétérozygote de génotype : Mm ; f(Mm) = 2pq = 2 × 0,99731 × 0,00269 = 0,00536.
+
+### Exercice 3 (3 points)
+
+1. Mode de transmission des caractères relatifs à la couleur des feuilles et la forme de la peau des fruits : (1 pt)
+- Cas du dihybridisme. (0,25 pt)
+- La descendance F1 est homogène, selon la 1ère loi de Mendel les parents sont de races pures. (0,25 pt)
+- L'apparition du caractère parental « feuilles vertes unies » montre que l'allèle responsable du caractère couleur verte unie est dominant noté (T) et l'allèle responsable du caractère couleur verte tachetée est récessif noté (t). (0,25 pt)
+- L'apparition du caractère parental « peau lisse » montre que l'allèle responsable du caractère aspect lisse est dominant noté (L) et l'allèle responsable du caractère aspect velouté est récessif noté (l). (0,25 pt)
+
+2. Résultats attendus du deuxième croisement : (0,75 pt)
+• Parents : F1 × P — Phénotypes : [T, L] ; [t, l] — Génotypes : T//t L//l ; t//t l//l.
+• Gamètes : ¼ T/L/ et ¼ t/l/ et ¼ t/L/ et ¼ T/l/ × 100 % t/l/.
+• Échiquier de croisement : (0,5 pt)
+
+| ♀ 100 % t/l/ | ¼ T/L/ | ¼ t/l/ | ¼ t/L/ | ¼ T/l/ |
+|---|---|---|---|---|
+|  | T//t L//l [T, L] 25 % | t//t l//l [t, l] 25 % | t//t L//l [t, L] 25 % | T//t l//l [T, l] 25 % |
+
+→ Résultats : 50 % phénotypes parentaux et 50 % phénotypes recombinés. (0,25 pt)
+
+3.
+▪ Déduction : (0,25 pt)
+Les résultats expérimentaux sont différents des résultats théoriques → les gènes étudiés sont liés relativement (présence de crossing-over), la troisième loi de Mendel n'est pas vérifiée.
+▪ Vérification de l'hypothèse : (0,25 pt)
+L'hypothèse n'est pas vérifiée ou l'hypothèse est fausse.
+
+4. Schémas expliquant les étapes du phénomène qui a lieu chez les individus F1 : (0,75 pt)
+Dédoublement des deux chromosomes (T L / t l) → crossing-over → méiose → gamètes de l'individu de F1 : (T L), (t l), (T l), (t L). [schémas non reproductibles en texte ; voir PDF]
+
+### Exercice 4 (3 points)
+
+1.
+a – Deux indices de subduction dans la zone 1 parmi : (0,5 pt)
+- présence d'une fosse océanique ;
+- augmentation de la profondeur des foyers sismiques de l'océan Indien vers le continent (plan de Benioff) ;
+- volcanisme andésitique.
+b – Un indice qui montre un régime compressif dans la zone 2 : (0,5 pt)
+- présence des déformations tectoniques comme : chevauchements et plis.
+- Un indice qui montre la disparition d'un domaine océanique ancien :
+- présence de l'ophiolite.
+
+2.
+a – Détermination des domaines minéralogiques : (0,75 pt)
+- La roche R1 contient l'actinote et la chlorite → elle appartient au domaine 2.
+- La roche R2 contient le glaucophane et la lawsonite → elle appartient au domaine 3.
+- La roche R3 contient l'omphacite et le grenat → elle appartient au domaine 4.
+b – Description des variations minéralogiques : (0,25 pt)
+- Lors du passage de R1 à R2 : disparition de l'actinote et la chlorite et apparition du glaucophane et la lawsonite.
+- Lors du passage de R2 à R3 : disparition du glaucophane et la lawsonite et apparition de l'omphacite et le grenat.
+→ La présence des roches R1, R2 et R3 montre que cette zone a subi une forte augmentation de pression et faible augmentation de température → métamorphisme dynamique. (0,25 pt)
+
+3. Les étapes de la formation de la chaîne de montagnes de la zone 2 : (0,75 pt)
+▪ À –50 Ma : force de convergence entre la plaque indienne et la plaque eurasiatique → subduction de la lithosphère océanique indienne sous la lithosphère eurasiatique. (0,25 pt)
+▪ À –24 Ma : poursuite du rapprochement des deux plaques → disparition du domaine océanique → formation de l'ophiolite. (0,25 pt)
+▪ À –8 Ma : collision entre les deux blocs continentaux → formation de suture ophiolitique entre les deux plaques → formation de la chaîne de montagnes. (0,25 pt)
+
+** FIN **
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Référence : RR 32F.
+- Partie I, question IV.b : « activation des plasmocytes (lors des réactions allergiques) » [sic : lire mastocytes].
+- Exercice 2, question 5 : barème reconstitué (a : 0,5 + 0,5 ; b : 0,5).
+- Exercice 3, question 4 : schémas du crossing-over non reproductibles en texte.

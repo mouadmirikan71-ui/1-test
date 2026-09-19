@@ -1,0 +1,215 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2024 - Session Normale - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2024-normale-sujet.pdf
+Element: https://www.alloschool.com/element/145877
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2024 - الموضوع -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+NS32F
+
+Il est permis d'utiliser la calculatrice non programmable.
+
+## Partie I : Restitution des connaissances (5 points)
+
+I. Définissez les notions suivantes : a. La réponse allergique ; b. La chaîne respiratoire. (1 pt) [notions reconstituées d'après le corrigé officiel]
+
+II.
+a – Citez l'énoncé de la première loi de Mendel. (0,5 pt)
+b – Donnez la formule chromosomique d'une personne atteinte du syndrome de Klinefelter. (0,5 pt)
+
+III. Pour chacune des propositions numérotées de 1 à 4, une seule suggestion est correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …) et écrivez dans chaque couple la lettre correspondante à la suggestion correcte. (2 pts)
+
+1 – Durant la métaphase de la mitose, chaque chromosome est formé :
+a – d'une seule chromatide condensée.
+b – de deux chromatides condensées.
+c – d'une seule chromatide non condensée.
+d – de deux chromatides non condensées.
+
+2 – Les protéines du complexe majeur d'histocompatibilité de type I :
+a – sont des médiateurs chimiques.
+b – sont sécrétées par les plasmocytes.
+c – présentent les peptides du soi aux cellules immunitaires.
+d – sont capables de reconnaître des antigènes circulants.
+
+3 – La réplication de l'ADN se fait selon le modèle :
+a – conservatif durant la phase S de l'interphase.
+b – conservatif durant la phase G1 de l'interphase.
+c – semi-conservatif durant la phase G2 de l'interphase.
+d – semi-conservatif durant la phase S de l'interphase.
+
+4 – Les anticorps sont des immunoglobulines formées de :
+a – deux chaînes lourdes et quatre chaînes légères.
+b – deux chaînes lourdes et deux chaînes légères.
+c – quatre chaînes lourdes et deux chaînes légères.
+d – quatre chaînes lourdes et quatre chaînes légères.
+
+IV. Le document ci-dessous montre un schéma simplifié d'un sarcomère. Recopiez les chiffres (1, 2, 3, 4), et écrivez devant chacun d'eux le nom qui convient. (1 pt)
+
+[Figure — schéma simplifié d'un sarcomère : 1, 2 (filament fin), 3, 4 (filament épais).]
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 (3 points)
+
+Dans le cadre de l'étude des réactions métaboliques aérobies responsables de la libération de l'énergie potentielle du glucose nécessaire au processus de divisions cellulaires, et afin de déterminer l'effet du 2-désoxy-glucose (2-DG : petite molécule utilisée dans le traitement médical du cancer) sur ces réactions métaboliques, on propose les données suivantes :
+
+● Donnée 1 : Le document 1 présente l'ensemble des réactions métaboliques principales responsables de la synthèse de l'ATP en aérobiose au niveau cellulaire.
+
+[Figure — Document 1 : Hyaloplasme : Glucose —(Hexokinase)→ Glucose-Phosphate → … → 2 Pyruvates + 2 ATP + 2 (NADH, H+) (2 ADP + 2 Pi, 2 NAD+) ; Mitochondrie : 2 Pyruvates → 2 Acétyl-CoA + 2 CO2 → Cycle de Krebs (2 ATP, 6 (NADH, H+), 2 FADH2, 4 CO2) → Phosphorylation oxydative (synthèse d'ATP).]
+
+1. En vous basant sur le document 1, déterminez les produits de dégradation du glucose au niveau de l'hyaloplasme, puis calculez le bilan énergétique (le nombre de molécules d'ATP) de l'oxydation complète des deux molécules de pyruvate au niveau de la mitochondrie. (0,75 pt)
+
+NB : Au cours de la phosphorylation oxydative, la réoxydation de 1 (NADH, H+) libère 3 ATP et la réoxydation de 1 FADH2 libère 2 ATP.
+
+● Donnée 2 : Les divisions des cellules normales se font d'une manière régulée, par contre chez les cellules cancéreuses les divisions se font d'une façon anarchique et continue. Pour déterminer l'effet du 2-DG sur les divisions des cellules cancéreuses, on cultive dans un milieu convenable des cellules issues d'un cancer du sein, en présence et en absence du 2-DG, puis on suit le nombre de cellules en culture au cours du temps. Le document 2 présente les résultats obtenus. On mesure par la suite, la quantité d'ATP libérée par la cellule cancéreuse en présence de différentes concentrations du 2-DG, les résultats obtenus sont présentés par le document 3.
+
+Document 2 :
+
+| Jours | En absence de 2-DG (Nombre de cellules × 10⁴) | En présence de 2-DG (Nombre de cellules × 10⁴) |
+|---|---|---|
+| 0 | 5 | 5 |
+| 1 | 8,3 | 6 |
+| 2 | 13,2 | 10,5 |
+| 3 | 23,6 | 16,5 |
+
+Document 3 :
+
+| Concentration en 2-DG (mM) | Quantité d'ATP libérée (UA) |
+|---|---|
+| 0 | 100 |
+| 5 | 43 |
+| 10 | 30 |
+
+2. En vous basant sur les documents 2 et 3 :
+a. Comparez l'évolution du nombre des cellules cancéreuses en présence et en absence du 2-désoxy-glucose, puis décrivez la variation de la quantité d'ATP libérée en fonction de la concentration du 2-désoxy-glucose (2-DG). (0,5 pt)
+b. Proposez une hypothèse expliquant l'effet du 2-désoxy-glucose lors du traitement médical du cancer. (0,5 pt)
+
+● Donnée 3 : Pour déterminer le mécanisme d'action du 2-désoxy-glucose (2-DG), on mesure l'activité de l'enzyme Hexokinase, enzyme qui catalyse la réaction de transformation du glucose en glucose-Phosphate lors de la glycolyse (document 1), en présence et en absence de 2-DG. Le document 4 présente les résultats obtenus.
+
+Document 4 :
+
+|  | En absence du 2-DG | En présence du 2-DG |
+|---|---|---|
+| Activité de l'enzyme Hexokinase (UA) | 1,1 | 0,37 |
+
+3. À partir du document 4, comparez l'activité de l'enzyme Hexokinase en présence et en absence du 2-désoxy-glucose, et en vous basant sur les données précédentes expliquez l'utilisation de la molécule 2-DG dans le traitement du cancer, puis vérifiez l'hypothèse déjà proposée. (1,25 pt)
+
+### Exercice 2 (5 points)
+
+La sclérose latérale amyotrophique (SLA), connue sous le nom de « la maladie de Charcot », est une maladie neurodégénérative grave. Elle se traduit par une faiblesse musculaire, des difficultés à marcher, des troubles de la déglutition et l'atteinte des muscles respiratoires qui cause le plus souvent le décès des patients. Cette maladie est due à la mort progressive des motoneurones localisés dans les centres nerveux. Pour comprendre l'origine génétique de cette maladie et son mode de transmission, on propose les données suivantes :
+
+● Donnée 1 : Les recherches ont montré que la maladie de Charcot est associée à l'activité d'une enzyme (protéine), la superoxyde dismutase 1 (SOD1), impliquée dans la neutralisation des molécules toxiques. Le document 1 présente l'activité de la superoxyde dismutase 1 et l'accumulation des molécules toxiques dans les motoneurones d'une personne saine et d'une personne malade. Le document 2 présente l'aspect des motoneurones et des muscles chez une personne saine et chez une personne malade.
+
+Document 1 :
+
+|  | Activité de l'enzyme SOD1 (%) | Accumulation des molécules toxiques |
+|---|---|---|
+| Motoneurones d'une personne saine | 100 | + |
+| Motoneurones d'une personne malade | 20 | +++ |
+
++ Faible ; +++ Forte
+
+Document 2 :
+
+| Chez une personne saine | Chez une personne malade |
+|---|---|
+| Motoneurone en bon état | Motoneurone endommagé |
+| Muscle normal | Muscle atrophié |
+
+1. En vous basant sur les documents 1 et 2, comparez l'activité de l'enzyme SOD1 et la quantité des molécules toxiques accumulées dans les motoneurones d'une personne saine et dans les motoneurones d'une personne malade, puis montrez la relation protéine – caractère. (1 pt)
+
+● Donnée 2 : Les recherches ont montré que la synthèse de l'enzyme SOD1 est contrôlée par un gène portant le même nom SOD1. Le document 3 présente un fragment du brin non transcrit de l'allèle SOD1 normal chez un individu sain et un fragment du brin non transcrit de l'allèle SOD1 mutant chez un individu atteint de la maladie de Charcot. Le document 4 présente le tableau du code génétique.
+
+Document 3 — Numéros des triplets : 1 à 9 :
+- Fragment de l'allèle SOD1 normal (individu sain) : ACC – ATG – GAG – AAC – ATA – CGG – TCC – GTT – TCT. Sens de lecture →
+- Fragment de l'allèle SOD1 mutant (individu atteint) : ACC – ATG – GAG – AAC – ATA – CTG – TCC – GTT – TCT. Sens de lecture →
+
+Document 4 — Tableau du code génétique (standard ; extrait du PDF scanné) : UUU, UUC : Phe ; UUA, UUG : Leu ; UCU, UCC, UCA, UCG : Ser ; UAU, UAC : Tyr ; UAA, UAG, UGA : Stop ; UGU, UGC : Cys ; UGG : Trp ; CUU, CUC, CUA, CUG : Leu ; CCU, CCC, CCA, CCG : Pro ; CAU, CAC : His ; CAA, CAG : Gln ; CGU, CGC, CGA, CGG : Arg ; AUU, AUC, AUA : Ile ; AUG : Met ; ACU, ACC, ACA, ACG : Thr ; AAU, AAC : Asn ; AAA, AAG : Lys ; AGU, AGC : Ser ; AGA, AGG : Arg ; GUU, GUC, GUA, GUG : Val ; GCU, GCC, GCA, GCG : Ala ; GAU, GAC : Ac. asp ; GAA, GAG : Ac. glu ; GGU, GGC, GGA, GGG : Gly.
+
+2. En vous basant sur les documents 3 et 4, donnez les séquences d'ARNm et d'acides aminés correspondant à chacun des fragments des allèles SOD1 chez l'individu sain et chez l'individu malade, puis expliquez l'origine génétique de la maladie de Charcot. (1,5 pt)
+
+● Donnée 3 : Le document 5 présente l'arbre généalogique (pedigree) d'une famille dont certains membres sont touchés par la maladie de Charcot.
+
+[Figure — Document 5, arbre généalogique : génération I (1, 2) ; génération II (1 à 6) ; génération III (1, 2, …) ; génération IV (1 à 6, dont IV4 hétérozygote malade) ; légende : Homme sain, Femme saine, Homme malade, Femme malade. Arbre non extrait en détail ; résumé d'après le corrigé officiel (femme III4 saine issue du père II3 malade ; individu III1 sain ; individu III2 malade fils de II1 sain).]
+
+3. À partir du document 5, et sachant que l'individu IV4 est hétérozygote, montrez que l'allèle responsable de la maladie de Charcot est dominant et porté par un chromosome non sexuel (autosome). (1,25 pt)
+
+4. En vous basant sur le document 5 :
+a. Donnez en justifiant la réponse, les génotypes des deux individus III1 et III2. (0,5 pt)
+NB : Utilisez les symboles M et m pour désigner les allèles du gène étudié.
+b. Le couple III1 et III2 désire avoir un enfant, déterminez la probabilité pour que cet enfant soit sain, justifiez votre réponse en vous aidant d'un échiquier de croisement. (0,75 pt)
+
+### Exercice 3 (3 points)
+
+Dans le cadre de l'étude de la transmission de deux caractères héréditaires non liés au sexe chez les bovins : la longueur des pattes et la présence ou l'absence des cornes, on propose les résultats des deux croisements suivants :
+
+• Premier croisement : Les animaux de race Dexter se caractérisent par des pattes courtes, alors que les animaux de la race Kerry ont des pattes de longueur normale. Le croisement réalisé entre des individus de la même race « Dexter » a donné une génération composée de :
+• 2/3 d'individus de la race Dexter (animaux avec des pattes courtes) ;
+• 1/3 d'individus de la race Kerry (animaux avec des pattes normales).
+
+1. En vous basant sur ces résultats, déterminez le mode de transmission du caractère étudié, puis donnez l'interprétation chromosomique de ce croisement en établissant l'échiquier de croisement. (1 pt)
+NB : Utilisez les symboles D et d pour les allèles du gène responsable de la longueur des pattes.
+
+• Deuxième croisement : réalisé entre des individus avec cornes et d'autres sans cornes. Ce croisement a donné une génération F1 constituée d'individus sans cornes.
+
+2. En exploitant les résultats de ce 2ème croisement, déterminez le mode de transmission du caractère étudié, puis donnez le génotype des individus sans cornes obtenus dans la génération F1. (0,75 pt)
+NB : Utilisez les symboles R et r pour les allèles du gène responsable de la présence ou de l'absence des cornes.
+
+• Troisième croisement : réalisé entre les hybrides de F1 sans cornes et ayant des pattes courtes (race Dexter).
+
+3. En considérant que les deux gènes sont indépendants, et en vous aidant d'un échiquier de croisement, donnez l'interprétation chromosomique du troisième croisement en déterminant les proportions attendues des gamètes et des différents phénotypes. (1,25 pt)
+
+### Exercice 4 (4 points)
+
+Dans le cadre de l'étude de certains aspects de la réponse immunitaire spécifique, et pour comprendre l'utilisation de ces aspects par les laboratoires d'analyses médicales dans la détection d'une éventuelle infection par les bactéries chez les patients, on propose l'exploitation des données suivantes :
+
+● Donnée 1 : Au sein de l'organisme, les bactéries streptocoques libèrent une toxine appelée la streptolysine O, qui induit la lyse des globules rouges, conduisant ainsi à la libération d'hémoglobine dans le plasma. Le système immunitaire réagit contre cette toxine par la libération des anticorps spécifiques appelés antistreptolysines O (ASLO).
+
+Au sein d'un laboratoire d'analyses médicales, on prélève le sérum de deux sujets A et B auquel on ajoute des globules rouges normaux et de la streptolysine O. Le document 1 présente les résultats obtenus du test.
+
+Le document 2 montre comment la streptolysine O induit la lyse des globules rouges (figure a) et comment les anticorps antistreptolysines O (ASLO) neutralisent cette toxine (figure b).
+
+[Figure — Document 1 : Ajout de globules rouges normaux et de streptolysine O aux sérums ; incubation à 37 °C pendant 15 min puis centrifugation. Sérum du sujet A : liquide rougi par l'hémoglobine, membranes des globules rouges lysés. Sérum du sujet B : liquide incolore, globules rouges intacts.]
+[Figure — Document 2 : figure (a) : Streptolysine O + récepteur membranaire (membrane cytoplasmique du globule rouge) → lyse du globule rouge → libération de l'hémoglobine (liquide rougi). Figure (b) : Antistreptolysine O (ASLO) + Streptolysine O → globule rouge intact.]
+
+1. En vous basant sur les documents 1 et 2, expliquez les résultats du test chez le sujet A et chez le sujet B, puis déduisez lequel des sujets (A ou B) est infecté par les streptocoques. (1 pt)
+
+● Donnée 2 : Afin de comprendre le mécanisme de la production des antistreptolysines O (ASLO), une série d'expériences a été réalisée. Des lymphocytes B et des lymphocytes T issus de souris normales ont été cultivés dans un milieu convenable, puis injectés à trois lots de souris irradiées (2, 3 et 4) de même lignée. Le document 3 présente les conditions expérimentales et les résultats obtenus. Le lot 1 est un lot témoin.
+
+Document 3 :
+- Lot 1 (témoin, sans traitement) : Streptocoques → Liquide incolore, globules rouges intacts.
+- Lots de souris irradiées (destruction totale des lymphocytes) :
+  - Lot 2 : Streptocoques + Lymphocytes T → Liquide rougi par l'hémoglobine, membranes des globules rouges lysés.
+  - Lot 3 : Streptocoques + Lymphocytes B → Liquide rougi par l'hémoglobine, membranes des globules rouges lysés.
+  - Lot 4 : Streptocoques + Lymphocytes T et B → Liquide incolore, globules rouges intacts.
+• Une semaine plus tard, prélèvement du sérum de chacun des lots, puis ajout de la toxine streptolysine O.
+• Incubation des sérums à 37 °C pendant 15 min puis centrifugation.
+
+2. En vous basant sur le document 3, décrivez les résultats de ces expériences, puis déterminez les conditions nécessaires pour la production des anticorps antistreptolysines O (ASLO). (1 pt)
+
+• À la fin de cette expérience, on réalise des prélèvements réguliers du sang de la rate des souris du lot 4, et on procède à l'énumération (comptage) des lymphocytes B, des plasmocytes, et au dosage des anticorps ASLO. Le document 4 présente les résultats obtenus.
+
+[Figure — Document 4 : évolution du nombre de lymphocytes B, de plasmocytes et de la concentration des anticorps ASLO (lot 4). Courbes non extraites.]
+
+3. En vous basant sur le document 4 et les données précédentes et vos connaissances :
+a. Établissez la relation entre les variations du nombre de lymphocytes B, de plasmocytes et de la concentration des anticorps ASLO. (0,75 pt)
+b. Réalisez un schéma de synthèse montrant comment les lymphocytes T et B interviennent dans la réaction immunitaire contre les bactéries streptocoques. (1,25 pt)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question I : notions à définir reconstituées d'après le corrigé officiel.
+- Exercice 2, document 4 : tableau du code génétique normalisé (extraction du PDF scanné partielle).
+- Exercice 2, document 5 : arbre généalogique non extrait en détail ; résumé d'après le corrigé officiel.
+- Exercice 4, document 4 : courbes non extraites.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

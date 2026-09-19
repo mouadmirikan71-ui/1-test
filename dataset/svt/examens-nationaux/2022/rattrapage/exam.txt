@@ -1,0 +1,232 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2022 - Session Rattrapage - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2022-rattrapage-sujet.pdf
+Element: https://www.alloschool.com/element/138543
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2022 - الموضوع -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+RS32F
+
+Il est permis d'utiliser la calculatrice non programmable.
+
+## Première partie : Restitution des connaissances (5 pts)
+
+I. Définissez les notions suivantes : prisme d'accrétion – métamorphisme. (1 pt)
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule proposition correcte. Recopiez, sur votre feuille de rédaction, les couples (1 ; …) ; (2 ; …) ; (3 ; …) ; (4 ; …) et donnez à chaque numéro la lettre qui correspond à la proposition correcte. (2 pts)
+
+1. Le Gneiss est une roche :
+a. magmatique à schistosité.
+b. magmatique à foliation.
+c. métamorphique à schistosité.
+d. métamorphique à foliation.
+
+2. La séquence métamorphique résultant de la transformation progressive d'une roche argileuse selon un gradient croissant de température et de pression est :
+a. argile – gneiss – schiste – micaschiste.
+b. argile – schiste – gneiss – micaschiste.
+c. argile – schiste – micaschiste – gneiss. [suggestion reconstituée d'après le corrigé officiel]
+d. argile – gneiss – micaschiste – schiste.
+
+3. La faille inverse est une structure caractérisée par :
+a. un plan de faille incliné avec rapprochement des deux compartiments de la faille.
+b. un plan de faille incliné avec éloignement des deux compartiments de la faille.
+c. un plan de faille vertical avec éloignement des deux compartiments de la faille.
+d. un plan de faille vertical avec rapprochement des deux compartiments de la faille.
+
+4. Le refroidissement du magma en surface dans les zones de subduction entraîne la formation de :
+a. l'andésite à structure grenue.
+b. la péridotite à structure microlitique.
+c. l'andésite à structure microlitique.
+d. la péridotite à structure grenue.
+
+III. Reliez chaque élément de l'ensemble 1 à la définition qui lui convient dans l'ensemble 2 en recopiant le tableau ci-dessous et en le complétant avec les lettres convenables. (1 pt)
+
+| Ensemble 1 : les éléments | Ensemble 2 : les définitions |
+|---|---|
+| 1 – Ophiolite. | a – zone qui entoure le granite intrusif et résulte d'un métamorphisme de contact. |
+| 2 – Auréole métamorphique. | b – phénomène géologique qui consiste en l'émission d'une lave visqueuse au niveau des zones de subduction. |
+| 3 – Granitoïdes. | c – complexe rocheux qui présente une composition pétrographique semblable à celle de la lithosphère océanique. |
+| 4 – Volcanisme andésitique. | d – type de roches magmatiques à structure grenue. |
+|  | e – type de roche métamorphique à structure foliée. |
+
+IV. Le document ci-contre représente un schéma simplifié d'un complexe ophiolitique. Recopiez sur votre feuille de production les numéros des différentes structures et attribuez à chacune d'elles le nom qui convient. (1 pt)
+
+[Figure — schéma simplifié d'un complexe ophiolitique : structures ①, ②, ③, ④.]
+
+## Deuxième partie : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 (3 pts)
+
+Une forme de myopathie (maladie du muscle) se manifeste par une intolérance aux efforts physiques de courte durée et de forte intensité. Afin de déterminer la cause de cette maladie, on propose les données suivantes :
+
+● Donnée 1 : lors d'un effort physique, la cellule musculaire consomme directement, dès les dix premières secondes, les réserves d'ATP initiales dont elle dispose. Ces réserves sont rapidement épuisées et d'autres voies métaboliques de synthèse d'ATP prennent ensuite le relais. Le document 1 présente certaines réactions responsables de la régénération d'ATP dans la cellule musculaire et le bilan énergétique en ATP pour 1 glucose.
+
+[Figure — Document 1 : Glycogène —(a)→ Glucose —(b)→ Pyruvate —(d)→ Lactate (synthèse de 2 ATP) ; Pyruvate —(c)→ Cycle de Krebs + Chaîne respiratoire (synthèse de 34 ATP).]
+La glycogénolyse (réaction (a)) : dégradation du glycogène en glucose.
+Voie 1 (réactions b et d) : voie métabolique anaérobie de la fermentation lactique lors d'un effort de courte durée et de forte intensité (durée de 10 à 60 secondes).
+Voie 2 (réactions b et c) : voie métabolique aérobie de la respiration cellulaire lors d'un effort d'endurance (durée d'une minute à quelques heures).
+
+1 – À partir des données du document 1, proposez une hypothèse qui explique l'intolérance aux efforts physiques chez la personne atteinte de la myopathie étudiée. (0,5 pt)
+
+• Donnée 2 : Des mesures ont été réalisées chez une personne saine et chez une autre atteinte de cette myopathie :
+- La figure (1) du document 2 présente les concentrations en glycogène musculaire au repos et après un exercice physique intense.
+- La figure (2) présente le taux du lactate (acide lactique) sanguin au cours d'un effort musculaire court et intense.
+
+[Figure — Document 2 : figure (1) : glycogène musculaire (mmol/kg de muscle) : malade au repos 800, après exercice 800 ; sain au repos 450, après exercice 300 — valeurs d'après le corrigé officiel. Figure (2) : lactate sanguin (mmol/L) en fonction du temps (1 à 4 min) : malade stable à 0,5 ; sain : maximum 1 à 2 min puis légère diminution dès t = 3 min — valeurs d'après le corrigé officiel.]
+
+Remarque : Le lactate retrouvé dans le sang est d'origine musculaire.
+
+2 – En vous basant sur les données du document 2 :
+a. Comparez les concentrations en glycogène musculaire du sujet malade à celle du sujet sain, au repos et après l'exercice physique. (0,5 pt)
+b. Déduisez la voie métabolique non fonctionnelle chez la personne atteinte de la myopathie étudiée lors d'un exercice physique intense. Justifiez votre réponse. (0,75 pt)
+
+• Donnée 3 : Les cellules musculaires sont caractérisées par la présence d'une enzyme appelée Myophosphorylase qui intervient dans la transformation du glycogène en glucose (réaction (a) du document 1). Le document 3 présente des mesures de la quantité de Myophosphorylase active dans un muscle de cuisse.
+
+Document 3 :
+
+|  | Chez une personne atteinte de cette myopathie | Chez une personne saine (référence) |
+|---|---|---|
+| Myophosphorylase active en UA pour 1 g de tissu musculaire | 1 | 34 à 52 |
+
+3 – En exploitant les données du tableau (document 3), donnez le facteur responsable de l'évolution de lactate observée chez les personnes atteintes de la myopathie étudiée (document 2). (0,5 pt)
+
+4 – En vous basant sur les données précédentes (1, 2 et 3), expliquez l'origine de l'intolérance aux efforts physiques courts et intenses chez la personne atteinte de la myopathie étudiée et vérifiez l'hypothèse proposée en réponse à la question 1. (0,75 pt)
+
+### Exercice 2 (4,5 pts)
+
+Dans le cadre de l'étude de l'expression et de la transmission de l'information génétique chez l'Homme, on présente les données suivantes :
+
+• La mélanine est le pigment responsable de la couleur des cheveux. Elle est produite par les mélanocytes qui sont situées à la base du cheveu à partir de l'acide aminé « Tyrosine ». Il existe deux types de mélanine : l'eumélanine brun noirâtre et la phéomélanine, jaune orangée.
+
+Les chercheurs ont établi la relation entre la coloration des cheveux et une protéine membranaire MCR1 (un récepteur) des mélanocytes. Ce récepteur est activé par une hormone appelée MSH.
+
+Le document 1 présente la relation entre l'état de cette protéine (MCR1) et la coloration des cheveux.
+
+[Figure — Document 1 : Mélanocyte d'un sujet à cheveux bruns : protéine MCR1 normale, affinité MSH–MCR1, activation ; Tyrosine → Dopa → Dopaquinone → Eumélanine. Mélanocyte d'un sujet à cheveux roux : protéine MCR1 anormale, pas d'affinité MSH–MCR1, absence d'activation ; Tyrosine → Dopa → Dopaquinone → Phéomélanine.]
+
+1. En exploitant les données du document 1, montrez la relation : caractère « couleur rousse » des cheveux – protéine. (1 pt)
+
+• La synthèse de la protéine MCR1 est contrôlée par un gène qui porte le même nom (MCR1). Le document 2 présente deux fragments des brins transcrits de deux allèles MCR1 : l'un sauvage responsable de la couleur brune des cheveux et l'autre muté responsable de la couleur rousse. Le document 3 présente un extrait du code génétique.
+
+Document 2 — Numéros des triplets : 1 à 7 :
+- Fragment de l'allèle sauvage : … AGC – ATA – GCT – TAA – GGT – ACA – TCG …
+- Fragment de l'allèle muté : … AGC – ATA – GCT – TGA – GGT – ACA – TCG …
+
+Document 3 :
+
+| Codons | CGA, CGG | UGU, UGC | AGC, UCG | CCA, CCG | UAU, UAC | AUU, AUC | ACU, ACA |
+|---|---|---|---|---|---|---|---|
+| Acides aminés | Arg | Cys | Sér | Pro | Tyr | Ile | Thr |
+
+2. En vous basant sur les documents 2 et 3, donnez les séquences d'ARNm et des acides aminés correspondant à chacun des fragments de l'allèle MCR1 sauvage et muté, puis expliquez l'origine génétique de la différence de la coloration des cheveux. (1,5 pt)
+
+• L'albinisme est une maladie héréditaire qui se caractérise par une absence de pigmentation de la peau, des yeux, des poils et des cheveux en raison de l'absence du pigment de la mélanine. Le document 4 présente l'arbre généalogique d'une famille dont certains membres sont atteints d'albinisme.
+
+[Figure — Document 4, arbre généalogique : génération I (1, 2) ; génération II (1 à 8) ; génération III (dont III6 albinos) ; légende : homme sain, femme saine, homme albinos, femme albinos. Arbre non extrait en détail.]
+
+3. En vous basant sur les données du document 4 :
+a. Déterminez le mode de transmission de l'albinisme. Justifiez votre réponse. (1 pt)
+b. Déterminez la probabilité pour que le couple (II5, II6) donne naissance à un autre enfant albinos. Justifiez votre réponse en utilisant l'échiquier de croisement. (1 pt)
+(Utilisez les symboles A et a pour désigner les allèles du gène étudié.)
+
+### Exercice 3 (4,5 pts)
+
+Pour étudier la transmission de deux caractères : la couleur et l'aspect de la coloration des poils chez les souris, on propose les deux croisements suivants :
+
+• Croisement 1 : entre des souris à poils gris et uniforme et des souris à poils blancs et panachés. Ce croisement a donné une première génération F1 composée d'individus à poils gris et uniformes.
+
+1. Que déduisez-vous des résultats de ce croisement ? (0,75 pt)
+
+• Croisement 2 : entre des individus de F1 et des souris à poils blancs et panachés. Ce croisement a donné :
+- 69 souris à poils gris et uniformes.
+- 70 souris à poils blancs et uniformes.
+- 71 souris à poils blancs et panachés.
+- 72 souris à poils gris et panachés.
+
+2. Déduisez si les deux gènes étudiés sont liés ou indépendants ? Justifiez votre réponse. (0,5 pt)
+
+3. Interprétez les résultats du croisement 2 en utilisant un échiquier de croisement. (1,25 pt)
+Utilisez les symboles G et g pour désigner les allèles du gène de la couleur des poils, et les symboles H et h pour désigner les allèles du gène de l'aspect de la coloration des poils.
+
+• En avril 1962, dans un grenier (local utilisé pour le stockage des grains) aux États-Unis, des souris mutantes, au pelage jaune pâle, furent découvertes parmi une population de souris communes au pelage brun. Un scientifique s'intéressa à ce cas, et après avoir fermé le grenier sombre de façon à interdire l'accès aux chats de la ferme, il étudia l'évolution des deux phénotypes (jaune pâle et brun) parmi les souris.
+- En décembre 1962, il réalisa une estimation des proportions des 2 types de souris en les capturant à l'aide de pièges placés dans le grenier (le nombre de souris capturées constitue un échantillon représentatif de la population totale).
+- En début janvier 1963, il pratiqua une ouverture dans l'un des murs du grenier afin que les chats puissent entrer.
+- En avril 1963, il réalisa de nouveau une capture des souris survivantes. L'ensemble des données figure dans le tableau suivant.
+
+| Date de capture des souris | Nombre total de souris capturées | Nombre de souris de phénotype « jaune pâle » |
+|---|---|---|
+| Décembre 1962 | 58 | 27 |
+| Avril 1963 | 22 | 0 |
+
+4. Comparez les résultats de cette expérience, que pouvez-vous en déduire ? (0,75 pt)
+
+5. En vous basant sur les données de ce tableau, expliquez l'évolution des effectifs des deux phénotypes et déduisez le facteur responsable de cette variation. (1,25 pt)
+
+### Exercice 4 (3 pts)
+
+Le syndrome de Di George est un déficit immunitaire, provoqué par un développement anormal du thymus. Ce déficit immunitaire est caractérisé par la survenue d'infections récurrentes et sévères, bactériennes et virales. Des analyses réalisées chez certains patients souffrant de ce déficit montrent une absence complète de lymphocytes T circulants, un taux normal de lymphocytes B et une concentration faible en anticorps sériques. Afin d'expliquer la faible quantité d'anticorps malgré la présence des lymphocytes B et la survenue des infections chez les personnes atteintes de ce déficit, on présente les données suivantes :
+
+● Donnée 1 : Des lymphocytes B et T, prélevés chez des souris normales, sont placés dans un milieu de culture puis injectés à 3 lots de souris selon les conditions expérimentales présentées dans le document 1 qui présente aussi les résultats obtenus. Le lot 4 est un lot témoin.
+
+Document 1 :
+
+|  | Lot 1 | Lot 2 | Lot 3 | Lot 4 |
+|---|---|---|---|---|
+| Traitement | Irradiation (destruction de tous les lymphocytes) | Irradiation (destruction de tous les lymphocytes) | Irradiation (destruction de tous les lymphocytes) | Aucun traitement |
+| Injection | Lymphocytes B | Lymphocytes T | Lymphocytes T et B | Pas d'injection |
+| Antigène | Injection de GRM | Injection de GRM | Injection de GRM | Injection de GRM |
+| Résultat (1 goutte de sérum + GRM, une semaine plus tard) | Pas d'agglutination | Pas d'agglutination | Agglutination des GRM | Agglutination des GRM |
+
+NB : Dans cette expérience, les GRM (globules rouges de mouton) jouent le rôle d'un antigène. L'agglutination indique le déroulement d'une réponse immunitaire.
+
+1.
+a. À partir des données du document 1, montrez que la réponse immunitaire nécessite une coopération cellulaire. (0,5 pt)
+b. Déduisez la nature de la réponse immunitaire mise en évidence. Justifiez votre réponse. (0,5 pt)
+
+● Donnée 2 : à partir d'un prélèvement sanguin réalisé chez un individu sain, on prépare par centrifugation un mélange enrichi en lymphocytes T. Ces cellules sont mises en culture en présence d'une substance, la PHA, qui joue le rôle d'antigène. Le sérum surnageant (sérum S) de cette culture est prélevé puis introduit dans des milieux de cultures de lymphocytes T ou B préalablement activées et qui ne se divisaient pas avant l'introduction du sérum S. Le document 2 présente les conditions expérimentales et les résultats obtenus.
+
+Document 2 :
+
+|  | Milieu 1 | Milieu 2 | Milieu 3 | Milieu 4 |
+|---|---|---|---|---|
+| Ajout de sérum S | Non | Oui | Oui | Non |
+| Culture de : | Lymphocytes T | Lymphocytes T | Lymphocytes B | Lymphocytes B |
+| Résultat | Pas de prolifération | Prolifération cellulaire | Prolifération cellulaire | Pas de prolifération |
+
+Remarque : le surnageant contient des substances appelées interleukines.
+
+2. À partir des données du document 2, montrez comment se déroule la coopération cellulaire au cours de la réponse immunitaire. Justifiez votre réponse. (0,5 pt)
+
+● Donnée 3 : Pour étudier le rôle des interleukines (substances secrétées par les lymphocytes T matures) dans la différenciation des lymphocytes B en plasmocytes, on met dans des milieux de culture des lymphocytes B avec des concentrations croissantes d'interleukines. Les lymphocytes B sont préalablement activés par contact avec un antigène. Le graphique du document 3 présente les résultats obtenus.
+
+Document 3 :
+
+| Concentration en interleukines (U.I.L⁻¹) | Nombre de plasmocytes pour 10⁴ lymphocytes B initiaux |
+|---|---|
+| 0 | 60 |
+| 10 | 50 |
+| 10² | 110 |
+| 10³ | 750 |
+| 10⁴ | 1020 |
+
+3.
+a. En vous basant sur le graphique du document 3, montrez la relation entre la concentration des interleukines et la différenciation des lymphocytes B. (0,5 pt)
+b. Sachant que les plasmocytes sont les cellules responsables de la production des anticorps, expliquez la survenue des infections virales et bactériennes, chez les personnes atteintes par le syndrome de Di George. (1 pt)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question II-2 : suggestion (c) reconstituée d'après le corrigé officiel.
+- Exercice 1, document 2 : valeurs des figures (1) et (2) d'après le corrigé officiel.
+- Exercice 2, document 4 : arbre généalogique non extrait en détail ; résumé d'après le corrigé officiel (fille III6 albinos, parents II5 et II6 sains).
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

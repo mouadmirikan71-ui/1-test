@@ -1,0 +1,1413 @@
+{
+  "dataset": "Examens Nationaux SVT — 2BAC SVT (BIOF), Maroc",
+  "matiere": "Sciences de la Vie et de la Terre",
+  "filiere": "Sciences de la Vie et de la Terre (2BAC SVT — BIOF)",
+  "langue": "fr",
+  "sessions": [
+    {
+      "year": "2016",
+      "session": "normal",
+      "session_ar": "الدورة العادية",
+      "status": "complete",
+      "reference_exam": "NS32F",
+      "reference_corrige": "NR32F",
+      "files": {
+        "exam_txt": "2016/normal/exam.txt",
+        "correction_txt": "2016/normal/correction.txt",
+        "exam_pdf": "2016/normal/exam.pdf",
+        "correction_pdf": "2016/normal/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2016-normale-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/65653",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2016-normale-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/106216"
+      },
+      "pages": {
+        "exam_pdf": 7,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 3,
+          "label": "Contraction musculaire, rôle de Ca2+",
+          "tags": [
+            "muscle",
+            "contraction",
+            "Ca2+"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 4,
+          "label": "Rétinite pigmentaire / rhodopsine",
+          "tags": [
+            "génétique humaine",
+            "rétinite pigmentaire",
+            "rhodopsine",
+            "expression"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 5,
+          "label": "Drosophile : transmission et diversité",
+          "tags": [
+            "drosophile",
+            "transmission",
+            "diversité génétique"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Réponse immunitaire contre la grippe",
+          "tags": [
+            "immunité",
+            "grippe",
+            "virus"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "session": "rattrapage",
+      "session_ar": "الدورة الاستدراكية",
+      "status": "complete",
+      "reference_exam": "RS32F",
+      "reference_corrige": "RR32F",
+      "files": {
+        "exam_txt": "2016/rattrapage/exam.txt",
+        "correction_txt": "2016/rattrapage/correction.txt",
+        "exam_pdf": "2016/rattrapage/exam.pdf",
+        "correction_pdf": "2016/rattrapage/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2016-rattrapage-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/65654",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2016-rattrapage-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/65655"
+      },
+      "pages": {
+        "exam_pdf": 7,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 5,
+          "label": "Hémochromatose / hépcidine",
+          "tags": [
+            "hémochromatose",
+            "hepcidine",
+            "fer",
+            "protéine"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 4,
+          "label": "Moustiques : transmission, structure de population",
+          "tags": [
+            "moustiques",
+            "transmission",
+            "population"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3,
+          "label": "Immunité anti-bactérienne (toxines)",
+          "tags": [
+            "immunité",
+            "bactéries",
+            "toxines"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Chaîne alpine : collision",
+          "tags": [
+            "géologie",
+            "Alpes",
+            "collision"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "session": "normal",
+      "session_ar": "الدورة العادية",
+      "status": "complete",
+      "reference_exam": "NS32F",
+      "reference_corrige": "NR32F",
+      "files": {
+        "exam_txt": "2017/normal/exam.txt",
+        "correction_txt": "2017/normal/correction.txt",
+        "exam_pdf": "2017/normal/exam.pdf",
+        "correction_pdf": "2017/normal/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2017-normale-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/65641",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2017-normale-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/65642"
+      },
+      "pages": {
+        "exam_pdf": 6,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 3,
+          "label": "Voies métaboliques de l'ATP, lactate",
+          "tags": [
+            "métabolisme",
+            "ATP",
+            "lactate",
+            "aérobie",
+            "anaérobie"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 6,
+          "label": "Mucoviscidose",
+          "tags": [
+            "génétique humaine",
+            "mucoviscidose"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3,
+          "label": "Moustiques : yeux et corps",
+          "tags": [
+            "moustiques",
+            "transmission",
+            "couleur yeux",
+            "couleur corps"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Subduction : origine du magma",
+          "tags": [
+            "géologie",
+            "subduction",
+            "magma",
+            "andésite"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "session": "rattrapage",
+      "session_ar": "الدورة الاستدراكية",
+      "status": "complete",
+      "reference_exam": "RS32F",
+      "reference_corrige": "RR32F",
+      "files": {
+        "exam_txt": "2017/rattrapage/exam.txt",
+        "correction_txt": "2017/rattrapage/correction.txt",
+        "exam_pdf": "2017/rattrapage/exam.pdf",
+        "correction_pdf": "2017/rattrapage/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2017-rattrapage-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/65643",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2017-rattrapage-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/65644"
+      },
+      "pages": {
+        "exam_pdf": 7,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 4,
+          "label": "Gènes, caractères, expression",
+          "tags": [
+            "expression génétique",
+            "gène-caractère"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 5,
+          "label": "Pois : transmission, structure génique",
+          "tags": [
+            "pois",
+            "transmission",
+            "Hardy-Weinberg"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3,
+          "label": "Immunité acquise",
+          "tags": [
+            "immunité acquise"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Plaques et chaînes de montagnes",
+          "tags": [
+            "géologie",
+            "plaques",
+            "chaînes de montagnes"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "session": "normal",
+      "session_ar": "الدورة العادية",
+      "status": "complete",
+      "reference_exam": "NS32F",
+      "reference_corrige": "NR32F",
+      "files": {
+        "exam_txt": "2018/normal/exam.txt",
+        "correction_txt": "2018/normal/correction.txt",
+        "exam_pdf": "2018/normal/exam.pdf",
+        "correction_pdf": "2018/normal/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2018-normale-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/65627",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2018-normale-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/106217"
+      },
+      "pages": {
+        "exam_pdf": 7,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 6,
+          "label": "Polykystose rénale",
+          "tags": [
+            "génétique humaine",
+            "polykystose rénale"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 3,
+          "label": "Drosophile : croisements",
+          "tags": [
+            "drosophile",
+            "transmission"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3,
+          "label": "Vaccination : mécanismes immunitaires",
+          "tags": [
+            "immunité",
+            "vaccination"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Métamorphisme et chaîne de montagnes",
+          "tags": [
+            "géologie",
+            "métamorphisme",
+            "chaîne de montagnes"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "session": "rattrapage",
+      "session_ar": "الدورة الاستدراكية",
+      "status": "complete",
+      "reference_exam": "RS32F",
+      "reference_corrige": "RR32F",
+      "files": {
+        "exam_txt": "2018/rattrapage/exam.txt",
+        "correction_txt": "2018/rattrapage/correction.txt",
+        "exam_pdf": "2018/rattrapage/exam.pdf",
+        "correction_pdf": "2018/rattrapage/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2018-rattrapage-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/65628",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2018-rattrapage-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/68269"
+      },
+      "pages": {
+        "exam_pdf": 7,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 3,
+          "label": "Respiration, antimycine A",
+          "tags": [
+            "respiration",
+            "mitochondrie",
+            "antimycine A"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 5,
+          "label": "Transmission et expression de l'information génétique",
+          "tags": [
+            "transmission",
+            "expression génétique"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 4,
+          "label": "Escargot Cepaea : diploïdes, variation",
+          "tags": [
+            "escargot",
+            "Cepaea",
+            "transmission",
+            "population"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Lymphocytes T4",
+          "tags": [
+            "immunité",
+            "LT4"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "session": "normal",
+      "session_ar": "الدورة العادية",
+      "status": "complete",
+      "reference_exam": "NS32F",
+      "reference_corrige": "NR32F",
+      "files": {
+        "exam_txt": "2019/normal/exam.txt",
+        "correction_txt": "2019/normal/correction.txt",
+        "exam_pdf": "2019/normal/exam.pdf",
+        "correction_pdf": "2019/normal/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2019-normale-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/94796",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2019-normale-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/94795"
+      },
+      "pages": {
+        "exam_pdf": 7,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 3.25,
+          "label": "Sprint : ATP et métabolisme",
+          "tags": [
+            "muscle",
+            "sprint",
+            "ATP",
+            "métabolisme"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 4.75,
+          "label": "Neurofibromatose de type 1",
+          "tags": [
+            "génétique humaine",
+            "neurofibromatose"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3.25,
+          "label": "Phlox : couleurs et formes",
+          "tags": [
+            "phlox",
+            "transmission",
+            "couleur",
+            "forme"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3.75,
+          "label": "VIH / SIDA",
+          "tags": [
+            "immunité",
+            "VIH",
+            "SIDA"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "session": "rattrapage",
+      "session_ar": "الدورة الاستدراكية",
+      "status": "complete",
+      "reference_exam": "RS32F",
+      "reference_corrige": "RR32F",
+      "files": {
+        "exam_txt": "2019/rattrapage/exam.txt",
+        "correction_txt": "2019/rattrapage/correction.txt",
+        "exam_pdf": "2019/rattrapage/exam.pdf",
+        "correction_pdf": "2019/rattrapage/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2019-rattrapage-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/94793",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2019-rattrapage-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/94794"
+      },
+      "pages": {
+        "exam_pdf": 7,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 4.5,
+          "label": "BPOC / α-antitrypsine",
+          "tags": [
+            "BPOC",
+            "alpha-antitrypsine",
+            "protéine"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 4,
+          "label": "Poissons : yeux, nageoire caudale",
+          "tags": [
+            "poissons",
+            "transmission",
+            "yeux",
+            "nageoire"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3.5,
+          "label": "Réponse immunitaire contre la grippe",
+          "tags": [
+            "immunité",
+            "grippe",
+            "virus"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Formation des chaînes de montagnes",
+          "tags": [
+            "géologie",
+            "chaînes de montagnes"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "session": "normal",
+      "session_ar": "الدورة العادية",
+      "status": "complete",
+      "reference_exam": "NS32F",
+      "reference_corrige": "NR32F",
+      "files": {
+        "exam_txt": "2020/normal/exam.txt",
+        "correction_txt": "2020/normal/correction.txt",
+        "exam_pdf": "2020/normal/exam.pdf",
+        "correction_pdf": "2020/normal/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2020-normale-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/109869",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2020-normale-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/109871"
+      },
+      "pages": {
+        "exam_pdf": 5,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 5,
+          "label": "Muscle : énergie chimique → mécanique",
+          "tags": [
+            "muscle",
+            "contraction",
+            "énergie"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 6.5,
+          "label": "Maladie de Rendu-Osler-Weber",
+          "tags": [
+            "génétique humaine",
+            "Rendu-Osler-Weber"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3.5,
+          "label": "Ovins : oreilles, museau",
+          "tags": [
+            "ovins",
+            "transmission",
+            "oreilles",
+            "museau"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "session": "rattrapage",
+      "session_ar": "الدورة الاستدراكية",
+      "status": "complete",
+      "reference_exam": "RS32F",
+      "reference_corrige": "RR32F",
+      "files": {
+        "exam_txt": "2020/rattrapage/exam.txt",
+        "correction_txt": "2020/rattrapage/correction.txt",
+        "exam_pdf": "2020/rattrapage/exam.pdf",
+        "correction_pdf": "2020/rattrapage/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2020-rattrapage-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/109872",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2020-rattrapage-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/109873"
+      },
+      "pages": {
+        "exam_pdf": 5,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 5,
+          "label": "Glycogénose type 0, effort musculaire",
+          "tags": [
+            "métabolisme",
+            "glycogénose",
+            "GSD-0",
+            "effort"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 6.5,
+          "label": "Maladie de Kennedy",
+          "tags": [
+            "génétique humaine",
+            "Kennedy",
+            "lié au sexe"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3.5,
+          "label": "Tomate : croisements",
+          "tags": [
+            "tomate",
+            "transmission"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "session": "normal",
+      "session_ar": "الدورة العادية",
+      "status": "complete",
+      "reference_exam": "NS32F",
+      "reference_corrige": "NR32F",
+      "files": {
+        "exam_txt": "2021/normal/exam.txt",
+        "correction_txt": "2021/normal/correction.txt",
+        "exam_pdf": "2021/normal/exam.pdf",
+        "correction_pdf": "2021/normal/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2021-normale-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/127309",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2021-normale-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/138538"
+      },
+      "pages": {
+        "exam_pdf": 5,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 5.5,
+          "label": "Acide cyanhydrique, asphyxie",
+          "tags": [
+            "métabolisme",
+            "cyanure",
+            "HCN",
+            "respiration"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 6.5,
+          "label": "Maladie de Tay-Sachs",
+          "tags": [
+            "génétique humaine",
+            "Tay-Sachs"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3,
+          "label": "Cocker : couleur et aspect du pelage",
+          "tags": [
+            "chien",
+            "cocker",
+            "transmission",
+            "pelage"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "session": "rattrapage",
+      "session_ar": "الدورة الاستدراكية",
+      "status": "complete",
+      "reference_exam": "RS32F",
+      "reference_corrige": "RR32F",
+      "files": {
+        "exam_txt": "2021/rattrapage/exam.txt",
+        "correction_txt": "2021/rattrapage/correction.txt",
+        "exam_pdf": "2021/rattrapage/exam.pdf",
+        "correction_pdf": "2021/rattrapage/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2021-rattrapage-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/138539",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2021-rattrapage-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/138540"
+      },
+      "pages": {
+        "exam_pdf": 5,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 5,
+          "label": "Maladie de McArdle",
+          "tags": [
+            "McArdle",
+            "métabolisme",
+            "muscle",
+            "lactate"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 6.5,
+          "label": "Glycogénose type V / PYGM",
+          "tags": [
+            "génétique humaine",
+            "PYGM",
+            "glycogénose V",
+            "Hardy-Weinberg"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3.5,
+          "label": "Maïs : gènes liés (20 cM)",
+          "tags": [
+            "maïs",
+            "liaison",
+            "20 cM"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "session": "normal",
+      "session_ar": "الدورة العادية",
+      "status": "complete",
+      "reference_exam": "NS32F",
+      "reference_corrige": "NR32F",
+      "files": {
+        "exam_txt": "2022/normal/exam.txt",
+        "correction_txt": "2022/normal/correction.txt",
+        "exam_pdf": "2022/normal/exam.pdf",
+        "correction_pdf": "2022/normal/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2022-normale-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/138541",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2022-normale-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/138542"
+      },
+      "pages": {
+        "exam_pdf": 7,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 4.5,
+          "label": "Maladie de Blackfan",
+          "tags": [
+            "génétique humaine",
+            "Blackfan"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 4.5,
+          "label": "Drosophile vg/b liés, sélection",
+          "tags": [
+            "drosophile",
+            "liaison",
+            "19 cM",
+            "sélection naturelle"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3,
+          "label": "Immunités humorale et cellulaire",
+          "tags": [
+            "immunité",
+            "humorale",
+            "cellulaire",
+            "hémagglutinine"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Subduction : fosse, prisme, volcanisme",
+          "tags": [
+            "géologie",
+            "subduction",
+            "fosse",
+            "prisme"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "session": "rattrapage",
+      "session_ar": "الدورة الاستدراكية",
+      "status": "complete",
+      "reference_exam": "RS32F",
+      "reference_corrige": "RR32F",
+      "files": {
+        "exam_txt": "2022/rattrapage/exam.txt",
+        "correction_txt": "2022/rattrapage/correction.txt",
+        "exam_pdf": "2022/rattrapage/exam.pdf",
+        "correction_pdf": "2022/rattrapage/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2022-rattrapage-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/138543",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2022-rattrapage-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/138544"
+      },
+      "pages": {
+        "exam_pdf": 7,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 3,
+          "label": "Myopathie : glycogène, lactate",
+          "tags": [
+            "myopathie",
+            "glycogène",
+            "myophosphorylase",
+            "fermentation"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 4.5,
+          "label": "MCR1 / albinisme",
+          "tags": [
+            "génétique humaine",
+            "MCR1",
+            "albinisme"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 4.5,
+          "label": "Souris : indépendance, sélection",
+          "tags": [
+            "souris",
+            "transmission",
+            "indépendance",
+            "sélection naturelle"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "DiGeorge : coopération LB+LT",
+          "tags": [
+            "immunité",
+            "DiGeorge",
+            "thymus",
+            "coopération"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "session": "normal",
+      "session_ar": "الدورة العادية",
+      "status": "complete",
+      "reference_exam": "NS32F",
+      "reference_corrige": "NR32F",
+      "files": {
+        "exam_txt": "2023/normal/exam.txt",
+        "correction_txt": "2023/normal/correction.txt",
+        "exam_pdf": "2023/normal/exam.pdf",
+        "correction_pdf": "2023/normal/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2023-normale-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/142315",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2023-normale-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/142316"
+      },
+      "pages": {
+        "exam_pdf": 6,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 3,
+          "label": "NARP : chaîne respiratoire, O2",
+          "tags": [
+            "NARP",
+            "ATP-synthase",
+            "mitochondrie",
+            "O2"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 5,
+          "label": "Fabry / α-GAL, lié X",
+          "tags": [
+            "génétique humaine",
+            "Fabry",
+            "alpha-GAL",
+            "lié X",
+            "Hardy-Weinberg"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 4,
+          "label": "Maïs R/A liés (10 cM)",
+          "tags": [
+            "maïs",
+            "liaison",
+            "10 cM"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Zagros : collision, HP-BT",
+          "tags": [
+            "géologie",
+            "Zagros",
+            "collision",
+            "métamorphisme"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "session": "rattrapage",
+      "session_ar": "الدورة الاستدراكية",
+      "status": "complete",
+      "reference_exam": "RS32F",
+      "reference_corrige": "RR32F",
+      "files": {
+        "exam_txt": "2023/rattrapage/exam.txt",
+        "correction_txt": "2023/rattrapage/correction.txt",
+        "exam_pdf": "2023/rattrapage/exam.pdf",
+        "correction_pdf": "2023/rattrapage/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2023-rattrapage-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/142317",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2023-rattrapage-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/142318"
+      },
+      "pages": {
+        "exam_pdf": 6,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 3,
+          "label": "Fibres musculaires, effort",
+          "tags": [
+            "muscle",
+            "fibres",
+            "aérobie",
+            "anaérobie"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 5.75,
+          "label": "Bruton, lié X",
+          "tags": [
+            "génétique humaine",
+            "Bruton",
+            "lié X",
+            "Hardy-Weinberg"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3.25,
+          "label": "Lapins : codominance G/B, létal L",
+          "tags": [
+            "lapins",
+            "codominance",
+            "létal"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Coopération immunitaire (Nossal)",
+          "tags": [
+            "immunité",
+            "coopération",
+            "Nossal",
+            "interleukines"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "session": "normal",
+      "session_ar": "الدورة العادية",
+      "status": "complete",
+      "reference_exam": "NS32F",
+      "reference_corrige": "NR32F",
+      "files": {
+        "exam_txt": "2024/normal/exam.txt",
+        "correction_txt": "2024/normal/correction.txt",
+        "exam_pdf": "2024/normal/exam.pdf",
+        "correction_pdf": "2024/normal/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2024-normale-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/145877",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2024-normale-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/145878"
+      },
+      "pages": {
+        "exam_pdf": 6,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 3,
+          "label": "2-désoxy-glucose et cancer",
+          "tags": [
+            "2-DG",
+            "cancer",
+            "glycolyse",
+            "hexokinase",
+            "ATP"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 5,
+          "label": "Charcot / SOD1, dominant",
+          "tags": [
+            "génétique humaine",
+            "Charcot",
+            "SOD1",
+            "dominant"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3,
+          "label": "Bovins Dexter : létal D, cornes",
+          "tags": [
+            "bovins",
+            "Dexter",
+            "létal",
+            "cornes"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 4,
+          "label": "ASLO / streptocoques",
+          "tags": [
+            "immunité",
+            "ASLO",
+            "streptocoques",
+            "coopération"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "session": "rattrapage",
+      "session_ar": "الدورة الاستدراكية",
+      "status": "complete",
+      "reference_exam": "RS32F",
+      "reference_corrige": "RR32F",
+      "files": {
+        "exam_txt": "2024/rattrapage/exam.txt",
+        "correction_txt": "2024/rattrapage/correction.txt",
+        "exam_pdf": "2024/rattrapage/exam.pdf",
+        "correction_pdf": "2024/rattrapage/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2024-rattrapage-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/145879",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2024-rattrapage-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/145880"
+      },
+      "pages": {
+        "exam_pdf": 6,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 3,
+          "label": "Myopathie RyR1 / Ca2+",
+          "tags": [
+            "myopathie",
+            "RyR1",
+            "Ca2+",
+            "contraction"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 5,
+          "label": "Miyoshi / dysferline (DYSF)",
+          "tags": [
+            "génétique humaine",
+            "Miyoshi",
+            "dysferline",
+            "DYSF"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3,
+          "label": "Souris : linkage absolu → relatif",
+          "tags": [
+            "souris",
+            "linkage absolu",
+            "linkage relatif",
+            "test-cross"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 4,
+          "label": "THC et immunité anti-tumorale",
+          "tags": [
+            "immunité",
+            "THC",
+            "tumeur",
+            "IFN-gamma",
+            "cellulaire"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "session": "normal",
+      "session_ar": "الدورة العادية",
+      "status": "complete",
+      "reference_exam": "NS32F",
+      "reference_corrige": "NR32F",
+      "files": {
+        "exam_txt": "2025/normal/exam.txt",
+        "correction_txt": "2025/normal/correction.txt",
+        "exam_pdf": "2025/normal/exam.pdf",
+        "correction_pdf": "2025/normal/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2025-normale-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/145636",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2025-normale-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/145881"
+      },
+      "pages": {
+        "exam_pdf": 6,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 3,
+          "label": "Sarcopénie / apéline",
+          "tags": [
+            "sarcopénie",
+            "apéline",
+            "mitochondrie",
+            "myosine"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 6,
+          "label": "Walker-Warburg / DAG1",
+          "tags": [
+            "génétique humaine",
+            "Walker-Warburg",
+            "DAG1",
+            "dystroglycane",
+            "Hardy-Weinberg"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3,
+          "label": "Poulets : crête R/r, couleur A/a létal",
+          "tags": [
+            "poulets",
+            "crête",
+            "létal"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Listeria : immunité cellulaire",
+          "tags": [
+            "immunité",
+            "Listeria",
+            "cellulaire",
+            "macrophages"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "session": "rattrapage",
+      "session_ar": "الدورة الاستدراكية",
+      "status": "complete",
+      "reference_exam": "RS32F",
+      "reference_corrige": "RR32F",
+      "files": {
+        "exam_txt": "2025/rattrapage/exam.txt",
+        "correction_txt": "2025/rattrapage/correction.txt",
+        "exam_pdf": "2025/rattrapage/exam.pdf",
+        "correction_pdf": "2025/rattrapage/correction.pdf"
+      },
+      "sources": {
+        "exam": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2025-rattrapage-sujet.pdf",
+        "exam_element": "https://www.alloschool.com/element/145882",
+        "correction": "https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2025-rattrapage-corrige.pdf",
+        "correction_element": "https://www.alloschool.com/element/145883"
+      },
+      "pages": {
+        "exam_pdf": 6,
+        "correction_pdf": 4
+      },
+      "coef": 7,
+      "duree": "3h",
+      "partie1_points": 5,
+      "partie2_points": 15,
+      "exercises": [
+        {
+          "n": 1,
+          "points": 3,
+          "label": "Huxley : théorie du glissement",
+          "tags": [
+            "muscle",
+            "Huxley",
+            "glissement",
+            "actomyosine",
+            "ATP"
+          ]
+        },
+        {
+          "n": 2,
+          "points": 6,
+          "label": "Pompe / α-GA",
+          "tags": [
+            "génétique humaine",
+            "Pompe",
+            "alpha-GA",
+            "Hardy-Weinberg"
+          ]
+        },
+        {
+          "n": 3,
+          "points": 3,
+          "label": "Tomate : linkage relatif",
+          "tags": [
+            "tomate",
+            "linkage relatif",
+            "crossing-over",
+            "test-cross"
+          ]
+        },
+        {
+          "n": 4,
+          "points": 3,
+          "label": "Indo-Myanmar : subduction, collision",
+          "tags": [
+            "géologie",
+            "subduction",
+            "Indo-Myanmar",
+            "ophiolite",
+            "collision"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "session": "normal",
+      "status": "missing"
+    },
+    {
+      "year": "2026",
+      "session": "rattrapage",
+      "status": "missing"
+    }
+  ],
+  "notes": "Corrigés = transcriptions des éléments de réponse officiels (CNE) via AlloSchool. 2026 : non publié par AlloSchool au 2026-09-19 (voir README)."
+}

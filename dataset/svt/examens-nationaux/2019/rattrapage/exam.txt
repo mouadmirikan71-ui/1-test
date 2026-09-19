@@ -1,0 +1,259 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2019 - Session Rattrapage - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2019-rattrapage-sujet.pdf
+Element: https://www.alloschool.com/element/94793
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2019 - الموضوع -
+المادة: علوم الحياة والأرض
+الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+RS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I. Pour chacune des propositions numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …), et donnez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1. Lors de la glycolyse on a production de :
+a. l'acide pyruvique, le CO2 et l'ATP ;
+b. l'acide pyruvique, l'ATP et le NADH,H+ ;
+c. l'acide lactique, le CO2 et l'ATP ;
+d. l'acide lactique, l'ATP et le NADH,H+.
+
+2. La bande claire du sarcomère est :
+a. caractérisée par la présence des filaments d'actine ;
+b. caractérisée par la présence des filaments d'actine et des filaments de myosine ;
+c. délimitée par deux bandes H ;
+d. délimitée par deux stries Z.
+
+3. Au niveau de la membrane interne mitochondriale se produit : [début de l'énoncé reconstitué]
+a. l'oxydation de NADH,H+ et la synthèse d'ATP ;
+b. l'oxydation de NADH,H+ et l'hydrolyse d'ATP ;
+c. la réduction de NADH,H+ et la synthèse d'ATP ;
+d. la réduction de NADH,H+ et l'hydrolyse d'ATP.
+
+4. La fatigue musculaire est caractérisée par :
+a. la diminution de l'amplitude et de la durée de la secousse musculaire ;
+b. l'augmentation de l'amplitude de la secousse musculaire et la diminution de sa durée ;
+c. la diminution de l'amplitude de la secousse musculaire et l'augmentation de sa durée ;
+d. l'augmentation de l'amplitude et de la durée de la secousse musculaire.
+
+II. Donnez :
+1. Deux caractéristiques structurales de la membrane interne mitochondriale. (0,5 pt)
+2. Deux caractéristiques de la fermentation. (0,5 pt)
+
+III. Recopiez, sur votre feuille de rédaction, la lettre qui correspond à chaque proposition, et écrivez devant chacune d'elles « vrai » ou « faux » : (1 pt)
+
+a. Le cycle de Krebs produit trois molécules de NADH,H+ à partir d'une molécule d'acide pyruvique.
+b. Le bilan global de la glycolyse est de quatre molécules d'ATP.
+c. La fermentation lactique produit de l'acide lactique et du dioxyde de carbone.
+d. La longueur des myofilaments reste constante au cours de la contraction du sarcomère.
+
+IV. Recopiez, sur votre feuille de rédaction, les couples (1, …) ; (2, …) ; (3, …) ; (4, …) et reliez chaque molécule à son action, en adressant à chaque numéro du groupe 1 la lettre correspondante du groupe 2. (1 pt)
+
+| Groupe 1 : Molécules | Groupe 2 : Action |
+|---|---|
+| 1. ATP | a. phosphoryle l'ADP |
+| 2. Ca2+ | b. se fixe à la tête de myosine |
+| 3. Myosine | c. se fixe à la Troponine |
+| 4. ATP synthase | d. se lie à l'Actine |
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 (4,5 pts)
+
+La broncho-pneumopathie obstructive chronique (BPOC) est une maladie caractérisée par la dilatation des alvéoles sous l'action des protéases sécrétées par les globules blancs, créant ainsi des bulles appelées emphysème, ce qui expose les poumons aux infections. Des chercheurs ont établi la relation entre cette maladie et une protéine : l'α-antitrypsine (AAT).
+
+Le document 1 présente certains paramètres liés à cette maladie chez un sujet sain et un sujet malade.
+
+Document 1 :
+
+| Paramètres | Concentration d'AAT (g/L) | Les protéases | État des alvéoles | État des poumons |
+|---|---|---|---|---|
+| Sujet sain | 0,9 – 2,1 | Taux normal | Normaux | Normal |
+| Sujet malade | ≤ 0,5 | Taux élevé | Fragilisés | Emphysème |
+
+1. Comparez les paramètres étudiés entre le sujet malade et le sujet sain, puis établissez la relation entre la protéine AAT et la maladie. (1 pt)
+
+• La synthèse d'AAT est contrôlée par le gène SERPINA1. Le document 2 présente deux fragments d'allèles (brins non transcrits), l'un normal et l'autre responsable de la maladie. Le document 3 présente un extrait du tableau du code génétique.
+
+Document 2 — Fragments non transcrits (numéro des nucléotides : 7530 … 7540 … 7550) :
+- Fragment non transcrit de l'allèle normal : ACC – AAT – ATC – TTC – TTC – TCC – CCA
+- Fragment non transcrit de l'allèle responsable de la maladie : ACC – AAT – ATC – TTC – TCC – CCA
+[Le fragment de l'allèle responsable de la maladie est reconstitué à partir du corrigé officiel : délétion du triplet TTC.]
+
+Document 3 :
+
+| Codons | UAG | AAU | ACC | AUU, AUA | UUU, UUC | CCA, CCU | UCC, UCA | GGG, GGC |
+|---|---|---|---|---|---|---|---|---|
+| Acides aminés | Stop | Asn | Thr | Ile | Phe | Pro | Ser | Gly |
+
+2. En vous basant sur les documents 2 et 3, donnez les séquences d'ARNm et d'acides aminés correspondants au fragment de l'allèle normal et au fragment de l'allèle responsable de la maladie, puis expliquez l'origine génétique de la maladie. (1,5 pt)
+
+• Le document 4 présente l'arbre généalogique d'une famille touchée par la BPOC. Le document 5 présente les résultats de l'électrophorèse du gène responsable de cette maladie chez certains membres de cette famille.
+
+[Figure — Document 4, arbre généalogique : générations I, II, III ; légende : Homme sain ou avec des symptômes intermédiaires ; Femme saine ou avec des symptômes intermédiaires ; Homme malade ; Femme malade ; Fœtus.]
+
+[Figure — Document 5, électrophorèse : Allèle normal / Allèle morbide (responsable de la maladie) ; les sujets I1, II3, II4 et III1 présentent des symptômes intermédiaires de la maladie.]
+
+3.
+a. En utilisant les documents 4 et 5 : montrez que les deux allèles responsables des phénotypes sont codominants et portés par un autosome, puis donnez les génotypes des individus I2, II1, II3 et II4. (1 pt)
+b. Déterminez la probabilité pour que le couple II3 et II4 donne naissance à un enfant sain (ne présentant aucun symptôme de la maladie). Justifiez votre réponse en utilisant l'échiquier de croisement. (1 pt)
+(Utilisez les symboles : N ou n pour l'allèle normal et M ou m pour l'allèle responsable de la maladie.)
+
+### Exercice 2 (4 pts)
+
+I. Dans une ferme piscicole, les éleveurs croisent les poissons afin d'obtenir des phénotypes commercialement attractifs. Parmi les caractères concernés : l'aspect des yeux et la taille de la nageoire caudale.
+
+1er croisement : entre des poissons mâles aux yeux drôles et aux nageoires caudales fantaisies et des poissons femelles aux yeux normaux et aux nageoires caudales normales. Les individus de la F1 issus de ce croisement ont des yeux normaux et des nageoires caudales normales.
+
+2ème croisement : entre des individus de la génération F1. La génération F2 issue de ce croisement est composée des phénotypes suivants :
+- 57 % de poissons aux yeux normaux et nageoires caudales normales.
+- 18 % de poissons aux yeux normaux et nageoires caudales fantaisies.
+- 19,5 % de poissons aux yeux drôles et nageoires caudales normales.
+- 6,5 % de poissons aux yeux drôles et nageoires caudales fantaisies.
+
+1. Que déduisez-vous des résultats du premier et deuxième croisement ? (1 pt)
+
+• Pour répondre aux besoins du marché (poissons aux yeux drôles et aux nageoires caudales fantaisies), le pisciculteur réalisa des croisements entre les individus de la génération F2 : il a croisé des poissons aux yeux drôles et nageoires caudales normales avec des poissons aux yeux drôles et nageoires caudales fantaisies.
+
+2. Donnez les pourcentages des phénotypes issus du croisement qui donnera les poissons désirés, justifiez votre réponse par l'échiquier de croisement. (1,25 pt)
+
+(Utilisez les symboles : D et d pour les allèles responsables de l'aspect des yeux ; N et n pour les allèles responsables de la taille de la nageoire caudale.)
+
+II. Les Guppies sont des poissons prisés des aquariophiles, les mâles portent des taches vivement colorées dont le nombre et la forme sont variables. Les taches attirent les prédateurs dans les conditions naturelles.
+
+• Des groupes de guppies ont été récoltés dans des sites différents des rivières du Venezuela classés de A à E selon l'abondance des prédateurs de guppies (les prédateurs étant moindres au site A et très abondants au site E).
+
+Le document 1 représente les résultats du dénombrement des taches et de la mesure de leurs tailles chez les guppies dans les différents sites.
+
+• 200 Guppies provenant du site E ont été transférés vers une autre rivière isolée, où ne vivaient ni Guppies ni prédateurs. Au bout de deux ans, les mâles de la population avaient des taches plus nombreuses et plus longues.
+
+Document 1 :
+
+| Sites | Taille moyenne des taches (mm) | Nombre moyen de taches par poisson |
+|---|---|---|
+| A | 1,60 | 11,1 |
+| B | 1,53 | 10,3 |
+| C | 1,20 | 9,3 |
+| D | 1,28 | 8,9 |
+| E | 1,08 | 8,0 |
+
+[En-têtes des colonnes reconstitués : « taille » et « nombre » des taches.]
+
+3. Proposez une hypothèse pour expliquer la variation du phénotype des Guppies mâles dans les différents sites. (0,25 pt)
+
+• Des Guppies mâles et femelles provenant de différentes rivières ont été transférés dans deux étangs artificiels 1 et 2. Six mois plus tard, des prédateurs ont été introduits dans l'étang 1, alors que dans l'étang 2 les Guppies sont restés seuls. Le document 2 montre l'évolution du nombre moyen des taches colorées des Guppies mâles dans les deux étangs avant et après l'introduction des prédateurs dans l'étang 1.
+
+Document 2 :
+
+| Temps (mois) | Étang 1 (Nombre moyen de taches par poisson) | Étang 2 (Nombre moyen de taches par poisson) |
+|---|---|---|
+| 0 | 10,1 | 10,1 |
+| 2 | 10,7 | 10,7 |
+| 4 | 11,4 | 11,4 |
+| 6 | 11,9 | 12,0 |
+| 8 | 11,3 | 12,5 |
+| 10 | 10,8 | 13,0 |
+| 12 | 10,4 | 13,0 |
+| 14 | 10,2 | 13,0 |
+| 16 | 10,0 | 13,0 |
+| 18 | 9,7 | 13,0 |
+| 20 | 9,4 | 13,0 |
+
+4. Comparez l'évolution du nombre des taches colorées des Guppies mâles entre les deux étangs 1 et 2 avant et après introduction des prédateurs. (0,5 pt)
+
+5. En vous basant sur ce qui précède, dégagez, en justifiant votre réponse, le facteur de variation qui agit sur les phénotypes des guppies, et vérifiez l'hypothèse proposée en réponse à la question 3. (1 pt)
+
+### Exercice 3 (3,5 pts)
+
+Afin de mettre en évidence quelques aspects de la réponse immunitaire contre le virus de la grippe, on propose les données suivantes :
+
+La grippe est une infection virale dont les principaux symptômes sont la fièvre, la fatigue, un écoulement nasal abondant, des douleurs de la gorge et des migraines.
+
+Le virus de la grippe se caractérise par la présence de molécules membranaires parmi celles-ci des molécules glycoprotéiques « Hémagglutinines » qu'on symbolise par HA et qui assurent la fixation du virus sur ses cellules cibles et sa multiplication au dépend de ces dernières. Le document 1 présente le suivi de la concentration des virus et celle des anticorps anti-HA chez une personne atteinte de la grippe.
+
+Document 1 :
+
+| Temps après l'infection (jours) | Quantité de virus dans le sérum (UA) | Quantité d'anticorps dans le sérum (UA) |
+|---|---|---|
+| 0 | 0,8 | 0,8 |
+| 2 | 2,8 | 0,1 |
+| 4 | 3,5 | 0,1 |
+| 6 | 3,6 | 1,0 |
+| 8 | 3,0 | 1,3 |
+| 10 | 2,2 | 1,6 |
+| 12 | 1,2 | 2,0 |
+
+[Le corrigé officiel décrit : virus maximal (≈ 3,3 UA) au 3ème jour, stable jusqu'au 6ème jour, nul au 14ème jour ; anticorps presque nuls les 5 premiers jours puis ≈ 3 UA. Se référer au PDF source.]
+
+1. Décrivez les résultats obtenus et déduisez le type de la réponse immunitaire spécifique développée par l'organisme contre le virus de la grippe. (1,25 pt)
+
+• Afin de déterminer la manière avec laquelle le système immunitaire élimine le virus de la grippe, on réalise les études suivantes :
+- En présence de concentrations croissantes d'anticorps anti-HA produits lors d'une infection grippale, on détermine le pourcentage de liaison du virus de la grippe sur des cellules en culture et le taux d'infection de ces cellules. Le document 2 représente les résultats obtenus.
+
+Document 2 :
+
+| Concentrations des anticorps ajoutés (mol/L) | Fixation du virus (%) | Cellules infectées (%) |
+|---|---|---|
+| 10⁻¹¹ | 100 | 100 |
+| 10⁻¹⁰ | 40 | 40 |
+| 10⁻⁹ | 0 | 0 |
+| 10⁻⁸ | 0 | 0 |
+
+2. En vous basant sur les données du document 2, décrivez les résultats obtenus, puis déduisez le rôle des anticorps lors de l'infection par le virus de la grippe. (1,25 pt)
+
+- La figure « a » du document 3 présente le mode de fixation du virus de la grippe sur les cellules cibles, et la figure « b » présente le mode de fixation des anticorps anti-HA sur le virus de la grippe.
+
+[Figure — Document 3 : figure (a) : Virus de la grippe (HA, matériel génétique ARN) + Récepteur HA de la cellule cible ; figure (b) : Anticorps anti-HA fixés sur le virus (HA).]
+
+3. En vous basant sur votre réponse à la question 2 et les données du document 3, expliquez comment le virus de la grippe est éliminé. (1 pt)
+
+### Exercice 4 (3 pts)
+
+Dans le cadre de l'étude des phénomènes géologiques accompagnant la formation des chaînes de montagnes on propose les données suivantes :
+
+Le massif Armoricain situé au nord-ouest de la France a fait l'objet de nombreuses études géologiques selon lesquelles, cette entité géologique, de faible altitude, correspondrait à une chaîne de montagnes. Pour vérifier ce propos et retracer quelques aspects de l'histoire géologique de ce massif, on propose l'étude des documents suivants :
+
+Le document 1 présente la carte de répartition des granitoïdes et des roches métamorphiques dans le massif armoricain accompagnée d'un schéma simplifié d'une migmatite de la région d'Arzon (les lits clairs sont de composition granitique et sont riches en quartz et feldspaths, les lits sombres sont riches en biotites).
+
+[Figure — Document 1, carte : Manche, Crozon, Île de Croix, Arzon ; Zone granitique, Zone gneissique, Micro-plissements, Roches sédimentaires, Granitoïdes, Roches métamorphiques et migmatiques ; échelles 400 km / 1 cm. Schéma d'une migmatite d'Arzon.]
+
+1. En vous basant sur le document 1, dégagez les indices qui témoignent que cette région a subi un métamorphisme régional suivi d'une anatexie. (0,75 pt)
+
+• L'examen minéralogique de certaines roches de l'île de Croix révèle la présence de minéraux du glaucophane, de la jadéite et du grenat. Le document 2 représente les conditions de stabilité de certains groupements minéraux en fonction de la pression et de la température.
+
+[Figure — Document 2, diagramme : Température (0 à 1200 °C), Pression (0 à 2000 MPa), Profondeur (0 à 62,5 km) ; Plagioclase (PL), Chlorite (Ch), Pyroxène (Py), Hornblende (Ho), Glaucophane (GL), Jadéite (Ja), Grenat (Gr) ; conditions de fusion partielle ; conditions inconnues dans la nature. Données chiffrées des courbes non extraites.]
+
+2. En vous basant sur le diagramme du document 2 :
+a. Déterminez les conditions de formation des roches de l'île de Croix. (0,75 pt)
+b. Déduisez le type de métamorphisme auquel les roches de cette région ont été soumises, puis précisez le contexte géodynamique qui a régné dans cette région. (0,75 pt)
+
+• Les figures du document 3 représentent trois étapes d'évolution d'une chaîne de montagne de collision.
+
+[Figure — Document 3 : Étape 1, Étape 2, Étape 3 — Croûte continentale, Roches métamorphiques et migmatite, Ophiolite, Manteau supérieur.]
+
+3. En vous aidant des étapes du document 3, retracez l'histoire géologique du massif Armoricain. (0,75 pt)
+
+§ Fin §
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question I-3 : le début de l'énoncé est reconstitué (« Au niveau de la membrane interne mitochondriale se produit »).
+- Exercice 1, document 2 : le fragment de l'allèle responsable de la maladie est reconstitué à partir du corrigé officiel (délétion du triplet TTC du brin non transcrit).
+- Exercice 1, documents 4 et 5 : arbres et profils d'électrophorèse non extraits en détail ; résumé d'après le corrigé officiel.
+- Exercice 2, document 1 (guppies) : en-têtes des colonnes reconstitués.
+- Exercice 2, document 2 : unité de temps transcrite « mois » telle qu'extraite (le corrigé parle de « semaines »).
+- Exercice 3, document 1 : tableau transcrit tel qu'extrait ; les lectures du corrigé officiel diffèrent légèrement.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

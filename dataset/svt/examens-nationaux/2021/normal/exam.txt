@@ -1,0 +1,184 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2021 - Session Normale - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2021-normale-sujet.pdf
+Element: https://www.alloschool.com/element/127309
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2021 - الموضوع -
+المادة: علوم الحياة والأرض — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+NS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I. Définir les termes suivants : a. Mitose. b. Enzyme de restriction. (1 pt)
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte. Copier, sur la feuille de rédaction, les couples ci-dessous et adresser à chaque numéro la lettre qui correspond à la suggestion correcte. (1, …) (2, …) (3, …) (4, …) (2 pts)
+
+1. L'individu porteur d'une translocation chromosomique équilibrée montre :
+a. une structure anormale des chromosomes et un phénotype normal ;
+b. une structure anormale des chromosomes et un phénotype anormal ;
+c. une structure normale des chromosomes et un phénotype normal ;
+d. une structure normale des chromosomes et un phénotype anormal.
+
+2. La maladie de Turner apparaît chez :
+a. les hommes ayant une formule chromosomique 2n + 1 = 22AA + XYY ;
+b. les femmes ayant une formule chromosomique 2n - 1 = 22AA + X ;
+c. les hommes ayant une formule chromosomique 2n - 1 = 22AA + Y ;
+d. les femmes ayant une formule chromosomique 2n + 1 = 22AA + XXX.
+
+3. La réduction de la formule chromosomique se déroule lors de :
+a. l'anaphase I de la méiose ;
+b. la prophase I de la méiose ;
+c. l'anaphase II de la méiose ;
+d. la prophase II de la méiose.
+
+4. Un polysome désigne une structure constituée d'une molécule :
+a. d'ARNm liée à plusieurs ARN polymérases ;
+b. d'ADN liée à plusieurs ADN polymérases ;
+c. d'ARNm liée à plusieurs ribosomes ;
+d. d'ADN liée à plusieurs ribosomes.
+
+III. Copier sur la feuille de rédaction, la lettre correspondante à chaque proposition parmi les propositions suivantes, puis écrire « Vrai » ou « Faux » devant chaque lettre. (1 pt)
+
+a. Chez l'Homme, la cellule diploïde contient deux lots chromosomiques d'origine maternelle.
+b. La fécondation amplifie le brassage chromosomique effectué lors de la méiose.
+c. Les plasmides sont des molécules d'ARN circulaires utilisées comme outil en génie génétique.
+d. Le caryotype est une représentation de l'emplacement relatif des gènes sur un chromosome.
+
+IV. Afin de relier chaque élément du groupe 1 à la définition correspondante dans le groupe 2, copier les couples ci-dessous sur la feuille de rédaction et adresser à chaque numéro dans le groupe 1 la lettre qui lui correspond dans le groupe 2. (1, …) (2, …) (3, …) (4, …) (1 pt)
+
+| Groupe 1 | Groupe 2 |
+|---|---|
+| 1. Tétrade | a. Mélange des allèles suite à la séparation aléatoire des chromosomes homologues lors de l'anaphase I. |
+| 2. Crossing-over (Enjambement chromosomique) | b. Changement dans le nombre ou la structure des chromosomes ou dans les deux. |
+| 3. Anomalie chromosomique | c. Structure formée suite à l'appariement de deux chromosomes homologues lors de la prophase I. |
+| 4. Brassage interchromosomique | d. Échange de fragments chromosomiques entre les chromosomes homologues lors de la prophase I. |
+
+## Partie II : Raisonnement scientifique et expression écrite et graphique (15 pts)
+
+### Exercice 1 (5,5 pts)
+
+Dans la nuit du mercredi 12 août 2015, deux terribles explosions ont secoué la zone industrielle du port de la ville de Tianjin en Chine causant plus d'une centaine de morts et plus de 700 blessés. De nombreuses substances chimiques dangereuses sont habituellement entreposées dans cette zone, notamment le cyanure de sodium à l'origine d'un gaz très toxique, l'acide cyanhydrique (HCN) qui entraîne la mort par asphyxie cellulaire et tissulaire. Afin de comprendre l'effet de l'acide cyanhydrique sur le métabolisme respiratoire et sa relation avec l'asphyxie, on propose les données suivantes :
+
+• Donnée 1 : On place une suspension mitochondriale dans un milieu convenable riche en dioxygène (O2), puis on suit l'évolution des concentrations d'O2 et d'ATP dans ce milieu. Les figures du document 1 présentent les conditions expérimentales et les résultats obtenus.
+
+[Figure — Document 1 : t1 : ajout du pyruvate ; t2 : ajout d'ADP + Pi. Courbes non extraites ; valeurs d'après le corrigé officiel : O2 : ≈ 90 % avant t1, ≈ 70 % après t1, ≈ 30 % après t2 ; ATP : ≈ 37 UA avant t1, ≈ 50 UA après t1, > 90 UA après t2.]
+
+NB : Au début de l'expérience, les mitochondries contiennent une faible quantité d'ADP + Pi.
+
+1. En se basant sur les données du document 1, décrire la variation de la concentration en O2 et en ATP dans le milieu, puis déduire l'effet de l'ajout du pyruvate et de l'ADP + Pi sur le métabolisme respiratoire mitochondrial. (1,5 pt)
+
+• Donnée 2 : Des mitochondries, sans membranes externes, sont placées dans une solution dépourvue de dioxygène et enrichie en donneurs d'électrons (NADH, H+). La variation de la concentration des protons H+ dans la solution est ensuite mesurée avant et après l'injection d'une quantité limitée de dioxygène. Les figures a et b du document 2 présentent respectivement les conditions et les résultats de cette expérience.
+
+[Figure — Document 2 : courbe non extraite ; valeurs ponctuelles : [H+] (× 10⁻⁹ mol/L) : 0 s : 0 ; 120 s : 11 ; 240 s : 0. Le corrigé officiel décrit un maximum supérieur à 40 × 10⁻⁹ mol/L.]
+
+2. En se basant sur les données du document 2, décrire l'évolution de la concentration des protons H+ dans la solution, puis déduire l'effet de l'injection du dioxygène sur le déplacement des protons H+ à travers la membrane mitochondriale interne. (1 pt)
+
+• Donnée 3 : Le schéma du document 3 résume les réactions du métabolisme respiratoire mitochondrial et la relation entre la dégradation du pyruvate et la synthèse d'ATP.
+
+[Figure — Document 3, schéma du métabolisme respiratoire mitochondrial.]
+
+3. En s'appuyant sur le document 3, expliquer la variation des concentrations d'O2, des protons H+ et d'ATP enregistrée dans les expériences des documents 1 et 2. (2 pts)
+
+• Donnée 4 : Pour comprendre la relation entre l'exposition à l'acide cyanhydrique (HCN) et les états d'asphyxie enregistrés suite aux explosions dans la zone industrielle du port de la ville de Tianjin, on propose les données du document 4.
+
+La figure a du document 4 présente l'évolution des concentrations d'O2 et d'ATP dans une suspension mitochondriale enrichie en O2 et en ADP + Pi suite à l'ajout du NADH, H+ et du HCN. La figure b du même document représente le mécanisme de la phosphorylation oxydative au niveau de la mitochondrie et le site d'action du HCN.
+
+[Figure — Document 4 : figure (a) : évolution d'O2 et d'ATP (NADH, H+ + HCN) ; figure (b) : phosphorylation oxydative et site d'action du HCN (transporteur T6). Courbes non extraites.]
+
+4. En exploitant les données du document 4, expliquer l'asphyxie due à l'exposition à l'acide cyanhydrique. (1 pt)
+
+### Exercice 2 (6,5 points)
+
+La maladie de Tay-Sachs est une maladie héréditaire neurodégénérative dont l'une des formes se déclare vers l'âge de 2 à 3 ans. Parmi ses principaux symptômes : la perte de la motricité, des crises d'épilepsie, des troubles de l'équilibre, une hypersensibilité au bruit, un retard mental et parfois une diminution de la vision. Les enfants atteints par cette maladie décèdent généralement vers l'âge de 5 ans. Afin de comprendre l'origine génétique de cette maladie, on propose les données suivantes :
+
+• Donnée 1 : Des recherches ont lié cette maladie à l'absence de l'activité de l'enzyme Hexosaminidase A (HEX-A) au niveau des vésicules cytoplasmiques nommées « lysosomes ». Dans le cas normal, cette enzyme assure la dégradation d'une substance appelée Ganglioside 2 (GM2). Dans le cas anormal l'accumulation du GM2 dans les lysosomes devient toxique pour les cellules nerveuses et entraîne leur dégénérescence. Le document 1 présente le devenir du Ganglioside GM2 dans les cellules nerveuses et l'aspect de ces cellules chez un individu sain et chez un individu atteint.
+
+Document 1 :
+
+| Niveau des molécules | Niveau des cellules (Cellules nerveuses) | Niveau des individus |
+|---|---|---|
+| HEX-A fonctionnelle ; Ganglioside GM2 (dégradé) | Noyau ; Lysosome (normal) | Individu sain |
+| HEX-A non fonctionnelle ; Accumulation de Ganglioside GM2 | Noyau ; Lysosome géant | Individu atteint de Tay-Sachs |
+
+1. En se basant sur le document 1, montrer la relation protéine – caractère. (0,75 pt)
+
+• Donnée 2 : La synthèse de l'enzyme HEX-A est contrôlée par le gène HEX-A qui peut se présenter sous deux formes alléliques : l'allèle normal responsable de la synthèse de l'enzyme HEX-A fonctionnelle et l'allèle anormal responsable de la synthèse de l'enzyme HEX-A non fonctionnelle. Le document 2 présente un fragment du brin d'ADN non transcrit pour chacun des deux allèles. Le document 3 présente le tableau du code génétique.
+
+Document 2 — Fragments non transcrits [reconstitués à partir du corrigé officiel] :
+- Fragment de l'allèle normal : CGT – ATA – TCC – TAT – GCC – CCT – GAC
+- Fragment de l'allèle anormal : CGT – ATA – TCT – ATC – CTA – TGC – CCC – TGA – C (addition de TCTA ; cadre de lecture décalé ; codon stop UGA)
+
+Document 3 — Tableau du code génétique (standard) : UUU, UUC : Phe ; UUA, UUG : Leu ; UCU, UCC, UCA, UCG : Ser ; UAU, UAC : Tyr ; UAA, UAG : Stop ; UGU, UGC : Cys ; UGA : Stop ; UGG : Trp ; CUU, CUC, CUA, CUG : Leu ; CCU, CCC, CCA, CCG : Pro ; CAU, CAC : His ; CAA, CAG : Gln ; CGU, CGC, CGA, CGG : Arg ; AUU, AUC, AUA : Ile ; AUG : Met ; ACU, ACC, ACA, ACG : Thr ; AAU, AAC : Asn ; AAA, AAG : Lys ; AGU, AGC : Ser ; AGA, AGG : Arg ; GUU, GUC, GUA, GUG : Val ; GCU, GCC, GCA, GCG : Ala ; GAU, GAC : Ac. asp ; GAA, GAG : Ac. glu ; GGU, GGC, GGA, GGG : Gly.
+
+2. En se basant sur les documents 2 et 3, déterminer la séquence d'ARNm et la chaîne peptidique qui correspondent à chacun des deux allèles, puis expliquer l'origine génétique de la maladie. (1,5 pt)
+
+• Donnée 3 : Le document 4 présente l'arbre généalogique d'une famille dont certains membres sont atteints de la maladie de Tay-Sachs.
+
+[Figure — Document 4, arbre généalogique non extrait en détail ; résumé d'après le corrigé officiel : parents I1 × I2 sains avec une fille II3 atteinte ; couple II4 × II5 sains avec un garçon III3 atteint.]
+
+3. En se basant sur l'arbre généalogique du document 4, déterminer le mode de transmission de cette maladie. Justifier votre réponse. (1 pt)
+
+4.
+a. Donner, en justifiant votre réponse, les génotypes des individus I2, II2 et III3. (1 pt) (Utiliser les symboles N et n pour désigner les deux allèles.)
+b. Le couple II4 et II5 désire avoir un troisième enfant, déterminer la probabilité pour que ce couple donne naissance à un enfant sain. Justifier la réponse par l'échiquier de croisement. (0,75 pt)
+
+• Donnée 4 : La maladie de Tay-Sachs est assez rare, cependant chez certaines populations d'Amérique du Nord, cette maladie atteint un enfant sur 3600.
+
+5. En se basant sur les données précédentes et considérant que ces populations sont en équilibre de Hardy-Weinberg :
+a. Calculer la fréquence de chacun des deux allèles N et n dans ces populations. (1 pt)
+b. Déduire la fréquence des individus porteurs sains dans ces populations. (0,5 pt)
+NB : Se contenter de quatre chiffres après la virgule.
+
+### Exercice 3 (3 points)
+
+Dans le cadre de l'étude de la transmission de deux caractères héréditaires chez le chien Cocker : la couleur (Noir ou roux) et l'aspect (Uni ou tacheté) du pelage, on propose les croisements suivants :
+
+Croisement 1 : Chien à pelage noir x Chienne à pelage roux → Chiots à pelage noir.
+NB : Le croisement réciproque donne le même résultat.
+
+Croisement 2 : Chien à pelage uni x Chienne à pelage tacheté → Chiots à pelage uni.
+NB : Le croisement réciproque donne le même résultat.
+
+1. Que peut-on déduire des résultats des deux croisements 1 et 2 ? (1 pt)
+
+Croisement 3 : Le croisement d'un chien à pelage noir et d'aspect uni avec une chienne à pelage roux et d'aspect tacheté a donné les résultats suivants :
+- 25 % chiots à pelage noir et d'aspect uni ;
+- 25 % chiots à pelage roux et d'aspect tacheté ;
+- 25 % chiots à pelage noir et d'aspect tacheté ;
+- 25 % chiots à pelage roux et d'aspect uni.
+
+2. Déterminer, en justifiant la réponse, si les deux gènes étudiés sont liés ou indépendants. (0,5 pt)
+
+Croisement 4 : Le croisement d'un chien à pelage noir et d'aspect uni avec une chienne à pelage roux et d'aspect uni a donné une descendance constituée de :
+- 3 chiots à pelage noir et d'aspect uni ;
+- 3 chiots à pelage roux et d'aspect uni ;
+- 1 chiot à pelage noir et d'aspect tacheté ;
+- 1 chiot à pelage roux et d'aspect tacheté.
+
+3.
+a. Déterminer le génotype de chacun des parents du 4ème croisement. Justifier votre réponse. (0,5 pt)
+b. Interpréter les résultats du 4ème croisement en vous aidant de l'échiquier de croisement. (1 pt)
+Utiliser les symboles suivants : R et r pour les allèles responsables de la couleur du pelage. B et b pour les allèles responsables de l'aspect du pelage.
+
+Fin
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Exercice 1, documents 1, 2 et 4 : courbes non extraites (PDF scanné) ; valeurs ponctuelles et lectures transcrites telles qu'extraites ou d'après le corrigé officiel.
+- Exercice 1, document 2 : le tableau extrait indique 11 × 10⁻⁹ mol/L à 120 s alors que le corrigé décrit un maximum supérieur à 40 × 10⁻⁹ mol/L.
+- Exercice 2, document 2 : fragments non transcrits reconstitués à partir des séquences d'ARNm du corrigé officiel.
+- Exercice 2, document 4 : arbre généalogique non extrait en détail ; résumé d'après le corrigé officiel.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

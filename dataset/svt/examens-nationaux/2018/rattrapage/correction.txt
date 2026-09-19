@@ -1,0 +1,130 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2018 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2018-rattrapage-corrige.pdf
+Element: https://www.alloschool.com/element/68269
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة الاستدراكية 2018 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية، مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+RR32F
+
+## Première partie (5 pts)
+
+I. (1, d) ; (2, c) ; (3, c) ; (4, a) — 0,5 x 4
+
+II. Définitions (accepter toute définition correcte) :
+1. L'anatexie : processus de fusion partielle des roches métamorphiques à l'origine d'un magma. (0,5)
+2. Le faciès métamorphique : ensemble de minéraux stable dans un intervalle de P et T (accepter aussi : intervalle de P et T dans lequel un ensemble de minéraux index sont stables). (0,5)
+
+III. a : faux ; b : vrai ; c : faux ; d : faux — 0,25 x 4
+
+IV.
+1. Caractéristiques des chaînes de collision (accepter 2 caractéristiques parmi) : épaississement crustal ; métamorphisme thermodynamique ; déformations tectoniques ; suture ophiolitique. (0,5)
+2. Caractéristiques des chaînes d'obduction (accepter 2 caractéristiques parmi) : les ophiolites ; déformations tectoniques (les nappes de charriage ; les failles inverses ; les plis-failles ; les plis). (0,5)
+
+## Deuxième partie (15 pts)
+
+### Exercice 1 (3 pts)
+
+1. Description :
+Figure (a) :
+- Avant l'introduction du pyruvate, on constate une stabilité de la concentration d'O2 à une valeur de 100 UA et la concentration en ATP à une valeur de 30 UA.
+- Après l'introduction du pyruvate, la concentration d'O2 diminue jusqu'à atteindre une valeur d'environ 35 UA ; en même temps la concentration de l'ATP augmente jusqu'à 100 UA.
+- Après l'épuisement du pyruvate, les concentrations d'O2 et d'ATP restent stables à une valeur de 35 UA pour l'O2 et 100 UA pour l'ATP. (0,5)
+Figure (b) :
+- Avant t1, la concentration d'O2 reste stable à une valeur proche de 100 UA.
+- Suite à l'ajout du pyruvate en t1, la concentration d'O2 diminue pour atteindre une valeur proche de 40 UA.
+- Après l'ajout de l'Antimycine A en t2, la concentration d'O2 se stabilise à une valeur proche de 40 UA. (0,5)
+Hypothèse (accepter toute hypothèse valable pour expliquer la relation entre l'Antimycine A et la production d'ATP).
+Exemple : l'Antimycine A inhibe les réactions d'oxydation respiratoires mitochondriales permettant la production d'ATP. (0,5)
+
+2.
+a. Les électrons se déplacent à travers les complexes de la chaîne respiratoire dans le sens des potentiels redox croissants. (0,25)
+b. L'Antimycine A inhibe le complexe III de la chaîne respiratoire et empêche le transfert des électrons vers le récepteur final O2 qui n'est plus réduit en H2O (pas de consommation d'O2). (0,5)
+
+3. Explication : en présence d'Antimycine A → inhibition du flux des électrons au niveau de la chaîne respiratoire → arrêt du pompage des protons H+ de la matrice vers l'espace inter-membranaire → pas de formation du gradient de protons → pas de retour des protons vers la matrice → pas de synthèse d'ATP. (0,75)
+
+### Exercice 2 (5 pts)
+
+1. Modifications produites en passant de l'interphase à la prophase :
+- Au niveau cytoplasmique : migration des centrosomes vers les deux pôles opposés de la cellule, formation du faisceau achromatique…
+- Au niveau nucléaire : fragmentation de l'enveloppe nucléaire, disparition du nucléole, condensation de la chromatine en chromosomes individualisés… (1)
+
+2. Comparaison :
+- Protéine lamine A : normale chez la personne saine et anormale chez la personne malade.
+- Disposition des lamines A sur la membrane nucléaire : ordonnée chez la personne saine et désordonnée chez la personne malade.
+- Structure du noyau : normale chez la personne saine et déformée chez la personne malade.
+- Phénotype : division normale des cellules avec réparation et renouvellement des tissus chez la personne saine ; division anormale des cellules avec altération de la réparation et du renouvellement des tissus chez la personne malade (vieillissement précoce). (0,25 x 4)
+Relation protéine – caractère : toute modification de la protéine (Lamine A) entraîne une modification du phénotype. (0,5)
+
+3. Séquences de l'ARNm et des acides aminés correspondant à chacun des fragments des allèles LMNA :
+- Chez le sujet sain — ARNm : GUG GCC AAG CUU GAG GCA GCC CUA GGU ; Peptide : Val – Ala – Lys – Leu – Ac.glu – Ala – Ala – Leu – Gly (0,25 x 2)
+- Chez le sujet malade — ARNm : GGG CCA AGC UUG AGG CAG CCC UAG GU ; Peptide : Gly – Pro – Ser – Leu – Arg – Gln – Pro (0,25 x 2)
+Relation gène – protéine : la mutation par délétion du nucléotide A au niveau du triplet 169 d'ADN a changé le cadre de lecture → synthèse d'ARNm modifié par rapport à l'ARNm normal → synthèse d'une chaîne peptidique courte → protéine lamine A altérée → apparition de la maladie. (0,5)
+
+4.
+a- Action de l'ARN antisens : l'ARN antisens se lie de façon complémentaire à l'ARNm codant pour la protéine anormale → empêche la traduction de l'ARNm → empêche la production de la protéine anormale responsable de la maladie. (0,5)
+b- Proposition de la technique : introduction dans le génome des cellules malades d'une séquence d'ADN qui code pour l'ARN antisens → cellule modifiée génétiquement capable de produire l'ARN antisens d'une façon permanente. (0,5)
+
+### Exercice 3 (4 pts)
+
+1.
+a- Les allèles dominants sont responsables de la couleur rose et l'absence des bandes ; les allèles récessifs sont responsables de la couleur jaune et la présence des bandes. (0,25 x 2)
+Justification : parents de races pures et F1 homogène composée d'individus à coquille rose sans bandes.
+b- Le deuxième croisement est un croisement test. La descendance issue de ce croisement est constituée de quatre phénotypes : phénotypes parentaux (80 %) > phénotypes recombinés (20 %). Il s'agit de deux gènes liés. (0,5)
+
+2. Interprétation chromosomique :
+Premier croisement : P1 [R, B] x P2 [r, b] — Génotypes : (R//R ; B//B) x (r//r ; b//b) — Gamètes : R B (100 %) x r b (100 %) → F1 : (R//r ; B//b) [R, b] (100 %) (0,5)
+[Rappel : R = rose (dominant), r = jaune (récessif) ; B = présence de bandes (récessif), b = absence de bandes (dominant).]
+Deuxième croisement : F1 [R, b] x [r, B] — Génotypes : (R B // r b) x (r B // r B)
+Gamètes F1 : R B (39 %), r b (41 %), R b (9 %), r B (11 %) ; Gamètes du parent [r, B] : r B (100 %) (0,5)
+Échiquier de croisement : (0,5)
+
+|  | R B (39 %) | r b (41 %) | R b (9 %) | r B (11 %) |
+|---|---|---|---|---|
+| r B (100 %) | (R B // r B) [R ; B] (39 %) | (r b // r B) [r ; b] (41 %) | (R b // r B) [R ; b] (9 %) | (r B // r B) [r ; B] (11 %) |
+
+3. Comparaison :
+- Dans la forêt, les escargots à coquille pourvue de bandes sont plus prédatés par la grive musicienne (45 %) que les escargots à coquille dépourvue de bandes (37,5 %).
+- Par contre, dans les prairies, les escargots à coquille dépourvue de bandes sont plus exposés à la prédation (43,3 %) que ceux avec bandes (33,3 %). (0,25 x 2)
+
+4. Le facteur de variation agissant sur la population des escargots : la sélection naturelle. (0,25)
+Explication :
+- Dans la forêt : milieu homogène → camouflage des escargots à coquille sans bandes, par contre les escargots avec bandes sont plus visibles → les escargots à coquille avec bandes sont plus exposés à la prédation que ceux qui sont sans bandes.
+- Dans la prairie : milieu hétérogène → camouflage des escargots à coquille avec bandes, par contre les escargots à coquille sans bandes sont plus visibles → les escargots à coquille sans bandes sont plus exposés à la prédation que ceux qui sont avec bandes. (0,75)
+
+### Exercice 4 (3 pts)
+
+1. Description :
+- Entre la 6ème et la 12ème semaine : diminution du nombre des virus dans le sang passant de 10⁷/mL à 10³/mL, avec augmentation du nombre des lymphocytes T4 dans le sang qui passe de 400/µL à plus de 800/µL.
+- Pendant la phase de SIDA déclaré, le nombre de virus augmente de 10³/mL à 10⁷/mL, alors que le nombre des lymphocytes T4 dans le sang diminue de 400 lymphocytes T4/µL du sang pour s'annuler à la fin de cette phase. (0,5)
+Explication :
+- Entre la 6ème et la 12ème semaine, on explique la diminution du nombre de virus dans le sang par le déclenchement d'une réponse immunitaire spécifique (augmentation du nombre des LT4 et apparition des anticorps spécifiques).
+- Pendant la phase de SIDA déclaré, on explique l'augmentation du nombre des virus par une déficience immunitaire suite à la chute des lymphocytes T4 qui sont détruits par la prolifération virale. (0,5)
+
+2. Condition nécessaire au déroulement d'une réponse immunitaire efficace : la coopération entre les trois types de lymphocytes T4, T8 et B. (0,25)
+Justification : car en présence de ces trois types de cellules (lot 1), toutes les souris restent en vie et l'élimination des virus se fait plus rapidement en comparaison avec les autres lots. (0,25)
+
+3. Description :
+- Document 3 : pour des concentrations d'interleukine entre 10 et 10² UA, on a une faible augmentation du nombre des plasmocytes ; pour des concentrations d'interleukine au-delà de 10² UA, on a une augmentation rapide du nombre des plasmocytes qui atteint 1000 à une concentration de 10⁴ UA d'interleukine-2. (0,25)
+- Document 4 : avant l'infection par le virus, le nombre des lymphocytes T8 dans la rate des souris mutées (15×10⁶) est égal à celui des souris normales. 7 jours après l'infection, le nombre des lymphocytes T8 dans la rate des souris mutées reste constant, contrairement aux souris normales chez lesquelles on note une augmentation du nombre des lymphocytes T8 qui atteint environ 44×10⁶ lymphocytes T8 dans la rate. (0,25)
+Déduction : l'interleukine-2 stimule la multiplication des lymphocytes T8 et augmente le nombre des plasmocytes. (0,25)
+
+4. Un schéma explicatif qui illustre le rôle central du LT4 dans le déroulement de la réponse immunitaire. (0,75)
+[Schéma non reproductible en texte.]
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة ») ; le PDF source porte un filigrane « Moutamadris.ma ».
+- Exercice 3, question 2 : la casse B/b a été normalisée (l'extraction confond B et b) ; interprétation vérifiée par les effectifs du sujet (234/246/54/66 sur 600).
+- Exercice 4, questions 1 et 3 : les valeurs lues sur les figures (10⁷/10³, 15×10⁶/44×10⁶) diffèrent des tableaux extraits du sujet — transcrites telles quelles.

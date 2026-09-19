@@ -1,0 +1,228 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2025 - Session Rattrapage - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2025-rattrapage-sujet.pdf
+Element: https://www.alloschool.com/element/145882
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2025 - الموضوع -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+RS32F
+
+Il est permis d'utiliser la calculatrice non programmable.
+
+## Partie I : Restitution des connaissances (5 points)
+
+I. Citez deux caractéristiques de la réaction immunitaire spécifique. (0,5 pt) [question reconstituée d'après le corrigé officiel]
+
+II. Pour chacune des propositions numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …), et donnez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1 – La mémoire immunitaire est caractérisée par une réponse primaire :
+a – plus rapide et plus efficace que la réponse secondaire.
+b – plus rapide et moins efficace que la réponse secondaire.
+c – plus lente et plus efficace que la réponse secondaire.
+d – plus lente et moins efficace que la réponse secondaire.
+
+2 – Au cours de la réaction allergique :
+a – il y a libération de l'histamine par les granulocytes au cours de la phase de sensibilisation.
+b – il y a apparition des symptômes dès le premier contact avec l'allergène.
+c – les anticorps de type IgE se fixent sur les mastocytes.
+d – les anticorps de type IgE sont sécrétés par les mastocytes.
+
+3 – La maturation complète des lymphocytes T se fait dans :
+a – la rate.
+b – la moelle osseuse.
+c – le thymus.
+d – le foie.
+
+4 – Les cellules immunitaires qui produisent les anticorps sont :
+a – les macrophages.
+b – les lymphocytes T.
+c – les mastocytes.
+d – les plasmocytes.
+
+III. Recopiez la lettre qui correspond à chaque proposition parmi les propositions suivantes, et écrivez devant chaque lettre « Vrai » ou « Faux ». (1 pt)
+
+a – La moelle osseuse est le lieu de production des lymphocytes T et B et de maturation des lymphocytes T.
+b – L'autogreffe est une greffe de tissu ou d'organe d'un donneur qui est lui-même le receveur.
+c – Les perforines sont des substances sécrétées par les lymphocytes Tc capables de former des pores au niveau de la membrane de la cellule cible.
+d – Les cellules exprimant les récepteurs CD8 sont des cellules cibles du virus du SIDA.
+
+IV. Le document ci-contre représente une structure qui intervient dans la réponse immunitaire spécifique à médiation humorale.
+a – Sur votre feuille de rédaction, donnez le nom de cette structure, et les noms des éléments 1, 2 et 3. (1 pt)
+b – Citez deux rôles de cette structure. (0,5 pt)
+
+[Figure — anticorps : 1 (région variable, site de fixation de l'antigène), 2 (chaîne lourde), 3 (chaîne légère) ; région constante.]
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 (3 points)
+
+Dans le cadre de l'étude de quelques aspects du mécanisme de la contraction musculaire, on propose les données suivantes :
+
+● Donnée 1 : Pour expliquer le mécanisme de la contraction musculaire, Hugh Huxley et ses collaborateurs en 1954, proposaient l'hypothèse suivante : « la contraction musculaire est le résultat du glissement des filaments d'actine par rapport aux filaments de myosine. »
+Pour vérifier cette hypothèse, des chercheurs ont fixé dans une solution de glycérine, deux sarcomères, l'un à l'état relâché et l'autre à l'état contracté. Le document 1 présente la photographie de l'observation microscopique de ces deux sarcomères (figure a) et un schéma simplifié de cette observation (figure b).
+
+[Figure — Document 1 : figure a (photographie) et figure b (schéma) : sarcomère relâché (strie Z, bande claire, zone H, bande sombre) et sarcomère contracté.]
+
+1. En vous basant sur le document 1, dégagez deux modifications structurales qu'a subi le sarcomère lors du passage de l'état relâché à l'état contracté. (0,5 pt)
+
+● Donnée 2 : Afin de déterminer les conditions nécessaires à la contraction musculaire, on isole des myofibrilles et on les place dans un milieu approprié puis on mesure la tension de ces myofibrilles avant et après l'ajout de Salyrgan (substance qui bloque l'hydrolyse de l'ATP) et d'EDTA (chélateur qui fixe les ions Ca²⁺ et inhibe leur action). Le document 2 présente les résultats obtenus.
+
+[Figure — Document 2 : tension de la myofibrille (UA) en fonction du temps (s) : effet de l'ajout de Ca²⁺, d'ATP, d'ATP + Ca²⁺, puis de Salyrgan et d'EDTA. Courbes non extraites ; résumé d'après le corrigé officiel.]
+
+2. En vous basant sur le document 2, décrivez les résultats obtenus, puis déduisez les conditions nécessaires à la contraction musculaire. (0,75 pt)
+
+● Donnée 3 : pour extraire l'énergie nécessaire à la contraction, la fibre musculaire hydrolyse de grandes quantités d'ATP. Afin de déterminer les conditions nécessaires à l'hydrolyse de ces molécules, on présente les données expérimentales du document 3.
+
+Document 3 :
+
+| Milieux | Début de l'expérience | Fin de l'expérience |
+|---|---|---|
+| Milieu 1 | Filaments de myosine + ATP + Ca²⁺ | Filaments de myosine + ATP + Ca²⁺ + une faible quantité d'ADP et de Pi |
+| Milieu 2 | Filaments d'actine + ATP + Ca²⁺ | Filaments d'actine + ATP + Ca²⁺ |
+| Milieu 3 | Filaments de myosine + filaments d'actine + ATP + Ca²⁺ | Complexes actomyosine + Ca²⁺ + une grande quantité d'ADP et de Pi |
+
+3. À partir du document 3, décrivez les résultats de l'expérience, puis déterminez la condition nécessaire à l'hydrolyse de l'ATP. (1 pt)
+
+● Donnée 4 : Le document 4 présente un modèle explicatif du mécanisme de la contraction musculaire proposé par Hugh Huxley et ses collaborateurs.
+
+[Figure — Document 4 : Étape 1 : zone H, Ca²⁺, filament de myosine, ATP, filament d'actine, glissement ; Étape 2 : ADP, Pi, glissement, rapprochement des filaments d'actine = contraction musculaire.]
+
+NB : Les ions Ca²⁺ sont stockés dans le réticulum sarcoplasmique et libérés suite à une excitation efficace du muscle.
+
+4. En vous basant sur le document 4 et les données précédentes, résumez l'enchaînement des événements conduisant à la contraction musculaire suite à une excitation, puis vérifiez l'hypothèse formulée par Hugh Huxley et ses collaborateurs. (0,75 pt)
+
+### Exercice 2 (6 points)
+
+La maladie de Pompe (ou glycogénose de type II) est une maladie génétique rare qui touche principalement les muscles. Elle entraîne une faiblesse musculaire progressive (myopathie) et des difficultés respiratoires. Afin de mettre en évidence l'origine génétique de cette maladie et son mode de transmission, on propose les données suivantes :
+
+● Donnée 1 : Les chercheurs ont démontré le lien entre les symptômes de cette maladie et une enzyme de nature protéique appelée α-glucosidase acide (α-GA), qui transforme le glycogène en glucose au niveau des lysosomes. Le document 1 présente un schéma montrant la relation entre l'enzyme α-GA et la force musculaire chez une personne saine et chez une personne malade.
+
+[Figure — Document 1 : chez la personne saine : lysosomes remplis de glucose, enzyme α-GA normale, glycogène ⇌ glucose, myofibrilles, noyau, fibre musculaire normale, force musculaire normale. Chez la personne atteinte de la maladie de Pompe : lysosomes remplis de glycogène, enzyme α-GA anormale, glycogène ⇌ glucose, fibre musculaire altérée, force musculaire faible.]
+
+1. En vous basant sur les données du document 1, montrez la relation protéine – caractère. (0,5 pt)
+
+● Donnée 2 : La maladie de Pompe est liée à un défaut de la synthèse de la protéine α-glucosidase acide. Cette protéine est contrôlée par un gène nommé α-GA.
+Le document 2 présente un fragment du brin transcrit du gène α-GA chez deux personnes, l'une est normale et l'autre est atteinte de la maladie de Pompe. Le document 3 présente un extrait du tableau du code génétique.
+
+Document 2 — Numéros des nucléotides : 520, 525, 530 :
+- Fragment de l'allèle α-GA d'une personne saine : … ACG TGC TTT AGT TCC ACC … Sens de lecture →
+- Fragment de l'allèle α-GA d'une personne atteinte : … ACG TGC TTA GTT CCA CC … Sens de lecture →
+
+Document 3 — Extrait du code génétique : Lys : AAA, AAG ; Arg : AGA, AGG ; Thr : ACU, ACG ; Cys : UGU, UGC ; Trp : UGG ; Ser : UCU, UCA ; Asn : AAC, AAU ; Gln : CAA, CAG ; Gly : GGA, GGU. [normalisé : extraction « AAG AGG » sous Arg]
+
+2. En vous basant sur les documents 2 et 3, donnez la séquence de l'ARNm et la séquence des acides aminés correspondant à chacun des fragments de l'allèle du gène α-GA chez la personne saine et chez la personne atteinte, puis expliquez l'origine génétique de la maladie de Pompe. (1,75 pts)
+
+● Donnée 3 : Le document 4 présente l'arbre généalogique d'une famille dont certains membres sont touchés par la maladie de Pompe.
+
+[Figure — Document 4, arbre généalogique : génération I (1 à 4) ; génération II (1 à 4) ; génération III (1, 2, 3 : fœtus/enfant attendu) ; légende : Homme sain, Femme saine, Fœtus, Homme malade, Femme malade. Arbre non extrait en détail ; résumé d'après le corrigé officiel (couple II2 × II3 sains avec garçon III1 — ou fille III2 — atteint).]
+
+3. En vous basant sur les données du document 4, déterminez le mode de transmission de cette maladie en justifiant votre réponse. (1 pt)
+
+4.
+a. Donnez en justifiant la réponse les génotypes des individus II2 et II3. (0,5 pt)
+b. Calculez la probabilité pour que l'enfant attendu III3 soit aussi malade, en vous aidant d'un échiquier de croisement. (0,75 pt)
+
+NB : Utilisez les symboles M et m pour désigner les allèles du gène étudié.
+
+● Donnée 4 : Selon une étude réalisée dans une population européenne, la maladie de Pompe touche une naissance sur 138 000 nouveaux nés.
+
+5. Sachant que cette population obéit à la loi de Hardy-Weinberg :
+a. Calculez la fréquence de l'allèle responsable de la maladie et celle de l'allèle normal dans cette population. (1 pt)
+b. Calculez la fréquence des individus sains porteurs de l'allèle anormal dans cette population. (0,5 pt)
+
+NB : Utilisez 5 chiffres après la virgule.
+
+### Exercice 3 (3 points)
+
+Dans le cadre de l'étude du mode de transmission des caractères héréditaires chez la tomate : la couleur des feuilles et l'aspect de la peau des fruits, on propose les croisements suivants :
+
+● Premier croisement : entre des plantes à feuilles de couleur verte unie et fruits à peau lisse, et des plantes à feuilles vertes tachetées et fruits à peau veloutée. Tous les individus de la génération F1 présentent des feuilles vertes unies et fruits à peau lisse.
+
+1. En vous basant sur les résultats du premier croisement, déterminez le mode de transmission des deux caractères héréditaires étudiés. (1 pt)
+
+● Deuxième croisement : entre des plantes de la génération F1 et des plantes à feuilles vertes tachetées et fruits à peau veloutée. On obtient dans la génération F'2 les phénotypes suivants :
+• Plantes à feuilles vertes tachetées et fruits à peau veloutée.
+• Plantes à feuilles vertes unies et fruits à peau lisse.
+• Plantes à feuilles vertes unies et fruits à peau veloutée.
+• Plantes à feuilles vertes tachetées et fruits à peau lisse.
+
+Pour déterminer l'emplacement des gènes sur les chromosomes, on propose l'hypothèse suivante : les deux gènes étudiés sont indépendants et obéissent à la 3ème loi de Mendel.
+
+2. En utilisant un échiquier de croisement, donnez les pourcentages attendus des différents phénotypes en F'2. (0,75 pts)
+
+NB : Utilisez les symboles suivants : (T, t) pour les allèles du gène responsable de la couleur des feuilles, et (L, l) pour les allèles du gène responsable de l'aspect de la peau des fruits.
+
+Sachant que les résultats expérimentaux du deuxième croisement sont les suivants :
+• 41,3 % plantes à feuilles vertes tachetées et fruits à peau veloutée.
+• 42,7 % plantes à feuilles vertes unies et fruits à peau lisse.
+• 8,5 % plantes à feuilles vertes unies et fruits à peau veloutée.
+• 7,5 % plantes à feuilles vertes tachetées et fruits à peau lisse.
+
+3. En vous basant sur ces résultats, déduisez si les deux gènes étudiés sont liés ou indépendants, puis vérifiez l'hypothèse déjà formulée. (0,5 pts)
+
+4. Représentez schématiquement les étapes du phénomène, qui a eu lieu chez les individus de F1 responsable des phénotypes obtenus en F'2. (0,75 pt)
+
+### Exercice 4 (3 points)
+
+Les chaînes Indo-Myanmar occupent une zone tectonique complexe, s'étendant de l'Himalaya oriental vers le sud jusqu'à la mer d'Andaman.
+
+▪ Le document 1 présente une carte géologique simplifiée qui montre deux zones distinctes, chacune est caractérisée par un contexte géodynamique spécifique. Ces zones offrent une occasion unique d'étudier les phénomènes géologiques variés qui accompagnent la formation et l'évolution des chaînes de montagnes récentes.
+
+▪ Le document 2 présente une carte géologique simplifiée de la zone 1 de l'île de Sumatra (figure a), et une coupe géologique simplifiée dans la zone 2 (figure b).
+
+[Figure — Document 1 : carte : Himalaya, Chine, Inde, Myanmar, mer d'Andaman, océan Indien, Sumatra ; zone 1, zone 2 ; limite entre la plaque Indienne et la plaque Eurasiatique.]
+[Figure — Document 2 : figure a (zone 1, Sumatra : longitudes 98°–104°, bassin de Montuwai, océan Indien, fosse de Java, plaque Indienne, plaque Eurasiatique, volcans andésitiques, déplacement des plaques, foyers sismiques d'égale profondeur) ; figure b (coupe zone 2 : plaque Indienne, plaque Eurasiatique, intrusion granitique, granodiorite, chevauchement, ophiolite, gneiss, suture métamorphique).]
+
+1. À partir des données du document 2, dégagez :
+a. Deux indices qui montrent que la zone 1 est une zone de subduction. (0,5 pt)
+b. Un indice qui montre que la zone 2 a subi des contraintes compressives et un indice qui montre la disparition d'un ancien domaine océanique. (0,5 pt)
+
+Afin d'apporter davantage de preuves confirmant que la zone 1 est une zone de subduction, des scientifiques ont effectué des études pétrographiques sur des roches R1, R2 et R3 affleurant dans cette région.
+
+▪ Le document 3 présente la composition minéralogique des trois roches R1, R2 et R3.
+▪ Le document 4 présente les domaines de stabilité de certains groupements de minéraux en fonction de la pression et de la température.
+
+Document 3 :
+
+| Minéraux \ Roches | R1 | R2 | R3 |
+|---|---|---|---|
+| Omphacite | – | – | + |
+| Actinote | + | – | – |
+| Glaucophane | – | + | – |
+| Grenat | – | – | + |
+| Chlorite | + | – | – |
+| Lawsonite | – | + | – |
+
++ Présence ; – Absence
+
+[Figure — Document 4 : diagramme pression (GPa) – température (°C) – profondeur (km) ; domaines de stabilité des groupements minéraux : ① Plagioclase + Hornblende ; ② Actinote + Chlorite ; ③ Glaucophane + Lawsonite + Épidote ; ④ Jadéite [extraction « Jadiète », sic] + Grenat + Omphacite.]
+
+2. À partir des données des documents 3 et 4 :
+a. Déterminez le domaine minéralogique auquel appartient chacune des roches R1, R2 et R3, en justifiant votre réponse. (0,75 pt)
+b. Décrivez les variations minéralogiques lors du passage de la roche R1 à la roche R2 et de la roche R2 à la roche R3. Puis montrez que la zone 1 (document 1) a subi un métamorphisme dynamique. (0,5 pt)
+
+▪ Le document 5 présente un modèle explicatif montrant les étapes de la formation de la chaîne de montagnes figurée dans la zone 2.
+
+[Figure — Document 5 : modèle : –50 MA (plaque Indienne, plaque Eurasiatique, sédiments, volcanisme, lithosphère, fusion) ; –24 MA (ophiolite, pluton granitique) ; –8 MA (suture ophiolitique).]
+
+3. En vous basant sur le document 5 et les données précédentes, déterminez les étapes de la formation de la chaîne de montagnes de la zone 2, en précisant les phénomènes géologiques qui ont eu lieu dans la région. (0,75 pt)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question I : question reconstituée d'après le corrigé officiel.
+- Exercice 1, document 2 : courbes non extraites ; résumé d'après le corrigé officiel.
+- Exercice 2, document 3 : extrait du code génétique normalisé (Arg : AGA, AGG).
+- Exercice 2, document 4 : arbre généalogique non extrait en détail ; résumé d'après le corrigé officiel.
+- Exercice 4, document 4 : « Jadiète » [sic, lire jadéite].
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

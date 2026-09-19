@@ -1,0 +1,148 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2018 - Session Normale - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2018-normale-corrige.pdf
+Element: https://www.alloschool.com/element/106217
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة العادية 2018 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية، مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+NR32F
+
+## Première partie (5 pts)
+
+I. (1, b) ; (2, a) ; (3, d) ; (4, d) — 0,5 x 4
+
+II. Les réactions globales :
+1. La fermentation alcoolique : C6H12O6 (glucose) + 2 ADP + 2 Pi → 2 C2H5OH (éthanol) + 2 CO2 + 2 ATP + chaleur (0,5)
+2. Le renouvellement de l'ATP à partir de la phosphocréatine : ADP + phosphocréatine (PC) → ATP + créatine (C) (0,5)
+
+III. Définitions :
+1. La glycolyse : l'ensemble des réactions qui se déroulent au niveau du hyaloplasme, permettant la dégradation partielle du glucose en deux acides pyruviques avec production de deux molécules d'ATP. (0,5)
+2. La chaîne respiratoire : l'ensemble des protéines de la membrane interne mitochondriale qui catalysent les réactions d'oxydoréduction permettant le flux d'électrons à partir des composés réduits vers l'accepteur final qui est l'O2. (0,5)
+
+IV. a : faux ; b : faux ; c : vrai ; d : vrai — 0,25 x 4
+
+## Deuxième partie (15 pts)
+
+### Exercice 1 (6 pts)
+
+1. Comparaison :
+- L'aspect du rein : il est normal chez la personne saine alors qu'il est caractérisé par la formation de kystes chez la personne malade.
+- Le complexe PC1-PC2 : normal chez la personne saine et anormal chez la personne malade.
+- Chez la personne saine le flux d'ions Ca++ est normal et l'activité de mTOR est faible alors que chez la personne malade le flux d'ions Ca++ est faible et l'activité de mTOR est forte.
+- La prolifération cellulaire est normale chez la personne saine alors qu'elle est importante chez la personne malade. (0,25 x 4)
+
+2. Molécule d'ARNm :
+- Chez la personne normale : CGA CUG GUG CUG CGG CGG GGC
+- Chez la personne malade : CGA CUG GUG CGG CGG GGC (0,25 x 2)
+Polypeptide :
+- Chez la personne normale : Arg – Leu – Val – Leu – Arg – Arg – Gly
+- Chez la personne malade : Arg – Leu – Val – Arg – Arg – Gly (0,25 x 2)
+Explication de l'origine génétique de la polykystose rénale : mutation au niveau du gène PKD1 suite à une délétion de trois nucléotides GAC dans la position 29076 → synthèse de la protéine PC1 anormale → formation de complexe PC1-PC2 anormal → perturbation des divisions des cellules tubulaires du rein → apparition de la polykystose rénale. (0,5)
+
+3.
+a- Génotypes : (0,5 x 3)
+
+| Individus | Génotypes | Justification |
+|---|---|---|
+| I2 | (P//p) | Femme de phénotype malade, elle a donné des enfants sains, et la maladie est dominante. |
+| II1 | (P//p) | Homme de phénotype malade, il a donné des enfants sains, et la maladie est dominante. |
+| II2 | (p//p) | Femme de phénotype saine et la maladie est dominante. |
+
+b- Probabilité pour que le couple II1 et II2 donne naissance à un individu atteint :
+Parents : II1 x II2 — Phénotypes : [P] x [p] — Génotypes : (P//p) x (p//p) — Gamètes : ½ P, ½ p x 1 p
+Échiquier de croisement :
+
+|  | P (½) | p (½) |
+|---|---|---|
+| p (1) | (P//p) [P] (½) | (p//p) [p] (½) |
+
+Probabilité pour que le couple II1 et II2 donne naissance à un individu atteint : 1/2 (0,25)
+
+4.
+a- Calcul des fréquences alléliques :
+- L'allèle normal : q² = 1 – 1/1000 = 999/1000 → q = √(999/1000) = 0,9994
+- L'allèle responsable de la maladie : p = 1 – q = 1 – 0,9994 = 0,0006 (0,5 + 0,5)
+b- Calcul de la fréquence des individus hétérozygotes : H = 2pq = 2 x 0,0006 x 0,9994 = 0,0011 (0,5)
+NB : Accepter les valeurs proches de ces résultats.
+
+### Exercice 2 (3 pts)
+
+1. Déductions du premier croisement :
+- Les parents sont de race pure d'après la première loi de Mendel. (0,25)
+- La forme des ailes : l'allèle responsable de la forme longue des ailes est dominant par rapport à l'allèle responsable de la forme vestigiale des ailes. (0,25)
+- La couleur des yeux : l'allèle responsable de la couleur rouge des yeux est dominant par rapport à l'allèle responsable de la couleur brune des yeux. (0,25)
+
+2.
+a. Liaison / indépendance des gènes : les deux gènes sont liés. (0,25)
+Argumentation : la génération F'2, issue d'un croisement test, est composée de quatre phénotypes ; les phénotypes parentaux sont plus fréquents (72,64 %) par rapport aux phénotypes recombinés (27,35 %). (0,25)
+b. L'interprétation chromosomique du deuxième croisement :
+Parents : F1 ♀ x ♂ — Phénotypes : [L,R] x [ℓ,r] — Génotypes : (L R // ℓ r) x (ℓ r // ℓ r)
+Gamètes : L R (36,68 %), ℓ r (35,96 %), L r (15,16 %), ℓ R (12,19 %) ; ♂ : ℓ r (100 %) (0,5)
+Échiquier de croisement : (0,5)
+
+|  | L R (36,68 %) | ℓ r (35,96 %) | L r (15,16 %) | ℓ R (12,19 %) |
+|---|---|---|---|---|
+| ℓ r (100 %) | [L,R] (36,68 %) | [ℓ,r] (35,96 %) | [L,r] (15,16 %) | [ℓ,R] (12,19 %) |
+
+3.
+a- Les cartes factorielles possibles : (0,25 + 0,25)
+- La carte factorielle 1 : (L ; ℓ) — 27,35 cM — (R ; r) — 7,51 cM — (N ; n)
+- La carte factorielle 2 : (L ; ℓ) — (N ; n) — (R ; r), avec d(N,R) = 7,51 cM et d(L,R) = 27,35 cM
+b- Le croisement proposé : croisement entre des femelles hétérozygotes pour les deux gènes ayant le phénotype [N ; L] avec des mâles doubles récessifs [n ; ℓ]. (0,25)
+
+### Exercice 3 (3 pts)
+
+1. Comparaison :
+- Ressemblance : production d'anticorps anti-tétaniques chez les deux personnes après contact avec l'antigène. (0,25)
+- Différences :
+  - La réponse immunitaire se manifeste après sept jours de la contamination chez la personne non vaccinée, alors qu'elle est immédiate chez la personne vaccinée. (0,25)
+  - La personne vaccinée produit une forte quantité d'anticorps (≈ 8000 UA), contrairement à la personne non vaccinée qui produit une faible quantité d'anticorps (≈ 8 UA). (0,25)
+  - Les anticorps persistent pendant une plus longue durée dans le corps de la personne vaccinée par rapport à la personne non vaccinée. (0,25)
+
+2. Déduction : deux caractéristiques de la réponse immunitaire : mémoire et spécificité. (0,25 x 2)
+Justification :
+- La mémoire immunitaire : chez le lot A, on note que le nombre des plasmocytes sécréteurs d'anticorps anti-GRM augmente considérablement suite à la deuxième injection par ce même antigène. (0,25)
+- La spécificité immunitaire : chez le lot B, on note que la première injection de GRM ne permet pas l'augmentation du nombre des plasmocytes sécréteurs d'anticorps anti-GRL, du fait que l'antigène introduit lors de la première injection (GRM) est différent de celui introduit lors de la deuxième injection (GRL). (0,25)
+
+3. Explication de la réponse immunitaire :
+a- Chez le lot A : le premier contact avec l'antigène GRM → sélection de lymphocytes B spécifiques → multiplication et différenciation en plasmocytes sécréteurs d'anticorps anti-GRM et en lymphocytes B mémoire. Le deuxième contact avec le même antigène GRM → réaction rapide de LB mémoire spécifiques et en grand nombre → réponse forte et rapide. (0,5)
+b- Chez le lot B : le premier contact avec l'antigène GRM → sélection de lymphocytes B spécifiques → multiplication et différenciation en plasmocytes sécréteurs d'anticorps anti-GRM et en lymphocytes B mémoire. Le deuxième contact avec un autre antigène différent GRL → les lymphocytes B mémoire spécifiques à GRM ne réagissent pas contre GRL mais il y a sélection d'un nouveau clone de lymphocytes B → une nouvelle réaction immunitaire, lente et faible, contre GRL. (0,5)
+
+### Exercice 4 (3 pts)
+
+1. Les changements minéralogiques :
+- Lorsqu'on passe de Zb à Zd : apparition de la Cordiérite et de l'Andalousite. (0,25)
+- Lorsqu'on passe de Ze à Zf : disparition de la Muscovite et apparition du Feldspath potassique. (0,25)
+
+2. Explication des changements minéralogiques :
+- Lorsqu'on passe de Zb à Zd : P et T augmentent pour atteindre le domaine de stabilité de la Cordiérite et de l'Andalousite, ce qui a permis l'apparition de ces deux minéraux. (0,5)
+- Lorsqu'on passe de Ze à Zf : P et T continuent d'augmenter jusqu'à dépasser le domaine de stabilité de la Muscovite qui disparaît, et atteindre le domaine de stabilité du FK qui apparaît. (0,5)
+
+3.
+a- Conditions de P et T :
+- Température minimale 420 °C (température de formation de la roche R1)
+- Température maximale 680 °C (température de formation de la roche R4) (0,25)
+- Pression minimale 0,3 GPa (pression de formation de la roche R1)
+- Pression maximale 0,5 GPa (pression de formation de la roche R4) (0,25)
+NB : Accepter les valeurs proches des valeurs indiquées avec une marge de (+/- 10 °C) pour la température et de (+/- 0,05 GPa) pour la pression.
+b- Type de métamorphisme : Thermodynamique. (0,5)
+Justification : la projection, sur le document 3, des valeurs minimales et maximales de P et T dans lesquelles se sont formées les roches de la zone étudiée (P de 0,3 GPa à 0,45 GPa) et (T entre 420 °C et 680 °C) se situent dans le domaine du métamorphisme thermodynamique. (0,5)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة ») ; le PDF source porte un filigrane « Moutamadris.ma ».
+- Exercice 1, question 4 : valeurs transcrites telles qu'extraites (q = 0,9994 ; p = 0,0006 ; H = 0,0011) bien que 2pq = 0,0012 par le calcul — coquille probable du corrigé ; le corrigé accepte les valeurs proches.
+- Exercice 2, question 3a : l'ordre des gènes de la carte 2 est transcrit tel qu'extrait ; seule la carte 1 porte les deux distances de façon explicite.
+- Exercice 3, question 1 : les valeurs citées (≈ 8000 UA / ≈ 8 UA) sont incohérentes avec les tableaux extraits du sujet — transcrites telles quelles.
+- Exercice 4, question 3b : la pression maximale citée (0,45 GPa) diffère de celle de la question 3a (0,5 GPa) — transcrit tel quel.

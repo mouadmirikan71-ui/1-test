@@ -1,0 +1,136 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2021 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2021-rattrapage-corrige.pdf
+Element: https://www.alloschool.com/element/138540
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة الاستدراكية 2021 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+RR32F
+
+## Première partie (5 pts)
+
+I. Définitions (accepter toute définition correcte telle que) :
+a. Méiose : succession de deux divisions cellulaires, une division réductionnelle suivie d'une division équationnelle aboutissant à la formation de quatre cellules haploïdes à partir d'une cellule mère diploïde. (0,5)
+b. Anomalie chromosomique : modification du nombre ou de la structure des chromosomes ou des deux. (0,5)
+
+II. (1, b) ; (2, d) ; (3, b) ; (4, d) — soit A-2, B-4, C-2, D-4 — 0,5 x 4
+
+III. a : Faux ; b : Vrai ; c : Vrai ; d : Faux — 0,25 x 4
+
+IV. 1 : Aster ; 2 : Fuseau de division (ou achromatique) ; 3 : Centromère ; 4 : Tétrade — 0,25 x 4
+
+## Deuxième partie (15 pts)
+
+### Exercice 1 (5 pts)
+
+1.
+a. Comparaison (accepter des valeurs proches de celles proposées) :
+Concernant la concentration du lactate dans le sang : chez la personne saine, la concentration du lactate augmente dès le début de l'exercice pour atteindre une valeur maximale (4,2 mmol/L) en 2 minutes, puis elle diminue jusqu'à 2 mmol/L à la fin de l'exercice, alors que chez la personne atteinte, la concentration du lactate reste presque constante aux environs de 1,5 mmol/L tout au long de l'exercice. (0,75)
+Concernant la concentration d'ADP dans les muscles de l'avant-bras : au repos, la concentration d'ADP chez la personne atteinte (40 µM) est quatre fois supérieure à celle mesurée chez la personne saine (10 µM). Après un exercice physique bref et intense, la concentration d'ADP chez les deux personnes augmente mais cette augmentation est plus importante chez la personne atteinte (120 µM >> 40 µM). (0,75)
+b. Proposition d'une hypothèse (accepter toute hypothèse logique telle que) : la variation de la concentration d'ADP dans les muscles après un exercice physique bref et intense chez la personne atteinte peut être expliquée par une faible régénération d'ATP à partir d'ADP en raison d'un dysfonctionnement de la voie de fermentation lactique. (0,5)
+
+2. Relation entre la variation de la concentration sanguine du lactate et celle de l'ATP musculaire chez le sprinter lors d'une course de 100 m :
+- La concentration d'ATP musculaire est presque constante alors que la concentration sanguine du lactate augmente progressivement le long de la course. (0,5)
+- La stabilité de la concentration d'ATP musculaire malgré l'exercice est due à sa régénération à partir des réactions de la fermentation lactique (réactions anaérobiques) à l'origine de l'augmentation de la concentration sanguine du lactate. (0,75)
+
+3. Vérification de l'hypothèse : (hypothèse validée ou non). (0,25)
+Explication : chez la personne atteinte de la maladie de McArdle : un déficit de l'activité de l'enzyme Myophosphorylase → faible hydrolyse du glycogène musculaire en glucose 1-P → formation d'une faible quantité de glucose 6-P → dysfonctionnement de la voie de la fermentation lactique → faible régénération d'ATP au début de l'effort → intolérance aux efforts physiques brefs et intenses dès les premières dizaines de secondes de l'exercice. (0,25 x 6)
+
+### Exercice 2 (6,5 pts)
+
+1. Relation protéine-caractère :
+- Chez le sujet sain : la quantité de la myophosphorylase active est de 34 UA → hydrolyse normale du glycogène musculaire → charge normale en glycogène dans les fibres musculaires avec régénération normale d'ATP dès le début de l'effort musculaire → sujet sain. (0,25)
+- Chez le sujet atteint : faible quantité de la myophosphorylase active (1 UA) → faible hydrolyse du glycogène musculaire → surcharge des fibres musculaires en glycogène avec une faible régénération d'ATP au début de l'effort musculaire → sujet atteint. (0,25)
+► La modification dans l'activité de l'enzyme (de nature protéique) entraîne une modification du phénotype du sujet d'où la relation protéine-caractère. (0,25)
+
+2.
+a. Séquences d'ARNm et des acides aminés correspondantes aux fragments de l'allèle normal et de l'allèle anormal :
+- Allèle normal : séquence d'ARNm : GAA – AAC – UUC – UUC – AUC – UUU – GGC ; séquence d'acides aminés : Ac. glu – Asn – Phe – Phe – Ile – Phe – Gly. (0,25 x 2)
+- Allèle anormal : séquence d'ARNm : GAA – AAC – UUC – AUC – UUU – GGC ; séquence d'acides aminés : Ac. glu – Asn – Phe – Ile – Phe – Gly. (0,25 x 2)
+b. Explication de l'origine génétique de la maladie : mutation par délétion d'un triplet au niveau de l'ADN → synthèse d'ARNm modifié par rapport à l'ARNm normal → synthèse d'une séquence peptidique différente de la normale → faible activité de l'enzyme myophosphorylase → apparition des symptômes de la maladie. (0,5)
+Accepter une mutation par délétion du triplet telle que :
+- TTC au niveau des positions (2125, 2126, 2127) ou (2128, 2129, 2130).
+- CTT au niveau des positions (2124, 2125, 2126) ou (2127, 2128, 2129).
+
+3.
+a. Mode de transmission de la maladie :
+- L'allèle responsable de la maladie est récessif (m) et l'allèle normal est dominant (M).
+Justification : le couple I1 et I2 est sain et a donné naissance à un garçon II2 atteint (on accepte également : le couple II5 et II6 est sain et a donné naissance à une fille III2 atteinte).
+- Le gène étudié est porté par un autosome.
+Justification : la maladie atteint les deux sexes → l'allèle étudié n'est pas porté par le chromosome sexuel Y ; l'allèle responsable de la maladie est récessif et la fille III2 est atteinte et descend d'un père sain donc l'allèle responsable de la maladie n'est pas porté par le chromosome sexuel X.
+- Les génotypes avec justification :
+I1 : M//m — femme saine ayant un enfant atteint.
+II2 : m//m — homme atteint.
+II3 : M//m ou M//M — femme saine issue de parents hétérozygotes.
+[Barème détaillé extrait partiel : 0,25 + 0,25 + 0,25 + 0,75 ; total 1,75 pt au sujet.]
+b. Probabilité pour que l'enfant attendu III3 soit sain.
+Parents : II5 x II6 — Phénotypes : [M] x [M] — Génotypes : (M//m) x (M//m) — Gamètes : ½ M/, ½ m/ x ½ M/, ½ m/
+Échiquier de croisement : (0,5)
+
+|  | ½ M/ | ½ m/ |
+|---|---|---|
+| ½ M/ | (M//M) [M] 1/4 | (M//m) [M] 1/4 |
+| ½ m/ | (M//m) [M] 1/4 | (m//m) [m] 1/4 |
+
+La probabilité pour que l'enfant attendu soit sain est de 1/4 [sic — pour ce croisement, P(sain) = 3/4 ; 1/4 est la probabilité d'un enfant atteint]. (0,25)
+
+4.
+a. La fréquence des deux allèles M et m : on a f(m//m) = q² = 1/167000 puisque la population est en équilibre H.W. Donc :
+La fréquence de l'allèle m : f(m) = q = √1/167000 = 0,002447.
+La fréquence de l'allèle M : f(M) = p = 1 - q = 0,997553. (1 pt)
+NB : accepter aussi la méthode de calcul suivante : f(m//m) = q² = 1/167000 = 0,000005 [sic — 1/167000 ≈ 0,000006 arrondi].
+La fréquence de l'allèle m : f(m) = q = √0,000005 = 0,002236.
+La fréquence de l'allèle M : f(M) = p = 1 - q = 0,997764.
+b. La fréquence des porteurs sains : les porteurs sains sont hétérozygotes (M//m) → la fréquence des porteurs sains dans la population étudiée est : f(M//m) = 2pq = 2 × 0,002447 × 0,997553 ≈ 0,004882. (0,5)
+NB : accepter aussi la méthode de calcul suivante : f(M//m) = 2pq = 2 × 0,002236 × 0,997764 ≈ 0,004462.
+
+### Exercice 3 (3,5 pts)
+
+1. Toutes les graines de F1 sont noires et lisses, donc :
+- L'allèle responsable de la couleur noire des graines est dominant N et l'allèle responsable de la couleur jaune des graines est récessif n.
+- L'allèle responsable de la forme lisse des graines est dominant L et l'allèle responsable de la forme ridée des graines est récessif l. (0,25 x 2)
+
+2. Liaison des gènes : le deuxième croisement est un test-cross qui a donné quatre phénotypes différents non équiprobables :
+- deux phénotypes parentaux [N, l] et [n, L] majoritaires (80 %).
+- deux phénotypes recombinés [N, L] et [n, l] minoritaires (20 %).
+Donc les deux gènes sont liés (liaison partielle). (0,5)
+Déduction : la distance entre les deux gènes est 20 cM. (0,25)
+
+3. Les génotypes : P1 : (N l // N l) ; P2 : (n L // n L) ; F1 : (N l // n L). (0,25 x 3)
+Interprétation chromosomique des résultats du croisement 2 :
+Phénotypes des parents : [N, l] x [n, l]
+Génotypes : (N l // n L) x (n l // n l)
+Gamètes : (N l) 40,2 %, (n L) 39,8 %, (N L) 9,9 %, (n l) 10,1 % x (n l) 100 %
+Échiquier de croisement :
+
+|  | (n l) 100 % |
+|---|---|
+| (N l) 40,2 % | [N, l] 40,2 % |
+| (n L) 39,8 % | [n, L] 39,8 % |
+| (N L) 9,9 % | [N, L] 9,9 % |
+| (n l) 10,1 % | [n, l] 10,1 % |
+
+(1 pt)
+
+4. Le croisement qui permet l'obtention de la lignée P3 (accepter toute justification logique) : pour obtenir des plantes de lignée pure P3 à graines noires et lisses (phénotype dominant), les parents doivent avoir aussi un phénotype dominant pour les deux caractères. Donc on va croiser les plantes [N, L] ayant le génotype (N L // n l) entre elles. (0,5)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Référence : RR 32F.
+- Partie I, question 2 : le corrigé numérote (1, b) ; (2, d) ; (3, b) ; (4, d), soit A-2, B-4, C-2, D-4.
+- Exercice 2, question 3b : « 1/4 » transcrit tel qu'extrait ; pour le croisement (M//m) × (M//m), P(sain) = 3/4.
+- Exercice 2, question 4a (méthode alternative) : « q² = 0,000005 » transcrit tel qu'extrait (tronqué au lieu d'arrondi).
+- Exercice 3, question 2 : second phénotype recombiné transcrit [n, l] (extraction « [n, L] »).
+- Exercice 3, question 3 : phénotypes des parents du test-cross transcrits [N, l] × [n, l] (extraction partielle) ; tableau reconstitué.
+- Exercice 3, question 4 : génotype (N L // n l) reconstitué (extraction partielle).

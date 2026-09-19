@@ -1,0 +1,146 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2019 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2019-rattrapage-corrige.pdf
+Element: https://www.alloschool.com/element/94794
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة الاستدراكية 2019 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+RR32F
+
+## Première partie (5 pts)
+
+I. (1, b) ; (2, a) ; (3, a) ; (4, c) — 0,5 x 4
+
+II.
+Deux caractéristiques structurales de la membrane interne mitochondriale (par exemple) : (0,25 x 2)
+- Membrane interne riche en protéines ;
+- Des extensions au niveau de la membrane interne (les crêtes) ;
+- Présence des sphères pédonculées et des complexes de la chaîne respiratoire.
+Deux caractéristiques de la fermentation (par exemple) : (0,25 x 2)
+- Se déroule en absence d'O2 ;
+- Produit des résidus organiques.
+
+III. a : vrai ; b : faux ; c : faux ; d : vrai — 0,25 x 4
+
+IV. (1, b) ; (2, c) ; (3, d) ; (4, a) — 0,25 x 4
+
+## Deuxième partie (15 pts)
+
+### Exercice 1 (4,5 pts)
+
+1. Comparaison :
+- Le taux de l'AAT est faible chez le sujet malade par rapport au sujet sain et le taux des protéases est élevé chez le sujet malade par rapport au sujet sain. (0,25)
+- Chez le sujet malade, les alvéoles sont fragilisés avec des emphysèmes pulmonaires, par contre chez le sujet sain, les alvéoles et les poumons sont normaux. (0,25)
+La relation entre l'AAT et la maladie : la diminution de la concentration de la protéine AAT → augmentation du taux des protéases → parois des alvéoles fragilisées → emphysèmes pulmonaires → apparition de la maladie. (0,5)
+
+2. Séquence correspondante au fragment de l'allèle chez le sujet sain :
+ARNm : ACC AAU AUC UUC UUC UCC CCA (0,25)
+Séquence d'acides aminés : Thr – Asn – Ile – Phe – Phe – Ser – Pro (0,25)
+Séquence correspondante au fragment de l'allèle chez le sujet malade :
+ARNm : ACC AAU AUC UUC UCC CCA (0,25)
+Séquence d'acides aminés : Thr – Asn – Ile – Phe – Ser – Pro (0,25)
+Explication : mutation par délétion du triplet AAG du brin transcrit de l'ADN (délétion du triplet TTC du brin non transcrit de l'ADN) → synthèse d'une protéine AAT anormale → AAT incapable de protéger les alvéoles contre les protéases → apparition de la maladie BPOC. (0,5)
+
+3.
+a- Le gène est porté par un chromosome autosomal ; les individus qui présentent des symptômes intermédiaires portent deux allèles (morbide et normal) : les individus I1 et II4 de sexe mâle possèdent les deux allèles (morbide et normal). Donc il y a codominance entre les deux allèles étudiés.
+Génotypes :
+
+| Individus | I2 | II1 | II3 | II4 |
+|---|---|---|---|---|
+| Génotype | M//M | N//N | M//N | M//N |
+
+(1 pt)
+b- La probabilité d'avoir un enfant malade par le couple (II3, II4) :
+Parents : II3 x II4 — Génotypes : (M//N) x (M//N)
+Gamètes : ½ M, ½ N x ½ M, ½ N
+Échiquier de croisement :
+
+|  | M (½) | N (½) |
+|---|---|---|
+| M (½) | (M//M) (1/4) | (M//N) (1/4) |
+| N (½) | (M//N) (1/4) | (N//N) (1/4) |
+
+La probabilité d'avoir un enfant sain ne présentant aucun symptôme de la maladie est de 1/4. (1 pt)
+
+### Exercice 2 (4 pts)
+
+1. Déduction :
+- F1 est homogène, selon la première loi de Mendel → les parents sont de races pures. (0,25)
+- Tous les individus de F1 ont des yeux normaux et des nageoires caudales normales : dominance de l'allèle responsable des yeux normaux « D » par rapport à l'allèle « d », et dominance de l'allèle responsable de la nageoire caudale normale « N » par rapport à l'allèle responsable de la nageoire caudale fantaisie « n ». (0,25)
+- La descendance du deuxième croisement est constituée de quatre phénotypes répartis comme suit : [N ; D] 57 % (environ 9/16) ; [N ; d] 19,5 % (environ 3/16) ; [n ; D] 18 % (environ 3/16) ; [n ; d] 6,5 % (environ 1/16). Il s'agit de deux gènes indépendants. (0,5)
+
+2. Phénotypes : [d ; N] x [d ; n] — Génotypes : (d//d ; N//n) x (d//d ; n//n)
+Gamètes : d/N (1/2), d/n (1/2) x d/n (1)
+Échiquier de croisement :
+
+|  | d/N (1/2) | d/n (1/2) |
+|---|---|---|
+| d/n (1) | (d//d ; N//n) [d ; N] (1/2) | (d//d ; n//n) [d ; n] (1/2) |
+
+Les pourcentages :
+- 50 % de poissons aux yeux drôles et nageoires normales ;
+- 50 % de poissons aux yeux drôles et nageoires fantaisies (poissons désirés). (1,25 pt)
+
+3. Hypothèse : accepter toute hypothèse logique établissant la relation entre la variation du phénotype des guppies et la présence des prédateurs dans le milieu. (0,25)
+
+4.
+- Avant l'introduction des prédateurs : augmentation progressive du nombre moyen des taches colorées des guppies mâles dans les deux étangs. (0,25)
+- Après l'introduction des prédateurs : diminution progressive du nombre moyen des taches colorées des guppies mâles dans l'étang 1 (de 12 à 9) ; par contre, dans l'étang 2, le nombre moyen des taches colorées des mâles continue à augmenter pour se stabiliser après 10 semaines dans la valeur 13. (0,25)
+
+5. Le facteur de variation qui agit sur les phénotypes chez les guppies : la sélection naturelle. (0,25)
+Justification :
+- Guppies avec des taches colorées nombreuses et de grandes tailles → plus exposés à la prédation. (0,25)
+- Guppies avec des taches colorées moins nombreuses et de petites tailles → moins exposés à la prédation → plus de possibilités à se reproduire et à se multiplier. (0,25)
+Discussion de l'hypothèse établissant la relation entre la variation du phénotype des guppies et la présence des prédateurs dans le milieu. (0,25)
+
+### Exercice 3 (3,5 pts)
+
+1. Description des résultats obtenus :
+- La quantité de virus dans le sérum augmente rapidement. Elle a atteint son maximum (≈ 3,3 UA) le 3ème jour. Après, elle s'est stabilisée jusqu'au 6ème jour de l'infection et ensuite elle a diminué pour s'annuler au 14ème jour. (0,5)
+- La concentration des anticorps était presque nulle pendant les cinq premiers jours de l'infection puis elle a augmenté progressivement pour atteindre presque 3 UA. (0,5)
+Déduction : il s'agit d'une réponse immunitaire spécifique à médiation humorale. (0,25)
+
+2. Description :
+- Au départ, avec une concentration d'anticorps faible (10⁻¹¹), le pourcentage de fixation du virus était au maximum (presque 100 %) puis il a chuté considérablement pour s'annuler lorsque la concentration des anticorps a dépassé 10⁻¹⁰ mol/L. (0,5)
+- Le pourcentage des cellules infectées a suivi presque la même évolution que le pourcentage de fixation du virus selon la concentration des anticorps. (0,5)
+Déduction : les anticorps inhibent la fixation du virus de la grippe sur les cellules cibles, ce qui empêche leurs infections. (0,25)
+
+3. Explication : les anticorps anti-HA se lient aux virus et forment des complexes immuns qui neutralisent les virus → pas de fixation des virus par les HA sur les récepteurs HA des cellules cibles → pas de multiplication des virus au dépend des cellules cibles → élimination des virus. (1)
+
+### Exercice 4 (3 pts)
+
+1. Les indices :
+- Les granitoïdes liées à des roches métamorphiques ;
+- Les roches métamorphiques réparties sur une grande surface ;
+- Présence des migmatites. (0,25 x 3)
+
+2.
+a- Détermination des conditions de formation des roches de l'île de Croix :
+- Température entre 200 °C et 500 °C ; (0,25)
+- Pression supérieure à 900 MPa à une profondeur qui dépasse 30 km. (0,5)
+b- Déduction du type de métamorphisme et du cadre géodynamique :
+Le type : dynamo-métamorphisme vu qu'il y a une haute pression et faible température. (0,25 x 2)
+Le cadre géodynamique : zone de subduction. (0,25)
+
+3. Les étapes de formation de la chaîne :
+- Étape 1 : subduction d'une lithosphère océanique sous une lithosphère continentale suite à des forces compressives (dynamo-métamorphisme) et disparition d'un domaine océanique. (0,25)
+- Étape 2 : confrontation des deux marges continentales avec formation de suture ophiolitique et déformation des roches, et genèse de la chaîne du massif armoricain. (0,25)
+- Étape 3 : diminution du relief de la chaîne et formation des roches magmatiques et métamorphiques associées aux migmatites, suite à des forces distensives. (0,25)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Titre du fichier source : « Microsoft Word - RR 32F.docx ».
+- Exercice 1, question 3a : barèmes détaillés non extraits ; total 1 pt conforme au sujet.
+- Exercice 2, question 2 : le corrigé retient le parent (d//d ; N//n) sans discuter le cas (d//d ; N//N) possible en F2.
+- Exercice 2, question 4 : le corrigé parle de « semaines » alors que le sujet indique des « mois ».

@@ -1,0 +1,190 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2021 - Session Rattrapage - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2021-rattrapage-sujet.pdf
+Element: https://www.alloschool.com/element/138539
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2021 - الموضوع -
+المادة: علوم الحياة والأرض — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+RS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Partie I : Restitution des connaissances (5 pts)
+
+1. Définissez : Méiose ; Anomalie chromosomique. (1 pt)
+
+2. Pour chacune des données suivantes, il y a une seule suggestion correcte : (2 pts)
+
+A- Lors de l'interphase, la réplication de l'ADN se produit à la phase :
+1. G1 selon un mécanisme semi-conservatif.
+2. S selon un mécanisme semi-conservatif.
+3. G1 selon un mécanisme conservatif.
+4. S selon un mécanisme conservatif.
+
+B- L'ARNm est un acide nucléique qui contient en plus de l'acide phosphorique le :
+1. désoxyribose et les bases azotées A, C, T et G.
+2. désoxyribose et les bases azotées A, C, U et G.
+3. ribose et les bases azotées A, C, T et G.
+4. ribose et les bases azotées A, C, U et G.
+
+C- Concernant le code génétique :
+1. 64 codons correspondent à 20 acides aminés.
+2. 61 codons correspondent à 20 acides aminés.
+3. Tout codon correspond à plusieurs acides aminés.
+4. Tout acide aminé correspond à un seul codon.
+
+D- Parmi les étapes de la production de l'insuline humaine par génie génétique :
+1. l'isolement des gènes de l'insuline en utilisant des enzymes ligases.
+2. l'intégration des gènes de l'insuline dans des vecteurs en utilisant des transcriptases inverses.
+3. l'intégration des gènes de l'insuline dans des vecteurs en utilisant des enzymes de restriction.
+4. l'isolement des gènes de l'insuline en utilisant des enzymes de restriction.
+
+3. Répondez par « Vrai » ou « Faux » : (1 pt)
+
+a. La mitose donne deux cellules filles haploïdes à partir d'une cellule mère diploïde.
+b. Lors de la prophase I, les quatre chromatides d'une tétrade portent les mêmes gènes.
+c. Dans le cas d'une maladie dominante autosomale, un sujet sain est obligatoirement homozygote.
+d. Le caryotype des individus atteints du syndrome de Down montre un seul exemplaire du chromosome 21.
+
+4. Le document suivant représente un schéma d'une cellule animale lors d'une phase de la méiose. Donner le nom de la structure qui correspond à chaque numéro : (1 pt)
+
+[Figure — schéma d'une cellule animale en méiose : structures 1, 2, 3, 4.]
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 (5 pts)
+
+La maladie de McArdle est une myopathie (maladie musculaire) due à un trouble du métabolisme des glucides au niveau des muscles squelettiques. Les personnes atteintes par cette maladie présentent une intolérance aux efforts physiques brefs et intenses dès quelques dizaines de secondes du début de l'effort.
+
+Les études ont montré que les personnes atteintes présentent un déficit dans l'activité d'une enzyme appelée « Myophosphorylase ».
+
+Pour comprendre la relation entre le déficit de l'activité de cette enzyme et la myopathie chez les personnes atteintes, on propose les données suivantes :
+
+Donnée 1
+
+Deux variables sont mesurées chez une personne saine et chez une personne atteinte de la maladie de McArdle :
+- Première variable : la concentration du lactate dans le sang au cours d'un exercice physique bref et intense (figure a du document 1).
+- Deuxième variable : la concentration d'ADP dans les muscles de l'avant-bras au repos et après un exercice physique bref et intense (figure b du document 1).
+
+[Figure — Document 1 : figure (a) : lactate sanguin (sain : maximum 4,2 mmol/L en 2 min puis ≈ 2 mmol/L ; atteint : ≈ 1,5 mmol/L constant — valeurs d'après le corrigé officiel) ; figure (b) : ADP musculaire (repos : atteint 40 µM vs sain 10 µM ; après exercice : atteint 120 µM vs 40 µM — valeurs d'après le corrigé officiel).]
+
+1.
+a. À partir du document 1, comparer l'évolution de la concentration du lactate (figure a) et celle d'ADP (figure b) entre la personne saine et la personne atteinte. (1,5 pt)
+b. Proposer une hypothèse qui explique la variation de la concentration d'ADP dans les muscles de la personne atteinte, après un exercice physique bref et intense. (0,5 pt)
+
+Donnée 2
+
+Pour déterminer la relation entre la concentration sanguine du lactate et la régénération d'ATP musculaire, on a mesuré la quantité de ces deux métabolites chez un sprinter au cours d'un exercice bref et intense (course de 100 m).
+
+Le document 2 présente les résultats de ces mesures, et le document 3 représente un schéma simplifié de l'une des voies métaboliques de la production d'ATP à partir de la dégradation du glycogène musculaire.
+
+[Figure — Document 2 : lactate sanguin et ATP musculaire chez un sprinter (100 m).]
+[Figure — Document 3 : schéma simplifié de la fermentation lactique depuis le glycogène musculaire.]
+
+2. En s'aidant du document 2, montrer la relation entre la variation de la concentration sanguine du lactate et celle de l'ATP musculaire chez le sprinter lors de la course de 100 m. (1,25 pt)
+
+3. En exploitant le document 3 et en s'aidant des données précédentes, vérifier l'hypothèse proposée puis expliquer l'intolérance aux efforts physiques brefs et intenses chez la personne atteinte de la maladie de McArdle. (1,75 pt)
+
+### Exercice 2 (6,5 pts)
+
+La glycogénose de type V est une maladie héréditaire liée à un trouble du métabolisme des glucides au niveau des muscles squelettiques qui conduit à une myopathie. Parmi ses symptômes : des douleurs musculaires graves (myalgies) dans les premières minutes de l'effort avec une faiblesse musculaire et des crampes.
+
+Pour comprendre l'origine génétique de cette maladie, on propose les données suivantes :
+
+Donnée 1
+
+Des chercheurs ont identifié une enzyme appelée « myophosphorylase » qui intervient dans l'hydrolyse du glycogène musculaire en glucose 6-phosphate, premier métabolite de la glycolyse.
+
+Le document 1 représente la relation entre la quantité de la myophosphorylase active et l'état de santé du sujet.
+
+[Figure — Document 1 : myophosphorylase active : sujet sain 34 UA ; sujet atteint 1 UA — valeurs d'après le corrigé officiel.]
+
+1. À partir du document 1, montrer la relation protéine-caractère. (0,75 pt)
+
+Donnée 2
+
+La myophosphorylase est codée par un gène appelé « PYGM » qui existe sous plusieurs formes alléliques.
+
+Le document 2 présente un fragment du brin non transcrit pour chacun des deux allèles normal et anormal. Le document 3 présente le tableau du code génétique.
+
+Document 2 — Fragments non transcrits [reconstitués à partir du corrigé officiel] :
+- Fragment de l'allèle normal : GAA – AAC – TTC – TTC – ATC – TTT – GGC
+- Fragment de l'allèle anormal : GAA – AAC – TTC – ATC – TTT – GGC (délétion d'un triplet TTC)
+
+[Figure — Document 3 : tableau du code génétique (standard).]
+
+2.
+a. En se basant sur les documents 2 et 3, donner la séquence d'ARNm et la séquence d'acides aminés correspondantes à chacun des deux fragments d'allèles normal et anormal. (1 pt)
+b. Expliquer l'origine génétique de la glycogénose de type V. (0,5 pt)
+
+Donnée 3
+
+Le document 4 présente l'arbre généalogique d'une famille dont certains membres sont atteints par la glycogénose de type V.
+
+[Figure — Document 4, arbre généalogique non extrait ; résumé d'après le corrigé officiel : couple I1 × I2 sain avec un garçon II2 atteint ; couple II5 × II6 sain avec une fille III2 atteinte ; enfant attendu III3.]
+
+3.
+a. En exploitant le document 4, montrer le mode de transmission de la maladie puis déterminer, en justifiant la réponse, les génotypes des individus I1, II2 et II3. (1,75 pt)
+b. Calculer, en utilisant l'échiquier de croisement, la probabilité pour que l'enfant attendu III3 soit sain. (1 pt)
+(Utiliser « M » pour l'allèle dominant et « m » pour l'allèle récessif.)
+
+Donnée 4
+
+Des études épidémiologiques ont montré que la fréquence de la glycogénose de type V dans une population donnée est 1/167 000.
+
+4.
+a. Supposant que cette population obéit à la loi de Hardy-Weinberg, calculer la fréquence de l'allèle normal et celle de l'allèle anormal. (1 pt)
+b. Calculer la fréquence des sujets sains porteurs dans la population. (0,5 pt)
+(NB : Utiliser six chiffres après la virgule.)
+
+### Exercice 3 (3,5 pts)
+
+Le maïs est une plante qui présente un intérêt agro-alimentaire capital. Parmi les caractères héréditaires étudiés chez cette plante, la couleur et la forme des graines. Le maïs à graines noires est connu pour sa croissance vigoureuse et son adaptation aux régions froides.
+
+Les graines lisses du maïs sont plus riches en sucres complexes qui leur permettent de résister à la déshydratation.
+
+Dans un laboratoire de recherche agronomique, on dispose de deux lignées de maïs P1 et P2 qui diffèrent par deux caractères : la couleur (noire ou jaune) et la forme des graines (lisse ou ridée).
+
+Pour déterminer le mode de transmission des deux caractères étudiés (la couleur et la forme des graines), les chercheurs ont réalisé les croisements suivants :
+
+Premier croisement : entre des plantes de la lignée P1 et des plantes de la lignée P2. Ce croisement a donné une génération F1 constituée de graines noires et lisses.
+
+Deuxième croisement : entre des plantes d'une lignée à graines jaunes et ridées et les plantes de la génération F1. Ce croisement a donné une génération F'2 composée de :
+- 804 graines noires et ridées.
+- 796 graines jaunes et lisses.
+- 198 graines noires et lisses.
+- 202 graines jaunes et ridées.
+
+1. À partir des résultats du premier croisement, déterminer en justifiant la réponse, l'allèle dominant et l'allèle récessif pour chacun des deux caractères. (0,5 pt)
+Utiliser les symboles suivants :
+- N et n pour les allèles responsables de la couleur de la graine.
+- L et l pour les allèles responsables de la forme de la graine.
+
+2. En se basant sur les résultats du deuxième croisement, montrer que les deux gènes étudiés sont liés et déduire la distance qui les sépare. (0,75 pt)
+
+3. En se basant sur les deux croisements, déduire les génotypes des plantes P1, P2 et F1 puis interpréter les résultats du deuxième croisement en utilisant l'échiquier de croisement. (1,75 pt)
+
+• Les chercheurs désirent produire des plantes de lignée pure P3 à graines noires et lisses, à partir des croisements entre les descendants du deuxième croisement.
+
+4. Proposer, en justifiant la réponse, le croisement qui permet l'obtention de plantes de la lignée P3 (sans interprétation chromosomique du croisement). (0,5 pt)
+
+Fin
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Sujet transcrit depuis la page AlloSchool (contenu premium transcrit) car le PDF est inaccessible (HTTP 500) : https://www.alloschool.com/element/138539.
+- Exercice 1, document 1 : valeurs des figures a et b d'après le corrigé officiel.
+- Exercice 2, document 2 : fragments non transcrits reconstitués à partir des séquences d'ARNm du corrigé officiel.
+- Exercice 2, document 4 : arbre généalogique non extrait ; résumé d'après le corrigé officiel.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

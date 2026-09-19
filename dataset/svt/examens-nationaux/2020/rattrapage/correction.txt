@@ -1,0 +1,141 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2020 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2020-rattrapage-corrige.pdf
+Element: https://www.alloschool.com/element/109873
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة الاستدراكية 2020 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+RR32F
+
+## Première partie (5 pts)
+
+I.
+1. Définitions (accepter toute définition correcte) :
+a. Arbre généalogique : représentation schématique des phénotypes d'individus appartenant à la même famille, en utilisant des codes conventionnels, dans le but de suivre leurs caractères héréditaires à travers les générations. (0,5)
+b. Caryotype : arrangement des chromosomes d'une cellule selon leur taille, la disposition du centromère et des bandes colorées. (0,5)
+2. Moyens de diagnostic prénatal des anomalies chromosomiques (accepter deux tels) :
+- L'échographie ;
+- L'isolement des cellules fœtales et la réalisation du caryotype. (0,25 x 2)
+3. Difficultés relatives à l'étude de la génétique humaine (accepter deux réponses parmi) :
+• L'Homme n'est pas sujet des croisements expérimentaux ;
+• L'Homme n'est pas sujet d'induction de mutations par des mutagènes ;
+• Nombre de descendants faible ;
+• Nombre élevé des chromosomes ;
+• Longue période de gestation ;
+• Le cycle de développement est long. (0,25 x 2)
+
+II. (1, c) ; (2, d) ; (3, b) ; (4, b) — 0,5 x 4
+
+III. a : Faux ; b : Vrai ; c : Faux ; d : Vrai — 0,25 x 4
+
+## Deuxième partie (15 pts)
+
+### Exercice 1 (5 pts)
+
+1. Différence observée : la quantité de glycogène dans les cellules musculaires de l'enfant atteint est faible par rapport à celle chez l'enfant sain. (0,25)
+Explication : les enfants atteints de la maladie présentent un déficit dans le fonctionnement de l'enzyme glycogène synthétase → déficit dans la synthèse du glycogène dans la cellule musculaire → faible quantité de glycogène stocké dans leurs cellules musculaires. (0,75)
+
+2. Description :
+- Dans le cas de l'exercice peu intense : la teneur en glycogène diminue progressivement de 100 UA à 70 UA au bout de deux heures de l'effort musculaire.
+- Dans le cas de l'exercice modéré : la teneur en glycogène diminue rapidement de 100 UA à 40 UA au bout de deux heures de l'effort musculaire.
+- Dans le cas de l'exercice intense : la teneur en glycogène diminue d'une façon très rapide de 100 UA à moins de 10 UA au bout de 90 min de l'effort musculaire. [Le tableau du sujet indique 15 UA à 90 min.]
+(0,25 x 3)
+Déduction : la consommation du glycogène dans les cellules musculaires augmente avec l'augmentation de l'effort musculaire. (0,5)
+
+3. Explication : augmentation de l'effort musculaire → augmentation de la consommation d'ATP lors de la contraction musculaire → activation des voies métaboliques de synthèse d'ATP dans les cellules musculaires (glycolyse, cycle de Krebs, réactions de la chaîne respiratoire, fermentation lactique) → augmentation de la consommation du glucose nécessaire à la synthèse d'ATP → augmentation de la consommation du glycogène. (0,25 x 5)
+
+4. Explication :
+Augmentation de l'effort musculaire → consommation accrue du glycogène stocké dans les muscles et libération de plus de glucose → synthèse de grande quantité d'ATP indispensable à la contraction musculaire. (0,25 x 3)
+Les personnes souffrant de la maladie GSD-0 présentent un déficit dans le fonctionnement de la glycogène synthétase → la quantité de glycogène stocké dans les cellules musculaires est très faible → l'intolérance à l'effort musculaire. (0,25 x 3)
+
+### Exercice 2 (6,5 points)
+
+1. La relation protéine – caractère :
+- En présence des récepteurs d'androgènes normaux → la fixation des androgènes sur les récepteurs permet d'avoir un complexe qui active l'expression des gènes cibles → développement des caractères sexuels mâles → personne normale. (0,25)
+- En présence des récepteurs d'androgènes anormaux → la fixation des androgènes sur les récepteurs permet d'avoir un complexe qui n'arrive pas à activer l'expression des gènes cibles → altération du développement des caractères sexuels mâles → personne atteinte de la maladie de Kennedy. (0,25)
+- Donc une modification au niveau de la protéine « récepteur d'androgène » entraîne une modification au niveau du caractère « personne saine ou atteinte de la maladie de Kennedy ». (0,5)
+
+2. Comparaison des séquences nucléotidiques du gène AR entre l'individu sain et l'individu malade :
+- Ressemblance au niveau des séquences nucléotidiques avant et après les répétitions du triplet CAG.
+- Le triplet CAG est répété 15 fois chez l'individu normal alors qu'il est répété 38 fois chez l'individu malade. (0,5)
+Comparaison des séquences des acides aminés entre l'individu sain et l'individu malade :
+- Ressemblance au niveau des séquences des acides aminés avant et après les répétitions du Glutamine.
+- L'acide aminé Glutamine est répété 15 fois chez l'individu normal alors qu'il est répété 38 fois chez l'individu malade. (0,5)
+
+3. Explication de l'origine génétique de la maladie : une mutation par répétition (addition) du triplet CAG 23 fois au niveau du gène AR → incorporation de 23 acides aminés Gln supplémentaires au niveau de la séquence peptidique → synthèse d'un récepteur des androgènes anormal → pas d'expression des gènes cibles → altération du développement des caractères sexuels mâles et apparition de la maladie de Kennedy. (0,75)
+
+4.
+a. L'allèle responsable de la maladie est récessif (accepter toute réponse logique telle) : (0,25)
+- Les parents I1 et I2 (ou II3 et II4) sont de phénotypes sains et ont donné naissance à un enfant II1 (ou III1) de phénotype malade → ses parents sont hétérozygotes → l'allèle responsable de la maladie est récessif.
+- Le gène responsable de la maladie est porté par le chromosome sexuel X → la femme I2 (ou II3) est saine et a donné naissance à un garçon malade → elle porte donc l'allèle responsable de la maladie → l'allèle responsable de la maladie est récessif.
+- Génotypes des individus I2, II1, III2 : (0,25 x 3)
+- I2 : XN Xn
+- II1 : Xn Y [extraction « XN Y » normalisée : l'individu II1 est malade]
+- III2 : XN XN ou XN Xn
+b. Probabilité pour que le couple III2 × III3 donne naissance à un enfant malade :
+Parents : ♀ III2 x ♂ III3 — Phénotypes : [N] x [N] — Génotypes : XN Xn x XN Y
+Gamètes : XN (1/2), Xn (1/2) x XN (1/2), Y (1/2)
+Échiquier de croisement :
+
+| ♀ \ ♂ | XN (1/2) | Y (1/2) |
+|---|---|---|
+| XN (1/2) | XN XN [N] (1/4) | XN Y [N] (1/4) |
+| Xn (1/2) | XN Xn [N] (1/4) | Xn Y [n] (1/4) |
+
+Probabilité que le couple III2 × III3 donne naissance à un enfant malade : 1/4. (0,25 x 3)
+
+5. La fréquence de l'allèle responsable de la maladie et celle de l'allèle normal :
+- Fréquence de l'allèle responsable de la maladie : puisque f(Xn Y) = q, donc : f(n) = q = 1/150000 = 0,000006 [sic — 1/150000 ≈ 0,000007 arrondi à six décimales]. (0,5)
+- La fréquence de l'allèle normal : f(N) = 1 - q = 1 - 0,000006 = 0,999994. (0,5)
+
+6. Fréquences des femmes porteuses et des femmes non porteuses de l'allèle responsable de la maladie :
+- Fréquences des femmes non porteuses de l'allèle responsable de la maladie : f(XN XN) = p² = 0,999988. (0,5)
+- Fréquences des femmes porteuses de l'allèle responsable de la maladie : f(XN Xn) = 2pq = 2 × 0,999994 × 0,000006 = 0,000011 [sic — le calcul donne ≈ 0,000012]. (0,5)
+
+### Exercice 3 (3,5 points)
+
+1. Déductions à partir du premier croisement :
+- Les parents sont de lignées pures.
+- L'allèle responsable de la taille normale (N) est dominant par rapport à l'allèle responsable de la taille naine (n).
+- L'allèle responsable du fruit lisse (L) est dominant par rapport à l'allèle responsable du fruit velouté (l). (0,25 x 3)
+
+2.
+a. Les deux gènes sont liés : la génération F'2 est le résultat d'un croisement-test, le pourcentage des phénotypes parentaux (95,6 %) est supérieur à celui des phénotypes recombinés (4,4 %) → les deux gènes étudiés sont liés. (0,5)
+Le pourcentage des phénotypes recombinés est 4,4 %, donc la distance entre les deux gènes étudiés est 4,4 cM. (0,25)
+b. L'interprétation chromosomique des résultats du deuxième croisement :
+Parents : Plantes de la lignée mutante x Plantes de la génération F1
+Phénotypes : [n ; l] x [N ; L]
+Génotypes : (n l // n l) x (N L // n l) (0,25)
+Gamètes : 100 % (n l) x 47,6 % (N L), 48 % (n l), 2,1 % (N l), 2,3 % (n L) (0,25)
+Échiquier de croisement : (0,5)
+
+|  | (n l) 100 % |
+|---|---|
+| (N L) 47,6 % | (N L // n l) [N ; L] 47,6 % |
+| (n l) 48 % | (n l // n l) [n ; l] 48 % |
+| (N l) 2,1 % | (N l // n l) [N ; l] 2,1 % |
+| (n L) 2,3 % | (n L // n l) [n ; L] 2,3 % |
+
+3.
+a. La distance relative entre le gène responsable de la taille de la plante et celui responsable de la couleur des feuilles est : le pourcentage des phénotypes recombinés est 12,2 %, donc la distance entre les deux gènes étudiés est 12,2 cM.
+La distance relative entre le gène responsable de l'aspect du fruit et celui responsable de la couleur des feuilles : le pourcentage des phénotypes recombinés est 16,6 %, donc la distance entre les deux gènes étudiés est 16,6 cM. (0,25 x 2)
+b. La carte factorielle des trois gènes étudiés : (accepter toute échelle convenable) (0,5)
+(L, l) —— 4,4 —— (N, n) —— 12,2 —— (V, v)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Référence : RR 32F.
+- Exercice 1, question 2 : « moins de 10 UA au bout de 90 min » transcrit tel qu'extrait alors que le tableau du sujet indique 15 UA à 90 min (exercice intense).
+- Exercice 2, question 4a : génotype de II1 transcrit Xn Y (individu malade) ; l'extraction lisait « XN Y ».
+- Exercice 2, questions 5-6 : valeurs transcrites telles qu'extraites ; le corrigé tronque au lieu d'arrondir (1/150000 ≈ 0,000007 ; 2pq ≈ 0,000012).

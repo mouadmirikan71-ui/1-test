@@ -1,0 +1,217 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2024 - Session Rattrapage - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2024-rattrapage-sujet.pdf
+Element: https://www.alloschool.com/element/145879
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2024 - الموضوع -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+RS32F
+
+Il est permis d'utiliser la calculatrice non programmable.
+
+## Partie I : Restitution des connaissances (5 points)
+
+I. Définissez les notions suivantes : a. La fermentation alcoolique ; b. Les facteurs du complément. (1 pt) [notion a reconstituée d'après le corrigé officiel]
+
+II. Pour chacune des propositions numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …), et donnez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1 – Les gènes du CMH sont :
+a – Multi-alléliques avec dominance absolue.
+b – Bi-alléliques avec dominance absolue.
+c – Multi-alléliques avec codominance.
+d – Bi-alléliques avec codominance.
+
+2 – L'ordre chronologique des étapes de la réaction immunitaire humorale est :
+a – Prolifération → Induction → Phase effectrice.
+b – Induction → Prolifération → Phase effectrice.
+c – Phase effectrice → Prolifération → Induction.
+d – Induction → Phase effectrice → Prolifération.
+
+3 – Lors des réactions du cycle de Krebs, il y a :
+a – Consommation de dioxygène sans production d'ATP.
+b – Consommation de CO2 et production d'ATP.
+c – Dégagement de dioxygène et production d'ATP.
+d – Dégagement de CO2 et production d'ATP.
+
+4 – Lors de la contraction musculaire, on assiste à :
+a – Un allongement de la zone H sans changement de la longueur de la bande sombre.
+b – Un raccourcissement de la bande claire sans changement de la longueur de la bande sombre.
+c – Un raccourcissement de la bande claire sans changement de la longueur de la zone H.
+d – Un allongement de la bande claire sans changement de la longueur de la bande sombre.
+
+III. Recopiez, sur votre feuille de rédaction, la lettre correspondante à chaque proposition parmi les propositions suivantes, puis écrivez devant chaque lettre « Vrai » ou « Faux ». (1 pt)
+
+a – Les cellules filles issues de la division réductionnelle de la méiose ont la même information génétique.
+b – Le diagnostic prénatal permet de détecter des anomalies chromosomiques chez le fœtus.
+c – Un codon correspond à un triplet de nucléotides au niveau de l'ARNm.
+d – Le plasmide est une molécule d'ADN circulaire indépendante du chromosome bactérien.
+
+IV. Recopiez sur votre feuille de rédaction les couples (1, …) ; (2, …) ; (3, …) ; (4, …) et adressez à chacun des quatre numéros du groupe 1 (les phases de la mitose) la lettre qui lui correspond parmi les cinq éléments du groupe 2 (les caractéristiques). (1 pt)
+
+Groupe 1 : Les phases de la mitose — 1. Prophase ; 2. Métaphase ; 3. Anaphase ; 4. Télophase.
+Groupe 2 : Les caractéristiques — a. Migration des chromatides sœurs vers les deux pôles de la cellule ; b. Réapparition de l'enveloppe nucléaire et du nucléole ; c. Échange de fragments entre les chromosomes homologues ; d. Disparition du nucléole et de l'enveloppe nucléaire ; e. Alignement des chromosomes sur le plan équatorial de la cellule.
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 (3 points)
+
+Dans le cadre de l'étude du rôle des ions calcium (Ca²⁺) dans la contraction musculaire, on propose l'étude d'une pathologie génétique appelée « myopathie liée au RyR1 » dans laquelle les muscles ne fonctionnent pas de manière normale. Cette maladie se caractérise principalement par une contracture musculaire généralisée (contraction prolongée et douloureuse).
+
+Afin de déterminer les manifestations et les causes de cette maladie, on propose les données suivantes :
+
+● Donnée 1 : Le document 1 présente deux schémas simplifiés montrant les modifications au niveau de la fibre musculaire lorsqu'elle passe de l'état de relâchement à l'état de contraction chez une personne saine.
+
+[Figure — Document 1 : Muscle relâché / Muscle contracté ; agrandissement de la fibre musculaire : sarcoplasme, Ca²⁺, réticulum sarcoplasmique, membrane du réticulum, canal RyR1.]
+
+1. À partir du document 1, décrivez la répartition des ions Ca²⁺ au niveau de la fibre musculaire à l'état relâché et à l'état contracté, puis établissez le lien entre l'état du canal RyR1, la répartition des ions Ca²⁺ et l'état du muscle. (1 pt)
+
+● Donnée 2 : Des études ont permis de construire un modèle explicatif du mode d'action du Ca²⁺ lors de la contraction musculaire au niveau de la myofibrille. Le document 2 présente ce modèle.
+
+[Figure — Document 2 : État 1 (en absence des ions Ca²⁺) : actine, tropomyosine, troponine (site de fixation de la tête de myosine masqué), tête de myosine + ADP + Pi, filament de myosine, coupe transversale. État 2 (en présence des ions Ca²⁺) : Ca²⁺ + troponine → translation de la tropomyosine (actine) → glissement, tête de myosine + ADP + Pi.]
+
+2. En vous basant sur les données du document 2, expliquez les modifications au niveau de la myofibrille en passant de l'état 1 à l'état 2, en précisant le rôle des ions Ca²⁺ dans la contraction musculaire. (1 pt)
+
+● Donnée 3 : Le document 3 présente l'état du canal RyR1 au repos chez une personne saine et une personne atteinte de la myopathie liée au RyR1.
+
+[Figure — Document 3 : personne saine : réticulum sarcoplasmique (Ca²⁺), sarcoplasme, canal RyR1 ; personne atteinte de myopathie : réticulum sarcoplasmique, sarcoplasme.]
+
+3. En vous basant sur le document 3 et les données précédentes, comparez l'état du canal RyR1 au repos chez la personne saine et la personne atteinte de la maladie, puis expliquez les contractures musculaires observées chez la personne atteinte de la myopathie liée au RyR1. (1 pt)
+
+### Exercice 2 (5 points)
+
+La dystrophie musculaire distale ou la myopathie de Miyoshi est une maladie héréditaire caractérisée par une atrophie et une faiblesse des muscles squelettiques des pieds et des jambes, parfois des mains, entraînant des difficultés pour monter les escaliers, courir, marcher… Cette maladie est due à la dégénérescence progressive des fibres musculaires.
+
+Afin de déterminer l'origine génétique de cette maladie et son mode de transmission, on propose les données suivantes :
+
+● Donnée 1 : On mesure la quantité de la protéine dysferline fonctionnelle dans les fibres musculaires chez un individu sain et chez un individu atteint de la myopathie de Miyoshi. Le document 1 présente les résultats obtenus.
+
+Document 1 :
+
+|  | Quantité de la dysferline fonctionnelle (UA) |
+|---|---|
+| Individu sain | 100 |
+| Individu atteint | 20 |
+
+La dysferline est une protéine qui intervient lors du stress mécanique que subissent les muscles squelettiques. Pour déterminer le rôle de cette protéine, une expérience est réalisée sur des fibres musculaires (ayant la dysferline fonctionnelle). Ces fibres musculaires ont été exposées à un stress mécanique créant des lésions (trous) de la membrane plasmique. Puis on a suivi en fonction du temps le taux de réparation des fibres musculaires. Le document 2 présente les résultats obtenus.
+
+Document 2 : [tableau reconstitué : les colonnes du PDF scanné étant mélangées ; attribution fondée sur le corrigé officiel (45 % vs 20 % à 200 s)]
+
+| Temps (s) | Taux de réparation des myofibres avec dysferline fonctionnelle (%) | Taux de réparation des myofibres avec dysferline non fonctionnelle (%) |
+|---|---|---|
+| 50 | 21 | 10 |
+| 100 | 32 | 15 |
+| 150 | 39 | 18 |
+| 200 | 44 | 20 |
+
+1. En exploitant les deux documents 1 et 2 :
+a. Comparez la quantité de la dysferline fonctionnelle chez l'individu atteint par rapport à celle chez l'individu sain. (0,5 pt)
+b. Décrivez l'évolution du taux de réparation des deux types de fibres musculaires en fonction du temps, puis déduisez le rôle de la protéine dysferline. (0,5 pt)
+c. Montrez la relation protéine – caractère. (0,5 pt)
+
+● Donnée 2 : La synthèse de la dysferline est contrôlée par un gène nommé DYSF. Le document 3 présente deux fragments des brins non transcrits de deux allèles DYSF : l'un normal chez un individu sain et l'autre mutant chez un individu atteint de la maladie de Miyoshi. Le document 4 présente le tableau du code génétique.
+
+Document 3 — Numéros des nucléotides : 2482, 2492, 2502 :
+- Fragment de l'allèle normal (chez l'individu sain) : TGTGGGAAGCTACAGACAATCTTTCTG. Sens de lecture →
+- Fragment de l'allèle mutant (chez l'individu atteint) : TGTGGGAAGCTATAGACAATCTTTCTG. Sens de lecture →
+
+Document 4 — Tableau du code génétique (standard ; extrait du PDF scanné) : UUU, UUC : Phe ; UUA, UUG : Leu ; UCU, UCC, UCA, UCG : Ser ; UAU, UAC : Tyr ; UAA, UAG, UGA : Stop ; UGU, UGC : Cys ; UGG : Trp ; CUU, CUC, CUA, CUG : Leu ; CCU, CCC, CCA, CCG : Pro ; CAU, CAC : His ; CAA, CAG : Gln ; CGU, CGC, CGA, CGG : Arg ; AUU, AUC, AUA : Ile ; AUG : Met ; ACU, ACC, ACA, ACG : Thr ; AAU, AAC : Asn ; AAA, AAG : Lys ; AGU, AGC : Ser ; AGA, AGG : Arg ; GUU, GUC, GUA, GUG : Val ; GCU, GCC, GCA, GCG : Ala ; GAU, GAC : Ac. asp ; GAA, GAG : Ac. glu ; GGU, GGC, GGA, GGG : Gly.
+
+2. À partir des deux documents 3 et 4, donnez les séquences d'ARNm et d'acides aminés qui correspondent à chacun des fragments des allèles DYSF normal et mutant, puis expliquez l'origine génétique de la maladie de Miyoshi. (1,5 pts)
+
+● Donnée 3 : Le document 5 présente l'arbre généalogique (pedigree) d'une famille dont certains membres sont atteints de la maladie de Miyoshi.
+
+[Figure — Document 5, arbre généalogique : générations I, II, III, IV ; légende : Homme sain, Femme saine, Fœtus, Homme malade, Femme malade. Arbre non extrait en détail ; résumé d'après le corrigé officiel (fille II5 — ou IV3 — malade issue d'un père sain ; couple III4 × III5, tous deux sains [D], parents du fœtus IV1).]
+
+3. À partir du document 5, déterminez, en justifiant votre réponse, le mode de transmission de cette maladie. (1 pt)
+
+NB : Utiliser les symboles D et d pour désigner les allèles du gène étudié.
+
+4. En vous aidant d'un échiquier de croisement, déterminez la probabilité pour que le fœtus IV1 soit atteint de la maladie de Miyoshi. (1 pt)
+
+### Exercice 3 (3 points)
+
+Dans le cadre de l'étude de la transmission de certains caractères héréditaires non liés au sexe chez les souris, on propose les croisements suivants :
+
+• Premier croisement : entre des souris à pelage gris et lisse et des souris à pelage blanc et crépu, ce croisement a donné une génération F1 composée de souris à pelage gris et lisse.
+
+1. En vous basant sur les résultats de ce croisement, déterminez le mode de transmission de ces deux caractères, puis donnez les génotypes possibles des individus de la génération F1. (1 pt)
+
+NB : Utilisez les symboles suivants : G et g pour les allèles du gène responsable de la couleur du pelage. L et l pour les allèles du gène responsable de la forme du pelage.
+
+Afin de préciser la position des gènes étudiés sur les chromosomes, on propose l'hypothèse suivante : les deux gènes étudiés sont complètement liés avec absence de crossing-over lors de la formation des gamètes chez les individus F1 (linkage absolu).
+
+2. À l'aide d'un échiquier de croisement, donnez les proportions phénotypiques attendues en F2 lors du croisement des hybrides F1 entre eux. (1 pt)
+
+Afin de vérifier l'hypothèse on réalise un deuxième croisement :
+
+• Deuxième croisement : entre un individu de la génération F1 et un individu double homozygote à pelage blanc et crépu, ce croisement a donné une génération F'2 composée de :
+• 48,29 % des souris à pelage gris et lisse.
+• 48,71 % des souris à pelage blanc et crépu.
+• 1,29 % des souris à pelage gris et crépu.
+• 1,71 % des souris à pelage blanc et lisse.
+
+3. En vous basant sur les résultats du deuxième croisement et en justifiant votre réponse, vérifiez l'hypothèse déjà proposée. (1 pt)
+
+### Exercice 4 (4 points)
+
+Le cannabis (Cannabis sativa) est une plante utilisée comme drogue dont la substance active est le tétrahydrocannabinol (THC). Afin de déterminer l'effet de cette substance sur la réponse immunitaire, on propose les données suivantes :
+
+● Donnée 1 : Des souris de même lignée sont immunisées suite à une implantation de cellules tumorales irradiées : l'irradiation rend ces cellules moins nocives mais elles restent capables de déclencher une réaction immunitaire. Quatre semaines après ce premier contact, les souris immunisées sont réparties en deux lots :
+• Lot 1 (témoin) : souris non injectées par le THC.
+• Lot 2 : souris injectées par le THC.
+Les souris des deux lots sont soumises à une implantation de cellules tumorales non irradiées en nombre de 3.10⁵ cellules. On suit pour chaque lot l'évolution de la taille de la tumeur. Le document 1 présente les résultats obtenus.
+
+[Figure — Document 1 : souris du lot 1 (témoin) : implantation de cellules tumorales non irradiées → après 30 jours → après quelques semaines → régression de la tumeur. Souris du lot 2 : implantation de cellules tumorales non irradiées + THC → après 30 jours → après quelques semaines → développement de la tumeur.]
+
+1. À partir du document 1, décrivez les résultats obtenus, et proposez une hypothèse déterminant l'effet du THC sur la réponse immunitaire. (1 pt)
+
+● Donnée 2 : Le développement d'une tumeur déclenche une réaction immunitaire par l'activation et la multiplication des lymphocytes T. On suit pour chaque lot de souris (lots 1 et 2) la prolifération de lymphocytes T (exprimée par le nombre) en fonction du nombre de cellules tumorales implantées. Les résultats sont présentés dans le document 2.
+
+Document 2 :
+
+| Nombre de cellules tumorales implantées (UA) | Prolifération des lymphocytes T — Lot 1 (témoin) (UA) | Prolifération des lymphocytes T — Lot 2 (THC) (UA) |
+|---|---|---|
+| 160 | 3200 | 1800 |
+| 312 | 4800 | 2500 |
+| 624 | 8500 | 4100 |
+| 1250 | 10800 | 6200 |
+| 2500 | 20600 | 10900 |
+
+2. À partir du document 2, comparez les résultats obtenus entre les deux lots de souris, puis déduisez l'action du THC sur la prolifération des lymphocytes T. (0,75 pt)
+
+● Donnée 3 : Les réactions anti-tumorales font intervenir des molécules appelées cytokines, secrétées par certaines cellules immunitaires. La concentration de l'IFN-γ (type de cytokines secrétées) a été mesurée au niveau de la tumeur et au niveau de la rate chez les souris des deux lots. Les résultats de ces mesures sont présentés dans le tableau du document 3.
+
+Document 3 :
+
+|  | Concentration de l'IFN-γ au niveau de la tumeur (pg/ml/500 mg de la tumeur) | Concentration de l'IFN-γ au niveau de la rate (pg/ml/10⁶ cellules) |
+|---|---|---|
+| Souris du lot 1 (témoin) non injectées par le THC | 190 | 37,3 |
+| Souris du lot 2 injectées par le THC | 73,2 | 21,1 |
+
+3. En vous basant sur le document 3, comparez la concentration de l'IFN-γ, au niveau de la tumeur et au niveau de la rate, chez les deux lots de souris, puis dégagez l'effet du THC sur la sécrétion de l'IFN-γ. (1 pt)
+
+● Donnée 4 : Le document 4 présente un modèle explicatif de la coopération cellulaire lors d'une réponse immunitaire anti-tumorale précisant l'intervention de l'IFN-γ.
+
+[Figure — Document 4 : Cellule présentatrice d'antigène (déterminant antigénique + CMH) → récepteur T → IFN-γ → multiplication et différenciation des T8 en Tc → perforine et granzyme → destruction de la cellule tumorale → mort cellulaire.]
+
+4. En vous aidant du document 4 et des données précédentes, expliquez l'effet du THC sur la réponse immunitaire anti-tumorale et vérifiez l'hypothèse proposée. (1,25 pts)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question I : notion a reconstituée d'après le corrigé officiel.
+- Exercice 2, document 2 : tableau reconstitué (colonnes du PDF scanné confondues) d'après le corrigé officiel.
+- Exercice 2, document 4 : tableau du code génétique normalisé (extraction du PDF scanné partielle).
+- Exercice 2, document 5 : arbre généalogique non extrait en détail ; résumé d'après le corrigé officiel.
+- Exercice 4, document 3 : unité de la rate « pg/ml/10⁶ cellules » (extraction « 10 »).
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

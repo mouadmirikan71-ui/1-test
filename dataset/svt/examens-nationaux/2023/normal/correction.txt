@@ -1,0 +1,145 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2023 - Session Normale - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2023-normale-corrige.pdf
+Element: https://www.alloschool.com/element/142316
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة العادية 2023 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+NR32F
+
+## Partie I : Restitution des connaissances (5 points)
+
+I. (Accepter toute définition correcte telle que :)
+a – Le complexe majeur d'histocompatibilité (CMH) : groupe de molécules de nature glycoprotéique, situées sur la membrane des cellules nucléées et qui servent à la reconnaissance du soi. (0,5 pt)
+b – Un antigène : tout élément étranger à l'organisme, capable d'engendrer une réponse immunitaire dans le but de l'éliminer. (0,5 pt)
+
+II. (1, b) ; (2, d) ; (3, b) ; (4, b) — 2 pts
+
+III. a – Faux ; b – Vrai ; c – Faux ; d – Faux — 1 pt
+
+IV. (1, d) ; (2, a) ; (3, c) ; (4, e) — 1 pt
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 (3 points)
+
+1.
+a – Comparaison :
+• La quantité d'O2 consommé : avant l'ajout de l'ADP, la quantité du dioxygène consommé par l'individu sain est égale à celle de l'individu atteint par la maladie et est égale à 30 × 10⁻¹² mol/s, alors qu'après l'ajout de l'ADP, on note une augmentation de la quantité d'O2 consommé chez l'individu sain (70 × 10⁻¹² mol/s) par rapport à l'individu atteint (55 × 10⁻¹² mol/s). (0,5)
+• La quantité d'ATP synthétisée : chez l'individu atteint du syndrome de NARP, la quantité d'ATP synthétisée est faible par rapport à celle de l'individu sain. (0,25)
+b – Mise en relation : réoxydation des NADH, H+ et des FADH2 → transfert des électrons à travers les complexes de la chaîne respiratoire → réduction du dioxygène en H2O → consommation du dioxygène → pompage des protons H+ de la matrice vers l'espace intermembranaire → retour des protons H+ à travers la sphère pédonculée → phosphorylation de l'ADP en ATP (synthèse de l'ATP). (0,5)
+• Hypothèse : accepter toute hypothèse logique, telle que : (0,25)
+- Un déficit en ATP synthase provoque une diminution de la phosphorylation de l'ADP en ATP.
+- Un dysfonctionnement au niveau de la chaîne respiratoire entraîne une diminution de la réduction de l'O2 donc de la consommation de l'O2.
+
+2.
+• Comparaison : les quantités des complexes membranaires de CI à CIV chez l'individu sain sont égales à celles de l'individu atteint, par contre la quantité du complexe V est plus élevée chez l'individu sain que chez l'individu atteint. (0,5)
+• Vérification de l'hypothèse. (0,25)
+NB : accepter toute vérification logique en rapport avec l'hypothèse proposée.
+
+3.
+• Explication : faible quantité du complexe CV présent au niveau de la membrane mitochondriale interne (0,25) → faible quantité des protons H+ qui retournent de l'espace intermembranaire vers la matrice → faible quantité d'ATP synthétisée par les sphères pédonculées (0,25) → diminution de l'oxydation des transporteurs réduits → réduction faible de l'O2 en H2O → diminution de la quantité du O2 consommé. (0,25)
+
+### Exercice 2 (5 points)
+
+1.
+• Comparaison : l'activité de l'enzyme α-GAL chez l'individu atteint de la maladie de Fabry est cinq fois plus faible (20 %) que celle chez l'individu sain (100 %). (0,25)
+• Relation protéine – caractère :
+- Chez l'individu sain : activité normale de α-GAL (la protéine) → dégradation de GL-3 → rejet ou réutilisation → individu sain (caractère).
+- Chez l'individu atteint de la maladie de Fabry : déficit en α-GAL (la protéine) → pas de dégradation de GL-3 → accumulation de ces molécules GL-3 dans les lysosomes → apparition des symptômes de la maladie (caractère).
+Donc toute modification au niveau de cette protéine entraîne une modification au niveau du caractère → relation protéine-caractère. (0,25)
+
+2.
+• L'ARNm et la séquence d'acides aminés correspondants à :
+- l'allèle normal :
+* ARNm : AUG – UCU – AAU – GAC – CUC – CGA – CAC – AUC – AGC. (0,25)
+* Séquence d'acides aminés : Met – Ser – Asn – Ac. asp – Leu – Arg – His – Ile – Ser. (0,25)
+- l'allèle muté :
+* ARNm : AUG – UCU – AAU – GAC – CUC – UGA – CAC – AUC – AGC. (0,25)
+* Séquence d'acides aminés : Met – Ser – Asn – Ac. asp – Leu. (0,25)
+• Origine génétique de la maladie de Fabry : (0,5)
+- Mutation par substitution au niveau du triplet 6 (substitution de C par T) dans le brin non transcrit. (On accepte le raisonnement basé sur le brin transcrit.) → apparition d'un codon stop au niveau de l'ARNm → arrêt de la traduction → synthèse de l'enzyme α-GAL non fonctionnelle → accumulation de GL-3 dans les lysosomes → apparition de la maladie de Fabry.
+
+3.
+a – Mode de transmission du syndrome de Fabry :
+- L'allèle responsable de la maladie de Fabry est récessif + justification. (0,25)
+- Le gène GAL est porté par le chromosome sexuel X (0,5) : selon la figure (a), la maladie apparaît uniquement chez les hommes. Selon la figure (b), les femmes (I2 et III2) portent deux allèles, par contre les hommes (I1 et II3) ont un seul allèle. Donc la maladie est portée par le chromosome présent en double exemplaire chez les femmes et en un seul exemplaire chez les hommes.
+b – Calcul de la probabilité pour que le couple (I1, I2) donne naissance à une fille atteinte du syndrome de Fabry :
+Parents : I1 × I2 — I1 (homme atteint) : Xa Y ; I2 (femme conductrice) : XA Xa.
+Gamètes : Xa (1/2), Y (1/2) × XA (1/2), Xa (1/2).
+Échiquier de croisement :
+
+|  | XA (1/2) | Xa (1/2) |
+|---|---|---|
+| Xa (1/2) | XA Xa [A] (1/4) | Xa Xa [a] (1/4) |
+| Y (1/2) | XA Y [A] (1/4) | Xa Y [a] (1/4) |
+
+La probabilité d'avoir une fille atteinte (Xa Xa) est de 1/4. (0,75 pt)
+
+4. [Réponses reconstituées : passages non extraits du corrigé officiel.]
+a. f(a) = q = 1/40000 = 0,000025 ; f(A) = p = 1 - q = 0,999975. (1 pt)
+b. Fréquence des femmes hétérozygotes : f(XA Xa) = 2pq = 2 × 0,999975 × 0,000025 ≈ 0,000050. (0,5 pt)
+
+### Exercice 3 (4 points)
+
+1. [Réponse reconstituée : passage non extrait du corrigé officiel.] F1 homogène de phénotype sauvage → parents de races pures (1ère loi de Mendel) ; l'allèle R (graines rouges) est dominant sur r (graines blanches) ; l'allèle A (graines arrondies) est dominant sur a (graines déprimées). (0,5 pt)
+
+2. [Réponse reconstituée : passage non extrait du corrigé officiel.] Le deuxième croisement (test-cross) donne des phénotypes parentaux (176 + 184 = 360, soit 90 %) supérieurs aux phénotypes recombinés (23 + 17 = 40, soit 10 %) → les deux gènes sont liés (liaison partielle). (0,5 pt)
+
+3. Interprétation chromosomique des résultats du deuxième croisement : [parents et gamètes reconstitués ; échiquier extrait]
+Parents : plante F1 × plante double récessive — Phénotypes : [R, A] × [r, a] — Génotypes : (R A // r a) × (r a // r a).
+Gamètes : (R A) 44 %, (r a) 46 %, (R a) 5,75 %, (r A) 4,25 % × (r a) 100 %.
+Échiquier de croisement :
+
+|  | (R A) 44 % | (r a) 46 % | (R a) 5,75 % | (r A) 4,25 % |
+|---|---|---|---|---|
+| (r a) 100 % | [R, A] 44 % | [r, a] 46 % | [R, a] 5,75 % | [r, A] 4,25 % |
+
+La descendance du deuxième croisement est constituée de : (0,25)
+- phénotypes parentaux : 44 % [R, A] et 46 % [r, a] = 90 % ;
+- phénotypes recombinés : 5,75 % [R, a] et 4,25 % [r, A] = 10 %.
+(1,5 pt)
+
+4. [Schémas non extraits : dédoublement des deux chromosomes, crossing-over, méiose → formation des gamètes recombinés (R a) et (r A) de la plante F1.] (1 pt)
+
+5.
+• Réalisation de la carte factorielle : la distance entre le gène de la couleur des graines et le gène de la forme des graines : 4,25 + 5,75 = 10 cM.
+(R ; r) —— 10 cM —— (A ; a)
+Échelle : 1 cm → 2 cM. (0,5 pt)
+
+### Exercice 4 (3 points)
+
+1.
+• Quatre indices parmi les suivants : (4 x 0,25)
+• Indices de l'affrontement de deux masses continentales :
+- Présence de deux plaques continentales (la plaque arabique et la plaque eurasiatique) en confrontation.
+- Présence de déformations de type compressif : des plis et des chevauchements (MZT, ZDF…). [extraction « MZF »]
+- Épaississement important de la croûte continentale (plus de 20 km d'épaisseur).
+• Indices de la fermeture d'un ancien domaine océanique :
+- Présence des ophiolites métamorphisées.
+
+2. Les conditions de pression et de température de formation des deux roches MG1 et MG2 :
+Le métagabbro 1 (MG1) contient deux minéraux (Glaucophane et Plagioclase). Donc il appartient au domaine B : P : de 0,5 GPa à 1,1 GPa ; T : de 60 °C à 450 °C.
+Le métagabbro 2 (MG2) contient trois minéraux (Glaucophane, Jadéite et Grenat), appartient au domaine D : P : 0,8 GPa à 2 GPa ; T : 210 °C à 510 °C. [températures MG2 reconstituées d'après l'extraction]
+Type de métamorphisme : la transformation de l'association minérale (glaucophane et plagioclase) caractérisant le métagabbro 1 en association minérale (Glaucophane, Jadéite et Grenat) caractérisant le métagabbro 2 est le résultat d'une augmentation importante de la pression et d'une faible augmentation de la température → métamorphisme de haute pression et basse température : métamorphisme dynamique (métamorphisme d'enfouissement). (1 pt)
+
+3. [Réponse non extraite du corrigé officiel : succession des étapes de formation de la chaîne du Zagros — à compléter.] (1 pt)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Référence : NR 32F.
+- Passages non extraits (PDF scanné) reconstitués à partir du sujet et des calculs : Exercice 2 question 4, Exercice 3 questions 1, 2, début de 3, et question 4 (schémas).
+- Exercice 4, question 3 : corrigé non extrait — à compléter depuis le PDF source.
+- Exercice 4, question 1 : « ZDF » transcrit pour « MZF » de l'extraction (conforme au sujet).
+- Exercice 4, question 2 : températures du MG2 (210–510 °C) reconstituées d'après l'extraction partielle.

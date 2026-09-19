@@ -1,0 +1,202 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2017 - Session Normale - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2017-normale-sujet.pdf
+Element: https://www.alloschool.com/element/65641
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2017 - الموضوع -
+المادة: علوم الحياة والأرض
+الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+NS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I. Pour chacune des propositions numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …), et donnez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1 – Le complexe immun se forme par la liaison entre :
+a- Les lymphocytes Tc et les antigènes ;
+b- Le complément et les antigènes ;
+c- Le complément et les anticorps ;
+d- Les anticorps et les antigènes.
+
+2 – La sérothérapie est un moyen de soutien du système immunitaire qui assure au corps :
+a- Une immunité active contre les antigènes ;
+b- Une mémoire immunitaire contre les antigènes ;
+c- Une protection instantanée contre les antigènes ;
+d- Des lymphocytes spécifiques contre les antigènes.
+
+3 – La mémoire immunitaire se manifeste par :
+a- Des anticorps qui persistent longtemps, à forte dose, dans le corps ;
+b- Des plasmocytes qui sécrètent de grandes quantités d'anticorps, pour une longue durée ;
+c- Des lymphocytes spécifiques sensibilisés qui persistent longtemps dans le corps ;
+d- Des anticorps que l'organisme garde longtemps dans les organes lymphoïdes.
+
+4 – [Question non extraite du PDF — réponse du corrigé officiel : (4, b).]
+
+II. Définissez ce qui suit : (1 pt)
+1. Les gènes du complexe majeur d'histocompatibilité. (0,5 pt)
+2. L'autogreffe. (0,5 pt)
+
+III. Recopiez la lettre de chacune des propositions suivantes, et écrivez devant chacune d'elle « vrai » ou « faux » : (1 pt)
+
+a. Les Macrophages reconnaissent spécifiquement les antigènes.
+b. Les immunoglobulines sont des protéines sériques qui se lient spécifiquement aux antigènes.
+c. Les histamines se fixent sur les membranes des cellules cibles pour former le complexe d'attaque membranaire.
+d. La phase de sensibilisation allergique consiste en la fixation des anticorps spécifiques de l'allergène sur les membranes des mastocytes et des basophiles.
+
+IV. En vous basant sur vos connaissances, répondez aux questions suivantes :
+1. Qu'est-ce qu'une séropositivité vis-à-vis du VIH ? (0,5 pt)
+2. Citez deux mécanismes différents de destruction des lymphocytes T4 suite à une infection par le VIH. (0,5 pt)
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 (3 pts)
+
+La cellule produit l'ATP, nécessaire pour son activité, à travers des voies métaboliques aérobies et autres anaérobies. Chez certaines personnes la perturbation de l'une de ces voies est à l'origine de nombreux symptômes tels que l'accumulation de l'acide lactique dans le sang, la fatigabilité… etc. Pour comprendre la relation entre ces symptômes et la nature de la perturbation métabolique, on propose les données suivantes :
+
+- Donnée 1 : Le document 1 représente les réactions métaboliques principales de production d'ATP au niveau cellulaire dans le cas normal.
+
+[Figure — Document 1 : réactions métaboliques principales de production d'ATP au niveau cellulaire (glycolyse, fermentation, cycle de Krebs, chaîne respiratoire). *Les réactions représentées dans la mitochondrie se rapportent à un seul acide pyruvique.]
+
+1. À partir du document 1, déterminez le devenir de l'acide pyruvique (pyruvate) au niveau cellulaire, puis calculez le bilan énergétique (le nombre de molécules d'ATP) qui résulte de la dégradation d'une molécule d'acide pyruvique à l'intérieur de la mitochondrie. (0,75 pt)
+
+À l'intérieur de la mitochondrie : l'oxydation de 1 NADH,H+ donne 3 ATP et l'oxydation de 1 FADH2 donne 2 ATP.
+
+- Donnée 2 : Dans le cadre du traitement de certaines maladies virales par l'INTI (inhibiteur de la transcriptase inverse), des examens biochimiques ont montré que ce traitement cause une perturbation dans la production d'énergie au niveau mitochondrial, ce qui est à l'origine de plusieurs symptômes tels que la fatigabilité et le changement de la concentration plasmatique de l'acide lactique. Le document 2 présente les résultats de mesure de la concentration de l'acide lactique produit par les cellules, la valeur du pH sanguin et des schémas de mitochondries chez une personne traitée par l'INTI et chez une autre personne non traitée par cette substance.
+
+Document 2 :
+
+| Sujet | Taux sanguin d'acide lactique au repos | pH du sang | Schémas représentant les mitochondries |
+|---|---|---|---|
+| Personne non traitée avec INTI | 1 mmole/L | Normal | Mitochondries normales (crêtes et protéines de la chaîne respiratoire normales) |
+| Personne traitée avec INTI | Supérieur à 5 mmol/L | Acide | Mitochondries avec peu de crêtes et de protéines de la chaîne respiratoire |
+
+2. En vous basant sur le document 2, comparez les résultats obtenus chez la personne traitée par l'INTI et chez la personne non traitée par cette substance. Déduisez la voie métabolique influencée par cette substance. (0,75 pt)
+
+- Donnée 3 : Le syndrome de MELAS est une myopathie mitochondriale, parmi ses symptômes une accumulation de l'acide lactique et une fatigabilité excessive suite à un exercice musculaire. Le schéma du document 3 représente la localisation du dysfonctionnement observé au niveau mitochondrial dans le cas du syndrome de MELAS.
+
+[Figure — Document 3 : schéma de la membrane interne mitochondriale ; le dysfonctionnement est localisé au niveau du Complexe I de la chaîne respiratoire (non fonctionnel) — d'après le corrigé officiel.]
+
+3. En vous basant sur le document 3, expliquez le mécanisme de la synthèse d'ATP au niveau de la membrane interne de la mitochondrie dans le cas normal, puis montrez l'effet du dysfonctionnement de ce mécanisme chez une personne atteinte du syndrome de MELAS. (0,75 pt)
+
+4. En exploitant les données précédentes, montrez que la voie métabolique dominante dans les deux cas (traitement par INTI et syndrome de MELAS) est la fermentation lactique, puis expliquez les symptômes observés dans ces deux cas. (0,75 pt)
+
+### Exercice 2 (6 pts)
+
+La mucoviscidose est une maladie génétique caractérisée par la production de mucus visqueux par les cellules épithéliales surtout au niveau pulmonaire et digestif. Afin de déterminer l'origine génétique de cette maladie on présente les données suivantes :
+
+- En 1989 des chercheurs ont établi la relation entre les symptômes de la mucoviscidose et une protéine membranaire CFTR. Cette protéine permet la sortie des ions Cl-, nécessaire à la production d'un mucus fluide. Le document 1 présente la relation entre l'état de cette protéine et le degré de fluidité du mucus chez un sujet sain et un autre atteint de mucoviscidose.
+
+[Figure — Document 1 : relation entre l'état de la protéine CFTR et le degré de fluidité du mucus chez un sujet sain et un sujet atteint]
+
+1. En exploitant les données du document 1, montrez l'origine des symptômes de la maladie puis déduisez la relation protéine – caractère. (1 pt)
+
+- La synthèse de la protéine CFTR est contrôlée par un gène qui porte le même nom. Le document 2 présente deux fragments de l'allèle CFTR (brins transcrits), l'un chez un sujet sain et l'autre chez un sujet atteint de la mucoviscidose. Le document 3 présente un extrait du tableau du code génétique.
+
+Document 2 :
+Fragment de l'allèle CFTR d'un sujet sain : TTA – TAG – TAG – AAA – CCA – CAA – AGG
+Fragment de l'allèle CFTR d'un sujet malade : TTA – TAG – TAG – CCA – CAA – AGG
+[Le fragment du sujet malade (6 triplets, délétion du triplet AAA numéro 508) est reconstitué à partir du corrigé officiel.]
+
+Document 3 :
+
+| Codons | AAU, AAC | AUC, AUA | UUU, UUC | GGU, GGA | GUU, GUC | UCC, UCG | UGA, UAA |
+|---|---|---|---|---|---|---|---|
+| Acides aminés | Asn | Ile | Phe | Gly | Val | Ser | Non sens |
+
+2. En vous basant sur les documents 2 et 3, donnez les séquences de l'ARNm et des acides aminés correspondant à chacun des fragments de l'allèle CFTR chez le sujet sain et chez le sujet malade, puis expliquez l'origine génétique de la mucoviscidose. (1,5 pt)
+
+• Le document 4 présente l'arbre généalogique d'une famille touchée par la mucoviscidose.
+
+[Figure — Document 4, arbre généalogique : famille touchée par la mucoviscidose, incluant le fœtus III4]
+
+3. En vous basant sur le document 4 :
+a. Montrez que l'allèle responsable de la maladie est récessif et porté par un autosome (chromosome non sexuel). (0,75 pt)
+b. Déterminez la probabilité pour que le fœtus III4 soit atteint de la mucoviscidose. Justifiez votre réponse en utilisant l'échiquier de croisement. (1,25 pt)
+(Utilisez les symboles M et m pour les deux allèles du gène étudié.)
+
+• La mucoviscidose est une maladie génétique très répandue. Elle touche environ une naissance sur 2500 nouveau-nés en Europe. En considérant que cette population obéit à la loi de Hardy-Weinberg.
+
+4.
+a. Calculez la fréquence de l'allèle responsable de la maladie et celle de l'allèle normal dans la population étudiée. (1 pt)
+b. Calculez la fréquence des individus porteurs sains de la maladie. (0,5 pt)
+
+### Exercice 3 (3 pts)
+
+Dans le cadre de l'étude de la transmission de deux caractères héréditaires chez les moustiques : la couleur des yeux et la couleur du corps, on réalise les croisements suivants :
+
+• Croisement 1 : entre un moustique de souche sauvage aux yeux pourpres et à corps gris et un moustique de souche mutante aux yeux clairs et à corps noir. La génération F1 issue de ce croisement est composée de moustiques qui sont tous à phénotype sauvage.
+• Croisement 2 : entre les femelles de la génération F1 et des mâles aux yeux clairs et à corps noir. La génération F'2 issue de ce croisement est composée de :
+- 159 moustiques aux yeux pourpres et à corps gris.
+- 162 moustiques aux yeux clairs et à corps noir.
+- 65 moustiques aux yeux clairs et à corps gris.
+- 64 moustiques aux yeux pourpres et à corps noir.
+
+1. Que déduisez-vous des résultats du croisement 1 ? (0,5 pt)
+
+2. En exploitant les résultats du croisement 2, montrez, en justifiant votre réponse, que les deux gènes étudiés sont liés puis expliquez, par des schémas convenables, le phénomène à l'origine des différents types de gamètes produits par les femelles de la génération F1. (1 pt)
+
+Utilisez les symboles suivants :
+- n+ et n : pour les allèles du gène responsable de la couleur du corps ;
+- p+ et p : pour les allèles du gène responsable de la couleur des yeux.
+
+3. Donnez l'interprétation chromosomique du croisement 2, en vous aidant d'un échiquier de croisement. (1 pt)
+
+4. Calculez la distance entre les deux gènes étudiés puis établissez la carte factorielle de ces deux gènes. (0,5 pt)
+
+### Exercice 4 (3 pts)
+
+Les zones de subduction sont le siège d'une activité volcanique importante ; les éruptions sont explosives et le refroidissement du magma est à l'origine d'andésites et d'autres roches volcaniques. Le magma provient des profondeurs à la verticale (à l'aplomb) des volcans. Les chercheurs ont proposé trois hypothèses principales sur l'origine de ce magma :
+
+- Hypothèse 1 : Le magma provient de la fusion partielle de la péridotite du manteau supérieur chevauchant.
+- Hypothèse 2 : Le magma provient de la fusion partielle d'une roche appartenant à la croûte océanique subduite.
+- Hypothèse 3 : Le magma provient de la fusion partielle de la péridotite du manteau subduit.
+
+Pour tester la validité de ces hypothèses, on présente les données suivantes :
+
+• Le document 1 présente la répartition des isothermes dans une zone de subduction et l'emplacement de trois échantillons de roches : l'échantillon (A), l'échantillon (B) et l'échantillon (C).
+
+[Figure — Document 1 : isothermes (400, 800, 1000 °C) dans une zone de subduction ; Volcans, Croûte océanique, Croûte continentale, Manteau supérieur ; profondeur en Km (50 à 250) ; A : Péridotite du manteau supérieur chevauchant ; B : Roche de la croûte océanique plongeante ; C : Péridotite du manteau supérieur plongeant ; R1, R2 et R3 : roches de la croûte océanique plongeante]
+
+1. En utilisant le document 1, déterminez la profondeur et la température dans lesquelles se trouvent chacun des trois échantillons A, B et C. (0,75 pt)
+
+• Le document 2 présente les résultats d'expériences sur les conditions de fusion de la péridotite anhydre (non hydratée) et de la péridotite hydratée d'une part (figure a) et celles de la fusion du basalte anhydre et du basalte hydraté d'autre part (figure b).
+Remarque : Le basalte est une roche qui appartient à la croûte océanique plongeante.
+
+[Figure — Document 2 : figure (a) : solidus de la péridotite hydratée (①) et de la péridotite non hydratée (②), S : solide, S+L : solide + liquide ; figure (b) : solidus du basalte hydraté (③) et du basalte non hydraté (④) ; axes Température (°C) / Profondeur (Km)]
+
+2. En exploitant la réponse précédente et en vous appuyant sur les figures du document 2 :
+a- Déterminez le domaine auquel appartient l'échantillon de la roche B et le domaine auquel appartient l'échantillon de la roche C puis testez la validité des deux hypothèses 2 et 3. (0,75 pt)
+b- Déterminez le domaine auquel appartient l'échantillon de roche A et testez la validité de l'hypothèse 1 puis montrez la condition nécessaire à la fusion partielle de cette roche. (0,75 pt)
+
+• Afin de déterminer l'origine de l'eau nécessaire à la genèse du magma dans la zone de subduction, on suit les transformations minéralogiques que subissent les roches de la croûte océanique plongeante (les roches R1, R2 et R3) représentées dans le document 1. La figure (a) du document 3 présente les domaines de stabilité de quelques assemblages minéralogiques ainsi que les conditions de pression et de température de la formation des trois roches R1, R2 et R3. La figure (b) du document 3 montre quelques réactions minéralogiques accompagnant le métamorphisme de ces roches.
+
+[Figure — Document 3 : figure (a) : domaines de stabilité des assemblages minéralogiques (plagioclase + chlorite + actinote ; plagioclase + glaucophane ; grenat + jadéite) et conditions P-T de formation de R1, R2 et R3 ; figure (b) : réactions minéralogiques]
+
+Quelques réactions minéralogiques du métamorphisme :
+① plagioclase + chlorite + actinote → glaucophane + H2O
+② plagioclase + glaucophane → jadéite + grenat + H2O
+
+3. En exploitant les données du document 3, expliquez les changements minéralogiques en passant de la roche R1 à la roche R2 et de la roche R2 à la roche R3 puis déduisez l'origine de l'eau nécessaire à la formation du magma dans les zones de subduction. (0,75 pt)
+
+§ Fin §
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question I-4 : énoncé non extrait du PDF (réponse du corrigé : b).
+- Exercice 1, question 3 : barème de 0,75 pt reconstitué à partir du corrigé officiel.
+- Exercice 1, document 3 : la localisation du dysfonctionnement (Complexe I) est indiquée d'après le corrigé officiel.
+- Exercice 2, document 2 : le fragment du sujet malade est reconstitué à partir du corrigé officiel (délétion du triplet AAA numéro 508) ; la numérotation des triplets n'a pas été extraite.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

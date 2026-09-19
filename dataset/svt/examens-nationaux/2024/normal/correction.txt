@@ -1,0 +1,162 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2024 - Session Normale - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2024-normale-corrige.pdf
+Element: https://www.alloschool.com/element/145878
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة العادية 2024 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+NR32F
+
+## Première partie : Restitution des connaissances (5 points)
+
+I. (Accepter toute définition correcte telle que :)
+a – La réponse allergique : réaction immunitaire spécifique dirigée contre certaines substances souvent inoffensives pour le corps (les allergènes). (0,5 pt)
+b – Chaîne respiratoire : ensemble de transporteurs d'électrons au niveau de la membrane mitochondriale interne responsables des réactions d'oxydoréduction. (0,5 pt)
+
+II.
+a – La 1ère loi de Mendel : les individus de la génération F1 issus de parents de race pure à caractères opposés sont homogènes et hybrides. (0,5 pt)
+b – 2n + 1 = 22 AA + XXY = 47. (0,5 pt)
+
+III. (1, b) ; (2, c) ; (3, d) ; (4, b) — 0,5 x 4
+
+IV. 1 → Bande claire ; 2 → Bande sombre ; 3 → Zone (bande) H ; 4 → Strie Z — 0,25 x 4
+
+## Deuxième partie : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 (3 points)
+
+1.
+● Produits de dégradation du glucose : la dégradation du glucose au niveau de l'hyaloplasme donne 2 molécules d'acide pyruvique, 2 (NADH, H+) et 2 molécules d'ATP. (0,25 pt)
+● Calcul du bilan énergétique : les molécules énergétiques issues de l'oxydation complète de deux molécules d'acide pyruvique au niveau de la mitochondrie sont : 8 (NADH, H+), 2 FADH2 et 2 ATP. Donc le bilan est (8 × 3) + (2 × 2) + 2 = 30 ATP. (0,5 pt)
+
+2.
+a.
+● Comparaison : augmentation importante du nombre de cellules en culture en absence de la molécule 2-DG par rapport aux cellules cultivées en présence de 2-DG. (0,25 pt)
+● Description : plus la concentration en 2-DG augmente dans le milieu (de 0 à 10 mM), plus la synthèse de l'ATP diminue (de 100 UA à 30 UA). (0,25 pt)
+b.
+● Hypothèse : accepter toute hypothèse qui met en relation l'action de la molécule 2-DG avec la synthèse de l'ATP et les divisions des cellules cancéreuses, telle que : la molécule 2-DG inhibe la synthèse d'ATP et donc réduit le nombre de divisions des cellules cancéreuses. (0,5 pt)
+
+3.
+● Comparaison : l'activité de l'enzyme Hexokinase est faible en présence de 2-DG par rapport à celle en son absence. Accepter aussi : l'activité de l'enzyme Hexokinase est élevée en absence de 2-DG par rapport à celle en sa présence. (0,25 pt)
+● Explication : traitement par 2-DG → inhibition de l'enzyme Hexokinase → faible transformation du glucose en Glucose-P → faible quantité de l'acide pyruvique au niveau mitochondrial → faible synthèse d'ATP → réduction du nombre des divisions cellulaires → régression du cancer. (0,75 pt)
+● Vérification de l'hypothèse : accepter toute vérification logique. (0,25 pt)
+
+### Exercice 2 (5 points)
+
+1.
+● Comparaison :
+▪ L'activité de l'enzyme SOD1 dans les motoneurones de la personne saine est élevée (100 %), par contre elle est faible dans les motoneurones de la personne malade (20 %). (0,25 pt)
+▪ Les motoneurones de la personne malade présentent une forte accumulation des molécules toxiques, par contre cette accumulation est faible dans les motoneurones de la personne saine. (0,25 pt)
+● Relation protéine-caractère : (0,5 pt)
+▪ Enzyme SOD1 (protéine) à forte activité (normale) → pas d'accumulation des molécules toxiques → motoneurones en bon état → muscle normal → personne saine (caractère).
+▪ Enzyme SOD1 (protéine) à faible activité (anormale : dysfonctionnelle) → accumulation des molécules toxiques → motoneurones endommagés → muscle atrophié → personne malade (caractère).
+
+2.
+● Chez l'individu sain :
+ARNm : ACC – AUG – GAG – AAC – AUA – CGG – UCC – GUU – UCU. (0,25 pt)
+Séquence : Thr – Met – Ac. glu – Asn – Ile – Arg – Ser – Val – Ser. (0,25 pt)
+● Chez l'individu malade :
+ARNm : ACC – AUG – GAG – AAC – AUA – CUG – UCC – GUU – UCU. (0,25 pt)
+Séquence : Thr – Met – Ac. glu – Asn – Ile – Leu – Ser – Val – Ser. (0,25 pt)
+● Explication : mutation par substitution du nucléotide G par T au niveau du triplet n° 6 dans le brin non transcrit (ou C par A dans le brin transcrit) → apparition d'un nouveau codon (CUG) qui code pour l'acide aminé « Leu » au lieu du codon (CGG) qui code pour l'acide aminé « Arg » → synthèse d'une protéine SOD1 anormale (enzyme) à faible activité → accumulation des substances toxiques → apparition de la maladie de Charcot. (0,5 pt)
+
+3. (Acceptez toute réponse logique.)
+● L'individu IV4 hétérozygote portant les 2 allèles, son phénotype « malade », montre que l'allèle responsable de la maladie est dominant noté M, et l'allèle normal est récessif noté m. (0,5 pt)
+● La présence des femmes malades montre que l'allèle morbide n'est pas porté par le chromosome Y. (0,25 pt)
+● La femme III4 est saine issue du père II3 malade montre que l'allèle responsable de la maladie n'est pas porté par le gonosome X. (0,25 pt)
+Donc l'allèle morbide est porté par un autosome. (0,25 pt)
+
+4.
+a. Les génotypes des deux individus III1 et III2 :
+- L'individu III1 : individu sain et l'allèle normal récessif : m//m. (0,25 pt)
+- L'individu III2 : individu malade (porteur d'un allèle M) et son père II1 sain [m] : M//m. (0,25 pt)
+b. Détermination de la probabilité pour que le couple III1 et III2 donne naissance à un enfant sain :
+• Parents : ♀ III1 × ♂ III2 — Phénotypes : [m] × [M] — Génotypes : (m//m) × (M//m).
+• Gamètes : m/ (1) × ½ M/ et ½ m/.
+• Échiquier de croisement : (0,5 pt)
+
+|  | ½ M/ | ½ m/ |
+|---|---|---|
+| m/ (1) | (M//m) [M] ½ | (m//m) [m] ½ |
+
+→ La probabilité d'avoir un enfant sain : 1/2 (50 %). (0,25 pt)
+
+### Exercice 3 (3 points)
+
+1.
+● Mode de transmission du caractère : l'allèle responsable des pattes courtes est dominant noté D, et l'allèle responsable des pattes de longueur normale est récessif noté d. (0,5 pt)
+- Les individus Dexter sont hétérozygotes.
+- Les proportions obtenues (2/3 et 1/3) indiquent qu'il s'agit d'un gène létal.
+● Interprétation chromosomique : (0,5 pt)
+Phénotypes : [D] × [D] — Génotypes : (D//d) × (D//d).
+• Gamètes : ½ D/ et ½ d/ × ½ D/ et ½ d/.
+Échiquier de croisement :
+
+|  | ½ D/ | ½ d/ |
+|---|---|---|
+| ½ D/ | (D//D) [D] ¼ | (D//d) [D] ¼ |
+| ½ d/ | (D//d) [D] ¼ | (d//d) [d] ¼ |
+
+La présence du gène létal entraîne la mort des individus homozygotes D//D, d'où les proportions 2/3 [D] et 1/3 [d].
+
+2.
+● Mode de transmission du caractère : (0,5 pt)
+- Monohybridisme.
+- F1 homogène, selon la 1ère loi de Mendel, les parents sont de race pure.
+- L'allèle responsable de l'absence des cornes est dominant (R), et l'allèle responsable de la présence des cornes est récessif (r).
+● Le génotype des individus sans cornes (F1) : R//r. (0,25 pt)
+
+3.
+● Interprétation chromosomique : les deux gènes sont considérés non liés.
+• Parents F1 × F1 — Phénotypes : [R, D] × [R, D] — Génotypes : (R//r ; D//d) × (R//r ; D//d). (0,25 pt)
+• Gamètes : ¼ (R/ D/), ¼ (r/ d/), ¼ (R/ d/), ¼ (r/ D/) × ¼ (R/ D/), ¼ (r/ d/), ¼ (R/ d/), ¼ (r/ D/). (0,25 pt)
+Échiquier de croisement : (0,5 pt)
+
+|  | ¼ (R/ D/) | ¼ (r/ d/) | ¼ (R/ d/) | ¼ (r/ D/) |
+|---|---|---|---|---|
+| ¼ (R/ D/) | (R//R ; D//D) [R, D] | (R//r ; D//d) [R, D] | (R//R ; D//d) [R, D] | (R//r ; D//D) [R, D] |
+| ¼ (r/ d/) | (R//r ; D//d) [R, D] | (r//r ; d//d) [r, d] | (R//r ; d//d) [R, d] | (r//r ; D//d) [r, D] |
+| ¼ (R/ d/) | (R//R ; D//d) [R, D] | (R//r ; d//d) [R, d] | (R//R ; d//d) [R, d] | (R//r ; D//d) [R, D] |
+| ¼ (r/ D/) | (R//r ; D//D) [R, D] | (r//r ; D//d) [r, D] | (R//r ; D//d) [R, D] | (r//r ; D//D) [r, D] |
+
+Après élimination des individus homozygotes D//D, on obtient : 6/12 [R, D] ; 2/12 [r, D] ; 3/12 [R, d] ; 1/12 [r, d]. (0,25 pt)
+
+### Exercice 4 (4 points)
+
+1.
+● Explication :
+▪ Sujet A : le sérum ne contient pas les anticorps ASLO → fixation de la streptolysine O sur le récepteur membranaire du globule rouge → lyse du globule rouge → libération de l'hémoglobine → coloration rouge du liquide. (0,25 pt)
+▪ Sujet B : le sérum contient les anticorps ASLO → fixation des anticorps (ASLO) sur la toxine (antigène) → pas de fixation de la toxine sur le récepteur → globule rouge intact → pas de libération de l'hémoglobine → liquide incolore. (0,25 pt)
+● Déduction :
+▪ Le sujet B possède des anticorps antistreptolysine O (ASLO), il est donc infecté par les streptocoques. (0,5 pt)
+
+2.
+● Description : (0,5 pt)
+- Chez les souris du lot 1 (témoin), le liquide est incolore avec présence des globules rouges intacts.
+- Chez les souris du lot 2 qui ont subi une injection des lymphocytes T seuls, le liquide est rougi par l'hémoglobine, avec présence des globules rouges lysés.
+- Chez les souris du lot 3 qui ont subi une injection des lymphocytes B seuls, le liquide est rougi par l'hémoglobine, avec présence des globules rouges lysés.
+- Chez les souris qui ont subi une injection combinée de LB et LT (lot 4), le liquide est incolore avec présence des globules rouges intacts.
+● Détermination des conditions de production des anticorps : (0,5 pt)
+La production des anticorps nécessite :
+- le contact avec l'antigène.
+- la présence des LB et LT ensemble.
+
+3.
+a. Mise en relation : en présence des lymphocytes T, les lymphocytes B se multiplient et se différencient en plasmocytes qui sécrètent des anticorps. (0,75 pt)
+b. Schéma de synthèse : Bactéries Streptocoques → Sécrétion de la streptolysine O (Antigène) → Coopération cellulaire entre LT et LB → Différenciation des lymphocytes B en plasmocytes → Sécrétion d'antistreptolysine O (anticorps) → Formation du complexe Antigène-Anticorps (complexe immun) → Neutralisation. (1,25 pt)
+
+** FIN **
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Référence : NR 32F.
+- Exercice 3, question 1 : barème détaillé reconstitué (mode 0,5 + interprétation 0,5).

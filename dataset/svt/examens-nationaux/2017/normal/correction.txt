@@ -1,0 +1,143 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2017 - Session Normale - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2017-normale-corrige.pdf
+Element: https://www.alloschool.com/element/65642
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة العادية 2017 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+NR32F (code présumé — voir notes)
+
+## Partie I (5 pts)
+
+I. (1, d) ; (2, c) ; (3, c) ; (4, b) — 0,5 x 4
+
+II.
+1. Les gènes du complexe majeur d'histocompatibilité : réponse correcte telle que : ensemble de gènes qui contrôlent les marqueurs membranaires CMH (les protéines CMH). (0,5)
+2. L'autogreffe : réponse correcte telle que : greffe d'un tissu ou d'un organe (greffon) d'un donneur qui est lui-même le receveur. (0,5)
+
+III. a : faux ; b : vrai ; c : faux ; d : vrai — 0,25 x 4
+
+IV.
+1. Séropositif pour le VIH : présence d'anticorps spécifiques contre les déterminants antigéniques du VIH dans le sérum (accepter toute réponse qui indique la présence d'anticorps spécifiques au virus VIH dans le sérum). (0,5)
+2. Deux mécanismes de destruction des lymphocytes T4 suite à l'infection par le VIH, tels que :
+- destruction des LT4 infectées par les lymphocytes LTc ;
+- multiplication du VIH dans les LT4, ce qui cause leur mort ;
+- fixation des anticorps spécifiques au VIH sur les LT4 infectées ;
+- formation de syncytiums à partir des LT4 ;
+- mort des LT4 infectées par apoptose. (0,25 x 2)
+
+## Partie II (15 pts)
+
+### Exercice 1 (3 pts)
+
+1.
+- Devenir de l'acide pyruvique dans la cellule : réduction (transformation) de l'acide pyruvique, dans le hyaloplasme, en acide lactique ; oxydation de l'acide pyruvique, dans la mitochondrie, en acétyl-CoA qui est complètement dégradé au cours du cycle de Krebs. (0,25 + 0,25)
+- Le bilan énergétique de la dégradation d'une molécule d'acide pyruvique dans la mitochondrie : (4 NADH,H+) + (1 FADH2) + (1 ATP) = (4 x 3 ATP) + (1 x 2 ATP) + (1 ATP) = 15 ATP. (0,25)
+
+2.
+- Comparaison correcte contenant deux éléments parmi : la concentration de l'acide lactique dans le sang, au repos, chez la personne traitée est plus grande que celle de la personne non traitée ; le pH sanguin de la personne traitée est acide en comparaison avec la personne non traitée ; les mitochondries de la personne traitée possèdent peu de crêtes et de protéines de la chaîne respiratoire en comparaison avec la personne normale. (0,5)
+- Déduction : la voie métabolique influencée par la substance INTI est la respiration cellulaire. (0,25)
+
+3.
+- Explication : oxydation de NADH,H+ et FADH2 → flux d'électrons dans la chaîne respiratoire → pompage des protons H+ vers l'espace inter-membranaire → gradient de protons H+ → retour de H+ de l'espace inter-membranaire vers la matrice à travers les sphères pédonculées → synthèse d'ATP. (0,5)
+- Effet du dysfonctionnement : Complexe I de la chaîne respiratoire non fonctionnel → absence d'oxydation de NADH,H+ → faible production d'ATP. (0,25)
+
+4.
+- La voie métabolique dominante dans les deux cas (MELAS + INTI) : dysfonctionnement des mitochondries → la dégradation de l'acide pyruvique dans les mitochondries est perturbée → l'acide pyruvique se transforme en acide lactique dans le hyaloplasme. (0,5)
+- Explication des symptômes : dominance de la voie de la fermentation lactique → accumulation de l'acide lactique et faible production d'ATP → sensation de fatigue. (0,25)
+
+### Exercice 2 (6 pts)
+
+1.
+- Origine des symptômes de la maladie : protéine CFTR anormale → ne s'intègre pas dans la membrane des cellules épithéliales → pas de sortie de Cl- → accumulation de mucus visqueux difficile à évacuer → apparition des symptômes de la maladie. (0,5)
+- La relation protéine – caractère : protéine CFTR normale → sujet à phénotype normal ; protéine CFTR anormale → sujet atteint de la mucoviscidose. Donc tout changement de la protéine conduit à un changement au niveau du phénotype du caractère. (0,5)
+
+2.
+- Séquence de l'ARNm — Le sujet sain : AAU – AUC – AUC – UUU – GGU – GUU – UCC (0,25) ; Le sujet malade : AAU – AUC – AUC – GGU – GUU – UCC (0,25)
+- Séquence d'acides aminés — Le sujet sain : Asn – Ile – Ile – Phe – Gly – Val – Ser (0,25) ; Le sujet malade : Asn – Ile – Ile – Gly – Val – Ser (0,25)
+- Explication de l'origine génétique de la maladie : mutation par délétion du triplet nucléotidique AAA numéro 508 → synthèse de protéine CFTR anormale → apparition de la maladie de mucoviscidose. (0,5)
+
+3.
+a. Mode de transmission de la maladie :
+- L'allèle responsable de la maladie est récessif : des parents sains donnent naissance à des enfants atteints. (0,25)
+- L'allèle responsable de la maladie est porté par des autosomes (accepter toute réponse logique montrant que cet allèle n'est pas porté par le chromosome X ni par le chromosome Y), tel que :
+  - n'est pas porté par Y : des femmes atteintes par la maladie ; (0,25)
+  - n'est pas porté par X : la fille III3 malade descend d'un père sain II1. (0,25)
+b. La probabilité pour que le fœtus III4 soit malade :
+Parents : II1 x II2 — Phénotypes : [M] x [M] — Génotypes : M//m x M//m — Gamètes : ½ M, ½ m (0,5)
+Échiquier de croisement :
+
+| Gamètes | M (½) | m (½) |
+|---|---|---|
+| M (½) | (M//M) [M] (1/4) | (M//m) [M] (1/4) |
+| m (½) | (M//m) [M] (1/4) | (m//m) [m] (1/4) |
+
+(0,5)
+La probabilité pour que le fœtus III4 soit atteint est de 1/4. (0,25)
+
+4.
+a. La fréquence de l'allèle responsable de la maladie : f(m//m) = 1/2500 = q² donc f(m) = q = √q² = √(1/2500) = 0,02 (0,5) ; la fréquence de l'allèle normal : f(M) = p = 1 – q = 0,98 (0,5)
+b. Fréquence des individus hétérozygotes : f(M//m) = 2pq = (0,98 x 0,02) x 2 = 0,0392 (0,5)
+
+### Exercice 3 (3 pts)
+
+1. Déductions à partir des résultats du croisement 1 :
+- Les parents sont de race pure selon la première loi de Mendel ;
+- L'allèle responsable de la couleur grise du corps est dominant par rapport à l'allèle responsable de la couleur noire du corps, et l'allèle responsable de la couleur pourpre des yeux est dominant par rapport à l'allèle responsable de la couleur claire des yeux.
+
+2.
+- Les deux gènes sont liés : la génération F'2 est le résultat d'un croisement test, le pourcentage des phénotypes parentaux est supérieur à celui des phénotypes recombinés → les deux gènes étudiés sont liés.
+- Schéma du crossing-over à l'origine des gamètes des femelles F1. (Schémas non extraits.)
+
+3. Interprétation chromosomique des résultats du croisement 2 :
+Parents : ♀ F1 x ♂ — Phénotypes : [p+ ; n+] x [p ; n] — Génotypes : (p+ n+ // p n) x (p n // p n)
+Gamètes ♀ : p+ n+ (35,33 %), p n (36 %), p+ n (14,22 %), p n+ (14,44 %) ; Gamètes ♂ : p n (100 %)
+Échiquier de croisement :
+
+| Gamètes | p+ n+ (35,33 %) | p n (36 %) | p+ n (14,22 %) | p n+ (14,44 %) |
+|---|---|---|---|---|
+| p n (100 %) | [p+ ; n+] (35,33 %) | [p ; n] (36 %) | [p+ ; n] (14,22 %) | [p ; n+] (14,44 %) |
+
+4.
+- Le pourcentage des phénotypes recombinés est de 28,66 %, donc la distance entre les deux gènes étudiés est de 28,66 cMg.
+- La carte factorielle : gène de la couleur des yeux — 28,66 cMg — gène de la couleur du corps.
+
+### Exercice 4 (3 pts)
+
+1. Les conditions dans lesquelles se trouvent les échantillons A, B et C : (0,25 x 3)
+
+| Échantillons de roches | A | B | C |
+|---|---|---|---|
+| Profondeur (Km) | ≈ 120 | ≈ 140 | ≈ 220 |
+| Température (°C) | (non extraite) | (non extraite) | (non extraite) |
+
+2.
+a. Intervalles : l'échantillon B appartient au domaine 4, l'échantillon C appartient au domaine 1.
+Test des hypothèses : les deux échantillons appartiennent à des domaines dans lesquels les roches sont à l'état solide (S) et le magma ne peut pas se former, donc les hypothèses 2 et 3 sont invalides.
+b. Intervalles : l'échantillon A appartient au domaine 2.
+Test de l'hypothèse : dans ce domaine la péridotite subit une fusion partielle (S+L), ce qui confirme la validité de l'hypothèse 1.
+La condition nécessaire à la fusion partielle de cette roche est la présence de l'eau.
+
+3.
+- Explication des changements minéralogiques : subduction de la lithosphère océanique → augmentation de la pression et de la température → réactions minéralogiques et transformation de la roche R1 en R2 (réaction 1), puis transformation de la roche R2 en R3 (réaction 2). (0,5)
+- Origine de l'eau : l'eau nécessaire à la genèse des magmas provient des réactions minéralogiques 1 et 2 que subissent les minéraux des roches de la croûte océanique subduite sous l'effet de l'augmentation de la pression et de la température. (0,25)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Code NR32F présumé (non extrait du PDF).
+- Exercice 3 : les barèmes par sous-question n'ont pas été extraits ; total 3 pts (0,5 + 1 + 1 + 0,5 d'après le sujet).
+- Exercice 3, question 2 : les schémas du crossing-over ne sont pas reproductibles en texte.
+- Exercice 3, question 3 : les étiquettes des gamètes recombinés (p+ n : 14,22 % ; p n+ : 14,44 %) sont reconstituées à partir des effectifs du sujet (64 et 65 sur 450).
+- Exercice 4, question 1 : les températures des échantillons A, B et C n'ont pas été extraites.
+- Exercice 4, question 2 : les barèmes détaillés n'ont pas été extraits ; total 1,5 pt (0,75 + 0,75 d'après le sujet).

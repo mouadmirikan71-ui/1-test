@@ -1,0 +1,259 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2016 - Session Rattrapage - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2016-rattrapage-sujet.pdf
+Element: https://www.alloschool.com/element/65654
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2016 - الموضوع -
+المادة: علوم الحياة والأرض
+الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+RS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Première partie : Restitution des connaissances (5 pts)
+
+I. Pour chacune des propositions numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …), et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1 – La fermentation lactique produit :
+a- L'acide pyruvique, le CO2 et l'ATP ;
+b- L'acide pyruvique et le CO2 ;
+c- L'acide lactique, le CO2 et l'ATP ;
+d- L'acide lactique et l'ATP.
+
+2 – Le cycle de Krebs produit :
+a- NADH,H+, FADH2, ATP et l'acide pyruvique ;
+b- NADH,H+, FADH2, CO2 et l'acétyle coenzyme A ;
+c- NADH,H+, ATP, CO2 et l'acide pyruvique ;
+d- NADH,H+, FADH2, ATP et CO2.
+
+3 – Les filaments fins de la myofibrille sont formés de :
+a- L'actine, la myosine et la troponine ;
+b- L'actine, la myosine et la tropomyosine ;
+c- L'actine, la troponine et la tropomyosine ;
+d- La myosine, la troponine et la tropomyosine.
+
+4 – La contraction musculaire :
+a- Se produit en absence de l'ATP et de l'O2 ;
+b- Nécessite toujours la présence des ions calcium et de l'ATP ;
+c- Se produit en absence des ions calcium et de l'ATP ;
+d- Se produit en absence des ions calcium et de l'O2.
+
+II. Reliez chaque étape de la respiration cellulaire à la structure cellulaire correspondante : Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …) et adressez à chaque numéro la lettre correspondante. (1 pt)
+
+| Étapes de la respiration cellulaire | Structures cellulaires |
+|---|---|
+| 1 – Les réactions de la chaîne respiratoire. | a – De part et d'autre de la membrane interne mitochondriale. |
+| 2 – Les réactions de la glycolyse. | b – La matrice. |
+| 3 – Le cycle de Krebs. | c – Le hyaloplasme. |
+| 4 – La formation d'un gradient de protons. | d – La membrane interne mitochondriale. |
+
+III. Pour chacune des propositions 1 et 2, recopiez la lettre de chaque suggestion, et écrivez devant chacune d'elles « vrai » ou « faux » :
+
+1 – Les réactions de la fermentation alcoolique : (1 pt)
+a. Se déroulent dans la matrice mitochondriale en absence du dioxygène.
+b. Se déroulent dans le hyaloplasme en absence du dioxygène.
+c. Produisent l'éthanol, le CO2 et l'ATP.
+d. Produisent l'acide lactique, le CO2 et l'ATP.
+
+2 – Lors de la contraction musculaire, on assiste à un : (1 pt)
+a. Raccourcissement des bandes sombres sans changement de la longueur des bandes claires.
+b. Raccourcissement des bandes claires sans changement de la longueur des bandes sombres.
+c. Rapprochement des deux stries Z avec raccourcissement de la zone H du sarcomère.
+d. Raccourcissement des bandes claires sans changement de la longueur de la zone H du sarcomère.
+
+## Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 (5 pts)
+
+L'hémochromatose héréditaire est une maladie due à une anomalie dans l'absorption intestinale du fer. La maladie se manifeste après 40 ans sous forme de complications hépatiques, cardiaques, cutanées, articulaires et endocriniennes. Cette maladie est liée à une protéine, appelée « Hépcidine », sécrétée par le foie dans le sang. Cette protéine régule l'absorption du fer au niveau des intestins.
+
+L'analyse du sang chez deux individus, l'un sain et l'autre atteint de cette maladie, a donné les résultats présentés dans le document 1.
+
+Document 1 :
+
+|  | L'Hépcidine | Quantité de fer absorbée par jour au niveau des intestins (mg) | Quantité de fer emmagasinée dans les organes (g) |
+|---|---|---|---|
+| Individu sain | Normale | 1 à 2 | 5 |
+| Individu malade | Anormale | 5 à 8 | 10 à 30 |
+
+1. Comparez la quantité du fer absorbée et celle emmagasinée dans les organes entre l'individu sain et l'individu atteint et montrez l'existence d'une relation protéine – caractère. (1 pt)
+
+• La synthèse de l'Hépcidine est contrôlée par un gène localisé sur le chromosome 6. Ce gène existe sous deux formes alléliques : l'allèle responsable de la synthèse de l'Hépcidine normale et l'allèle responsable de la synthèse de l'Hépcidine anormale.
+
+Le document 2 présente un fragment du brin d'ADN transcrit pour chacun des deux allèles responsables de la synthèse de l'Hépcidine chez un individu sain et chez un individu malade.
+
+Le document 3 présente un extrait du tableau du code génétique.
+
+Document 2 :
+Numéro du nucléotide : 1060 … 1069 1074
+Individu sain : ATA – CGT – GCC – AGG – TGG – …..
+Individu malade : ATA – CGT – ACC – AGG – TGG – …..
+Sens de lecture →
+
+Document 3 :
+
+| Codons | GCC, GCA | ACU, ACC | CGA, CGG | UAU, UAC | UGA, UGG | UCC, UCA | UAA, UAG |
+|---|---|---|---|---|---|---|---|
+| Acides aminés | Ala | Thr | Arg | Tyr | Trp | Ser | Codon stop |
+
+2. En vous basant sur les documents 2 et 3, déterminez la séquence de l'ARNm et celle de la chaîne peptidique qui correspondent aux deux allèles du gène étudié, puis montrez l'existence d'une relation gène – protéine. (1,5 pt)
+
+• Le document 4 présente un arbre généalogique d'une famille dont certains membres sont atteints d'hémochromatose.
+
+[Figure — Document 4, arbre généalogique : générations I, II, III ; légende : Homme malade, Homme sain, Femme malade, Femme saine]
+
+3. En exploitant l'arbre généalogique du document 4, montrez que l'allèle responsable de cette maladie est récessif et porté par un autosome (chromosome non sexuel). (0,75 pt)
+
+4.
+a- Donnez les génotypes des individus : I2, II4 et II5. (0,75 pt)
+(Utilisez les symboles « H » pour désigner l'allèle normal et « h » pour désigner l'allèle responsable de la maladie.)
+b- Le couple II1 et II2 désire avoir un troisième enfant, déterminez la probabilité pour que ce couple donne naissance à un enfant atteint de la maladie, justifiez votre réponse en vous aidant d'un échiquier de croisement. (1 pt)
+
+### Exercice 2 (4 pts)
+
+Dans le cadre de l'étude de la transmission de certains caractères héréditaires ainsi que l'effet de certains facteurs sur la structure génétique d'une population de moustiques, on propose les données suivantes :
+
+• On suit la transmission de deux caractères, la couleur du corps et la couleur des yeux, chez une espèce de moustique, en réalisant les deux croisements présentés dans le tableau du document 1.
+
+Document 1 :
+
+| Croisements | Résultats obtenus |
+|---|---|
+| Premier croisement : Entre des moustiques de phénotype sauvage (corps gris et œil prune) et des moustiques à corps noir et œil clair. | Tous les individus de la F1 sont de phénotype sauvage (corps gris et œil prune). |
+| Deuxième croisement : Entre des femelles de F1 et des mâles à corps noir et œil clair. | 698 moustiques à corps gris et œil prune ; 712 moustiques à corps noir et œil clair ; 290 moustiques à corps gris et œil clair ; 282 moustiques à corps noir et œil prune. |
+
+1. Que déduisez-vous des résultats du premier croisement ? (0,75 pt)
+
+2. En exploitant les résultats du deuxième croisement, montrez si les deux gènes sont liés ou indépendants, puis donnez l'interprétation chromosomique des résultats de ce croisement en vous aidant d'un échiquier de croisement. (1,25 pt)
+
+Utilisez les symboles suivants :
+- « G » et « g » pour les allèles du gène responsable de la couleur du corps.
+- « M » et « m » pour les allèles du gène responsable de la couleur des yeux.
+
+• Dans la région côtière de Montpellier (France), l'activité touristique était influencée par la prolifération d'une espèce de moustique « Culex pipiens ». C'est pourquoi il a été décidé de développer un programme visant à lutter contre ces moustiques grâce à l'utilisation d'insecticides sur une superficie de 20 Km de largeur à partir de la côte. Cependant, très rapidement, des phénotypes résistants à ces insecticides se sont répandus dans la population des moustiques de la zone traitée.
+
+• Des études ont montré que les insecticides inhibent l'action d'une enzyme vitale chez les moustiques, appelée « Acétylcholinestérase » ou « ACE », ce qui cause la mort de ces insectes.
+
+Des techniques appropriées ont révélé l'existence de deux formes de cette enzyme codées par un gène qui se présente sous deux formes alléliques :
+- un allèle sauvage « S » codant pour la synthèse d'une enzyme sensible à l'insecticide ;
+- un allèle muté « R » codant pour la synthèse d'une enzyme résistante à l'insecticide.
+
+• L'étude de la structure génétique de la population des moustiques dans la région étudiée a permis de distinguer trois phénotypes différents :
+- Des individus de phénotype [S] qui ne synthétisent pas l'enzyme résistante à l'insecticide ;
+- Des individus de phénotype [RS] qui synthétisent une quantité moyenne de l'enzyme résistante à l'insecticide ;
+- Des individus de phénotype [R] qui synthétisent une forte quantité de l'enzyme résistante à l'insecticide.
+
+Le document 2 présente la variation des fréquences des phénotypes dans la population de moustiques en fonction de la distance à partir de la côte.
+
+[Figure — Document 2, courbes : variation des fréquences des phénotypes [S], [RS] et [R] en fonction de la distance à partir de la côte (km)]
+
+Document 2 (données chiffrées) :
+
+| Distance à partir de la côte (km) | [S] (Fréquence) | [RS] (Fréquence) | [R] (Fréquence) |
+|---|---|---|---|
+| 0 | 0,06 | 0,60 | 0,32 |
+| 20 | 0,44 | 0,52 | 0,04 |
+| 40 | 0,69 | 0,30 | 0,00 |
+
+3. Décrivez l'évolution de la fréquence des trois phénotypes dans cette population en fonction de la distance à partir de la côte. (0,75 pt)
+
+Le tableau du document 3 présente les fréquences des phénotypes étudiés au niveau de la côte (0 km) et à 40 km de la côte.
+
+Document 3 :
+
+| Phénotypes | [R] | [RS] | [S] |
+|---|---|---|---|
+| Fréquences au niveau de la côte (0 km) | 0,32 | 0,60 | 0,08 |
+| Fréquences à 40 km à partir de la côte | 0 | 0,32 | 0,68 |
+
+4. En vous basant sur les données du document 3, calculez la fréquence des deux allèles R et S dans la population de moustiques au niveau de la côte (0 km) et à 40 Km de la côte, puis montrez que le milieu exerce une sélection naturelle sur la structure génétique de cette population dans la région traitée. (1,25 pt)
+
+### Exercice 3 (3 pts)
+
+Afin de montrer certains aspects de la réponse immunitaire spécifique dirigée contre les bactéries pathogènes sécrétrices de toxines, on propose les données suivantes :
+
+• Donnée 1 : À la suite d'une contamination par des bactéries pathogènes (qui provoquent une maladie), on dose chez la personne contaminée, la quantité d'antigènes (la toxine) et la quantité d'anticorps anti-toxines. Les résultats sont présentés par le document 1.
+
+Document 1 — Quantité (UA) :
+
+| Jours | Antigènes (toxine) | Anticorps |
+|---|---|---|
+| 0 | 2,2 | 0,4 |
+| 2 | 3,0 | 0,4 |
+| 4 | 3,9 | 0,4 |
+| 6 | 3,4 | 0,4 |
+| 8 | 2,7 | 0,5 |
+| 10 | 1,9 | 0,7 |
+| 12 | 1,1 | 1,1 |
+| 14 | (non extrait) | 4,0 |
+| 16 | (non extrait) | 7,1 |
+
+1. À partir des données du document 1, décrivez le résultat de ces mesures et montrez la nature de la réponse immunitaire mise en œuvre. Justifiez votre réponse. (1 pt)
+
+• Donnée 2 : Dans les jours qui suivent l'injection d'une anatoxine X (toxine X atténuée) à un cobaye, on mesure le nombre de lymphocytes B (LB) et de plasmocytes (P) par millilitre de sang et on réalise le dosage des anticorps anti-toxine X libres (Ac) dans le sang de ce cobaye. Le document 2 présente les résultats obtenus.
+
+Document 2 :
+
+| Jours | LB (Nombre de cellules / mL de sang) | P (Nombre de cellules / mL de sang) | Ac (Concentration en anticorps (UA)) |
+|---|---|---|---|
+| 8 | 15300 | 2500 | 1700 |
+| 16 | (non extrait) | 13800 | 16600 |
+
+2. En exploitant les résultats du document 2, expliquez l'évolution des éléments intervenant dans la réponse immunitaire. (0,75 pt)
+
+• Donnée 3 : Afin de déterminer les conditions nécessaires à la production des anticorps anti-toxines X (Ac), on injecte l'anatoxine X à trois lots de cobayes de même souche : les cobayes du lot 1 sont normaux, les cobayes du lot 2 sont thymectomisés (ayant subi une ablation du thymus) et les cobayes du lot 3 sont thymectomisés et auxquels on a injecté des lymphocytes T des cobayes du lot 1. Après 15 jours, on prélève le sérum de chacun des trois lots et on le met en présence de la toxine X. Le document 3 présente les résultats obtenus.
+
+Document 3 :
+
+| Expériences | Expérience 1 : Sérum des cobayes du lot 1 + toxine X | Expérience 2 : Sérum des cobayes du lot 2 + toxine X | Expérience 3 : Sérum des cobayes du lot 3 + toxine X |
+|---|---|---|---|
+| Résultats | Formation du complexe immun | Pas de formation du complexe immun | Formation du complexe immun |
+
+3. Expliquez les résultats obtenus dans le document 3, puis déduisez la condition nécessaire à la production des anticorps anti-toxine X. (1,25 pt)
+
+### Exercice 4 (3 pts)
+
+La chaîne alpine est une chaîne de collision, elle résulte de la fermeture d'un domaine océanique et l'affrontement de deux plaques lithosphériques : la plaque Africaine et la plaque Eurasiatique. Afin de déterminer les étapes de formation de cette chaîne on présente les données suivantes :
+
+• Le document 1 présente une carte simplifiée de la chaîne des Alpes Franco-Italienne au niveau de la zone de confrontation des marges Africaine et Européenne.
+
+[Figure — Document 1, carte : Ophiolites et sédiments marins, Marge africaine, Marge européenne, Nappes de la marge européenne, Chevauchement, Mont Viso, Nice ; échelle 50 km]
+
+1. À partir du document 1, dégagez les arguments qui témoignent que la zone étudiée a subi un régime tectonique compressif accompagné de la disparition d'un domaine océanique. (0,5 pt)
+
+• Dans cette région (le mont Viso), on a prélevé deux roches R1 et R2 de même composition chimique dont la composition minéralogique est présentée dans le document 2. Le document 3 représente les champs de stabilité de quelques associations minérales en fonction de la température et de la pression.
+
+[Figure — Document 2, tableau : composition minéralogique des roches R1 et R2 (tableau non extrait ; d'après le corrigé officiel : passage de R1 à R2 = disparition du plagioclase, apparition de la jadéite et du grenat)]
+
+[Figure — Document 3, diagramme P-T : Les champs de stabilité de quelques associations minérales en fonction de la température (0 à 800 °C) et de la pression (GPa) — Faciès schiste vert, Faciès schiste bleu, Faciès éclogite ; A : champ de stabilité de l'association glaucophane + plagioclase ; B : champ de stabilité de l'association glaucophane + jadéite ; C : champ de stabilité de l'association glaucophane + jadéite + grenat]
+
+Une réaction minéralogique du métamorphisme :
+Plagioclase + glaucophane → jadéite + grenat + eau
+
+2. En exploitant les données des documents 2 et 3 :
+a- Décrivez les transformations minéralogiques lorsqu'on passe de la roche R1 à la roche R2, et déterminez les conditions de pression et de température dans lesquelles ont été formées ces deux roches. (0,75 pt)
+b- Expliquez ces transformations minéralogiques, et déduisez le type de métamorphisme qui a eu lieu dans cette région. (1 pt)
+
+3. En vous basant sur les données de l'exercice, résumez les étapes de formation de la chaîne alpine. (0,75 pt)
+
+§ Fin §
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Exercice 2, question 1 : barème de 0,75 pt reconstitué à partir du corrigé officiel.
+- Exercice 2 : les valeurs du document 2 (courbes : [S] = 0,06 à 0 km et 0,69 à 40 km ; [RS] = 0,30 à 40 km) diffèrent légèrement de celles du document 3 ([S] = 0,08 et 0,68 ; [RS] = 0,32 à 40 km) ; le corrigé officiel utilise les valeurs du document 3.
+- Exercice 3, document 1 : l'attribution des colonnes du tableau est incertaine dans l'extraction (une 3e colonne de zéros, manifestement un artefact, a été retirée) ; le corrigé officiel décrit : antigène maximal (4 UA) au 4ème jour puis nul au 14ème jour, anticorps nuls avant le 4ème jour puis 1 UA au 12ème jour et 8 UA au 16ème jour.
+- Exercice 3, document 2 : le nombre de LB au jour 16 n'a pas été extrait.
+- Exercice 4, document 2 : le tableau minéralogique R1/R2 n'a pas été extrait ; indication reconstituée à partir du corrigé officiel.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

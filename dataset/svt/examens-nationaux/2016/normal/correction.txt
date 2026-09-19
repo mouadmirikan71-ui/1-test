@@ -1,0 +1,133 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2016 - Session Normale - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2016-normale-corrige.pdf
+Element: https://www.alloschool.com/element/106216
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة العادية 2016 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+NR32F
+
+## Partie I (5 pts)
+
+I. (1, b) ; (2, b) ; (3, b) ; (4, a) — 0,5 x 4
+
+II.
+a- Deux types de déformations tectoniques caractéristiques des zones de convergence, parmi : les failles inverses – les plis – les nappes de charriage – les chevauchements. (0,5)
+b- Définition correcte de la notion de métamorphisme : des modifications structurales et minéralogiques des roches préexistantes, à l'état solide, sous l'effet de la variation de la pression et de la température. (0,5)
+
+III. a : faux ; b : vrai ; c : vrai ; d : faux — 0,25 x 4
+
+IV. 1 : lithosphère continentale ; 2 : lithosphère océanique ; 3 : fosse océanique ; 4 : volcanisme andésitique — 0,25 x 4
+
+## Partie II (15 pts)
+
+### Exercice 1 (3 pts)
+
+1. Comparaison :
+- Pour le premier lot : forte radioactivité (Ca2+) au niveau du réticulum sarcoplasmique en comparaison avec le sarcoplasme. (0,25)
+- Pour le deuxième lot : faible radioactivité (Ca2+) au niveau du réticulum sarcoplasmique en comparaison avec le sarcoplasme. (0,25)
+Déduction : lors du passage de l'état de relâchement à l'état de contraction, les ions Ca2+ passent du réticulum sarcoplasmique vers le sarcoplasme. (0,25)
+
+2. Mécanisme de l'intervention des ions Ca2+ dans la contraction de la fibre musculaire :
+fixation des ions Ca2+ sur la troponine → libération des sites de fixation des têtes de myosine sur l'actine suite au déplacement de la tropomyosine → formation du complexe actomyosine. (0,75)
+
+3. Explication :
+- L'hydrolyse de grandes quantités d'ATP dans le milieu 1 s'explique par la formation du complexe actomyosine.
+- L'hydrolyse de faibles quantités d'ATP dans le milieu 3 s'explique par l'absence du complexe actomyosine car ce milieu ne contient que la myosine. (0,5)
+[Milieu 2 : réponse non extraite du PDF.]
+
+4. La succession des événements depuis l'excitation à la contraction musculaire :
+- suite à l'excitation du muscle, les ions Ca2+ sont libérés à partir du réticulum sarcoplasmique ;
+- libération des sites de fixation des têtes de myosine ;
+- formation des complexes actomyosine ;
+- rotation des têtes de myosine aboutissant au glissement des filaments d'actine entre les filaments de myosine. (1)
+
+### Exercice 2 (4 pts)
+
+1. Chez l'individu sain :
+ARNm : GCGUCGGGGAAGCUCAUG (0,25)
+Séquence peptidique : Ala – Ser – Gly – Lys – Leu – Met (0,25)
+Chez l'individu malade :
+ARNm : GCGUCGGUGAAGCUCAUG (0,25)
+Séquence peptidique : Ala – Ser – Val – Lys – Leu – Met (0,25)
+La relation gène – protéine – caractère :
+- mutation par substitution du deuxième nucléotide (C) du triplet numéro 23 par le nucléotide (A) au niveau de l'allèle codant pour la rhodopsine ; (0,25)
+- substitution de l'acide aminé Gly par l'acide aminé Val (en position 23) donnant naissance à une protéine modifiée ; (0,25)
+- protéine non fonctionnelle à l'origine de la maladie. (0,5)
+
+2.
+- L'allèle responsable de la maladie est dominant : l'individu I2 est malade (document 2) et hétérozygote (document 3). (0,5)
+- Le caractère est non lié au sexe : les individus de sexe mâle et ceux de sexe femelle possèdent deux allèles du gène étudié (document 3). (0,5)
+NB : On accepte toute réponse correcte.
+
+3. La probabilité d'avoir un enfant sain :
+Parents : Phénotypes … ; Génotypes … (0,25 x 2)
+Échiquier de croisement … (0,25)
+La probabilité d'avoir un enfant sain est de : 1/4 (0,25)
+
+### Exercice 3 (5 pts)
+
+1. Déduction :
+- La génération F1 est homogène, donc les parents sont de race pure selon la première loi de Mendel.
+- L'allèle responsable de la couleur rouge des yeux est dominant alors que l'allèle responsable de la couleur brune des yeux est récessif.
+- L'allèle responsable de l'absence de la bande grise sur le thorax est dominant alors que l'allèle responsable de la présence de la bande grise sur le thorax est récessif. (0,25 x 3)
+
+2. Les génotypes des individus de la génération F1 :
+- Si les deux gènes sont indépendants : (B//b , R//r) (0,25)
+- Si les deux gènes sont liés : (B R // b r) (0,25)
+
+3.
+a- Les deux gènes sont portés par le même chromosome (3), donc le génotype à garder est celui des gènes liés. (0,25 x 2)
+b- La distance entre les deux gènes est : d(B,R) = 88 – 62 = 26 cMg (0,5)
+
+4. Croisement : femelles F1 x mâles doubles récessifs.
+Parents : ♀ F1 [B ; R] (B R // b r) x ♂ [b ; r] (b r // b r)
+Gamètes : ♀ : B R (37 %), b r (37 %), B r (13 %), b R (13 %) ; ♂ : b r (100 %) (0,25 x 2)
+Échiquier de croisement : BR//br [BR], br//br [br], Br//br [Br], bR//br [bR] (0,5)
+Les proportions des phénotypes attendus sont : 37 % [BR], 37 % [br], 13 % [Br], 13 % [bR] (0,25)
+
+5. Comparaison : avec l'augmentation de l'altitude, on note :
+- une augmentation de la fréquence du phénotype [AR] passant de 15 % pour l'altitude 0 à 95 % pour l'altitude de 3000 m ;
+- une diminution de la fréquence du phénotype [ST] passant de 85 % pour l'altitude 0 à 5 % pour l'altitude de 3000 m. (0,5)
+
+6. Description de l'évolution de la proportion de l'allèle ST :
+- Pour la population 1, on observe une augmentation progressive de la fréquence de l'allèle ST au fil des générations qui passe de 10 % au début de l'expérience jusqu'à 80 % à la 23ème génération. (0,25)
+- Pour la population 2, on observe une diminution progressive de la fréquence de l'allèle ST au fil des générations qui passe de 90 % (87 % à la génération 0) au début de l'expérience jusqu'à 20 % à la 23ème génération. (0,25)
+L'influence de la sélection naturelle sur la structure génétique de la population :
+- Les basses températures du milieu exercent une sélection positive sur l'allèle AR au dépend de l'allèle ST, contrairement aux températures élevées qui favorisent la sélection de l'allèle ST au dépend de l'allèle AR. (0,25)
+- Donc la variation de la température du milieu entraîne la variation des proportions des allèles dans la population → variation de sa structure génétique. (0,25)
+
+### Exercice 4 (3 pts)
+
+1. Description des résultats obtenus :
+- L'importance des symptômes de la réponse inflammatoire augmente juste après l'infection pour atteindre une valeur maximale à la deuxième journée, après elle diminue progressivement jusqu'à la disparition totale au 9ème jour. (0,25)
+- La concentration du virus dans le sang augmente rapidement pour atteindre une valeur maximale au 2ème jour, et reste constante jusqu'au 5ème jour, puis diminue jusqu'à ce qu'elle s'annule au 9ème jour. (0,25)
+- Avant le 5ème jour la concentration des anticorps est nulle, à partir de ce jour elle augmente progressivement. (0,25)
+Déduction : Réponse immunitaire spécifique à médiation humorale. (0,25)
+
+2. La relation entre la concentration sanguine en virus de la grippe et celle du nombre de lymphocytes Tc :
+- Au départ, la concentration du virus dans le sang était très élevée car le nombre de lymphocytes Tc était très faible. (0,25)
+- L'augmentation progressive du nombre de LTc a entraîné une diminution progressive de la concentration des virus dans le sang. (0,25)
+- Suite à la diminution de la concentration des virus dans le sang, le nombre de lymphocytes Tc a diminué. (0,25)
+Type de réponse immunitaire intervenant dans l'élimination du virus de la grippe : Réponse immunitaire spécifique à médiation cellulaire puisqu'elle fait intervenir des LTc. (0,25)
+
+3. Explication :
+- Les anticorps se lient aux virus et forment des complexes immuns qui neutralisent les virus et facilitent leur phagocytose. (0,5)
+- Les LTc reconnaissent, par l'intermédiaire des récepteurs T, les déterminants antigéniques du virus portés par les molécules du CMH (double reconnaissance), et sécrètent les perforines et les granzymes, ce qui aboutit à la mort des cellules infectées par le virus. (0,5)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (Centre National de l'Évaluation, « عناصر الإجابة ») ; le PDF source porte un filigrane « Moutamadris.ma ».
+- Exercice 1, question 3 : la réponse relative au milieu 2 n'a pas été extraite du PDF.
+- Exercice 3, question 4 : gamètes et proportions reconstitués à partir des fragments extraits (74 % parentaux / 26 % recombinés ; 37 % / 37 % / 13 % / 13 %).

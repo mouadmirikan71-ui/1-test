@@ -1,0 +1,252 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2016 - Session Normale - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2016-normale-sujet.pdf
+Element: https://www.alloschool.com/element/65653
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2016 - الموضوع -
+المادة: علوم الحياة والأرض
+الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+NS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I. Pour chacune des propositions numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …) et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1 – Dans les zones de subduction, le magma andésitique se forme à partir de la fusion de :
+a- La péridotite anhydre (non hydratée) du manteau supérieur de la plaque chevauchante ;
+b- La péridotite hydratée du manteau supérieur de la plaque chevauchante ;
+c- La péridotite hydratée de la lithosphère subduite (enfouie) ;
+d- La péridotite anhydre (non hydratée) de la lithosphère subduite.
+
+2 – Le métamorphisme qui caractérise les zones de subduction résulte d'une :
+a- Haute pression et d'une haute température ;
+b- Haute pression et d'une basse température ;
+c- Basse pression et d'une haute température ;
+d- Basse pression et d'une basse température.
+
+3 – La formation des chaînes d'obduction est le résultat :
+a- Du déplacement d'une lithosphère continentale au-dessus d'une lithosphère océanique ;
+b- Du déplacement d'une lithosphère océanique au-dessus d'une lithosphère continentale ;
+c- De l'enfouissement d'une lithosphère océanique sous une lithosphère océanique ;
+d- De l'enfouissement d'une lithosphère océanique sous une lithosphère continentale.
+
+4 – L'anatexie accompagnée de la formation de la migmatite est un phénomène qui :
+a- Aboutit à la formation d'un magma granitique ;
+b- Aboutit à la fusion partielle de la péridotite ;
+c- Aboutit à la formation de roches métamorphiques ;
+d- Résulte d'une augmentation de la pression et de la température lors de la subduction.
+
+II.
+a. Citez deux types de déformations tectoniques caractéristiques des zones de convergence entre les plaques. (0,5 pt)
+b. Définissez la notion de métamorphisme. (0,5 pt)
+
+III. Recopiez la lettre qui correspond à chaque proposition parmi les propositions suivantes, et écrivez devant chacune d'elles « vrai » ou « faux ». (1 pt)
+
+a. L'auréole de métamorphisme est formée de roches qui résultent d'un métamorphisme régional.
+b. Les nappes de charriage résultent d'un déplacement de formations rocheuses sur de longues distances, sous l'effet de forces compressives.
+c. Les plis et les failles inverses sont des déformations tectoniques caractéristiques des zones d'affrontement entre les plaques lithosphériques.
+d. La schistosité est une structure caractéristique des roches métamorphiques qui apparaît dans les conditions extrêmes du métamorphisme.
+
+IV. La figure ci-contre représente un schéma simplifié de la subduction, recopiez le numéro de chaque élément et donnez le nom qui lui correspond. (1 pt)
+
+[Figure — schéma simplifié de la subduction : éléments numérotés 1, 2, 3, 4]
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 (3 pts)
+
+On cherche à étudier quelques aspects du mécanisme de la contraction musculaire et à montrer le rôle des ions Ca2+ dans ce mécanisme. Dans ce cadre on propose les données suivantes :
+
+• Donnée 1 : Des fibres musculaires striées sont isolées et cultivées dans un milieu physiologique contenant des ions calcium radioactifs (45Ca2+) puis elles sont réparties en deux lots 1 et 2. Les fibres du lot 1 sont fixées en état de relâchement alors que les fibres du lot 2 sont fixées en état de contraction. Par autoradiographie, on détecte la localisation de la radioactivité au niveau des fibres de chaque lot. Les figures du document 1 présentent des schémas explicatifs des résultats de cette détection (la figure a pour les fibres du lot 1, la figure b pour les fibres du lot 2).
+
+[Figure — Document 1 : (a) fibre du lot 1 à l'état de relâchement, (b) fibre du lot 2 à l'état de contraction ; légende : Réticulum sarcoplasmique, sarcoplasme, radioactivité (*), Filament de myosine, Filament d'actine]
+
+1. Comparez la répartition de la radioactivité dans les fibres des lots 1 et 2, puis dégagez le sens de déplacement des ions calcium lorsque la fibre musculaire passe de l'état de relâchement à l'état de contraction. (0,75 pt)
+
+• Donnée 2 : L'étude biochimique et l'observation électronographique des myofilaments d'actine et de myosine, dans des fibres musculaires en présence et en absence d'ions Ca2+, ont permis de construire le modèle explicatif présenté dans le document 2.
+
+[Figure — Document 2, modèle explicatif : Troponine, Actine, Tropomyosine, Site de fixation masqué, Myosine, Ion Ca2+, Libération du site de fixation de la tête de myosine]
+
+2. En vous basant sur les résultats présentés dans le document 2, montrez comment interviennent les ions Ca2+ dans la contraction de la fibre musculaire. (0,75 pt)
+
+• Donnée 3 : Pour extraire l'énergie nécessaire à sa contraction, la fibre musculaire hydrolyse de grandes quantités d'ATP. Afin de déterminer certaines conditions nécessaires à l'hydrolyse de ces molécules, on présente les données expérimentales du document 3.
+
+Document 3 — Composition des milieux :
+
+| Milieux | Début de l'expérience | Fin de l'expérience |
+|---|---|---|
+| Milieu 1 | Filaments de myosine + filaments d'actine + ATP + Ca2+ | Filaments de myosine + filaments d'actine + une grande quantité d'ADP et de Pi |
+| Milieu 2 | Filaments d'actine + ATP + Ca2+ | Filaments d'actine + ATP + Ca2+ (inchangé) |
+| Milieu 3 | Filaments de myosine + ATP + Ca2+ | Filaments de myosine + ATP + Ca2+ + une faible quantité d'ADP et de Pi |
+
+3. En exploitant les données du document 3, expliquez la différence d'hydrolyse de l'ATP observée dans les différents milieux. (0,5 pt)
+
+4. En vous basant sur les données précédentes et sur vos connaissances, résumez l'enchaînement des événements conduisant à la contraction du muscle suite à une excitation. (1 pt)
+
+### Exercice 2 (4 pts)
+
+[Début de l'introduction partiellement reconstitué — voir notes de transcription.] La rétinite pigmentaire est une maladie héréditaire liée à une anomalie de la protéine « rhodopsine ». Le locus du gène, qui contrôle la synthèse de cette protéine, est situé sur le chromosome numéro 3. La figure (a) du document 1 présente un fragment du brin transcrit du gène responsable de la synthèse de la « rhodopsine » chez deux individus, l'un à phénotype normal et l'autre atteint de la rétinite pigmentaire. La figure (b) présente un extrait du code génétique.
+
+Document 1 — Figure (a) : fragment du brin transcrit (triplets 21 à 26, sens de lecture indiqué) :
+
+|  | 21 | 22 | 23 | 24 | 25 | 26 |
+|---|---|---|---|---|---|---|
+| Chez un individu sain | CGC | AGC | CCC | TTC | GAG | TAC |
+| Chez un individu malade | CGC | AGC | CAC | TTC | GAG | TAC |
+
+Document 1 — Figure (b) : extrait du code génétique :
+
+| Acide aminé | Codons |
+|---|---|
+| Ser | UCG, UCA |
+| Met | AUG |
+| Lys | AAG, AAA |
+| Leu | CUC, CUA |
+| Val | GUG, GUA |
+| Gly | GGG, GGU |
+| Codon stop | UAG, UGA |
+
+1. En vous basant sur les deux figures du document 1, déterminez la séquence de l'ARNm et celle de la chaîne peptidique de la rhodopsine chez l'individu sain et chez l'individu malade puis montrez la relation gène – protéine – caractère. (2 pts)
+
+• Le document 2 représente l'arbre généalogique d'une famille dont certains membres sont atteints de la rétinite pigmentaire. Le document 3 présente le nombre d'allèles normaux et le nombre d'allèles responsables de la maladie chez des sujets de cette famille.
+
+[Figure — Document 2, arbre généalogique : générations I, II, III ; légende : Femme saine, Homme sain, Femme malade, Homme malade]
+
+Document 3 :
+
+| Sujets | I1 | I2 | II1 | II2 | II4 | II5 | III3 | III4 |
+|---|---|---|---|---|---|---|---|---|
+| Nombre d'allèles normaux | 2 | 1 | 2 | 1 | 1 | 2 | 1 | 1 |
+| Nombre d'allèles responsables de la maladie | 0 | 1 | 0 | 1 | 1 | 0 | 1 | 1 |
+
+2. En vous basant sur les données des documents 2 et 3, montrez que l'allèle responsable de cette maladie est dominant et porté par un autosome (chromosome non sexuel). (1 pt)
+
+3. Dans le cas d'un mariage entre III3 et III4, calculez la probabilité pour que ce couple donne naissance à un enfant sain. (1 pt)
+
+### Exercice 3 (5 pts)
+
+Dans le cadre de l'étude de la transmission de certains caractères héréditaires chez la drosophile, et de certains facteurs intervenant dans la diversité génétique, on propose les données suivantes :
+
+• Donnée 1 : On réalise un croisement entre des femelles sans bande grise sur le thorax et aux yeux rouges et des mâles avec une bande grise sur le thorax et aux yeux bruns. La génération F1 issue de ce croisement est composée de drosophiles sans bande grise sur le thorax et aux yeux rouges.
+
+1. Que déduisez-vous des résultats de ce croisement ? (0,75 pt)
+
+2. Sachant que les deux gènes étudiés ne sont pas liés au sexe, donnez les génotypes des individus de la génération F1 dans le cas où ces deux gènes sont indépendants, et dans le cas où ils sont liés. (0,5 pt)
+
+Utilisez les symboles suivants :
+- B et b pour les allèles du gène responsable de la présence ou l'absence d'une bande grise sur le thorax ;
+- R et r pour les allèles du gène responsable de la couleur des yeux.
+
+• Donnée 2 : le document 1 présente l'emplacement relatif de quelques gènes (loci) de la drosophile, sur les chromosomes 2 et 3.
+
+[Figure — Document 1, carte factorielle : Chromosome 2 et Chromosome 3 ; loci : Couleur du corps (48), Absence ou présence de la bande sur le thorax (62), Couleur des yeux rouge/brune (88), Forme des ailes (99) ; Distance entre les gènes en cMg]
+
+3. En vous basant sur le document 1 :
+a- Donnez le génotype à garder parmi les génotypes proposés dans la réponse à la question 2. Justifiez votre réponse. (0,5 pt)
+b- Déterminez la distance qui sépare les deux gènes étudiés. (0,5 pt)
+
+4. Déterminez la proportion des phénotypes attendus suite à un croisement entre des femelles de la génération F1 et des mâles doubles récessifs, en vous aidant d'un échiquier de croisement. (1,25 pt)
+
+• Donnée 3 : La mouche Drosophila pseudoobscura est une espèce très répandue en Amérique et s'y rencontre dans des régions de climats fort différents. Cette mouche présente deux phénotypes [ST] et [AR]. Afin d'expliquer la répartition géographique de ces deux phénotypes chez les populations de cette espèce, on présente les observations et les expériences suivantes :
+
+- Le tableau du document 2 donne la répartition des deux phénotypes [ST] et [AR] chez les populations de Drosophila pseudoobscura, dans la région de la Sierra Nevada, en fonction de l'altitude.
+
+Document 2 :
+
+| Altitude (en mètre) | 0 | 1500 | 2000 | 3000 |
+|---|---|---|---|---|
+| Phénotype [AR] (en %) | 15 | 50 | 80 | 95 |
+| Phénotype [ST] (en %) | 85 | 50 | 20 | 5 |
+
+5. En vous basant sur les données du document 2, comparez l'évolution du pourcentage des deux phénotypes [ST] et [AR] en fonction de l'altitude. (0,5 pt)
+
+- L'observation des populations vivant à basse altitude montre que l'été est marqué par une prédominance du phénotype [ST], tandis que [AR] domine en hiver, ce qui a poussé les chercheurs à émettre une hypothèse sur l'existence d'une relation entre la variation des pourcentages de ces deux phénotypes et la variation de la température du milieu. Pour vérifier cette hypothèse on a réalisé les expériences suivantes :
+
+• On constitue expérimentalement deux populations de Drosophila pseudoobscura, puis on suit l'évolution des proportions des phénotypes [ST] et [AR] pendant 23 générations selon les conditions expérimentales suivantes :
+- La population 1 : composée de 90 % [AR] et 10 % [ST] est maintenue à 25 °C.
+- La population 2 : composée de 10 % [AR] et 90 % [ST] est maintenue à 16 °C.
+
+• À partir des résultats du suivi de la fréquence de chaque phénotype chez les deux populations, on a déterminé l'évolution de la fréquence de l'allèle ST qui contrôle le phénotype [ST]. Le document 3 présente les résultats obtenus.
+
+Document 3 — Évolution de la fréquence de l'allèle ST (en %) :
+
+| Générations | Population 1 à 25 °C | Population 2 à 16 °C |
+|---|---|---|
+| 0 | 10 | 87 |
+| 5 | 44 | 52 |
+| 10 | 63 | 34 |
+| 15 | 70 | 27 |
+| 20 | 76 | 21 |
+| 23 | 80 | 20 |
+
+6. Décrivez l'évolution de la fréquence de l'allèle ST au cours des générations, dans chaque population, et montrez comment la sélection naturelle influence la structure génétique de la population de la drosophile. (1 pt)
+
+### Exercice 4 (3 pts)
+
+Afin de mettre en évidence certains aspects du déroulement de la réponse immunitaire contre le virus de la grippe, on présente les données suivantes :
+
+• Donnée 1 : La grippe est une infection virale associée à une réaction inflammatoire au niveau de la muqueuse du nez et de la gorge. En plus de la fièvre, ses principaux symptômes sont un écoulement nasal abondant, des maux de gorge et des migraines. Le document 1 présente le suivi de quelques paramètres physiologiques au cours des 11 premiers jours suivant une infection grippale.
+
+Document 1 — Importance relative des paramètres considérés (UA) :
+
+| Nombre de jours après l'infection | Symptômes de la réaction inflammatoire | Concentration en virus dans le sang | Concentration en anticorps dans le sang |
+|---|---|---|---|
+| 0 | 2,5 | 0,5 | 0 |
+| 1 | 5,5 | 2,5 | 0 |
+| 2 | 8,5 | 4,5 | 0 |
+| 3 | 6,5 | 4,5 | 0 |
+| 4 | 3,5 | 4,5 | 0 |
+| 5 | 2,5 | 4 | 0 |
+| 6 | 1,5 | 3 | 0 |
+| 7 | 0,5 | 2,5 | 0 |
+| 8 | 0,1 | 1,5 | 0 |
+| 9 | 0 | 0,5 | 0 |
+| 10 | 0 | 2 | 0 |
+| 11 | 0 | 4 | 0 |
+
+1. En exploitant les données du document 1, décrivez les résultats obtenus et déduisez le type de la réponse immunitaire spécifique développée par l'organisme contre le virus de la grippe. (1 pt)
+
+• Donnée 2 : Chez des souris infectées par le virus de la grippe, on mesure l'évolution, en fonction du temps, du nombre de lymphocytes T cytotoxiques dans les poumons et l'évolution de la concentration sanguine en virus de la grippe. Le document 2 présente les résultats obtenus.
+
+Document 2 :
+
+Concentration sanguine en virus (UA) :
+
+| Temps après l'infection (jours) | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|---|---|---|---|---|---|---|---|
+| Concentration sanguine en virus (UA) | 4500000 | 6000000 | 4000000 | 3500000 | 2500000 | 1500000 | 0 |
+
+Nombre de lymphocytes T cytotoxiques (x10³) :
+
+| Temps après l'infection (jours) | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|---|---|---|---|---|---|---|---|
+| Nombre de lymphocytes T cytotoxiques (x10³) | 10 | 20 | 30 | 100 | 130 | 270 | 130 |
+
+2. En vous aidant des données du document 2, précisez la relation entre l'évolution de la concentration sanguine en virus de la grippe et celle du nombre de lymphocytes T cytotoxiques, et déduisez, en justifiant votre réponse, le type de réaction immunitaire intervenant dans l'élimination du virus de la grippe. (1 pt)
+
+• Donnée 3 : Les schémas du document 3 résument le mode d'action des lymphocytes T cytotoxiques et des anticorps contre le virus de la grippe.
+
+[Figure — Document 3 : Figure (a) : anticorps, virus, Récepteur des anticorps, phagocyte ; Figure (b) : Mort de la cellule cible, Molécule de CMHI, peptide viral, Récepteur T, Libération des perforines + granzyme, Lymphocyte T cytotoxique]
+
+3. À partir des données du document 3 et de vos connaissances, expliquez comment les anticorps et les lymphocytes T cytotoxiques interviennent dans l'élimination du virus de la grippe. (1 pt)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Le début de l'introduction de l'exercice 2 (1re phrase) n'a pas été extrait du PDF ; il a été reconstitué à partir du corrigé officiel (« …situé sur le chromosome numéro 3 » est extrait).
+- Exercice 2, question 3 : la fin de la question (« …donne naissance à un enfant sain ») est déduite du corrigé officiel.
+- Exercice 2, question 1 : barème de 2 pts reconstitué à partir du corrigé officiel.
+- Exercice 4, document 1 : les valeurs des jours 10 et 11 (colonnes virus/anticorps) sont incertaines dans l'extraction automatique ; se référer au PDF source.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …] ; les données chiffrées des tableaux ont été retranscrites.

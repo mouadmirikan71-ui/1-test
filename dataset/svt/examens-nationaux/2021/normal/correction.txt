@@ -1,0 +1,150 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2021 - Session Normale - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2021-normale-corrige.pdf
+Element: https://www.alloschool.com/element/138538
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة العادية 2021 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+NR32F
+
+## Première partie (5 pts)
+
+I. (Accepter toute définition correcte.)
+a. Définition de la mitose : division cellulaire qui permet la formation, à partir d'une cellule mère, de deux cellules filles génétiquement identiques et portant la même information génétique que la cellule mère. (0,5)
+b. Définition d'une enzyme de restriction : enzyme qui permet de découper l'ADN à des sites spécifiques. (0,5)
+
+II. (1, a) ; (2, b) ; (3, a) ; (4, c) — 0,5 x 4
+
+III. a : Faux ; b : Vrai ; c : Faux ; d : Faux — 0,25 x 4
+
+IV. (1, c) ; (2, d) ; (3, b) ; (4, a) — 0,25 x 4
+
+## Deuxième partie (15 pts)
+
+### Exercice 1 (5,5 pts)
+
+1. Description :
++ Variation de la concentration d'O2 :
+- Avant l'ajout du pyruvate, la concentration d'O2 est constante aux environs de 90 %.
+- Suite à l'ajout du pyruvate (t1), la concentration d'O2 diminue au début puis tend à se stabiliser vers 70 %.
+- Après l'ajout de l'ADP + Pi (t2), la concentration d'O2 diminue rapidement pour atteindre 30 % environ. (0,5)
++ Variation de la concentration d'ATP :
+- Avant l'ajout du pyruvate, la concentration en ATP est constante aux environs de 37 UA.
+- Suite à l'ajout du pyruvate (t1), la concentration en ATP marque une faible augmentation jusqu'à atteindre 50 UA environ.
+- Après l'ajout de l'ADP + Pi (t2), la concentration en ATP augmente rapidement pour atteindre plus de 90 UA. (0,5)
+NB : accepter des valeurs proches de celles proposées dans les éléments de réponse.
+Déduction : le pyruvate et l'ADP + Pi activent la consommation de dioxygène et la production d'ATP au niveau de la mitochondrie. (Accepter : le pyruvate et l'ADP + Pi activent la respiration mitochondriale.) (0,5)
+
+2. Description :
+- Avant l'injection d'O2, la concentration de H+ était nulle dans le milieu. (0,5)
+- Juste après l'injection d'O2, la concentration de H+ augmente brusquement pour atteindre une valeur maximale (plus de 40 × 10⁻⁹ mol/L) puis diminue progressivement pour retrouver sa valeur initiale après 240 s.
+Déduction de l'effet de l'injection du dioxygène sur le déplacement des protons H+ : l'O2 active la sortie des protons H+ de la matrice vers le milieu extérieur à travers la membrane mitochondriale interne. (0,5)
+
+3. Explication de la variation de la concentration d'O2, des protons H+ et d'ATP :
+Ajout du pyruvate à la suspension mitochondriale → dégradation du pyruvate dans la matrice → réduction de transporteurs d'électrons et des protons. (0,5)
+→ oxydation des transporteurs réduits dans la chaîne respiratoire couplée à la réduction d'O2 → consommation du dioxygène (fig. a doc. 1). (0,5)
+→ expulsion (pompage) des protons H+ de la matrice vers l'espace intermembranaire → augmentation de la concentration des protons H+ dans l'espace intermembranaire et formation du gradient de protons H+ de part et d'autre de la membrane interne mitochondriale (fig. b doc. 2). (0,5)
+→ retour des protons H+ vers la matrice (diminution de la concentration des protons H+ dans le milieu extérieur) à travers les sphères pédonculées → phosphorylation de l'ADP et synthèse d'ATP (fig. b doc. 1). (0,5)
+
+4. Explication de l'asphyxie due à l'exposition à l'HCN : l'exposition à l'acide cyanhydrique (HCN) entraîne l'inhibition du transporteur T6 → les électrons n'arrivent plus à l'accepteur final qui est O2 (pas de réduction d'O2) ce qui explique l'arrêt de la consommation d'O2 → arrêt de la phosphorylation oxydative ce qui explique l'arrêt de la synthèse d'ATP. ⇒ Les cellules sont incapables d'utiliser l'O2 même en sa présence d'où l'asphyxie. (1)
+
+### Exercice 2 (6,5 points)
+
+1. Relation protéine-caractère :
+- Chez l'individu sain : l'enzyme (HEX-A) est fonctionnelle → dégradation du Ganglioside GM2 en GM3 + GNA → pas d'accumulation de GM2 dans les lysosomes des cellules nerveuses → cellules nerveuses normales → individu sain. (0,25)
+- Chez l'individu atteint : l'enzyme (HEX-A) est non fonctionnelle → pas de dégradation du GM2 → accumulation de GM2 dans les lysosomes des cellules nerveuses → intoxication et dégénérescence des cellules nerveuses → atteinte par la maladie de Tay-Sachs. (0,25)
+• La modification de la protéine (l'enzyme HEX-A) entraîne une modification du phénotype de l'individu « Individu sain ou atteint par la maladie de Tay-Sachs » d'où la relation protéine-caractère. (0,25)
+
+2. Séquences d'ARNm et des acides aminés correspondant à chacun des fragments des deux allèles :
+- Fragment d'allèle normal :
+ARNm : CGU – AUA – UCC – UAU – GCC – CCU – GAC (0,25)
+Peptide : Arg – Ile – Ser – Tyr – Ala – Pro – Ac. asp (0,25)
+- Fragment d'allèle anormal :
+ARNm : CGU – AUA – UCU – AUC – CUA – UGC – CCC – UGA – C (0,25)
+Peptide : Arg – Ile – Ser – Ile – Leu – Cys – Pro (0,25)
+L'origine génétique de la maladie : la mutation par addition de quatre nucléotides au niveau du brin non transcrit de l'ADN a changé le cadre de lecture → synthèse d'ARNm modifié incluant un codon stop par rapport à l'ARNm normal → synthèse d'une chaîne peptidique anormale → l'enzyme (HEX-A) non fonctionnelle → symptômes de maladie Tay-Sachs. (0,5)
+Accepter une mutation correcte telle que :
+- Addition de TCTA entre les nucléotides 1275 et 1276.
+- Addition de TATC entre les nucléotides 1273 et 1274.
+- Addition de TATC entre les nucléotides 1277 et 1278.
+- Addition de CTAT entre les nucléotides 1276 et 1277.
+
+3. Le mode de transmission de cette maladie (accepter toute réponse logique) :
+● L'allèle responsable de la maladie est récessif. (0,25)
+Justification : les parents I1 et I2 (ou II4 et II5) sont sains et ont donné naissance à une fille II3 (ou un garçon III3) atteinte. (0,25)
+● Le gène responsable de la maladie est porté par un autosome. (0,25)
+Justification : la maladie est récessive, la fille II3 est atteinte et descend d'un père I2 sain. (0,25)
+
+4.
+a. Les génotypes des individus I2, II2 et III3 avec justification :
+I2 : N//n car l'individu est sain et a donné naissance à une fille atteinte. (0,25)
+II2 : N//n ou N//N car elle est saine et descend de parents hétérozygotes. (0,5)
+III3 : n//n car il est atteint. (0,25)
+b. La probabilité pour que le couple (II4 et II5) donne naissance à un enfant sain avec justification :
+Les parents sont hétérozygotes car ils sont sains et ont donné naissance à un enfant atteint.
+[N] II4 x II5 [N] — N//n x N//n
+Gamètes des parents : ½ N/, ½ n/ x ½ N/, ½ n/
+Échiquier de croisement :
+
+|  | ½ N/ | ½ n/ |
+|---|---|---|
+| ½ N/ | ¼ N//N [N] | ¼ N//n [N] |
+| ½ n/ | ¼ N//n [N] | ¼ n//n [n] |
+
+La probabilité d'avoir un enfant sain est de 3/4. (0,75 pt)
+
+5.
+a. La fréquence des deux allèles N et n dans ces populations :
+On a f(n//n) = 1/3600 = q² et puisque les populations sont en équilibre. Donc :
+La fréquence de l'allèle n : f(n) = q = √1/3600 = 0,0166 [sic — 1/60 ≈ 0,0167 arrondi].
+La fréquence de l'allèle N : f(N) = p = 1 - q = 0,9834. (0,5 + 0,5)
+NB : accepter aussi la méthode de calcul suivante : f(n//n) = q² = 1/3600 = 0,0002 [sic — 1/3600 ≈ 0,0003 arrondi].
+La fréquence de l'allèle n : f(n) = q = √0,0002 = 0,0141.
+La fréquence de l'allèle N : f(N) = p = 1 - q = 0,9859.
+b. Déduction : les individus porteurs sains sont hétérozygotes de génotype (N//n) → la fréquence des individus porteurs sains dans ces populations est : f(N//n) = 2pq = 2 × 0,0166 × 0,9834 ≈ 0,0326. (0,5)
+NB : accepter aussi la méthode de calcul suivante : f(N//n) = 2pq = 2 × 0,0141 × 0,9859 ≈ 0,0278.
+
+### Exercice 3 (3 points)
+
+1. D'après le premier et le deuxième croisement on peut déduire que :
++ les parents sont des races pures dans chacun des deux croisements. (0,25)
++ l'allèle responsable de la couleur noire « R » est dominant et celui responsable de la couleur rousse « r » est récessif. (0,25)
++ l'allèle responsable de l'aspect uni « B » est dominant et celui responsable de l'aspect tacheté « b » est récessif. (0,25)
++ le gène de la couleur du pelage et celui de l'aspect du pelage sont portés par des autosomes (les deux caractères étudiés ne sont pas liés au sexe). (0,25)
+
+2. Les deux gènes sont indépendants : car le troisième croisement est un test-cross qui a donné quatre phénotypes différents et équiprobables (avec des pourcentages égaux). (0,5)
+
+3.
+a. Génotype des parents :
++ Le parent à phénotype dominant (pelage noir et uni) est hétérozygote R//r B//b. Justification : le croisement a donné des descendants doubles récessifs roux et tachetés. (0,25)
++ Le parent à pelage roux et uni est homozygote pour la couleur du pelage mais hétérozygote pour l'aspect du pelage : r//r B//b. Justification : le parent a un phénotype récessif pour la couleur et le croisement a donné des descendants tachetés. (0,25)
+b. Interprétation des résultats :
+Phénotypes : [R, B] × [r, B]
+Génotypes : (R//r ; B//b) × (r//r ; B//b)
+Gamètes : ¼ (R/B/), ¼ (r/b/), ¼ (R/b/), ¼ (r/B/) × ½ (r/B/), ½ (r/b/)
+Échiquier de croisement :
+
+|  | ¼ (R/B/) | ¼ (r/b/) | ¼ (R/b/) | ¼ (r/B/) |
+|---|---|---|---|---|
+| ½ (r/B/) | (R//r ; B//B) [R, B] 1/8 | (r//r ; B//b) [r, B] 1/8 | (R//r ; B//b) [R, B] 1/8 | (r//r ; B//B) [r, B] 1/8 |
+| ½ (r/b/) | (R//r ; B//b) [R, B] 1/8 | (r//r ; b//b) [r, b] 1/8 | (R//r ; b//b) [R, b] 1/8 | (r//r ; B//b) [r, B] 1/8 |
+
+Résultats : 3/8 [R, B] ; 3/8 [r, B] ; 1/8 [r, b] ; 1/8 [R, b]. Les résultats théoriques sont identiques aux résultats expérimentaux. (1 pt)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Référence : NR 32F.
+- Exercice 1, question 2 : « plus de 40 × 10⁻⁹ mol/L » transcrit tel qu'extrait alors que le tableau du sujet indique 11 × 10⁻⁹ mol/L à 120 s.
+- Exercice 2, question 5 : valeurs transcrites telles qu'extraites ; le corrigé tronque au lieu d'arrondir (√(1/3600) ≈ 0,0167 ; 1/3600 ≈ 0,0003).
+- Exercice 3, question 3b : échiquier reconstitué (extraction partielle) ; phénotypes des cases corrigés d'après les génotypes, totaux conformes au corrigé (3/8, 3/8, 1/8, 1/8).

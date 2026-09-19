@@ -1,0 +1,142 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2019 - Session Normale - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2019-normale-corrige.pdf
+Element: https://www.alloschool.com/element/94795
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة العادية 2019 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+NR32F
+
+## Première partie (5 pts)
+
+I. Définitions :
+1. Faille inverse : déformation tectonique cassante caractérisée par un mouvement relatif de raccourcissement des deux compartiments séparés. (0,5)
+2. Chaîne de collision : chaîne de montagne résultant d'un affrontement de deux lithosphères continentales suite à la fermeture du domaine océanique qui les séparait. (0,5)
+
+II. (1, c) ; (2, c) ; (3, d) ; (4, d) — 0,5 x 4
+
+III. a : faux ; b : vrai ; c : faux ; d : faux — 0,25 x 4
+
+IV. (1, c) ; (2, b) ; (3, a) ; (4, d) — 0,25 x 4
+
+## Deuxième partie (15 pts)
+
+### Exercice 1 (3,25 pts)
+
+1. Description de la variation des trois composés :
+- ATP : au cours de l'échauffement, la concentration d'ATP a diminué légèrement (de 6 mmol/L à 5 mmol/L). Pendant la course elle a atteint 4 mmol/L où elle est restée presque constante. (0,25)
+- Phosphocréatine : sa concentration a diminué considérablement au cours de l'échauffement (de 22 mmol/L à 10 mmol/L). Cette diminution se poursuit durant la course pour atteindre 4 mmol/L à la fin de la course. (0,25)
+- Acide lactique : il a augmenté légèrement au cours de l'échauffement (de 1,5 à 2 mmol/L) puis considérablement durant la course pour atteindre 8 mmol/L à la fin de la course. (0,25)
+- Explication de l'origine d'ATP au cours de la course : l'hydrolyse de la phosphocréatine suivie de la fermentation lactique au niveau des fibres musculaires. (0,25)
+
+2. L'hypothèse : on accepte une hypothèse correcte qui met en relation la phosphocréatine et la respiration cellulaire. (0,25)
+
+3. Les informations à dégager du document 3 :
+- La concentration de Pi est forte pendant l'effort physique et elle est faible durant les deux autres phases. (0,25)
+- La concentration de l'ATP est stable à une valeur moyenne au cours des trois phases. (0,25)
+- La concentration de PCr est moyenne pendant l'effort physique et elle est forte durant les deux autres phases. (0,25)
+
+4. La relation entre les trois composés :
+- Au cours de l'effort : l'hydrolyse d'ATP en ADP et Pi avec libération de l'énergie qui assure la contraction musculaire. Ceci explique l'augmentation de la concentration de Pi. (0,25)
+- La stabilité d'ATP au cours de l'effort musculaire s'explique par sa régénération à partir de l'hydrolyse de la phosphocréatine. (0,25)
+- La récupération : en présence d'O2, l'oxydation respiratoire permet la synthèse d'une grande quantité d'ATP. (0,25)
+- Cette dernière permet la régénération de la phosphocréatine au niveau de la membrane mitochondriale. (0,25)
+- Vérification de l'hypothèse : doit tenir compte de la relation entre la respiration cellulaire et la régénération de la phosphocréatine. (0,25)
+
+### Exercice 2 (4,75 pts)
+
+1. Comparaison :
+- Chez la personne saine, la NF1 normale active la transformation de RASa en RASi, alors que chez la personne malade, la NF1 anormale ne permet pas cette transformation. (0,25)
+- Chez la personne saine, on a une multiplication cellulaire normale et donc un phénotype normal. Alors que chez la personne atteinte, on a une multiplication anarchique, d'où l'apparition des symptômes de la maladie. (0,25)
+Relation protéine – caractère : le changement de la protéine NF1 (NF1 anormale) → changement du phénotype (division cellulaire anarchique et apparition de la neurofibromatose de type 1) → existence de la relation protéine – caractère. (0,5)
+
+2. Pour l'allèle normal :
+Séquence d'ARNm : UUU UGC UUU GAC AUC CUU (0,25)
+Séquence d'acides aminés : Phe – Cys – Phe – ac.Asp – Ile – Leu (0,25)
+Pour l'allèle anormal :
+Séquence d'ARNm : UUU UGC UUG ACA UCC UUG (0,25)
+Séquence d'acides aminés : Phe – Cys – Leu – Thr – Ser – Leu (0,25)
+Origine génétique de la maladie : mutation au niveau de l'ADN par délétion du nucléotide (A) du triplet 6533 → changement de la séquence nucléotidique → synthèse d'une protéine NF1 anormale → pas de transformation de RASa en RASi → activation continue de RASa → multiplication cellulaire anarchique → symptômes de neurofibromatose 1. (0,5)
+
+3.
+a- L'allèle responsable de la maladie est dominant.
+Justification correcte (par exemple) : l'enfant malade II4 est issu de la mère I2 saine homozygote, ce qui fait qu'il est hétérozygote malade ; la maladie est présente à chaque génération et chaque enfant malade a un parent malade. (0,25)
+Le gène étudié est non lié au sexe.
+Justification correcte (par exemple) : non porté par le chromosome Y (femmes atteintes) ; non porté par le chromosome X (naissance d'un enfant malade d'une mère saine et l'allèle responsable de la maladie est dominant ; naissance d'une fille saine d'un père malade et l'allèle responsable de la maladie est dominant). (0,25)
+b- La probabilité pour que le couple II1 et II2 donne naissance à un enfant sain :
+Parents : II1 x II2 — Phénotypes : [m] x [M] — Génotypes : (m//m) x (M//m) (0,25 + 0,25)
+Gamètes : m (1) x (½ M, ½ m)
+Échiquier de croisement : (0,25)
+
+|  | M (½) | m (½) |
+|---|---|---|
+| m (1) | (M//m) [M] (½) | (m//m) [m] (½) |
+
+La probabilité est de 1/2.
+
+4.
+a. Calcul des fréquences des allèles : f([M]) = f(M//M) + f(M//m) = p² + 2pq = 1/3500 ; f([m]) = f(m//m) = q² = 3499/3500. Donc : f(m) = q = 0,99 et on a p + q = 1, donc f(M) = p = 0,01. (0,25 + 0,25)
+b. La fréquence des personnes hétérozygotes : f(M//m) = 2pq = 2 x 0,99 x 0,01 = 0,01. (0,5)
+
+### Exercice 3 (3,25 pts)
+
+1. Déductions :
+- Croisement I : la génération F1 est homogène, donc les parents sont de race pure selon la première loi de Mendel ; l'allèle responsable de la couleur blanche est dominant (B) et l'allèle responsable de la couleur crème est récessif (b).
+- Croisement II : la génération F1 est homogène, donc les parents sont de race pure (selon la première loi de Mendel) ; l'apparition d'un caractère intermédiaire (fleurs à bords frangés) indique qu'on a codominance. (0,25 x 4)
+
+2.
+a. Génotype des plantes de la génération F1 issues du croisement III : (B//b ; N//C). (0,25)
+b. Résultats théoriques de la génération F2 issue du croisement entre les plantes de cette génération F1 :
+Parents : [B, NC] x [B, NC] — Génotypes : (B//b ; N//C) x (B//b ; N//C)
+Gamètes : B/N (¼), B/C (¼), b/N (¼), b/C (¼) (0,25)
+Échiquier de croisement : (0,75)
+
+| ♀ \ ♂ | B/N (¼) | B/C (¼) | b/N (¼) | b/C (¼) |
+|---|---|---|---|---|
+| B/N (¼) | (B//B ; N//N) [B,N] (1/16) | (B//B ; N//C) [B,NC] (1/16) | (B//b ; N//N) [B,N] (1/16) | (B//b ; N//C) [B,NC] (1/16) |
+| B/C (¼) | (B//B ; C//N) [B,NC] (1/16) | (B//B ; C//C) [B,C] (1/16) | (B//b ; N//C) [B,NC] (1/16) | (B//b ; C//C) [B,C] (1/16) |
+| b/N (¼) | (B//b ; N//N) [B,N] (1/16) | (B//b ; N//C) [B,NC] (1/16) | (b//b ; N//N) [b,N] (1/16) | (b//b ; N//C) [b,NC] (1/16) |
+| b/C (¼) | (B//b ; N//C) [B,NC] (1/16) | (B//b ; C//C) [B,C] (1/16) | (b//b ; N//C) [b,NC] (1/16) | (b//b ; C//C) [b,C] (1/16) |
+
+On obtient les résultats théoriques suivants : [B, NC] 6/16 ; [B, N] 3/16 ; [B, C] 3/16 ; [b, NC] 2/16 ; [b, C] 1/16 ; [b, N] 1/16. (0,25)
+
+3.
+a. Le génotype des plantes désirées par l'horticulteur : (b//b ; N//C). (0,25)
+b. Le croisement qui permet d'obtenir la plus grande proportion du phénotype désiré [b, NC] est : [b, C] x [b, N].
+Justification (interprétation chromosomique du croisement) : ce croisement va nous donner 100 % [b, NC]. (0,5)
+
+### Exercice 4 (3,75 pts)
+
+1. Description des résultats obtenus :
+- Le nombre des lymphocytes T4 a diminué progressivement après l'infection par le virus VIH. Il est passé de 900 cellules/µL à environ 50 cellules/µL après 10 ans de l'infection. (0,5)
+- La charge virale a augmenté rapidement après l'infection pour atteindre son pic (entre 10⁶ et 10⁷ copies/mL de plasma) après la 6ème semaine de l'infection. Après, elle a diminué pour se stabiliser à une valeur entre 10³ et 10⁴ copies/mL de plasma. Après 8 ans, elle a augmenté de nouveau pour atteindre une valeur supérieure à 10⁷ copies/mL de plasma. (0,5)
+Déduction : infection par VIH → diminution des LT4 → diminution des défenses immunitaires de l'organisme → organisme exposé aux maladies opportunistes. (0,25)
+
+2. Chez les macaques vaccinés, la production des LT8 est plus rapide (après une semaine de l'injection du VIH contre 2 semaines pour les non vaccinés) et plus intense (pic à 7 au lieu de 2 pour les non vaccinés) que chez les macaques non vaccinés. (0,5)
+Déduction : la caractéristique est la mémoire immunitaire. (0,25)
+
+3. La comparaison des proportions de la charge virale chez les macaques :
+- À la 8ème semaine de l'exposition au virus, la charge virale chez les macaques non vaccinés est presque 5 fois plus importante que chez les macaques vaccinés. (0,25)
+- Après 24 semaines, la charge virale n'a pas beaucoup augmenté chez les macaques vaccinés alors que chez les non vaccinés elle s'est multipliée par deux. (0,25)
+Déduction : le vaccin expérimenté inhibe la multiplication du VIH. (0,25)
+
+4. Explication : l'utilisation du vaccin conduit à l'augmentation des LTc. (0,25)
+Destruction des lymphocytes LT4 infectés par le VIH à travers deux voies : la libération de la perforine et des granzymes ou des signaux provoquant la mort cellulaire de la cellule infectée. (0,5)
+Diminution du nombre des lymphocytes T4 infectées → diminution de la charge virale → éviter l'apparition des maladies opportunistes. (0,25)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Titre du fichier source : « Microsoft Word - NR 32F.docx ».
+- Exercice 2, question 4b : valeur « 0,01 » transcrite telle qu'extraite bien que 2 x 0,99 x 0,01 = 0,0198 (≈ 0,02) — coquille probable du corrigé ou de l'extraction.
+- Exercice 3, question 3b : barème de 0,5 pt conforme au sujet (croisement + justification).

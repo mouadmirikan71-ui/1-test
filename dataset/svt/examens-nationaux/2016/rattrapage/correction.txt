@@ -1,0 +1,152 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2016 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2016-rattrapage-corrige.pdf
+Element: https://www.alloschool.com/element/65655
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة الاستدراكية 2016 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+RR32F
+
+## Partie I (5 pts)
+
+I. (1, d) ; (2, d) ; (3, c) ; (4, b) — 0,5 x 4
+
+II. (1, d) ; (2, c) ; (3, b) ; (4, a) — 0,25 x 4
+
+III.
+1 – a : faux ; b : vrai ; c : vrai ; d : faux — 0,25 x 4
+2 – a : faux ; b : vrai ; c : vrai ; d : faux — 0,25 x 4
+
+## Partie II (15 pts)
+
+### Exercice 1 (5 pts)
+
+1. Comparaison :
+- La quantité du fer absorbée au niveau intestinal chez l'individu malade est supérieure à celle absorbée chez l'individu sain. (0,25)
+- La quantité du fer emmagasinée dans les organes chez l'individu malade est supérieure à celle emmagasinée chez l'individu sain. (0,25)
+Mise en évidence de la relation protéine – caractère :
+En présence d'une Hépcidine anormale, la quantité du fer absorbée au niveau intestinal et celle emmagasinée dans les organes sont très importantes, ce qui est à l'origine des différents symptômes caractéristiques de la maladie. (0,5)
+
+2. Chez l'individu sain :
+Séquence d'ARNm : UAU GCA CGG UCC ACC (0,25)
+Séquence peptidique : Tyr – Ala – Arg – Ser – Thr (0,25)
+Chez l'individu malade :
+Séquence d'ARNm : UAU GCA UGG UCC ACC (0,25)
+Séquence peptidique : Tyr – Ala – Trp – Ser – Thr (0,25)
+Mise en évidence de la relation gène – protéine :
+- Mutation au niveau de l'ADN par substitution du nucléotide 1066 (G) par le nucléotide (A) → remplacement de l'acide aminé Arg par l'acide aminé Trp au niveau de la séquence peptidique → Hépcidine anormale. (0,5)
+
+3.
+- L'allèle responsable de la maladie est récessif : des parents sains donnent naissance à des enfants malades. (0,25)
+- Le gène étudié est non lié au sexe :
+  - Ce gène n'est pas porté par le chromosome sexuel Y, car les deux sexes sont atteints par la maladie.
+  - Ce gène n'est pas porté par le chromosome sexuel X, car la maladie est récessive et le père I1 est sain et a donné naissance à une fille II3 malade. (0,25 x 2)
+Remarque : on accepte toute réponse correcte.
+
+4.
+a- Génotypes : I2 : H//h ; II4 : h//h ; II5 : H//h ou H//H — 0,25 x 3
+b- Parents : II1 x II2 — Phénotypes : [H] x [H] — Génotypes : H//h x H//h — Gamètes : ½ H, ½ h (0,25)
+Échiquier de croisement :
+
+| Gamètes | H (½) | h (½) |
+|---|---|---|
+| H (½) | H//H [H] (1/4) | H//h [H] (1/4) |
+| h (½) | H//h [H] (1/4) | h//h [h] (1/4) |
+
+(0,5)
+La probabilité d'avoir un enfant atteint de la maladie est de 1/4. (0,25)
+
+### Exercice 2 (4 pts)
+
+1. Déductions :
+- Les parents sont de race pure selon la première loi de Mendel.
+- L'allèle responsable de la couleur grise du corps (G) est dominant alors que l'allèle responsable de la couleur noire du corps (g) est récessif.
+- L'allèle responsable de la couleur prune des yeux (M) est dominant alors que l'allèle responsable de la couleur claire des yeux (m) est récessif. (0,25 x 3)
+
+2.
+- Le deuxième croisement donne quatre phénotypes avec des proportions différentes : deux phénotypes parentaux avec des proportions élevées (71 %) et deux phénotypes recombinés avec de faibles proportions (29 %), d'où les deux gènes étudiés sont liés. (0,5)
+- L'interprétation chromosomique :
+Parents : ♀ x ♂ — Phénotypes : [G,M] x [g,m] — Génotypes : (G M // g m) x (g m // g m)
+Gamètes ♀ : G M (35,21 %), g m (35,92 %), G m (14,63 %), g M (14,22 %) ; Gamètes ♂ : g m (100 %) (0,25)
+Échiquier de croisement :
+
+| Gamètes | G M (35,21 %) | g m (35,92 %) | G m (14,63 %) | g M (14,22 %) |
+|---|---|---|---|---|
+| g m (100 %) | (G M // g m) [G,M] (35,21 %) | (g m // g m) [g,m] (35,92 %) | (G m // g m) [G,m] (14,63 %) | (g M // g m) [g,M] (14,22 %) |
+
+(0,5)
+
+3. Description de l'évolution des phénotypes : en s'éloignant de la côte, on observe :
+- Une augmentation progressive de la fréquence du phénotype [S] de 0,1 au niveau de la côte à 0,8 au-delà de 40 Km ;
+- Une diminution progressive de la fréquence du phénotype [RS] de 0,6 au niveau de la côte à 0,3 au-delà de 40 Km ;
+- Une diminution rapide de la fréquence du phénotype [R] de 0,35 au niveau de la côte jusqu'à sa disparition vers 40 Km. (0,25 x 3)
+
+4. Calcul des fréquences alléliques :
+- Au niveau de la côte (0 km) : f(S) = p = 0,08 + 0,3 = 0,38 ; f(R) = q = 0,32 + 0,3 = 0,62
+- À 40 Km de la côte : f(S) = p = 0,68 + 0,16 = 0,84 ; f(R) = q = 0 + 0,16 = 0,16 (0,25 x 4)
+Influence de la sélection naturelle dans la région traitée :
+L'usage de l'insecticide → mort des individus de phénotype [S] → diminution de la fréquence de l'allèle S et augmentation de la fréquence de l'allèle R → variation de la structure génétique de la population.
+
+### Exercice 3 (3 pts)
+
+1. Description :
+- Suite à l'infection, la quantité de l'antigène (la toxine) augmente pour atteindre une valeur maximale (4 UA) au 4ème jour, ensuite cette quantité diminue jusqu'à ce qu'elle s'annule au 14ème jour. (0,25)
+- Avant le 4ème jour, la quantité d'anticorps était nulle ; ensuite elle augmente progressivement jusqu'au 12ème jour pour atteindre la valeur 1 UA. Par la suite la quantité des anticorps augmente pour atteindre la valeur de 8 UA au 16ème jour. (0,25)
+La nature de la réponse immunitaire : Réponse immunitaire spécifique à médiation humorale car elle fait intervenir les anticorps. (0,5)
+
+2. Explication de l'évolution des éléments qui interviennent dans la réponse immunitaire :
+- L'injection de l'anatoxine X conduit (après la phase d'induction) à l'activation et à la multiplication des lymphocytes B, ce qui explique l'augmentation de leur nombre. (0,25)
+- La différenciation de certains lymphocytes B conduit à la formation de plasmocytes et à l'augmentation de leur nombre. (0,25)
+- Les plasmocytes formés sécrètent des anticorps, ce qui explique l'augmentation progressive de leur concentration plasmatique. (0,25)
+
+3. Explication des résultats expérimentaux :
+- Expérience 1 : Les cobayes du lot 1 sécrètent des anticorps spécifiques à la toxine X qui s'associent aux toxines formant des complexes immuns. (0,25)
+- Expérience 2 : L'absence du thymus chez les cobayes du lot 2 → absence de maturation des lymphocytes (LT) → pas de différenciation des lymphocytes B en plasmocytes → pas de production d'anticorps spécifiques à la toxine X, ce qui explique l'absence de formation des complexes immuns. (0,25)
+- Expérience 3 : Les cobayes du lot 3 produisent des anticorps spécifiques à la toxine X → formation des complexes immuns car ces cobayes ont reçu des lymphocytes T matures des cobayes du lot 1 (qui ont remplacé l'ablation du thymus). (0,25)
+La condition nécessaire à la production des anticorps :
+L'existence des lymphocytes T matures capables d'activer les lymphocytes B et leur différenciation en plasmocytes sécréteurs d'anticorps. (0,5)
+Remarque : on accepte (la coopération entre LB et LT).
+
+### Exercice 4 (3 pts)
+
+1.
+- Les arguments qui témoignent que la région a subi des forces compressives : la présence de chevauchements, de nappes de charriage (citer au moins un argument). (0,25)
+- Les arguments qui témoignent de la disparition d'un domaine océanique sont : la présence de sédiments océaniques, d'ophiolites (citer au moins un argument). (0,25)
+
+2.
+a- Les modifications minéralogiques que subissent les roches :
+En passant de R1 à R2, on observe : la disparition du plagioclase et l'apparition de la jadéite et du grenat. (0,25)
+Les conditions de formation des deux roches R1 et R2 : (0,25 x 2)
+
+| Roches | R1 | R2 |
+|---|---|---|
+| Pression (GPa) | 0,45 à 1,1 | 0,8 à 1,9 |
+| Température (°C) | 80 à 480 | 250 à 540 |
+
+b- Explication des modifications minéralogiques :
+Lorsqu'on se déplace du champ A au champ C, les roches subissent une augmentation importante de la pression en comparaison avec la faible augmentation de la température, ce qui est à l'origine de réactions chimiques permettant la disparition du plagioclase et l'apparition de la jadéite et du grenat. (0,5)
+Remarque : on accepte toute réponse correcte.
+Le type de métamorphisme qu'a subi la région :
+Un dynamo-métamorphisme ou métamorphisme d'enfouissement (métamorphisme de subduction). (0,5)
+
+3. Les étapes de formation de la chaîne alpine : (0,25 x 3)
+- Subduction d'une lithosphère océanique sous une lithosphère continentale suite à des forces compressives (dynamo-métamorphisme) ;
+- Disparition d'un domaine océanique ;
+- Confrontation des deux marges continentales africaine et européenne avec déformation des roches (chevauchements, nappes de charriage) et genèse de la chaîne alpine.
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة ») ; le PDF source porte un filigrane « Moutamadris.ma ».
+- Exercice 2, question 1 : certains caractères du PDF étaient corrompus dans l'extraction (symboles G/g/M/m et dominance reconstitués à partir du sujet).
+- Exercice 2, question 4 : fréquences calculées avec les valeurs du document 3 (f(R) = [R] + [RS]/2 ; f(S) = [S] + [RS]/2).

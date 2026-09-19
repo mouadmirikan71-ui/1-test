@@ -1,0 +1,135 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2017 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2017-rattrapage-corrige.pdf
+Element: https://www.alloschool.com/element/65644
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة الاستدراكية 2017 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+RR32F
+
+## Partie I (5 pts)
+
+I. (1, a) ; (2, c) ; (3, b) ; (4, c) — 0,5 x 4
+
+II.
+1. Les sphères pédonculées : ce sont des protéines enzymatiques, présentes au niveau de la membrane interne de la mitochondrie et qui interviennent dans la phosphorylation de l'ADP en ATP. (0,5)
+2. Actine ; Myosine ; Troponine ; Tropomyosine. (0,5)
+
+III. (1, c) ; (2, a) ; (3, d) ; (4, b) — 0,25 x 4
+
+IV. a : faux ; b : vrai ; c : faux ; d : vrai — 0,25 x 4
+
+## Partie II (15 pts)
+
+### Exercice 1 (4 pts)
+
+1. Description des résultats :
+Au début de l'expérience, le volume de la tumeur était de 0,4 cm³ ; ce volume diminue progressivement, suite à l'activation du gène p53, pour atteindre 0,04 cm³ après 12 jours et 0,02 cm³ après 18 jours jusqu'à ce qu'il disparaisse complètement après 28 jours. (0,5)
+Déduction : La tumeur apparaît en présence du gène p53 inactif, et disparaît suite à l'activation de ce gène, donc le gène p53 intervient dans l'élimination de la tumeur. (0,5)
+
+2. Relation entre la protéine p53 et le phénotype cellulaire :
+- 1er cas : protéine p53 fonctionnelle → interrompt la division cellulaire (en cas d'endommagement de l'ADN) jusqu'à ce que l'ADN soit réparé, puis la division cellulaire devient normale. (0,25)
+- 2ème cas : protéine p53 non fonctionnelle → incapable d'interrompre la division cellulaire (en cas d'endommagement de l'ADN), et les cellules, ayant l'ADN non réparé, entament des divisions anarchiques. (0,25)
+Relation protéine – caractère :
+Protéine p53 fonctionnelle → division cellulaire normale ; Protéine p53 non fonctionnelle → divisions cellulaires anarchiques (formation de la tumeur). Donc tout changement dans l'état de la protéine induit un changement du phénotype lié à ce caractère, ce qui traduit la relation protéine – caractère. (0,5)
+
+3.
+- L'allèle normal — ARNm : CAC AUG ACG GAG GUU GUG AGG CGC UGC (0,25) ; Polypeptide : His – Met – Thr – Ac.Glu – Val – Val – Arg – Arg – Cys (0,25)
+- L'allèle anormal — ARNm : CAC AUG ACG GAG GUU GUG AGG AGC UGC (0,25) ; Polypeptide : His – Met – Thr – Ac.Glu – Val – Val – Arg – Ser – Cys (0,25)
+
+4. Cellule normale → mutation du gène p53 (substitution du nucléotide « G » par « T » au début du triplet 174) → protéine p53 non fonctionnelle → pas de régulation de la division cellulaire (en cas de dommage) → divisions anarchiques → cellules cancéreuses. (0,25 x 3)
+
+### Exercice 2 (5 pts)
+
+1. Déductions (Étude I) :
+- Les parents sont de lignées pures.
+- L'allèle responsable de la couleur violette des fleurs (B) est dominant par rapport à l'allèle responsable de la couleur blanche (b).
+- L'allèle responsable de la position axillaire des fleurs (P) est dominant par rapport à l'allèle responsable de la position apicale des fleurs (p). (0,25 x 3)
+
+2. Liaison des deux caractères : la génération F2 est composée de 4 phénotypes avec les proportions suivantes :
+- [B, P] → 91 → 56,88 % ≈ 9/16
+- [B, p] → 32 → 20 % ≈ 3/16
+- [b, P] → 29 → 18,13 % ≈ 3/16
+- [b, p] → 8 → 5 % ≈ 1/16
+F2 présente les proportions 9/16, 3/16, 3/16, 1/16 donc les deux caractères sont indépendants. (0,5)
+Génotypes des individus P1, P2, F1 : (0,25 x 3)
+
+| Individus | P1 | P2 | F1 |
+|---|---|---|---|
+| Phénotypes | [B, P] | [b, p] | [B, P] |
+| Génotypes | (B//B ; P//P) | (b//b ; p//p) | (B//b ; P//p) |
+
+3. Déductions (Étude II) :
+- Les parents sont de lignées pures.
+- L'allèle responsable de la couleur pourpre des fleurs (R) est dominant par rapport à l'allèle responsable de la couleur rouge (r).
+- L'allèle responsable de la forme des grains de pollen longs (L) est dominant par rapport à l'allèle responsable de la forme des grains de pollen ronds (ℓ). (0,25 x 3)
+
+4. Comparaison des résultats de F2 avec les résultats attendus :
+
+| Phénotypes | [R, L] | [R, ℓ] | [r, L] | [r, ℓ] |
+|---|---|---|---|---|
+| Résultats obtenus en F2 | 483 → 69,80 % | 39 → 5,63 % | 37 → 5,34 % | 133 → 19,22 % |
+| Résultats attendus en F2 | 9/16 ≈ 56,25 % | 3/16 ≈ 18,75 % | 3/16 ≈ 18,75 % | 1/16 ≈ 6,25 % |
+
+(0,5)
+Les résultats obtenus en F2 sont différents des résultats attendus en cas de deux caractères indépendants, donc les deux caractères étudiés sont liés, et par conséquent l'hypothèse 1 [sic — voir notes] est celle qui est correcte et qu'on peut garder. (0,25)
+
+5.
+a- Fréquence de l'allèle « t » : f(t) = q = 1 – p = 1 – 0,64 = 0,36 (0,5)
+b- Fréquence des hétérozygotes (T//t) : f(T//t) = 2pq = 2 x 0,64 x 0,36 = 0,46 ; fréquence des homozygotes (t//t) : f(t//t) = q² = 0,36 x 0,36 = 0,13 (1 pt)
+
+### Exercice 3 (3 pts)
+
+1. Description : durant les deux premières journées de l'infection, la concentration du virus augmente légèrement pour atteindre une valeur maximale de 6,5 UA ; après, cette concentration diminue progressivement pour disparaître à la 11ème journée.
+Explication :
+- L'augmentation de la concentration du virus s'explique par sa prolifération dans le corps avant le développement d'une réponse immunitaire convenable.
+- La diminution de la concentration du virus s'explique par son élimination par les effecteurs de la réponse immunitaire cellulaire (LTc) et humorale (Ac). (0,25 x 3)
+
+2. Différence :
+- Réponse primaire : élimination du virus après 11 jours suite à l'augmentation des LTc qui atteint 500 UA et des anticorps qui atteignent environ 550 UA. (0,5)
+- Réponse secondaire : élimination du virus après 5 jours suite à l'augmentation des LTc qui atteint 4900 UA et des anticorps qui atteignent environ 1100 UA. (0,25)
+Déduction : Le 2ème contact avec l'antigène (virus de la grippe) produit une réponse immunitaire puissante (forte) et instantanée (rapide) → élimination rapide de l'antigène → présence d'une mémoire immunitaire.
+
+3. Comparaison : suite à l'injection de la toxine cholérique, les deux souris 2 et 4 produisent des anticorps anti-toxine cholérique. (0,25)
+La souris 2 a produit une quantité d'anticorps anti-toxine cholérique supérieure à celle produite par la souris 4 : (22 UA) contre (2 UA). (0,25)
+Déduction : les cellules responsables de la mémoire immunitaire sont les lymphocytes. (0,25)
+
+4. Conditions de lyse des cellules dermiques :
+- Les cellules dermiques doivent être infectées. (0,25)
+- Les lymphocytes doivent être sensibilisés contre le même virus ayant infecté les cellules dermiques. (0,25)
+Déduction : La caractéristique de la réponse immunitaire mise en évidence est la spécificité. (0,25)
+
+### Exercice 4 (3 pts)
+
+1. Description :
+- À l'est, les nappes ophiolitiques sont charriées sur la croûte continentale ;
+- Au niveau des unités Puebo et Koumac-Diahot : absence de nappes ophiolitiques suite au phénomène de l'érosion ;
+- À l'ouest, au niveau de l'unité de Poya, les nappes ophiolitiques sont charriées sur la croûte continentale. (0,5)
+Déduction de la nature des contraintes tectoniques :
+La région est sous régime compressif → présence de plis et de failles inverses et de nappes de charriage. (0,25)
+
+2. Comparaison : la nappe ophiolitique présente la même lithologie que la lithosphère océanique. (0,25)
+Déduction : la nappe ophiolitique de Poya est une partie de lithosphère océanique charriée sur la croûte continentale. Donc le phénomène géologique qui a lieu dans la région étudiée est l'obduction. (0,5)
+
+3.
+a- Conditions de pression et de température de la formation de R1 : la roche R1 appartient au domaine D : 0,8 GPa < P < 1,8 GPa ; 200 °C < T < 500 °C. (0,5)
+b- La roche R1 s'est formée sous forte pression et moyenne température → métamorphisme dynamique → phénomène de subduction. (0,5)
+
+4. Succession des étapes : rapprochement des plaques australienne et pacifique → subduction → blocage de la subduction → obduction → formation de la chaîne de montagne de la Nouvelle-Calédonie. (0,5)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Codes RS32F/RR32F.
+- Exercice 2, question 4 : le corrigé conclut « gènes liés » mais désigne « l'hypothèse 1 » alors que le sujet définit l'hypothèse 1 = gènes indépendants et l'hypothèse 2 = gènes liés — incohérence (coquille probable du corrigé ou de l'extraction) ; la conclusion biologique correcte est : gènes liés (hypothèse 2 du sujet).
+- Exercice 4 : les barèmes du corrigé (Q3b : 0,5 pt) diffèrent de ceux du sujet (Q3b : 0,25 pt) et totalisent plus de 3 pts — valeurs transcrites telles qu'extraites.

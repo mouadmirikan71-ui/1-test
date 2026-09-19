@@ -1,0 +1,232 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2017 - Session Rattrapage - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2017-rattrapage-sujet.pdf
+Element: https://www.alloschool.com/element/65643
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2017 - الموضوع -
+المادة: علوم الحياة والأرض
+الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+RS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Première partie : Restitution des connaissances (5 pts)
+
+I. Pour chacune des propositions numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …), et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1 – La glycolyse est une étape :
+a. commune de la fermentation et la respiration ;
+b. spécifique de la respiration ;
+c. spécifique de la fermentation lactique ;
+d. spécifique de la fermentation alcoolique.
+
+2 – Parmi les produits du cycle de Krebs :
+a. les composés réduits, le dioxyde de carbone et l'acétyle coenzyme A ;
+b. le dioxyde de carbone, l'acétyle coenzyme A et l'ATP ;
+c. les composés réduits, le dioxyde de carbone et l'ATP ;
+d. les composés réduits, l'acétyle coenzyme A et l'ATP.
+
+3 – Les myofilaments de myosine sont présents uniquement au niveau des :
+a. bandes claires du sarcomère ;
+b. bandes sombres du sarcomère ;
+c. bandes sombres et une partie des bandes claires ;
+d. bandes claires et une partie des bandes sombres.
+
+4 – Le rendement énergétique de la respiration exprime :
+a. la quantité globale d'énergie latente du glucose ;
+b. le nombre de molécules d'ATP synthétisées à partir de l'oxydation du glucose ;
+c. le pourcentage d'énergie extraite sous forme d'ATP par rapport à l'énergie globale latente du glucose ;
+d. le pourcentage d'énergie extraite de l'oxydation du glucose sous forme de chaleur.
+
+II. Répondez brièvement aux questions suivantes :
+1. Définissez la sphère pédonculée. (0,5 pt)
+2. Citez les protéines constitutives des myofilaments. (0,5 pt)
+
+III. Reliez chaque voie métabolique aux réactions chimiques qui lui correspondent : Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …) et adressez à chaque numéro la lettre correspondante. (1 pt)
+
+| Les voies métaboliques | Les réactions biochimiques |
+|---|---|
+| 1 – fermentation alcoolique. | a – C6H12O6 + 6O2 + 38ADP + 38Pi → 6CO2 + 6H2O + 38ATP |
+| 2 – respiration cellulaire. | b – C6H12O6 + 2ADP + 2Pi → 2 CH3-CHOH-COOH + 2 ATP |
+| 3 – glycolyse. | c – C6H12O6 + 2ADP + 2Pi → 2 CH3-CH2OH + 2CO2 + 2 ATP |
+| 4 – fermentation lactique. | d – C6H12O6 + 2NAD+ + 2ADP + 2Pi → 2ATP + 2 CH3-CO-COOH + 2NADH,H+ |
+
+IV. Recopiez la lettre de chaque suggestion, et écrivez devant chacune d'elles « vrai » ou « faux » : (1 pt)
+
+a. Les réactions du cycle de Krebs produisent du dioxyde de carbone et consomment du dioxygène.
+b. Le renouvellement des molécules d'ATP se fait à partir de la phosphorylation des molécules d'ADP.
+c. Les mitochondries sont des organites dans lesquels se déroule la respiration ou la fermentation selon la présence ou l'absence du dioxygène.
+d. Le sarcomère est la plus petite unité structurelle de la fibre musculaire qui peut se contracter.
+
+## Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 (4 pts)
+
+Afin de mettre en évidence la relation gènes – caractères héréditaires et de déterminer quelques mécanismes de l'expression de l'information génétique, on propose les données suivantes :
+
+• La division cellulaire est l'une des propriétés fondamentales des cellules vivantes. Pour assurer le développement et le bon fonctionnement de l'organisme, les divisions cellulaires doivent être contrôlées. Parmi les gènes qui interviennent dans le contrôle de la division cellulaire, on trouve le gène p53. Dans certains cas, ce contrôle peut être altéré, ce qui est à l'origine d'un phénotype qui se manifeste par une multiplication anarchique des cellules et la formation de tumeurs.
+
+• Afin de mettre en évidence la relation entre le gène p53 et la formation de tumeurs cancéreuses (phénotype), des chercheurs ont irradié des souris dont le gène p53 est inactif, ce qui déclenche la formation de tumeurs, puis ils ont réactivé le gène p53. Le document 1 présente les résultats obtenus.
+
+Document 1 — Volume de la tumeur (cm³) après activation du gène p53 :
+
+|  | Volume de la tumeur (cm³) |
+|---|---|
+| Début de l'expérience | 0,42 |
+| Après 12 jours | 0,09 |
+| Après 18 jours | 0,04 |
+| Après 28 jours | 0,00 |
+
+1. Décrivez les résultats représentés par le document 1, déduisez le rôle du gène p53. (1 pt)
+
+• Le gène p53 code pour une protéine du même nom (la protéine p53) qui intervient dans la régulation des divisions cellulaires suite à une anomalie de l'ADN. Le document 2 représente un schéma explicatif qui illustre la relation entre la protéine p53 et le phénotype cellulaire : division normale (premier cas) et la formation d'une tumeur cancéreuse (deuxième cas).
+
+[Figure — Document 2 : 1er cas : Anomalie de l'ADN + protéine p53 fonctionnelle → Arrêt de la division cellulaire avec réparation de l'ADN → Divisions cellulaires normales ; 2ème cas : Anomalie de l'ADN + protéine p53 non fonctionnelle → Divisions cellulaires sans réparation de l'ADN → Multiplication cellulaire anarchique (tumeur cancéreuse)]
+
+2. En exploitant les données du document 2, dégagez la relation entre la protéine p53 et le phénotype cellulaire dans chacun des deux cas, puis montrez la relation protéine – caractère. (1 pt)
+
+• Des études ont montré que l'altération du gène p53 est retrouvée dans plus de la moitié des cancers humains. Le document 3 présente la séquence nucléotidique d'un fragment du brin transcrit de l'allèle normal du gène p53 et celle de l'allèle anormal de ce gène. Le document 4 présente un extrait du tableau du code génétique.
+
+Document 3 :
+
+| Allèle p53 normal | … GTG – TAC – TGC – CTC – CAA – CAC – TCC – GCG – ACG … |
+|---|---|
+| Allèle p53 anormal | … GTG – TAC – TGC – CTC – CAA – CAC – TCC – TCG – ACG … |
+
+Sens de lecture →
+
+Document 4 :
+
+| Codons | GUU, GUG | GAG, GAA | AGU, AGC | ACA, ACG | AUG | CGC, AGG | CAC, CAU | UGU, UGC | UAA, UAG |
+|---|---|---|---|---|---|---|---|---|---|
+| Acides aminés | Val | Ac.Glu | Ser | Thr | Met | Arg | His | Cys | Non sens |
+
+3. En vous basant sur les documents 3 et 4, déterminez la séquence de l'ARNm et celle de la chaîne peptidique correspondant à l'allèle normal et à l'allèle anormal du gène p53. (1 pt)
+
+4. En vous basant sur les documents précédents, montrez la relation entre la mutation du gène p53 et la formation de la tumeur cancéreuse. (1 pt)
+
+### Exercice 2 (5 pts)
+
+Dans le cadre de l'étude de la transmission de quelques caractères héréditaires et la détermination de la structure génique chez une population de pois, on propose les données suivantes :
+
+• Étude I : En 1856 Mendel entama ses expériences d'hybridations sur la plante du petit pois afin d'étudier la transmission de quelques caractères héréditaires. Parmi ces croisements, on cite les deux croisements présentés dans le tableau du document 1.
+
+Document 1 :
+
+|  | Croisement | La génération obtenue |
+|---|---|---|
+| Croisement 1 : | Entre une plante P1 à fleurs violettes et axillaires et une plante P2 à fleurs blanches et apicales. | La génération F1 : Toutes les plantes sont à fleurs violettes et axillaires. |
+| Croisement 2 : | Entre les plantes F1. | La génération F2 est constituée de : 91 plantes à fleurs violettes et axillaires, 32 plantes à fleurs violettes et apicales, 29 plantes à fleurs blanches et axillaires, 8 plantes à fleurs blanches et apicales. |
+
+1. Que déduisez-vous du premier croisement ? (0,75 pt)
+
+2. En vous basant sur les croisements 1 et 2, montrez que les deux gènes étudiés sont indépendants et donnez les génotypes des parents (P1 et P2) et des individus de la génération F1. (1,25 pt)
+
+Utilisez les symboles suivants :
+- B et b pour les allèles du gène responsable de la coloration des fleurs ;
+- P et p pour les allèles du gène responsable de la position des fleurs.
+
+• Étude II : Bateson et Punnett se sont intéressés à 2 caractères chez le pois : la couleur de la fleur qui peut être pourpre ou rouge et la forme des grains de pollen qui peuvent être longs ou ronds.
+
+Document 2 :
+
+|  | Croisements | La génération obtenue |
+|---|---|---|
+| Croisement 3 : | Entre des plantes qui ont des fleurs pourpres et des grains de pollen longs et des plantes qui ont des fleurs rouges et des grains de pollen ronds. | La génération F1 : Les individus ont tous des fleurs pourpres et des grains de pollen longs. |
+| Croisement 4 : | Plantes F1 entre elles. | La génération F2 est constituée de : 483 plantes avec des fleurs pourpres et des grains de pollen longs, 39 plantes avec des fleurs pourpres et des grains de pollen ronds, 37 plantes avec des fleurs rouges et des grains de pollen longs, 133 plantes avec des fleurs rouges et des grains de pollen ronds. |
+
+Ces deux généticiens ont proposé deux hypothèses pour expliquer les résultats du croisement 4 :
+- Hypothèse 1 : les deux gènes étudiés sont indépendants.
+- Hypothèse 2 : les deux gènes étudiés sont liés.
+
+3. Que déduisez-vous des résultats du croisement 3 ? (0,75 pt)
+
+4. Comparez les résultats de la génération F2 avec les proportions obtenues dans le cas de deux gènes indépendants. Déduisez l'hypothèse qui va être acceptée par les deux généticiens. (0,75 pt)
+
+Utilisez les symboles suivants :
+- R et r pour les allèles du gène responsable de la couleur des fleurs ;
+- L et ℓ pour les allèles du gène responsable de la forme des grains de pollen.
+
+• Étude III : Dans une population de petits pois, on considère le gène responsable de la longueur de la tige qui se présente sous deux formes d'allèles : un allèle dominant « T » pour le phénotype « Tige longue » et un allèle « t » récessif pour le phénotype « Tige courte ». La fréquence de l'allèle « T » est p = 0,64. On suppose que la population est en équilibre de Hardy-Weinberg.
+
+5.
+a- Calculez la fréquence de l'allèle récessif « t ». (0,5 pt)
+b- Calculez la fréquence des hétérozygotes (T//t) puis celle des homozygotes (t//t). (1 pt)
+
+### Exercice 3 (3 pts)
+
+Dans le but de préciser quelques caractéristiques de la réponse immunitaire acquise on présente les données expérimentales suivantes :
+
+• Le document 1 présente la réponse immunitaire contre le virus de la grippe chez des souris infectées pour la première fois par ce virus (figure a) et chez d'autres souris infectées pour la deuxième fois par le même virus (figure b).
+
+[Figure — Document 1 : figure (a) réponse primaire, figure (b) réponse secondaire ; axes : Concentration en virus dans le sang (0 à 10 UA), Anticorps / LTc (0 à 5000 UA), Jours ; Infection indiquée]
+
+1. Décrivez puis expliquez l'évolution de la concentration du virus présentée dans la figure (a) du document 1. (0,75 pt)
+
+2. Comparez la réaction du système immunitaire lors d'une réponse immunitaire primaire et d'une réponse secondaire, et déduisez, en justifiant votre réponse, l'existence d'une mémoire immunitaire. (0,75 pt)
+
+• Afin de déterminer les éléments responsables de la mémoire immunitaire, on présente le document 2 qui montre les résultats d'une expérience de transfert de lymphocytes chez les souris. (Les souris numéro 2, 3 et 4 n'ont jamais été en contact avec la bactérie responsable du choléra ou avec la toxine qu'elle produit.)
+
+[Figure — Document 2, protocole de transfert de lymphocytes : souris n°1 donneuse → prélèvement de lymphocytes → injection aux souris receveuses ; 1 an après, injection de la toxine du choléra ; analyse de la production d'anticorps anti-toxine (souris n°2 : 22 UA ; souris n°4 : 2 UA — valeurs d'après le corrigé officiel). Protocole détaillé non extrait.]
+
+3. Comparez les résultats de l'expérience et déduisez les cellules responsables de la mémoire immunitaire. (0,75 pt)
+
+• Des cellules dermiques de souris sont cultivées in vitro. Certaines sont saines, d'autres ont été infectées soit par un virus A soit par un virus B. Des lymphocytes T cytotoxiques prélevés d'autres souris, soit saines, soit infectées par l'un ou l'autre virus, sont rajoutés dans le milieu. Le document 3 présente les conditions de l'expérience et le devenir des cellules dermiques.
+
+Document 3 :
+
+|  | Provenance des cellules dermiques : Souris saines | Souris infectées par le virus A | Souris infectées par le virus B |
+|---|---|---|---|
+| LTc provenant de souris saines | Absence de lyse | Absence de lyse | Absence de lyse |
+| LTc provenant de souris infectées par le virus A | Absence de lyse | Lyse des cellules dermiques | Absence de lyse |
+| LTc provenant de souris infectées par le virus B | Absence de lyse | Absence de lyse | Lyse des cellules dermiques |
+
+4. À partir des résultats du document 3, déterminez les conditions de lyse des cellules dermiques, et déduisez la caractéristique de la réponse immunitaire mise en évidence par cette expérience. (0,75 pt)
+
+### Exercice 4 (3 pts)
+
+La mobilité des plaques lithosphériques entraîne des modifications dans la répartition des masses lithosphériques continentales et océaniques. Afin de montrer la relation entre l'affrontement des lithosphères et la formation des chaînes de montagnes on présente les données suivantes :
+
+• La Nouvelle-Calédonie est une île située à la frontière entre la plaque australienne et la plaque pacifique, longue de 400 Km et large de 40 à 50 Km, comportant une chaîne de montagne qui culmine à 1650 m. Le document 1 présente une coupe géologique schématique de la partie nord de la Nouvelle-Calédonie.
+
+[Figure — Document 1, coupe : Unités Koumac-Diahot, Poya, Puebo ; Ouest – Est ; croûte continentale (2,5 Km, 5 Km) ; Les ophiolites ont recouvert les unités de Koumac/Diahot et de Puebo ; celles-ci n'apparaissent plus à cause de l'érosion ; Unité de Puebo : basaltes et roches d'origine sédimentaire présentant des minéraux de grenat et jadéite ; Unité de Koumac/Diahot : unités sédimentaires ; l'unité du Diahot présente des minéraux de glaucophane ; Les flèches indiquent les failles inverses et les nappes]
+
+1. À partir de l'exploitation des données du document 1, décrivez la répartition des nappes ophiolitiques de l'Est vers l'Ouest, et déduisez, en justifiant votre réponse, la nature des contraintes tectoniques qui ont affecté cette région. (0,75 pt)
+
+• Le document 2 représente une coupe verticale schématique d'une lithosphère océanique de référence (figure a) et une coupe verticale schématique de la nappe ophiolitique de la région de Poya (figure b).
+
+Document 2 — Figure (a) : lithosphère océanique de référence — Lithologie : Sédiments océaniques et basalte en coussins, Filons de dolérite, Gabbro, Péridotite.
+Document 2 — Figure (b) : nappe ophiolitique de Poya — Lithologie : Sédiments océaniques, Basalte en coussins, Filons de dolérite, Gabbro, Péridotite.
+
+2. Comparez la structure de la nappe ophiolitique de Poya et celle de la lithosphère océanique, puis déduisez le phénomène géologique qui a eu lieu dans cette région. (1 pt)
+
+• L'étude minéralogique d'un échantillon d'une roche R1 récolté dans la région de Puebo montre la présence de grenat et de jadéite. Le document 3 présente un diagramme qui montre les domaines de stabilité de quelques associations de minéraux caractéristiques. Ces domaines de stabilité sont déterminés expérimentalement.
+
+[Figure — Document 3, diagramme : domaines de stabilité des associations de minéraux (Température °C / Pression GPa) ; courbe : (320 °C ; 2,3 GPa), (380 ; 1,9), (440 ; 1,5), (480 ; 1,0), (520 ; 0,5), (560 ; 0,1), (600 ; 0,0)]
+
+3.
+a- En exploitant le diagramme du document 3, déterminez les conditions de pression et de température dans lesquelles s'est formée la roche R1. (0,5 pt)
+b- Sachant que la roche R1 est le résultat d'un métamorphisme qui a affecté les roches de la croûte océanique, déduisez le phénomène géologique responsable. (0,25 pt)
+
+4. En vous basant sur les données précédentes, proposez une succession des étapes essentielles de la formation de la chaîne de montagne de la Nouvelle-Calédonie. (0,5 pt)
+
+§ Fin §
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Classement « 2017 – Rattrapage » conforme au référencement AlloSchool (elements 65643/65644) ; les bandeaux de pages extraits mentionnent « 2016 » (lecture automatique incertaine du chiffre 7) et un bandeau du corrigé mentionne « الدورة العادية » au lieu de « الدورة الاستدراكية ».
+- Exercice 2, question 3 : énoncé reconstitué à partir du corrigé officiel (déductions du croisement 3).
+- Exercice 3, document 2 : le détail du protocole n'a pas été extrait ; valeurs d'anticorps (22 UA / 2 UA) d'après le corrigé officiel.
+- Exercice 4, question 2 : barème de 1 pt reconstitué par différence (3 − (0,75 + 0,5 + 0,25 + 0,5)) ; le corrigé officiel totalise 0,75 pt pour cette question — incohérence probable dans l'extraction des barèmes.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

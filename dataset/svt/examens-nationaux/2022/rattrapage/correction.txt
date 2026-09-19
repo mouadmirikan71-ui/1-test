@@ -1,0 +1,151 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2022 - Session Rattrapage - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2022-rattrapage-corrige.pdf
+Element: https://www.alloschool.com/element/138544
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة الاستدراكية 2022 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+RR32F
+
+## Restitution des connaissances (5 pts)
+
+I. (Accepter toute définition correcte.)
+- Prisme d'accrétion : structure qui résulte de l'accumulation de sédiments marins de la plaque plongeante au niveau de la zone de subduction. (0,5)
+- Métamorphisme : ensemble de transformations minéralogiques et structurales que subit une roche préexistante à l'état solide sous l'effet de l'augmentation de la température et de la pression. (0,5)
+
+II. (1 ; d) ; (2 ; c) ; (3 ; a) ; (4 ; c) — 4 x 0,5 pt
+
+III.
+
+| Élément du groupe 1 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| La lettre convenable du groupe 2 | c | a | d | b |
+
+— 4 x 0,25 pt
+
+IV. 1. Basalte en coussinets (pillow lavas) ; 2. Filons de dolérite ; 3. Gabbro ; 4. Péridotite. (1 pt)
+
+## Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 (3 pts)
+
+1. (Accepter toute hypothèse valable telle que :)
+- un dérèglement dans la réaction (a) entraîne un manque de glucose, ce qui arrête la production d'ATP d'où l'intolérance aux efforts physiques.
+- un dérèglement dans la réaction (b) entraîne l'arrêt de la glycolyse, ce qui arrête la production d'ATP d'où l'intolérance aux efforts physiques.
+- un dérèglement dans la réaction (d) entraîne l'arrêt de la fermentation lactique, ce qui arrête la production d'ATP d'où l'intolérance aux efforts physiques. (0,5 pt)
+
+2.
+a. Comparaison :
+- Au repos, la concentration en glycogène musculaire chez la personne malade (800 mmol/kg) est supérieure à celle de la personne saine (450 mmol/kg).
+- Après un exercice physique intense, la concentration en glycogène musculaire reste stable à 800 mmol/kg chez la personne malade alors qu'elle diminue chez la personne saine (elle passe de 450 à 300 mmol/kg). (2 x 0,25 pt)
+b. Déduction : la voie non fonctionnelle chez la personne malade est la voie de la fermentation lactique. (0,25)
+Justification : chez la personne malade, la concentration en lactate est stable à la valeur initiale (0,5 mmol/L) (0,25), par contre chez la personne saine elle augmente jusqu'à la valeur maximale de 1 mmol/L au temps 2 min, puis elle diminue légèrement à partir de t = 3 min. (0,25)
+
+3. Le muscle de la cuisse chez la personne malade contient une très faible quantité d'enzyme Myophosphorylase. (0,25)
+La stabilité de la concentration en lactate chez la personne malade est due à la présence d'une très faible quantité de cette enzyme. (0,25)
+
+4.
+- Le manque en Myophosphorylase empêche l'hydrolyse du glycogène en glucose (pas de réaction (a)) → pas de réactions (b) et (d) → arrêt de production du lactate, faible production d'ATP d'où l'intolérance aux efforts physiques courts et intenses. (0,5)
+- Vérification de l'hypothèse. (0,25)
+NB : accepter une vérification logique.
+
+### Exercice 2 (4,5 pts)
+
+1. Le caractère « couleur rousse » est dû au récepteur MCR1 anormal (protéine) ne permettant pas la fixation de l'hormone MSH, ce qui inhibe la formation de l'eumélanine et active la formation de la phéomélanine responsable de la coloration rousse des cheveux. (1 pt)
+
+2. L'ARNm et la séquence d'acides aminés :
+- Chez le sujet à cheveux bruns :
+ARNm : UCG – UAU – CGA – AUU – CCA – UGU – AGC
+Séquence d'acides aminés : Ser – Tyr – Arg – Ile – Pro – Cys – Ser. (0,25)
+- Chez le sujet à cheveux roux :
+ARNm : UCG – UAU – CGA – ACU – CCA – UGU – AGC
+Séquence d'acides aminés : Ser – Tyr – Arg – Thr – Pro – Cys – Ser. (0,25)
+Explication de l'origine génétique de la coloration rousse des cheveux : mutation au niveau du 4ème triplet par substitution de A par G au niveau du brin transcrit → apparition du codon ACU au lieu du codon AUU → remplacement de l'acide aminé « Ile » par « Thr » conduisant à la synthèse de la protéine MCR1 anormale → synthèse de la phéomélanine responsable de la coloration rousse des cheveux. (1 pt)
+
+3.
+a. Le mode de transmission de l'albinisme :
+● L'allèle responsable de l'albinisme est récessif. (0,25)
+Justification : la fille III6 est albinos et ses parents II5 et II6 sont sains. (0,25)
+● Le gène responsable de l'albinisme est porté par un autosome. (0,25)
+Justification : (0,25)
+NB : accepter toute réponse correcte telle que :
+- Le gène n'est pas porté par le chromosome X car la femme III6 est albinos et descend d'un père sain.
+- La maladie touche les femmes et les hommes.
+b. La probabilité d'avoir un enfant albinos :
+Parents : II5 x II6 — Phénotypes : [A] x [A] — Génotypes : (A//a) x (A//a). (0,25)
+Gamètes : ½ A/ et ½ a/ x ½ A/ et ½ a/. (0,25)
+Échiquier de croisement : (0,25)
+
+|  | ½ A/ | ½ a/ |
+|---|---|---|
+| ½ A/ | (A//A) [A] ¼ | (A//a) [A] ¼ |
+| ½ a/ | (A//a) [A] ¼ | (a//a) [a] ¼ |
+
+La probabilité d'avoir un enfant albinos est 1/4 (25 %). (0,25)
+
+### Exercice 3 (4,5 pts)
+
+1. Déduction à partir du premier croisement :
+- Les parents sont de races pures selon la première loi de Mendel. (0,25)
+- L'allèle responsable de la couleur grise des poils est dominant (G) et celui responsable de la couleur blanche des poils est récessif (g). (0,25)
+- L'allèle responsable de l'aspect uniforme est dominant (H) et celui responsable de l'aspect panaché est récessif (h). (0,25)
+
+2. Les deux gènes sont indépendants.
+Justification : le 2ème croisement est un test-cross qui a donné 4 phénotypes différents et avec des pourcentages égaux (ségrégation indépendante des allèles). (0,5 pt)
+
+3. Interprétation chromosomique des résultats du deuxième croisement :
+Parents : P × F1
+Phénotypes : [g ; h] × [G ; H]
+Génotypes : (g//g ; h//h) × (G//g ; H//h). (0,25)
+Gamètes : 100 % (g/ h/) × ¼ (G/ H/), ¼ (G/ h/), ¼ (g/ H/), ¼ (g/ h/). (0,25)
+Échiquier de croisement : (0,5)
+
+|  | ¼ (G/ H/) | ¼ (G/ h/) | ¼ (g/ H/) | ¼ (g/ h/) |
+|---|---|---|---|---|
+| 100 % (g/ h/) | (G//g ; H//h) [G ; H] ¼ | (G//g ; h//h) [G ; h] ¼ | (g//g ; H//h) [g ; H] ¼ | (g//g ; h//h) [g ; h] ¼ |
+
+Résultats : ¼ [G ; H], ¼ [G ; h], ¼ [g ; H], ¼ [g ; h], conformes aux effectifs observés (≈ 70 chacun). (0,25)
+
+4.
+- Comparaison : en décembre 1962, avant la réalisation d'une ouverture dans un mur du grenier, la population capturée était constituée de presque autant de souris au pelage jaune (27 individus) que de souris au pelage brun (31 individus). (0,25)
+- En avril 1963, après la réalisation d'une ouverture dans un mur du grenier, la population capturée ne contenait que des souris au pelage brun. (0,25)
+- Déduction : prédation des souris à pelage jaune pâle par les chats. (0,25)
+
+5. Dans le grenier sombre :
+- les souris brunes sont moins visibles aux chats et donc sont moins exposées à la prédation, d'où la présence d'un nombre important de souris brunes dans la population. (0,5)
+- les souris jaunes sont plus visibles aux chats et donc sont fortement exposées à la prédation, d'où la diminution des souris jaunes dans la population. (0,5)
+- Donc le facteur responsable de cette variation est la sélection naturelle : sélection favorable pour les souris brunes et défavorable pour les souris jaunes. (0,25)
+
+### Exercice 4 (3 pts)
+
+1.
+a. L'apparition d'une réponse immunitaire nécessite des lymphocytes B et T (lot 3). (0,5)
+b. Réponse immunitaire spécifique à médiation humorale. (0,25)
+Justification : intervention des anticorps (présents dans le sérum). (0,25)
+
+2.
+- La coopération est induite par des substances contenues dans le surnageant appelées interleukines. (0,25)
+- Justification : la prolifération cellulaire ne se déroule qu'en présence de sérum contenant des interleukines qui provient du milieu de culture des lymphocytes T. (0,25)
+
+3.
+a. L'effet de la concentration des interleukines sur la différenciation des lymphocytes B :
+- Concentration en interleukines entre 0 et 10 U.I.L⁻¹ (accepter 10² U.I.L⁻¹) : le nombre de plasmocytes reste constant à une valeur minimale → pas de différenciation des lymphocytes B en plasmocytes. (0,25)
+- Concentration en interleukines supérieure à 10² UI/L → différenciation des lymphocytes B en plasmocytes → augmentation progressive du nombre des plasmocytes. (0,25)
+b. Les personnes atteintes de la maladie de Di George ont un thymus anormal et non fonctionnel → pas de maturation des lymphocytes T et pas de libération des interleukines → pas de différenciation des lymphocytes B en plasmocytes → faible concentration d'anticorps et survenue des infections virales et bactériennes. (1 pt)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Référence : RR 32F.
+- Partie I, question I (métamorphisme) : liens web parasites de l'extraction retirés.
+- Exercice 3, question 3 : ligne des résultats reconstituée (extraction partielle) ; totaux ¼ conformes au corrigé.

@@ -1,0 +1,213 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2023 - Session Normale - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2023-normale-sujet.pdf
+Element: https://www.alloschool.com/element/142315
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2023 - الموضوع -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+NS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Partie I : Restitution des connaissances (5 points)
+
+I. Définissez ce qui suit :
+a. Le complexe majeur d'histocompatibilité (CMH).
+b. Un antigène. (1 pt)
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule proposition correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …) et adressez à chaque numéro la lettre qui correspond à la proposition correcte. (2 pts)
+
+1. Le thymus est un organe :
+a. lymphoïde secondaire (périphérique).
+b. lymphoïde primaire (central).
+c. responsable de la maturation des lymphocytes B.
+d. responsable de la maturation des macrophages.
+
+2. La réponse immunitaire non spécifique fait intervenir :
+a. les lymphocytes B.
+b. les lymphocytes T4.
+c. les lymphocytes T8.
+d. les macrophages.
+
+3. Durant la phase de sensibilisation de la réponse allergique, se déroulent les phénomènes successifs suivants :
+a. différenciation des lymphocytes B en plasmocytes → libération des IgM → fixation des IgM sur les mastocytes.
+b. différenciation des lymphocytes B en plasmocytes → libération des IgE → fixation des IgE sur les mastocytes.
+c. différenciation des lymphocytes B en mastocytes → libération des IgE → fixation des IgE sur les plasmocytes.
+d. différenciation des plasmocytes en lymphocytes B → libération des IgE → fixation des IgE sur les lymphocytes T.
+
+4. Les lymphocytes T4 reconnaissent les antigènes présentés par les :
+a. CMH-I exposés à la surface des macrophages.
+b. CMH-II exposés à la surface des macrophages.
+c. IgM exposées à la surface des lymphocytes B.
+d. récepteurs T exposés à la surface des lymphocytes T8.
+
+III. Recopiez la lettre qui correspond à chaque proposition parmi les propositions suivantes, et écrivez devant chacune d'elles « vrai » ou « faux ». (1 pt)
+
+a. Les anticorps sont les effecteurs de la réponse immunitaire non spécifique.
+b. Les interleukines sont des médiateurs chimiques de la réponse immunitaire.
+c. Les lymphocytes sont produits au niveau du thymus et subissent leur maturation au niveau de la moelle osseuse.
+d. Les histamines sont produites par les plasmocytes issus de la différenciation des lymphocytes B.
+
+IV. Recopiez le tableau ci-dessous et adressez à chacun des numéros de l'ensemble 1 la lettre qui lui correspond parmi les éléments de l'ensemble 2. (1 pt)
+
+| Ensemble 1 | Ensemble 2 |
+|---|---|
+| 1. La sérothérapie. | a. Moyen d'aide au système immunitaire basé sur la mémoire immunitaire. |
+| 2. La vaccination. | b. Produit les facteurs du complément. |
+| 3. Le complexe immun. | c. Résultat de la liaison d'un antigène avec un anticorps spécifique. |
+| 4. Le lymphocyte T8. | d. Moyen d'aide au système immunitaire à action rapide. |
+|  | e. Effecteur de la réponse immunitaire cellulaire. |
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 (3 points)
+
+Le syndrome de NARP (Neuropathie, Ataxie et Rétinite Pigmentaire) est une maladie génétique dont les symptômes cliniques apparaissent essentiellement sous forme de maladies oculaires et cérébrales. Cette maladie se manifeste surtout au niveau des organes fortement dépendants des réactions de la phosphorylation oxydative, tels que la rétine et le cerveau.
+
+Afin de comprendre la nature du dysfonctionnement responsable de l'atteinte par le syndrome de NARP, on propose l'exploitation des données suivantes :
+
+Donnée 1 : Les mesures de la quantité du dioxygène consommé et de la quantité d'ATP produite par des cellules d'un individu sain et d'un autre atteint par le syndrome de NARP ont permis d'obtenir les résultats présentés dans le document 1. Le document 2 présente un schéma de l'organisation et du fonctionnement des complexes enzymatiques responsables de la phosphorylation oxydative au niveau de la membrane mitochondriale interne.
+
+Document 1 :
+
+|  |  | Individu sain | Individu atteint |
+|---|---|---|---|
+| Quantité de dioxygène consommé (× 10⁻¹² mol/s) | Avant l'ajout de l'ADP | 30 | 30 |
+| Quantité de dioxygène consommé (× 10⁻¹² mol/s) | Après l'ajout de l'ADP | 70 | 55 |
+| Quantité d'ATP synthétisée après l'ajout de l'ADP |  | +++ | + |
+
+NB : Le nombre des + est fonction de la quantité de la molécule.
+
+[Figure — Document 2 : membrane mitochondriale interne : complexes CI, CII, CIII, CIV, CV (sphère pédonculée) ; NADH, H+ ; FADH2 ; O2 + 4 H+ → 2 H2O ; ADP + Pi → ATP ; flux de H+ (matrice / espace intermembranaire).]
+
+1. En exploitant les données des documents 1 et 2 :
+a. Comparez la quantité du dioxygène consommé et la quantité d'ATP produite par les cellules de l'individu sain à celles de l'individu atteint par le NARP. (0,75 pt)
+b. Montrez la relation entre la consommation du dioxygène et la synthèse de l'ATP puis proposez une hypothèse expliquant les résultats observés chez l'individu atteint. (0,75 pt)
+
+Donnée 2 : Afin d'expliquer la différence dans la respiration cellulaire observée entre l'individu sain et l'individu atteint par le NARP, on propose l'exploitation des résultats de l'électrophorèse des complexes CI à CV extraits de la membrane interne de la mitochondrie de cellules provenant d'un individu sain et d'un individu atteint du syndrome NARP (document 3).
+
+NB : - L'électrophorèse est une technique de séparation des molécules chargées dans un champ électrique.
+- L'épaisseur de la bande reflète la quantité du complexe dans le mélange.
+
+[Figure — Document 3 : profils d'électrophorèse CI, CII, CIII, CIV, CV : individu sain vs individu atteint.]
+
+2. En exploitant les données du document 3, comparez les résultats obtenus, puis vérifiez l'hypothèse proposée pour expliquer les différences observées dans le document 1. (0,75 pt)
+
+3. À partir des données précédentes, expliquez les résultats observés chez l'individu atteint du NARP (document 1). (0,75 pt)
+
+### Exercice 2 (5 points)
+
+I. Dans le cadre de l'étude de l'expression et de la transmission de l'information génétique chez l'Homme, on présente les données suivantes :
+
+Le syndrome de Fabry est une maladie héréditaire, due à un déficit en α-galactosidase (α-GAL), qui est une enzyme lysosomale qui dégrade normalement les glycolipides GL-3. En cas de déficit de cette enzyme, ces molécules glycolipidiques s'accumulent à l'intérieur des lysosomes des cellules de l'organisme entraînant des dysfonctionnements de certains organes. Les symptômes de cette maladie comprennent des excroissances cutanées, des problèmes oculaires, une insuffisance rénale et une maladie cardiaque.
+
+Le document 1 montre l'action de l'enzyme α-GAL chez un individu sain et chez un individu malade, alors que le document 2 donne le pourcentage de l'activité de cette enzyme chez un individu sain et chez un individu atteint de la maladie de Fabry.
+
+[Figure — Document 1 : GL-3 + enzyme α-GAL fonctionnelle → dégradation → rejet ou réutilisation (lysosome) : cas d'un individu sain ; accumulation : cas d'un individu malade.]
+
+Document 2 :
+
+|  | Activité de α-GAL (%) |
+|---|---|
+| Individu sain | 99 |
+| Individu malade | 20 |
+
+[Le corrigé officiel retient 100 % pour l'individu sain.]
+
+1. En exploitant les documents 1 et 2, comparez l'activité de l'enzyme chez l'individu sain à celle chez l'individu malade, puis montrez la relation protéine – caractère. (0,5 pt)
+
+• La synthèse de l'enzyme α-galactosidase (α-GAL) est contrôlée par un gène nommé (GAL). Le document 3 présente deux fragments des brins non transcrits de deux allèles GAL : l'un normal chez un individu sain et l'autre muté chez un individu atteint de la maladie de Fabry. Le document 4 présente un extrait du code génétique.
+
+Document 3 — Numéros des triplets : 1 à 9 :
+- Individu sain (allèle normal) : … ATG – TCT – AAT – GAC – CTC – CGA – CAC – ATC – AGC … Sens de lecture →
+- Individu atteint (allèle muté) : … ATG – TCT – AAT – GAC – CTC – TGA – CAC – ATC – AGC … Sens de lecture →
+
+Document 4 :
+
+| Codons | CUC, CUA, CUG | AUU, AUC, AUA | AUG | UCU, UCC, AGU, AGC | CAU, CAC | AAU, AAC | GAU, GAC | CGC, CGA, CGG | UAA, UGA, UAG |
+|---|---|---|---|---|---|---|---|---|---|
+| Acides aminés | Leu | Ile | Met | Ser | His | Asn | Ac. asp | Arg | Stop |
+
+2. À partir des documents 3 et 4, donnez les séquences d'ARNm et d'acides aminés qui correspondent à chacun des fragments des allèles GAL normal et muté, puis expliquez l'origine génétique de la maladie de Fabry. (1,5 pt)
+
+II. La figure (a) du document 5 présente l'arbre généalogique (pedigree) d'une famille dont certains individus sont atteints par la maladie de Fabry et la figure (b) présente le nombre et le type d'allèles du gène GLA chez quelques individus de cette famille. Les résultats sont obtenus par la technique d'électrophorèse.
+
+[Figure — Document 5 : figure (a) : arbre généalogique (I : femme saine ; II : homme sain ; III : homme malade ; IV : …) ; figure (b) : électrophorèse (individus I1, I2, II3, III2 ; emplacements de l'allèle muté et de l'allèle normal). Figures non extraites en détail.]
+
+3. En vous basant sur les deux figures du document 5 :
+a. Déterminez le mode de transmission du syndrome de Fabry. Justifiez votre réponse. (0,75 pt)
+b. Déterminez la probabilité pour que le couple (I1, I2) donne naissance à une fille atteinte du syndrome de Fabry. Justifiez votre réponse en utilisant l'échiquier de croisement. (0,75 pt)
+Remarque : Utilisez les symboles A et a pour désigner les allèles du gène étudié.
+
+• La prévalence de la maladie de Fabry dans la population globale varie d'une région à l'autre. Mais généralement, chez les hommes, on estime que ce syndrome touche un homme sur 40 000 environ.
+
+4. En considérant que la population est en équilibre (obéit à la loi de Hardy-Weinberg) :
+a. Calculez les fréquences de l'allèle responsable de la maladie de Fabry et de l'allèle normal. (1 pt)
+b. Calculez la fréquence des femmes hétérozygotes pour le gène étudié. (0,5 pt)
+NB : donnez les résultats avec six chiffres après la virgule.
+
+### Exercice 3 (4 points)
+
+Dans le cadre de l'étude de la transmission des caractères héréditaires chez le Maïs et afin de déterminer la position relative des deux gènes responsables de la couleur et de la forme des graines, on propose les résultats des deux croisements suivants :
+
+Premier croisement : réalisé entre des plantes sauvages à graines rouges et arrondies et des plantes à graines blanches et déprimées. Les individus de la génération F1 sont tous de phénotype sauvage.
+
+[Figure — Graine arrondie / Graine déprimée.]
+
+1. Que déduisez-vous à partir des résultats de ce croisement ? (0,5 pt)
+
+Deuxième croisement : réalisé entre une plante de F1 et une plante à graines blanches et déprimées. Ce croisement a donné une génération F'2 composée de :
+- 176 graines rouges et arrondies ;
+- 184 graines blanches et déprimées ;
+- 23 graines rouges et déprimées ;
+- 17 graines blanches et arrondies.
+
+2. Montrez que les deux gènes étudiés sont liés. (0,5 pt)
+
+3. Donnez, en utilisant l'échiquier de croisement, l'interprétation chromosomique des résultats du deuxième croisement. (1,5 pt)
+NB : Utilisez les symboles suivants :
+- R et r pour les allèles du gène responsable de la couleur des graines ;
+- A et a pour les allèles du gène responsable de la forme des graines.
+
+4. À l'aide de schémas de chromosomes bien soignés, expliquez la formation des gamètes de la plante de F1, à l'origine des deux phénotypes : graines rouges et déprimées et graines blanches et arrondies obtenues en F'2, tout en précisant la position des gènes sur les chromosomes. (1 pt)
+
+5. Réalisez la carte factorielle des deux gènes étudiés. (0,5 pt)
+Utilisez l'échelle suivante : 1 cm → 2 cM.
+
+### Exercice 4 (3 points)
+
+Le Zagros est une chaîne de montagnes, principalement localisée en Iran. Elle s'étend sur 1 600 km de long du nord-ouest vers le sud-est. Son point culminant atteint 4 548 mètres d'altitude. Pour étudier certains phénomènes géologiques accompagnant la formation de cette chaîne de montagnes, on propose l'exploitation des données suivantes :
+
+Le document 1 représente une carte géologique simplifiée d'une région de la chaîne du Zagros et le document 2 présente une coupe géologique réalisée dans la même région représentée dans le document 1.
+
+[Figure — Document 1, carte : Mer Caspienne, Plaque eurasiatique, IRAN, Plaque arabique, Golfe Arabique ; Roches magmatiques ; Roches métamorphiques (Ophiolites métamorphisées) ; Sédiments déformés (Plis et chevauchements) ; Chevauchements (ZS, MZT et ZDF) ; échelle 0–400 km.]
+[Figure — Document 2, coupe SW–NE : MZT ; ZS : Zone de suture ; Roches magmatiques (Granodiorites) ; Roches métamorphiques (Ophiolites métamorphisées) ; Socle précambrien ; Sédiments déformés (Plis et chevauchements) ; profondeurs 10, 20 km.]
+
+1. En vous basant sur les documents 1 et 2, dégagez quatre indices montrant que le Zagros est une chaîne de montagnes résultant de l'affrontement de deux continents après disparition d'un ancien océan. (1 pt)
+
+• Le complexe ophiolitique contient des roches métamorphiques comme le métagabbro 1 (MG1) et le métagabbro 2 (MG2), qui sont des roches résultant de la transformation du gabbro. Pour déterminer les conditions de formation de ces roches, on se base sur les minéraux index présents dans ces roches.
+- La figure (a) du document 3 représente deux schémas de lames minces du métagabbro 1 (MG1) et du métagabbro 2 (MG2).
+- La figure (b) du même document présente les domaines de stabilité de certaines associations minérales en fonction de la pression, de la profondeur et de la température. Ces domaines de stabilité sont déterminés expérimentalement.
+
+[Figure — Document 3 : figure (a) : MG1 : Glaucophane + Plagioclase ; MG2 : Jadéite + Glaucophane + Grenat. Figure (b) : domaines de stabilité : A : Chlorite + Actinote + Plagioclase ; B : Glaucophane + Plagioclase ; C : Glaucophane + Jadéite ; D : Grenat + Jadéite + Glaucophane ; types de métamorphisme (HP-BT, BP-HT, MP-MT). Diagramme non extrait.]
+
+2. En vous basant sur les figures (a) et (b) du document 3, dégagez les conditions de pression et de température de formation des deux roches : le métagabbro 1 (MG1) et le métagabbro 2 (MG2), et déduisez le type de métamorphisme qui règne dans cette zone au cours de leur formation. (1 pt)
+
+3. En vous basant sur les données précédentes, proposez une succession des étapes essentielles de formation de la chaîne de montagnes du Zagros. (1 pt)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Exercice 2, document 2 : « 99 % » transcrit tel qu'extrait (le corrigé retient 100 %).
+- Exercice 2, document 5 : figures non extraites en détail ; résumé d'après le corrigé officiel (maladie uniquement chez les hommes ; femmes I2 et III2 : deux allèles ; hommes I1 et II3 : un seul allèle).
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

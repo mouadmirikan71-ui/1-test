@@ -1,0 +1,243 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2019 - Session Normale - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2019-normale-sujet.pdf
+Element: https://www.alloschool.com/element/94796
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2019 - الموضوع -
+المادة: علوم الحياة والأرض
+الشعبة/المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+NS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I. Définissez les notions suivantes :
+1. Faille inverse. (0,5 pt)
+2. Chaîne de collision. (0,5 pt)
+
+II. Pour chacune des propositions numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …) sur votre feuille de rédaction, et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1. En comparaison avec la croûte continentale, la croûte océanique est :
+a. plus épaisse et plus dense ;
+b. plus épaisse et moins dense ;
+c. moins épaisse et plus dense ;
+d. moins épaisse et moins dense.
+
+2. Les zones de subduction sont caractérisées par un volcanisme andésitique lié à la fusion partielle de la péridotite :
+a. hydratée de la plaque en subduction ;
+b. non hydratée de la plaque en subduction ;
+c. hydratée de la plaque chevauchante ;
+d. non hydratée de la plaque chevauchante.
+
+3. L'ophiolite est un complexe rocheux constitué par les roches suivantes :
+a. péridotite, andésite, filons doléritiques et basalte ;
+b. andésite, gabbro, filons doléritiques et basalte ;
+c. péridotite, gabbro, andésite et basalte ;
+d. péridotite, gabbro, filons doléritiques et basalte.
+
+4. Les zones de subduction sont caractérisées par des anomalies thermiques :
+a. positives selon le plan de Bénioff et négatives au niveau de l'arc volcanique ;
+b. positives selon le plan de Bénioff et au niveau de l'arc volcanique ;
+c. négatives selon le plan de Bénioff et au niveau de l'arc volcanique ;
+d. négatives selon le plan de Bénioff et positives au niveau de l'arc volcanique.
+
+III. Recopiez, sur votre feuille de rédaction, la lettre qui correspond à chaque suggestion, et écrivez devant chacune d'elles « vrai » ou « faux » : (1 pt)
+
+a. La croûte océanique est formée de granites et de gabbro.
+b. Au niveau des zones de subduction, les foyers sismiques se répartissent selon un plan oblique au-dessous de la plaque chevauchante.
+c. La chaîne d'obduction résulte de l'enfouissement d'une plaque océanique sous une plaque continentale.
+d. [Proposition non extraite du PDF (fragment : « …e d'un pli ») — réponse du corrigé officiel : faux.]
+
+IV. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …) et adressez à chaque numéro du groupe 1, la lettre correspondante du groupe 2. (1 pt)
+
+| Groupe 1 : les roches | Groupe 2 : les caractéristiques |
+|---|---|
+| 1. L'andésite | a. Roche magmatique à structure grenue appartenant à la croûte océanique. |
+| 2. L'ophiolite | b. Complexe rocheux appartenant à la lithosphère océanique. |
+| 3. Le gabbro | c. Roche magmatique à structure microlitique caractérisant les zones de subduction. |
+| 4. La péridotite | d. Roche magmatique à structure grenue appartenant au manteau supérieur. |
+|  | e. Roche magmatique à structure grenue caractérisant les zones de collision. |
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 (3,25 pts)
+
+Lors d'un exercice bref et intense, comme le sprint, la puissance musculaire développée est très importante. De ce fait la régénération d'ATP dépend d'un ensemble de réactions métaboliques. Afin de comprendre la relation entre ces réactions et l'approvisionnement de l'organisme en énergie chez un sprinteur, on propose les données suivantes :
+
+• On a mesuré la variation de la concentration d'ATP, de phosphocréatine au niveau du muscle et la concentration d'acide lactique dans le sang d'un sprinteur au cours d'un échauffement et d'une course de 10 s environ. Le document 1 présente les résultats obtenus.
+
+[Figure — Document 1 : ATP musculaire : 6 mmol/L → 5 (échauffement) → 4 (course, stable) ; Phosphocréatine : 22 → 10 → 4 mmol/L ; Acide lactique sanguin : 1,5 → 2 → 8 mmol/L. Valeurs d'après le corrigé officiel.]
+
+1. Décrivez la variation de la concentration d'ATP, de phosphocréatine et d'acide lactique chez le sprinteur (document 1), puis proposez une explication concernant l'origine d'ATP lors de cet exercice. (1 pt)
+
+• On a mesuré, chez un sportif, l'évolution du taux de phosphocréatine dans des biopsies musculaires prélevées au repos et après 45 s d'un exercice menant à l'épuisement (Post Exercice) et après 60 s de récupération. Le document 2 présente les résultats obtenus.
+
+[Figure — Document 2 : taux de phosphocréatine (repos / post-exercice / récupération 60 s). Figure non extraite.]
+
+2. Sachant que la récupération se fait grâce à l'apport en dioxygène par le sang, proposez une hypothèse expliquant l'évolution de la phosphocréatine (PCr) après 60 s de récupération (document 2). (0,25 pt)
+
+• Afin de vérifier l'hypothèse, on propose les documents 3 et 4.
+
+Le document 3 présente les résultats du suivi de la concentration des trois composés phosphatés chez un sportif (PCr, ATP et phosphate inorganique « Pi ») avant un effort physique, lors d'un effort physique de courte durée et après récupération. Le document 4 explique la relation entre l'ATP et la phosphocréatine.
+
+Document 3 :
+
+|  | Avant l'effort | Pendant l'effort | Après récupération |
+|---|---|---|---|
+| Pi | + | +++ | + |
+| ATP | ++ | ++ | ++ |
+| PCr | +++ | ++ | +++ |
+
++ : Faible concentration ; ++ : Moyenne concentration ; +++ : Forte concentration
+
+[Figure — Document 4 : relation entre l'ATP et la phosphocréatine (hydrolyse de la PCr régénérant l'ATP pendant l'effort ; respiration régénérant la PCr après récupération). D'après le corrigé officiel.]
+
+3. Quelles sont les informations à dégager du tableau du document 3 ? (0,75 pt)
+
+4. En vous aidant de votre réponse à la question 3 et en exploitant les données du document 4, établissez la relation entre les variations de ces trois composés phosphatés : PCr, ATP et Pi chez un sprinteur lors de l'exercice et après récupération puis vérifiez l'hypothèse proposée en réponse à la question 2. (1,25 pt)
+
+### Exercice 2 (4,75 pts)
+
+La neurofibromatose de type 1 est une maladie héréditaire. Parmi les symptômes de cette maladie : apparition de taches légèrement pigmentées au niveau de la peau avec possibilité de formation de certaines tumeurs bénignes, des neurofibromes et des malformations du squelette.
+
+Pour déterminer l'origine génétique de cette maladie, on propose les données suivantes :
+
+• La neurofibromatose de type 1 est associée à une protéine qui porte le nom de Neurofibromine 1 qu'on symbolise par (NF1). Cette protéine contrôle l'activité d'une autre protéine nommée RAS qui intervient dans la régulation de la division et de la multiplication cellulaire. La protéine NF1 se trouve sous deux formes, une normale et l'autre anormale. Les deux figures a et b du document 1 représentent la relation entre la protéine NF1, l'activité de la protéine RAS et la nature de la division cellulaire, chez une personne saine (figure a) et chez une personne atteinte de la maladie (figure b).
+
+[Figure — Document 1 : figure (a) personne saine : NF1 normale → transformation de RASa en RASi → multiplication cellulaire normale ; figure (b) personne malade : NF1 anormale → pas de transformation (RASa reste actif) → multiplication anarchique. D'après le corrigé officiel.]
+
+1. En exploitant le document 1, comparez l'effet de la NF1 sur la protéine RAS chez la personne saine et chez la personne malade, puis montrez la relation protéine – caractère. (1 pt)
+
+• La synthèse de la protéine NF1 est contrôlée par un gène appelé (NF1) qui existe sous deux formes alléliques. Le document 2 présente un fragment de l'allèle normal (brin transcrit) chez un sujet sain et un fragment de l'allèle anormal (brin transcrit) chez un sujet atteint de la neurofibromatose de type 1. Le document 3 présente un extrait du tableau du code génétique.
+
+Document 2 — Fragments du brin transcrit (sens de lecture →) :
+
+| Numéro du triplet | 6531 | 6532 | 6533 | 6534 | 6535 | 6536 |
+|---|---|---|---|---|---|---|
+| Fragment de l'allèle normal | AAA | ACG | AAA | CTG | TAG | GAA |
+| Fragment de l'allèle anormal | AAA | ACG | AAC | TGT | AGG | AAC |
+
+[Le fragment de l'allèle anormal est reconstitué à partir du corrigé officiel : délétion du nucléotide (A) du triplet 6533.]
+
+Document 3 :
+
+| Codons | UAA, UAG | UCU, UCC | ACA, ACG | AUU, AUC | GAU, GAC | CUU, UUG | UGU, UGC | UUU, UUC |
+|---|---|---|---|---|---|---|---|---|
+| Acides aminés | Stop | Ser | Thr | Ile | ac.Asp | Leu | Cys | Phe |
+
+2. En vous basant sur les documents 2 et 3, donnez les séquences d'ARNm et des acides aminés correspondants à l'allèle normal et à l'allèle anormal, puis expliquez l'origine génétique de la neurofibromatose de type 1. (1,5 pt)
+
+• Le document 4 présente l'arbre généalogique d'une famille touchée par la neurofibromatose de type 1.
+
+[Figure — Document 4, arbre généalogique : I2 saine homozygote ; enfant malade II4 hétérozygote ; couple II1 (sain) et II2 (malade). D'après le corrigé officiel.]
+
+3. En vous basant sur le document 4 et sachant que I2 est homozygote :
+a. Montrez que l'allèle responsable de la maladie est dominant et porté par un chromosome non sexuel (autosome). (0,5 pt)
+b. Déterminez la probabilité pour que le couple II1 et II2 donne naissance à un enfant sain. Justifiez votre réponse en utilisant l'échiquier de croisement. (0,75 pt)
+(Utilisez le symbole M pour l'allèle dominant, et le symbole m pour l'allèle récessif.)
+
+• La neurofibromatose de type 1 est une maladie héréditaire très répandue. Dans une population donnée cette maladie touche une personne sur 3500, cette population obéit à la loi de Hardy-Weinberg.
+
+4.
+a. Calculez la fréquence de l'allèle responsable de la maladie et celle de l'allèle normal. (0,5 pt)
+b. Calculez la fréquence des individus hétérozygotes. (0,5 pt)
+
+N.B : Se contenter de deux chiffres après la virgule dans les applications numériques.
+
+### Exercice 3 (3,25 pts)
+
+Les phlox sont des plantes herbacées dont les fleurs présentent une grande diversité des couleurs et des formes, d'où son importance en horticulture.
+
+• Dans le cadre de l'étude de la transmission de deux caractères héréditaires : la couleur et la forme des fleurs chez le phlox, on propose les données suivantes :
+- La couleur des fleurs peut être blanche ou crème.
+- Les bords des pétales peuvent être de différentes formes (normaux, frangés ou cuspides) comme le montre le document ci-contre.
+
+[Figure — formes des bords des pétales : normaux, frangés, cuspides.]
+
+Le tableau suivant présente les résultats des croisements réalisés chez le phlox.
+
+| Croisements | Croisement I | Croisement II |
+|---|---|---|
+| Parents P1 x P2 | Entre plantes à fleurs blanches et plantes à fleurs crème | Entre plantes avec fleurs à bords normaux et plantes avec fleurs à bords cuspides |
+| La génération F1 | Plantes à fleurs blanches | Plantes à fleurs à bords frangés |
+
+1. Que déduisez-vous à partir des résultats des deux croisements I et II ? (1 pt)
+
+• Croisement III : réalisé entre des plantes de race pure : plantes à fleurs blanches et à bords normaux et plantes à fleurs crème et à bords cuspides. Toutes les plantes obtenues à la génération F1 ont des fleurs blanches à bords frangés.
+
+2. Sachant que les deux gènes gouvernant les deux caractères étudiés sont indépendants :
+a. Donnez le génotype des plantes de la génération F1 (issues du croisement III). (0,25 pt)
+b. Déterminez les résultats théoriques de la génération F2 issue du croisement entre les plantes de cette génération F1, justifiez votre réponse en utilisant l'échiquier de croisement. (1,25 pt)
+
+• Un horticulteur cherche à produire des plantes à fleurs crème et à bords frangés car elles sont bien commercialisées.
+
+3.
+a. Donnez le génotype des plantes que l'horticulteur cherche à produire. (0,25 pt)
+b. En vous basant sur les génotypes obtenus à la génération F2, proposez en justifiant votre réponse le croisement qui permet d'obtenir la plus grande proportion du phénotype désiré. (0,5 pt)
+
+Utilisez les symboles suivants :
+- B et b pour les allèles responsables de la couleur des fleurs ;
+- C ou c pour l'allèle responsable de la forme cuspide des fleurs ;
+- N ou n pour l'allèle responsable de la forme normale des fleurs.
+
+### Exercice 4 (3,75 pts)
+
+L'infection par le VIH (Virus de l'Immunodéficience Humaine) se fait en plusieurs étapes. La dernière étape de cette infection est le SIDA (Syndrome d'Immunodéficience Acquise) qui se caractérise par la déclaration de maladies opportunistes.
+
+• La connaissance des mécanismes de la réponse immunitaire et l'étude de la réaction des individus contaminés par le VIH permettent aux scientifiques d'envisager un vaccin contre le virus du SIDA. Le document 1 montre l'évolution du nombre des lymphocytes T4 et de la charge virale suite à l'infection par le VIH.
+
+Remarque : La charge virale correspond à la concentration du virus dans le sang et elle est indiquée en nombre de copies d'ARN viral par millilitre de plasma.
+
+[Figure — Document 1 : LT4 : 900 → ~50 cellules/µL en 10 ans ; charge virale : pic (10⁶–10⁷ copies/mL) à la 6ème semaine, stabilisation (10³–10⁴), puis remontée (> 10⁷) après 8 ans. Valeurs d'après le corrigé officiel.]
+
+1. En vous basant sur le document 1, décrivez l'évolution du nombre des lymphocytes T4 et de la charge virale, puis déduisez l'effet de l'infection par le VIH sur la réponse immunitaire. (1,25 pt)
+
+• La communauté scientifique s'accorde actuellement sur le fait que pour être efficace, un vaccin contre le VIH devra stimuler les réponses immunitaires spécifiques. Pour mettre au point un vaccin contre ce virus, des chercheurs ont réalisé l'étude suivante :
+
+Pour tester le vaccin, deux lots de macaques non infectés par le VIH sont utilisés :
+- Les macaques du premier lot ont reçu une série de cinq injections de ce vaccin.
+- Les macaques du deuxième lot n'ont reçu aucune injection.
+Par la suite, les macaques des deux lots ont été exposés au virus.
+- On évalue la proportion de lymphocytes T8 spécifiques du virus du SIDA dans le sang des macaques. Le document 2 présente les résultats de cette évaluation.
+
+[Figure — Document 2 : proportion de LT8 spécifiques — macaques vaccinés : réponse rapide (1 semaine) et intense (pic ≈ 7) ; non vaccinés : réponse lente (2 semaines) et faible (pic ≈ 2). D'après le corrigé officiel.]
+
+2. Comparez l'évolution des proportions des lymphocytes T8 spécifiques au VIH entre les macaques vaccinés et les macaques non vaccinés lors des trois premières semaines, puis déduisez la caractéristique de la réponse immunitaire expliquant la différence observée. (0,75 pt)
+
+- On mesure la charge virale chez les macaques des deux lots après 8 et 24 semaines de l'exposition au virus. Les résultats des mesures sont présentés dans le document 3.
+
+[Figure — Document 3 : charge virale — à 8 semaines : non vaccinés ≈ 5 fois celle des vaccinés ; à 24 semaines : stable chez les vaccinés, multipliée par deux chez les non vaccinés. D'après le corrigé officiel.]
+
+3. Comparez la charge virale chez des macaques vaccinés et des macaques non vaccinés, puis déduisez l'action du vaccin expérimenté sur la charge virale. (0,75 pt)
+
+• L'étude des mécanismes de la destruction des lymphocytes T4, infectés par le VIH, par les lymphocytes T cytotoxiques permet de dégager deux mécanismes conduisant à la mort de la cellule cible. Le document 4 présente ces deux mécanismes.
+
+N.B : malgré la destruction des LT4 infectées par le VIH, les macaques continuent à produire des LT4 sains.
+
+[Figure — Document 4 : destruction des LT4 infectées par les LTc — voie 1 : libération de la perforine et des granzymes ; voie 2 : signaux provoquant la mort cellulaire. D'après le corrigé officiel.]
+
+4. En vous basant sur le document 4 et votre réponse aux questions 2 et 3, expliquez le mécanisme d'action du vaccin testé chez les macaques étudiés. (1 pt)
+
+§ Fin §
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question III-d : énoncé non extrait (réponse du corrigé : faux).
+- Exercice 1, documents 1, 2 et 4 : figures non extraites ; valeurs indiquées d'après le corrigé officiel.
+- Exercice 2, document 2 : le fragment de l'allèle anormal est reconstitué à partir du corrigé officiel.
+- Exercice 2, question 3a : barème de 0,5 pt reconstitué par différence (4,75 − (1 + 1,5 + 0,75 + 1)).
+- Exercice 3, questions 2a et 3a : barèmes de 0,25 pt reconstitués par différence.
+- Exercice 4 : figures non extraites ; valeurs indiquées d'après le corrigé officiel.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

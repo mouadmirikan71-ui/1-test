@@ -1,0 +1,232 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2018 - Session Normale - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2018-normale-sujet.pdf
+Element: https://www.alloschool.com/element/65627
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2018 - الموضوع -
+المادة: علوم الحياة والأرض
+الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+NS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I. Pour chacune des propositions numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …) sur votre feuille de rédaction, et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1. La libération du CO2 issu de la dégradation du glucose se fait au cours des réactions :
+a – de la glycolyse dans le hyaloplasme ;
+b – du cycle de Krebs dans la mitochondrie ;
+c – de réduction de l'acide pyruvique en acide lactique dans le hyaloplasme ;
+d – d'oxydation des transporteurs d'électrons dans la mitochondrie.
+
+2. La bande claire du sarcomère renferme les protéines suivantes :
+a – l'actine, la troponine et la tropomyosine ;
+b – la myosine, la troponine et la tropomyosine ;
+c – l'actine, la myosine et la tropomyosine ;
+d – l'actine, la myosine et la troponine.
+
+3. Les réactions de la fermentation dans le sarcoplasme permettent :
+a – la production de l'acide lactique et de l'éthanol ;
+b – l'oxydation de l'acide pyruvique ;
+c – la réduction des transporteurs NAD+ et FAD ;
+d – la phosphorylation des molécules d'ADP.
+
+4. Les produits de la dégradation d'un acide pyruvique dans la mitochondrie sont :
+a – 3 NADH,H+ + 1 FADH2 + 1 ATP + 3 CO2 ;
+b – 3 NADH,H+ + 1 FAD + 1 ATP + 3 CO2 ;
+c – 4 NADH,H+ + 1 FADH2 + 1 ADP + 3 CO2 ;
+d – 4 NADH,H+ + 1 FADH2 + 1 ATP + 3 CO2.
+
+II. Donnez la réaction globale : (1 pt)
+1. De la fermentation alcoolique. (0,5 pt)
+2. Du renouvellement d'ATP à partir de la phosphocréatine. (0,5 pt)
+
+III. Définissez :
+1. La glycolyse. (0,5 pt)
+2. La chaîne respiratoire. (0,5 pt)
+
+IV. Recopiez, sur votre feuille de rédaction, la lettre qui correspond à chaque suggestion, et écrivez devant chacune d'elles « vrai » ou « faux » : (1 pt)
+
+a. L'oxydation du NAD+ se déroule au cours des réactions de la glycolyse et du cycle de Krebs.
+b. Le tétanos parfait se produit lorsqu'on applique au muscle une seule excitation de forte intensité.
+c. La chaleur retardée qui accompagne la contraction musculaire résulte des réactions métaboliques.
+d. Au cours de l'activité musculaire, l'ATP est renouvelé rapidement par la voie de la phosphocréatine.
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 (6 pts)
+
+La polykystose rénale est la maladie génétique du rein la plus commune. Elle est caractérisée par le développement progressif de multiples kystes dans les reins, ce qui provoque une insuffisance rénale. Cette maladie est accompagnée par d'autres symptômes comme l'hypertension artérielle, l'apparition du sang dans les urines, la polykystose hépatique … Afin de déterminer l'origine génétique de cette maladie et son mode de transmission on présente les données suivantes :
+
+• Donnée 1 : Des études récentes ont montré une relation entre la polykystose rénale et un complexe protéique intégré dans la membrane cytoplasmique des cellules tubulaires du rein. Ce complexe est formé de deux protéines appelées Polycystine 1 (PC1) et Polycystine 2 (PC2). Dans le cas normal le complexe PC1-PC2 permet le passage d'ions calcium (Ca++) et la régulation de l'activité d'une voie réactionnelle à l'intérieur des cellules appelée « mTOR ». Toute altération au niveau de ce complexe a un impact sur la croissance et la division cellulaire. Le document 1 montre la relation entre le complexe PC1-PC2 et la multiplication des cellules tubulaires chez une personne saine (figure a) et chez une personne malade (figure b).
+
+[Figure — Document 1 : figure (a) personne saine : Aspect du rein normal, Complexe PC1-PC2 normal, Cellules tubulaires rénales, Cytoplasme, Flux normal des ions Ca++, Faible activité de mTOR, Multiplication cellulaire normale ; figure (b) personne malade : Aspect du rein avec kystes, Complexe PC1-PC2 anormal, Forte activité de mTOR, Multiplication importante des cellules]
+
+1. Comparez les données du document 1 de la personne saine à celles de la personne malade. (1 pt)
+
+• Donnée 2 : La synthèse de la Polycystine 1 est contrôlée par un gène appelé PKD1. La figure (a) du document 2 montre un fragment du brin transcrit du gène PKD1 chez une personne normale et chez une personne atteinte par la polykystose rénale ; la figure (b) du même document présente un extrait du tableau du code génétique.
+
+Document 2 — Figure (a) : fragment du brin transcrit du gène PKD1 :
+- Chez la personne normale : GCT – GAC – CAC – GAC – GCC – GCC – CCG
+- Chez la personne malade : GCT – GAC – CAC – GCC – GCC – CCG
+[Séquences reconstituées à partir du corrigé officiel : délétion des trois nucléotides GAC à la position 29076.]
+
+Document 2 — Figure (b) : extrait du code génétique :
+
+| Acides aminés | Arg | Gly | Leu | Val | Stop |
+|---|---|---|---|---|---|
+| Codons | CGA, CGC, CGG, CGU | GGU, GGA, GGG, GGC | CUA, CUG, UUG, UUA | GUA, GUG, GUC, GUU | UGA, UAA, UAG |
+
+2. En utilisant les figures (a) et (b) du document 2, donnez la séquence de l'ARNm et la séquence des acides aminés correspondant aux fragments du gène PKD1 chez la personne saine et la personne malade puis expliquez l'origine génétique de la polykystose rénale. (1,5 pt)
+
+• Donnée 3 : Le document 3 présente l'arbre généalogique d'une famille touchée par la polykystose rénale.
+
+[Figure — Document 3, arbre généalogique : générations I, II, III ; individus I2 (femme malade), II1 (homme malade), II2 (femme saine) ; légende : homme sain, homme malade, femme saine, femme malade]
+
+3. Sachant que cette maladie est liée à un allèle dominant porté par le chromosome 16 :
+a. Donnez, en justifiant votre réponse, le génotype des individus I2, II1 et II2. (1,5 pt)
+b. Déterminez la probabilité pour que le couple II1 et II2 donne naissance à un enfant malade, utilisez l'échiquier de croisement. (0,5 pt)
+(Utilisez les symboles P et p pour désigner les deux allèles du gène étudié.)
+
+• Donnée 4 : La polykystose rénale touche une personne parmi 1000 individus d'une population donnée. En considérant que cette population obéit à la loi de Hardy-Weinberg :
+
+4.
+a. Calculez la fréquence de l'allèle normal et de l'allèle responsable de la maladie. (1 pt)
+b. Calculez la fréquence des personnes hétérozygotes pour le gène étudié. (0,5 pt)
+
+NB : donnez les résultats avec quatre chiffres après la virgule.
+
+### Exercice 2 (3 pts)
+
+Dans le cadre de l'étude de la transmission des caractères héréditaires chez la drosophile, on propose les résultats des croisements suivants :
+
+• Premier croisement : Réalisé entre des drosophiles sauvages aux ailes longues et aux yeux rouges et des drosophiles mutantes aux ailes vestigiales et aux yeux bruns. La génération F1 issue de ce croisement est composée de drosophiles qui sont toutes à phénotype sauvage. [Énoncé partiellement reconstitué — voir notes.]
+
+1. Que déduisez-vous à partir des résultats de ce croisement ? (0,75 pt)
+
+• Deuxième croisement : Réalisé entre des mâles aux ailes vestigiales et aux yeux bruns et des femelles de la génération F1. Le tableau suivant présente les résultats de la génération F'2 obtenue :
+
+| Phénotypes des drosophiles | Ailes longues et yeux rouges | Ailes longues et yeux bruns | Ailes vestigiales et yeux rouges | Ailes vestigiales et yeux bruns |
+|---|---|---|---|---|
+| Nombre d'individus à la génération F'2 | 716 | 296 | 238 | 702 |
+
+2.
+a. Les deux gènes étudiés sont-ils indépendants ou liés ? Justifiez votre réponse. (0,5 pt)
+b. Donnez, en utilisant l'échiquier de croisement, l'interprétation chromosomique des résultats du deuxième croisement. (1 pt)
+
+Utilisez les symboles suivants :
+- L et ℓ pour les allèles du gène responsable de la forme des ailes ;
+- R et r pour les allèles du gène responsable de la couleur des yeux.
+
+• Troisième croisement : Réalisé entre des femelles doubles hétérozygotes aux corps clairs et aux yeux rouges et des mâles aux corps noirs et aux yeux bruns. Ce croisement a donné 7,51 % d'individus à phénotypes recombinés.
+
+3.
+a. En vous basant sur les résultats du deuxième et du troisième croisement, réalisez les deux cartes factorielles possibles qui représentent la localisation relative des trois gènes étudiés. (0,5 pt)
+b. Proposez un croisement qui permet de déterminer la distance entre le gène responsable de la couleur du corps et le gène responsable de la forme des ailes. (0,25 pt)
+
+Utilisez les symboles : N et n pour les allèles du gène responsable de la couleur du corps.
+
+### Exercice 3 (3 pts)
+
+La vaccination, qui constitue un enjeu majeur de la santé publique, permet à l'organisme d'acquérir une immunité contre certaines maladies infectieuses. Afin de dégager les mécanismes immunitaires permettant d'expliquer l'effet de la vaccination, on présente les données suivantes :
+
+• Donnée 1 : Le document 1 représente la variation de la quantité d'anticorps en fonction du temps, après contamination par le bacille tétanique, chez une personne non vaccinée contre le tétanos (figure a) et chez une autre personne vaccinée contre cette maladie (figure b).
+
+Document 1 — Quantité d'anticorps (unités arbitraires) :
+
+Figure (a) — personne non vaccinée :
+
+| Temps (jours) | 7 | 14 | 21 |
+|---|---|---|---|
+| Quantité d'anticorps (UA) | 0 | 3000 | 200 |
+
+Figure (b) — personne vaccinée :
+
+| Temps (jours) | 7 | 14 | 21 |
+|---|---|---|---|
+| Quantité d'anticorps (UA) | 1500 | 4000 | 1000 |
+
+[Attribution des tableaux aux figures (a)/(b) reconstituée par logique ; les valeurs diffèrent de celles citées dans le corrigé officiel (≈ 8000 UA / ≈ 8 UA) — voir notes.]
+
+1. Comparez la réaction de l'organisme contre le bacille tétanique chez la personne vaccinée à celle chez la personne non vaccinée. (1 pt)
+
+• Donnée 2 : Deux lots de souris A et B reçoivent une première injection de globules rouges de mouton (GRM) au jour 0. Après 30 jours, les souris du lot A reçoivent une seconde injection de GRM, alors que les souris du lot B reçoivent une injection de globules rouges de lapin (GRL). Ces GRM et GRL jouent le rôle d'antigènes pour les souris.
+
+Tous les deux jours on prélève la rate d'une souris de chaque lot pour déterminer le nombre de plasmocytes sécréteurs d'anticorps anti-GRM chez les souris du lot A, ainsi que le nombre de plasmocytes sécréteurs d'anticorps anti-GRL et le nombre de plasmocytes sécréteurs d'anticorps anti-GRM chez les souris du lot B. Le document 2 présente les résultats obtenus.
+
+Document 2 — Figure (a) : souris du lot A (1ère injection de GRM au jour 0, 2ème injection de GRM au jour 30) :
+
+| Jour de prélèvement de la rate | 0 | 2 | 4 | 6 | 8 | 30 | 32 | 34 | 36 | 38 | 40 | 42 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Nombre de plasmocytes sécréteurs d'anti-GRM (en milliers) | 0 | 3 | 15 | 90 | 20 | 1 | 180 | 850 | 500 | 300 | 100 | 70 |
+
+Document 2 — Figure (b) : souris du lot B (1ère injection de GRM au jour 0, injection de GRL au jour 30) :
+
+| Jour de prélèvement de la rate | 0 | 2 | 4 | 6 | 8 | 30 | 32 | 34 | 36 | 38 | 40 | 42 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Nombre de plasmocytes sécréteurs d'anti-GRL (en milliers) | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 75 | 95 | 20 | 10 | 3 |
+| Nombre de plasmocytes sécréteurs d'anti-GRM (en milliers) | 0 | 2 | 30 | 92 | 20 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+
+2. Déduisez les deux caractéristiques de la réponse immunitaire mises en évidence à partir des résultats présentés dans le document 2. Justifiez votre réponse. (1 pt)
+
+• Donnée 3 : La réponse immunitaire spécifique contre un antigène donné se déroule au niveau des organes lymphoïdes périphériques. Le document 3 présente les phases de cette réponse immunitaire.
+
+[Figure — Document 3 : Antigènes → Sélection clonale → Phase de multiplication → Clone activé → Mitoses → Lymphocytes B → Différenciation → Lymphocytes B mémoire + Plasmocytes → Anticorps]
+
+3. En exploitant les données du document 3, expliquez :
+a. La réponse immunitaire des souris du lot A (document 2, figure a). (0,5 pt)
+b. La réponse immunitaire des souris du lot B (document 2, figure b). (0,5 pt)
+
+### Exercice 4 (3 pts)
+
+La formation d'une chaîne de montagne s'accompagne par le métamorphisme de certaines roches. La composition minéralogique de ces roches donne des informations sur les conditions de leur formation. En effet, ces informations aident à retracer l'histoire géologique de cette chaîne de montagnes.
+
+Le massif d'Agly, situé dans la partie orientale de la chaîne des Pyrénées, est une unité géologique ancienne, réunissant de nombreuses roches magmatiques et métamorphiques. Le document 1 présente la carte géologique simplifiée de la zone étudiée avec la répartition de certains minéraux index.
+
+[Figure — Document 1, carte géologique : Nord, ESTAGEL, échelle 2 km ; Lignes délimitant les zones d'apparition des minéraux index ; Andalousite, Sillimanite, Quaternaire, Terrains secondaires, Gneiss + migmatite]
+
+- Zone Za à chlorite + muscovite + quartz
+- Zone Zb à biotite + muscovite + quartz
+- Zone Zc à cordiérite + biotite + muscovite + quartz
+- Zone Zd à andalousite + biotite + cordiérite + muscovite + quartz
+- Zone Ze à sillimanite + muscovite + cordiérite + quartz + biotite
+- Zone Zf à sillimanite + cordiérite + quartz + biotite + feldspath potassique
+
+1. À partir des données du document 1, déterminez les changements minéralogiques lorsqu'on passe de la zone Zb à la zone Zd, et lorsqu'on passe de la zone Ze à la zone Zf. (0,5 pt)
+
+• Le document 2 présente les domaines de stabilité des minéraux en fonction des conditions de la pression et de la température, avec l'emplacement des points R1, R2, R3 et R4 qui représentent successivement les conditions dans lesquelles se sont formées les roches prélevées des zones Zb, Zd, Ze et Zf.
+
+[Figure — Document 2, diagramme P-T : domaines de stabilité des minéraux (biotite, muscovite, cordiérite, andalousite, sillimanite, feldspath potassique…) ; courbe d'apparition de la biotite ; points R1, R2, R3, R4. Données chiffrées des courbes non extraites.]
+
+2. À partir du document 2, expliquez les changements minéralogiques lorsqu'on passe de la zone Zb (zone de formation de la roche R1) à la zone Zd (zone de formation de la roche R2) et lorsqu'on passe de la zone Ze (zone de formation de la roche R3) à la zone Zf (zone de formation de la roche R4). (1 pt)
+
+• Au cours de la formation d'une chaîne de montagne, différents types de métamorphisme ont lieu selon les conditions de pression et de température. Le document 3 présente ces différents types de métamorphisme.
+
+[Figure — Document 3, diagramme P-T : domaines des différents types de métamorphisme (thermodynamique, dynamique…).]
+
+3.
+a. À partir du document 2, déterminez les valeurs minimales et les valeurs maximales de pression et de température qu'a connues la zone étudiée (lorsqu'on passe de R1 à R4). (0,5 pt)
+b. En utilisant le document 3, déduisez le type de métamorphisme subi par les roches de la zone étudiée du massif d'Agly. Justifiez votre réponse. (1 pt)
+
+§ Fin §
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question II-1 : énoncé reconstitué à partir du corrigé officiel (« réaction globale de la fermentation alcoolique »).
+- Exercice 1, document 2 figure (a) : séquences du brin transcrit reconstituées à partir du corrigé officiel.
+- Exercice 2, premier croisement : le milieu de l'énoncé n'a pas été extrait ; reconstitué à partir des déductions du corrigé officiel (parents de race pure, F1 tout sauvage).
+- Exercice 3, document 1 : les valeurs extraites (3000/200 et 1500/4000/1000) sont incohérentes avec celles citées dans le corrigé officiel (≈ 8 UA chez la non vaccinée, ≈ 8000 UA chez la vaccinée) — se référer au PDF source.
+- Exercice 4, documents 2 et 3 : les données chiffrées des courbes n'ont pas été extraites de façon exploitable ; voir corrigé (T : 420–680 °C ; P : 0,3–0,5 GPa).
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

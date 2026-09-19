@@ -1,0 +1,139 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2020 - Session Normale - Corrigé
+Type: Corrigé
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2020-normale-corrige.pdf
+Element: https://www.alloschool.com/element/109871
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا — المسالك الدولية (خيار فرنسية)
+الدورة العادية 2020 - عناصر الإجابة -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+NR32F
+
+## Première partie (5 pts)
+
+I.
+a. Définition du génie génétique (accepter toute définition correcte) : l'ensemble des techniques qui permettent la modification génétique d'une cellule, d'un groupe de cellules ou d'un organisme afin de leur permettre d'exprimer de nouveaux caractères. (0,5)
+b. Exemples d'application du génie génétique (accepter tout exemple correct) :
+- Dans le domaine agricole : production de plantes résistantes aux insectes nuisibles. (0,25)
+- Dans le domaine médical : production industrielle de l'insuline humaine. (0,25)
+
+II. (1, b) ; (2, c) ; (3, b) ; (4, c) — 0,5 x 4
+
+III. a : Vrai ; b : Faux ; c : Faux ; d : Faux — 0,25 x 4
+
+IV. (1, b) ; (2, a) ; (3, d) ; (4, c) — 0,25 x 4
+
+## Deuxième partie (15 pts)
+
+### Exercice 1 (5 pts)
+
+1. Conditions nécessaires à la contraction musculaire :
+- Présence des ions Ca++ ;
+- Hydrolyse d'ATP. (0,25 x 2)
+Justification (accepter toutes justifications correctes) :
+- En inhibant l'hydrolyse de l'ATP (milieu 2), les myofibrilles ne se contractent pas. (0,5)
+- En inhibant l'action des ions Ca++ (milieu 3), les myofibrilles ne se contractent pas. (0,5)
+
+2.
+- Ions Ca++ dans le réticulum sarcoplasmique → fibres relâchées. (0,25)
+- Ions Ca++ dans le sarcoplasme → fibres contractées. (0,25)
+
+3. Explication de l'évolution de la tension de la fibre musculaire :
++ Au cours de la phase de contraction (Phase A) :
+Fixation des ions Ca++ sur la troponine et translation de la tropomyosine → libération des sites de fixation des têtes de myosine au niveau de l'actine et formation du complexe acto-myosine → libération de l'ADP et Pi → pivotement des têtes de myosine et glissement des myofilaments (contraction de la fibre musculaire) → fixation de l'ATP et dissociation du complexe acto-myosine → hydrolyse de l'ATP et redressement des têtes de myosine pour reprendre le cycle de contraction. (0,25 x 6)
++ Au cours de la phase de relâchement (Phase C) :
+En absence des ions Ca++, le complexe acto-myosine ne se forme pas → relâchement de la fibre musculaire malgré la présence de l'ATP. (0,25 x 2)
+
+4. Explication de la rigidité cadavérique :
+Épuisement et non renouvellement de l'ATP après la mort → non dissociation du complexe acto-myosine (document 3) → arrêt du cycle de contraction musculaire en phase de contraction (document 3) → les fibres musculaires maintiennent une tension maximale (Phase B du document 2) à l'origine de la rigidité cadavérique. (0,25 x 4)
+
+### Exercice 2 (6,5 points)
+
+1. La relation protéine – caractère :
+- En présence de l'Endogline normale, la fixation du facteur de croissance sur le récepteur membranaire permet d'avoir un récepteur fonctionnel d'où une angiogenèse normale → personne saine.
+- En présence de l'Endogline anormale, malgré la fixation du facteur de croissance sur le récepteur membranaire, ce dernier est non fonctionnel d'où une angiogenèse anormale → personne atteinte de la maladie de ROW.
+Donc une modification au niveau de la protéine « Endogline » entraîne une modification au niveau du caractère « personne saine ou atteinte de ROW ». (0,75 pt)
+
+2. Séquence de l'ARNm :
+- Correspondante au fragment de l'allèle normal : CCC – CAC – GUG – GAC – AGC – AUG – GAC – CGC (0,25)
+- Correspondante au fragment de l'allèle anormal : CCC – CAC – AUG – GAC – AGC – AUG – GAC – CGC (0,25)
+Séquence d'acides aminés :
+- Correspondante au fragment de l'allèle normal : Pro – His – Val – Ac. asp – Ser – Met – Ac. asp – Arg (0,25)
+- Correspondante au fragment de l'allèle anormal : Pro – His – Met – Ac. asp – Ser – Met – Ac. asp – Arg (0,25)
+Explication de l'origine génétique de la maladie : une mutation par substitution du premier nucléotide G par A au niveau du troisième triplet du brin non transcrit (ou C par T au niveau du troisième triplet du brin transcrit) → incorporation de l'acide aminé Met au lieu de Val au niveau de la séquence peptidique → synthèse d'une protéine Endogline anormale → angiogenèse anormale (apparition de la maladie de ROW). (0,5)
+
+3.
+a. L'allèle responsable de la maladie est dominant et le gène étudié est porté par un autosome :
+- La fille III1 est de phénotype sain alors que ses parents II5 et II6 sont de phénotype malade → ses parents sont hétérozygotes → l'allèle responsable de la maladie est dominant (accepter aussi la réponse : toute personne atteinte descend obligatoirement d'un parent atteint). (0,5)
+- La maladie est présente chez les deux sexes → l'allèle responsable de la maladie n'est pas porté par le chromosome Y. (0,25)
+- La fille III1 est saine, son père II5 est malade et l'allèle responsable de la maladie est dominant → si l'allèle étudié est porté par le chromosome X, la fille III1 va hériter de son père l'allèle responsable de la maladie donc la fille III1 doit être malade → l'allèle responsable de la maladie n'est pas porté par le chromosome X (accepter toute justification logique).
+→ L'allèle responsable de la maladie n'est porté ni par le chromosome X ni par le chromosome Y donc le gène responsable de la maladie est porté par un autosome. (0,25)
+[Barème détaillé extrait partiel (total 1,25 pt au sujet).]
+b. La probabilité pour que le couple II8 et II9 donne naissance à un enfant sain :
+Parents : II8 x II9 — Phénotypes : [r] x [R] — Génotypes : (r//r) x (R//r)
+Gamètes : r/ (1) x R/ (1/2), r/ (1/2)
+Échiquier de croisement :
+
+|  | r (1) |
+|---|---|
+| R (1/2) | (R//r) [R] (1/2) |
+| r (1/2) | (r//r) [r] (1/2) |
+
+La probabilité d'avoir un enfant sain est de 1/2. (1 pt)
+
+4.
+a. La fréquence de l'allèle responsable de la maladie et celle de l'allèle normal.
+On a : f([R]) = p² + 2pq = 1/5000 ; puisque la population obéit à la loi de H.W : p² + 2pq + q² = 1 ; d'où : q² = 1 - 1/5000 = 0,9998.
+- La fréquence de l'allèle normal : f(r) = q = 0,9998 [sic — racine carrée non appliquée]
+- La fréquence de l'allèle responsable de la maladie est : f(R) = p = 1 - q = 0,0002 [sic]
+(0,25 + 0,5 + 0,5)
+b. Fréquences des différents génotypes dans la population étudiée :
+- f(r//r) = q² ≈ 0,9998 (0,25)
+- f(R//r) = 2pq ≈ 0,0003 [sic] (0,25)
+- f(R//R) = p² ≈ 0 (0,25)
+
+### Exercice 3 (3,5 points)
+
+1. Déductions et justification :
+- On étudie la transmission d'un seul caractère pour chacun des deux croisements → cas de monohybridisme. (0,25)
+- Les descendants des deux croisements sont homogènes → les parents sont de lignée pure selon la première loi de Mendel. (0,25)
+- Les descendants du croisement 1 ont des oreilles dressées → l'allèle responsable de la forme dressée des oreilles est dominant (D) et l'allèle responsable de la forme non dressée des oreilles est récessif (d). (0,25)
+- Les descendants du croisement 2 ont un museau clair → l'allèle responsable du museau clair est dominant (S) et l'allèle responsable du museau sombre est récessif (s). (0,25)
+
+2. Le croisement-test a donné deux phénotypes parentaux avec un pourcentage de 83 % supérieur au pourcentage des phénotypes recombinés 17 % (la troisième loi de Mendel n'est pas vérifiée) → les deux gènes étudiés sont liés. (0,5)
+Déduction : les génotypes des parents :
+- Le génotype des brebis à phénotype dominant : (D S // d s) (0,25)
+- Le génotype des moutons doubles récessifs : (d s // d s) (0,25)
+
+3. Interprétation des résultats du croisement-test :
+Phénotypes : ♀ [D, S] x ♂ [d, s]
+Génotypes : (D S // d s) x (d s // d s)
+Gamètes : 45 % (D S), 38 % (d s), 9 % (D s), 8 % (d S) x 100 % (d s) (0,25 x 2)
+Échiquier de croisement : (0,5)
+
+| ♀ \ ♂ | (d s) 100 % |
+|---|---|
+| (D S) 45 % | [D, S] 45 % |
+| (d s) 38 % | [d, s] 38 % |
+| (D s) 9 % | [D, s] 9 % |
+| (d S) 8 % | [d, S] 8 % |
+
+4. La carte factorielle des deux gènes étudiés : le pourcentage des recombinés est de 17 % donc la distance entre les deux gènes est 17 cM. (0,25)
+Échelle : 1 cm → 2 cM (accepter toute échelle convenable). (0,25)
+Carte : (D ; d) —— 17 cM —— (S ; s)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Corrigé officiel du CNE (« عناصر الإجابة »). Référence : NR 32F.
+- Exercice 2, question 4 : le corrigé écrit f(r) = q = 0,9998 (racine carrée de 0,9998 non appliquée : √0,9998 ≈ 0,9999), puis f(R) = p = 0,0002, puis f(R//r) = 2pq ≈ 0,0003 — valeurs transcrites telles qu'extraites. Recalcul : q ≈ 0,9999 ; p ≈ 0,0001 ; 2pq ≈ 0,0002. Même avec q = 0,9998, on obtient 2pq ≈ 0,0004 ≠ 0,0003.
+- Exercice 2, question 3a : barème détaillé extrait partiel ; question 3b : sexes des individus II8 et II9 non extraits en clair.
+- Exercice 2, question 1 : barème détaillé non extrait (total 0,75 pt).

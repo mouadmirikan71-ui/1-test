@@ -1,0 +1,215 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2023 - Session Rattrapage - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2023-rattrapage-sujet.pdf
+Element: https://www.alloschool.com/element/142317
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2023 - الموضوع -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+RS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Restitution des connaissances (5 points)
+
+I. Définissez : a. Nappe de charriage ; b. Migmatite. (1 pt)
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule proposition correcte. Recopiez sur votre feuille de rédaction les couples (1, …) ; (2, …) ; (3, …) ; (4, …), et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1 – Les ophiolites sont des traces d'une ancienne lithosphère mises en place suite à :
+a. l'ouverture d'un nouveau domaine océanique dans une zone de divergence.
+b. la fermeture d'un ancien domaine océanique dans une zone de convergence.
+c. l'ouverture d'un nouveau domaine océanique dans une zone de convergence.
+d. la fermeture d'un ancien domaine océanique dans une zone de divergence.
+
+2 – Le magmatisme des zones de subduction a pour origine la fusion :
+a. totale de la péridotite de la plaque subduite.
+b. partielle de la péridotite de la plaque subduite.
+c. totale de la péridotite de la plaque chevauchante.
+d. partielle de la péridotite de la plaque chevauchante.
+
+3 – L'andésite est une roche :
+a. magmatique à structure grenue.
+b. magmatique à structure microlitique.
+c. métamorphique à structure foliée.
+d. métamorphique à structure schisteuse.
+
+4 – Le métamorphisme de contact résulte de :
+a. l'augmentation de la pression et de la température.
+b. l'augmentation de la pression.
+c. la transformation des roches à l'état liquide.
+d. la transformation des roches à l'état solide.
+
+III. Recopiez sur votre feuille de rédaction le tableau ci-dessous et adressez à chacun des quatre numéros de l'ensemble 1 la lettre qui lui correspond parmi les cinq définitions proposées de l'ensemble 2. (1 pt)
+
+| Ensemble 1 | Ensemble 2 |
+|---|---|
+| 1. Gabbro | a. Roche magmatique à structure grenue caractérisant les zones de subduction. |
+| 2. Granodiorite | b. Roche métamorphique à structure foliée, issue des roches argileuses. |
+| 3. Gneiss | c. Roche magmatique à structure microlitique appartenant à la croûte océanique. |
+| 4. Basalte | d. Roche magmatique à structure grenue appartenant à la croûte océanique. |
+|  | e. Roche magmatique à structure microlitique caractérisant les zones de collision. |
+
+IV. Le document ci-contre représente un schéma d'une déformation tectonique accompagnant la formation des chaînes de montagnes. Recopiez sur votre feuille de rédaction les numéros des éléments indiqués par des flèches et attribuez à chaque élément le nom qui lui correspond. (1 pt)
+
+[Figure — schéma d'une déformation tectonique : éléments 1, 2, 3, 4.]
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 (3 pts)
+
+Afin d'adapter les séances d'entraînement pour des sprinters professionnels de 100 m et de permettre aux entraîneurs de comprendre l'origine de l'énergie utilisée par les muscles au cours de ce type d'exercice, on propose l'exploitation des données suivantes.
+
+Donnée 1 : La quantité d'énergie est mesurée dans une fibre musculaire au repos et lors d'une course de 100 m chez un individu adulte de 70 kg. Le tableau du document 1 présente les résultats obtenus.
+
+Document 1 :
+
+|  |  | Quantité d'énergie (Kj) |
+|---|---|---|
+| Au repos | Quantité d'énergie correspondante à la quantité intracellulaire d'ATP | 5,1 à 7,5 |
+| Lors d'une course de 100 m | Quantité d'énergie intracellulaire dépensée | 132 |
+
+1. En exploitant les données du document 1, montrez la nécessité de régénérer l'ATP pour permettre le maintien de l'activité de contraction lors d'un effort musculaire. (1 pt)
+
+Donnée 2 : Des études ont permis de déterminer la contribution relative de la voie aérobie et des voies anaérobies dans la régénération de l'ATP selon les types de course menées chez des nageurs de niveau olympique. Le document 2 présente les résultats de ces études.
+
+Document 2 :
+
+| Course | Voie aérobie (%) | Voies anaérobies (%) |
+|---|---|---|
+| 100 m | 10 | 88 |
+| 200 m | 38 | 58 |
+| 400 m | 57 | 40 |
+| 800 m | 83 | 12 |
+| 1500 m | 88 | 9 |
+
+2. À partir des données du document 2, déduisez la relation entre la distance de la course et la contribution de chacune des voies aérobie et anaérobie dans la régénération de l'ATP. (0,5 pt)
+
+Donnée 3 : L'observation microscopique a montré qu'il existe deux types de fibres musculaires : les fibres de type I et les fibres de type II. La mesure des proportions de ces deux types de fibres au niveau du muscle a permis d'obtenir les résultats présentés dans la figure (a) du document 3. Le tableau de la figure (b) du même document présente certaines caractéristiques des deux types de fibres musculaires.
+
+[Figure — Document 3 : figure (a) : proportions des fibres de type I et II : coureurs de fond (70 % type I, 30 % type II) vs sprinters (32 % type I, 68 % type II) — valeurs d'après le corrigé officiel ; effort de longue durée et de faible puissance vs effort bref et de forte puissance. Figure (b) : Fibres de type I : mitochondries +++, capillaires sanguins par fibre 4,5 UA, myoglobine +++ ; Fibres de type II : mitochondries (+), capillaires 3 UA, myoglobine +.]
+
+3.
+a. En vous basant sur la figure (a) du document 3, comparez les proportions des fibres de type I et II entre les coureurs de fond et les sprinters. (0,5 pt)
+b. En exploitant les données de la figure (b) du document 3 et les données précédentes, expliquez l'origine de l'énergie utilisée par les sprinters professionnels. (1 pt)
+
+### Exercice 2 (5,75 pts)
+
+L'agammaglobulinémie ou maladie de Bruton est un déficit immunitaire qui se manifeste par un déficit dans la production de gammaglobulines γ (gamma). Elle se caractérise par des infections d'origine bactérienne et virale survenant le plus souvent durant la première année après la naissance. En absence de traitement, elle peut conduire à des complications graves.
+
+Le gène impliqué dans cette maladie héréditaire est le gène BTK qui code pour la protéine tyrosine kinase de Bruton (BTK). La BTK est impliquée dans l'activation de la maturation des cellules lymphoïdes pré-B en lymphocytes B fonctionnels circulants. Pour comprendre l'origine génétique de cette maladie, on propose l'exploitation des données suivantes :
+
+Donnée 1 : Le document 1 présente les résultats du suivi de la maturation des lymphocytes chez un individu sain (figure a) et chez un autre individu atteint par l'agammaglobulinémie (figure b).
+
+[Figure — Document 1 : figure (a) individu sain, BTK fonctionnelle : Cellule précurseur médullaire → Cellule pro-B → Cellule pré-B → Lymphocyte B mature ; figure (b) individu atteint, BTK non fonctionnelle : blocage de la maturation des lymphocytes B (Cellule précurseur médullaire → Cellule pro-B → Cellule pré-B → blocage).]
+
+1. En vous basant sur le document 1, montrez la relation protéine – caractère. (0,75 pt)
+
+Donnée 2 : Des chercheurs ont déterminé la séquence du gène BTK codant pour la protéine tyrosine kinase de Bruton (BTK). Le document 2 présente la séquence nucléotidique d'un fragment du brin non transcrit de l'allèle normal et celle d'un autre fragment non transcrit de l'allèle muté responsable de la maladie de Bruton. Le document 3 présente le tableau du code génétique.
+
+Document 2 — Numéros des nucléotides : 1423 … 1434 … 1449 :
+- Allèle normal : GAG – TAC – ATG – GCC – AAT – GGC – TGC – CTC – CTG – A… [reconstitué à partir du corrigé officiel] Sens de lecture →
+- Allèle muté : GAG – TCA – TGG – CCA – ATG – GCT – GCC – TCC – TGA Sens de lecture →
+[Fragment muté transcrit tel qu'extrait : GAGTCATGGCCAATGGCTGCCTCCTGA.]
+
+Document 3 — Tableau du code génétique (standard) : UUU, UUC : Phe ; UUA, UUG : Leu ; UCU, UCC, UCA, UCG : Ser ; UAU, UAC : Tyr ; UAA, UAG, UGA : Stop ; UGU, UGC : Cys ; UGG : Trp ; CUU, CUC, CUA, CUG : Leu ; CCU, CCC, CCA, CCG : Pro ; CAU, CAC : His ; CAA, CAG : Gln ; CGU, CGC, CGA, CGG : Arg ; AUU, AUC, AUA : Ile ; AUG : Met ; ACU, ACC, ACA, ACG : Thr ; AAU, AAC : Asn ; AAA, AAG : Lys ; AGU, AGC : Ser ; AGA, AGG : Arg ; GUU, GUC, GUA, GUG : Val ; GCU, GCC, GCA, GCG : Ala ; GAU, GAC : Ac. asp ; GAA, GAG : Ac. glu ; GGU, GGC, GGA, GGG : Gly.
+
+2.
+a. À partir des documents 2 et 3, donnez les séquences d'ARNm et des acides aminés qui correspondent au fragment de l'allèle normal et au fragment de l'allèle muté. (1 pt)
+b. En vous basant sur les questions précédentes, expliquez l'origine génétique de la maladie de Bruton. (1 pt)
+
+III. Le document 4 présente l'arbre généalogique d'une famille dont certains membres sont atteints par l'agammaglobulinémie de Bruton.
+
+[Figure — Document 4, arbre généalogique : générations I, II, III, IV ; légende : Homme sain, Femme saine, Homme malade, Fœtus. Arbre non extrait en détail.]
+
+3. Sachant que le gène responsable de la maladie est porté par un chromosome sexuel, déterminez, en justifiant votre réponse, le mode de transmission de cette maladie. (0,5 pt)
+
+4. En vous aidant d'un échiquier de croisement, calculez la probabilité pour que le fœtus IV2 soit atteint par la maladie de Bruton. (1 pt)
+NB : Utilisez les symboles B et b pour désigner les allèles du gène étudié.
+
+• La prévalence de la maladie de Bruton est estimée à 1/350000 dans plusieurs populations à travers le monde. En considérant que la population est en équilibre (obéit à la loi de Hardy-Weinberg) :
+
+5.
+a. Calculez la fréquence de l'allèle responsable de la maladie de Bruton et de l'allèle normal. (1 pt)
+b. Calculez la fréquence des femmes hétérozygotes pour le gène étudié. (0,5 pt)
+NB : Donnez les résultats avec six chiffres après la virgule.
+
+### Exercice 3 (3,25 pts)
+
+Dans le cadre de l'étude de la transmission des caractères héréditaires chez les lapins, on propose l'étude des résultats de deux croisements suivants :
+
+1er croisement : réalisé entre un lapin gris et à poils longs avec une lapine blanche et à poils courts. Ce croisement donne une première génération F1 composée de lapereaux tachetés et à poils longs.
+
+1. Que peut-on déduire des résultats du 1er croisement ? Justifiez votre réponse. (0,75 pt)
+
+2. Considérant que les deux gènes étudiés sont indépendants, donnez les génotypes des parents et des individus de la première génération F1. (0,75 pt)
+N.B. On utilise les symboles : B ou G pour les allèles responsables de la couleur des poils et L ou l pour les allèles responsables de la longueur des poils.
+
+2ème croisement : réalisé entre les individus de la première génération F1. Ce croisement donne une deuxième génération F2.
+
+3. Établissez l'échiquier de ce croisement, et dégagez les phénotypes obtenus et leurs proportions respectives. (1,25 pt)
+
+• Un éleveur de lapins désire produire une génération de lapins tachetés à poils longs.
+
+4. Déterminez parmi les résultats obtenus en F2, les parents que l'éleveur peut croiser pour avoir la plus grande proportion de lapins au phénotype recherché. Justifiez votre réponse par un échiquier de croisement. (0,5 pt)
+
+### Exercice 4 (3 pts)
+
+Dans le cadre de l'étude de certains aspects cellulaires et moléculaires de la réponse immunitaire, on propose l'exploitation des expériences historiques suivantes.
+
+I. Expérience historique de Gustav Nossal (1959) :
+
+Gustav Nossal a travaillé sur deux souches A et B de salmonelles, bactéries mobiles grâce à des flagelles (figure a du document 1). Chaque souche de salmonelle possède au niveau de ses flagelles des antigènes qui lui sont spécifiques.
+
+L'expérience est réalisée en trois étapes :
+- Étape 1 : Gustav Nossal a injecté des bactéries des deux souches A et B à des rats. Après quelques jours il a prélevé des plasmocytes dans les ganglions lymphatiques proches du point d'injection (figure b du document 1).
+
+[Figure — Document 1 : figure (a) : Salmonelle, Flagelles ; figure (b) : Injection des salmonelles → Après quelques jours → Prélèvement des plasmocytes.]
+
+- Étape 2 : il a ensuite préparé quatre micropuits, contenant chacun un milieu de culture approprié à la survie des bactéries et des cellules immunitaires puis il a placé dans chacun des quatre micropuits un seul plasmocyte auquel il a ajouté cinq à six bactéries de la souche A. La figure (a) du document 2 présente les résultats obtenus après une heure.
+- Étape 3 : Gustav introduit des bactéries de la souche B dans les micropuits « 2 » et « 4 ». La figure (b) du document 2 présente les résultats obtenus.
+
+NB : Aucun contact membranaire n'est établi entre le plasmocyte et les bactéries des deux souches A et B à l'intérieur des micropuits.
+
+[Figure — Document 2 : figure (a) : après 1 heure : milieux 1 et 3 : bactéries mobiles ; milieux 2 et 4 : bactéries immobiles (souche A) — d'après le corrigé officiel. Figure (b) : milieux 2 et 4 : bactéries de la souche A immobiles, bactéries de la souche B mobiles — d'après le corrigé officiel.]
+
+1. En vous basant sur la figure (a) du document 2 :
+a. Comparez les résultats observés puis déduisez, en justifiant votre réponse, le type de la réponse immunitaire. (0,5 pt)
+b. Expliquez les différences observées. (0,5 pt)
+
+2. Décrivez les résultats de la figure (b) du document 2 et dégagez la caractéristique de la réponse immunitaire mise en évidence. Justifiez votre réponse. (1 pt)
+
+II. Expérience historique de Morgan et Ruscetti (1975) :
+
+Afin de mettre en évidence certains facteurs qui interviennent dans la réponse immunitaire, on propose l'exploitation des résultats des travaux de Morgan et Ruscetti.
+
+Des lymphocytes de type T4 sont prélevés du sang d'un individu sain et activés en présence d'une substance qui joue le rôle d'antigène : PHA. Le liquide surnageant de cette culture est ensuite prélevé puis ajouté dans des cultures de lymphocytes T ou B.
+
+Le document 3 représente les conditions et les résultats de cette expérience.
+
+Document 3 : Culture des lymphocytes T4 en présence de PHA (2 à 3 jours) → Prélèvement du surnageant → Ajout du surnageant :
+- Culture des lymphocytes T (sans surnageant) : pas de prolifération cellulaire.
+- Culture des lymphocytes T (+ surnageant) : prolifération cellulaire.
+- Culture des lymphocytes B (+ surnageant) : prolifération cellulaire.
+- Culture des lymphocytes B (sans surnageant) : pas de prolifération cellulaire.
+
+3. Décrivez les résultats présentés sur le document 3 puis déduisez l'autre caractéristique de la réponse immunitaire mise en évidence par l'expérience de Morgan et Ruscetti. (1 pt)
+
+** FIN **
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Exercice 1, document 2 : totaux des pourcentages (95 à 98 %) transcrits tels qu'extraits.
+- Exercice 1, document 3 : proportions des fibres d'après le corrigé officiel ; nombre de mitochondries des fibres de type II non extrait.
+- Exercice 2, document 2 : fragment de l'allèle normal reconstitué à partir du corrigé officiel ; fragment muté transcrit tel qu'extrait.
+- Exercice 2, document 4 : arbre généalogique non extrait en détail ; résumé d'après le corrigé officiel (couple III3 × III4, fœtus IV2).
+- Exercice 4, document 2 : résultats des figures (a) et (b) d'après le corrigé officiel.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

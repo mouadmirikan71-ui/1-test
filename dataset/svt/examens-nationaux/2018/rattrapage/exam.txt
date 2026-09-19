@@ -1,0 +1,242 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2018 - Session Rattrapage - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2018-rattrapage-sujet.pdf
+Element: https://www.alloschool.com/element/65628
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2018 - الموضوع -
+المادة: علوم الحياة والأرض
+الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية)
+مدة الإنجاز: 3h — المعامل: 7
+RS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I. Pour chacune des propositions numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples (1, …) ; (2, …) ; (3, …) ; (4, …), et donnez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1. La faille inverse est une structure :
+a. qui résulte des contraintes tectoniques distensives.
+b. caractérisée par l'éloignement des deux compartiments de la faille.
+c. caractérisée par un plan de faille vertical.
+d. caractérisée par le rapprochement des deux compartiments de la faille.
+
+2. L'andésite est une roche magmatique qui :
+a. résulte d'un refroidissement rapide du magma en profondeur.
+b. résulte d'un refroidissement lent du magma en surface.
+c. a une structure microlitique caractérisée par des microlites et du verre.
+d. a une structure grenue caractérisée par des cristaux de grande taille.
+
+3. Les chaînes de subduction résultent de l'enfouissement d'une lithosphère :
+a. océanique moins dense sous une lithosphère continentale plus dense.
+b. continentale moins dense sous une lithosphère océanique plus dense.
+c. océanique plus dense sous une lithosphère continentale moins dense.
+d. continentale plus dense sous une lithosphère océanique moins dense.
+
+4. L'auréole de métamorphisme est une zone qui entoure le granite :
+a. intrusif et résulte d'un métamorphisme de contact.
+b. d'anatexie et résulte d'un métamorphisme de contact.
+c. intrusif et résulte d'un métamorphisme régional.
+d. d'anatexie et résulte d'un métamorphisme régional.
+
+II. Définissez ce qui suit :
+1. L'anatexie. (0,5 pt)
+2. Le faciès métamorphique. (0,5 pt)
+
+III. Recopiez, sur votre feuille de rédaction, la lettre qui correspond à chaque proposition, et écrivez devant chacune d'elles « vrai » ou « faux » : (1 pt)
+
+a. Le magma andésitique résulte de la fusion partielle des roches préexistantes sous l'action d'un métamorphisme de haute température et de basse pression.
+b. Les zones de subduction sont caractérisées par un métamorphisme dynamique.
+c. Une séquence métamorphique correspond à l'ensemble des roches qui se sont formées dans les mêmes conditions de pression et de température.
+d. La schistosité et la foliation sont deux structures caractéristiques des roches métamorphiques et magmatiques.
+
+IV. Citez :
+1. Deux caractéristiques des chaînes de collision. (0,5 pt)
+2. Deux caractéristiques des chaînes d'obduction. (0,5 pt)
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 (3 pts)
+
+La respiration cellulaire est un ensemble de réactions qui permettent aux cellules de produire l'ATP et qui se déroulent en partie dans les mitochondries. Ces réactions peuvent être perturbées suite à l'exposition à certaines substances chimiques comme l'Antimycine A. Ce dernier est un antibiotique produit par certains champignons (Streptomyces). L'exposition de l'Homme à ce produit cause de graves incidents sur le métabolisme énergétique des cellules. Afin de comprendre le mode d'action de l'Antimycine A on présente les données suivantes :
+
+• Donnée 1 : Une suspension de mitochondries est introduite dans deux milieux 1 et 2 contenant l'ADP, le Pi, saturés en dioxygène et maintenus à pH = 7,5.
+- Dans le milieu 1, on suit l'évolution de la concentration en dioxygène et en ATP avant et après l'ajout du pyruvate. La figure (a) du document 1 présente les résultats obtenus.
+- Dans le milieu 2, on suit l'évolution de la concentration en dioxygène avant et après l'ajout du pyruvate au temps (t1) et de l'Antimycine A au temps (t2). La figure (b) du document 1 présente les résultats obtenus.
+
+[Figure — Document 1, figure (a) : courbes O2 et ATP dans le milieu 1 — avant l'ajout du pyruvate : O2 ≈ 100 UA (stable), ATP ≈ 30 UA ; après l'ajout : O2 diminue (≈ 35 UA), ATP augmente (≈ 100 UA) ; après épuisement du pyruvate : concentrations stables. Figure (b) : courbe O2 dans le milieu 2 — stable (≈ 100 UA) avant t1 ; ajout du pyruvate (t1) → diminution (≈ 40 UA) ; ajout de l'Antimycine A (t2) → stabilisation (≈ 40 UA). Valeurs d'après la description du corrigé officiel.]
+
+1. Décrivez les résultats obtenus dans chacune des figures (a) et (b) du document 1, puis proposez une hypothèse qui explique la relation entre l'Antimycine A et la production d'ATP. (1,5 pt)
+
+• Donnée 2 : La membrane interne de la mitochondrie contient des complexes protéiques formant la chaîne respiratoire. Le document 2 montre l'enchaînement des réactions d'oxydoréduction qui ont lieu lors du transfert des électrons le long de la chaîne respiratoire, et le site d'action de l'Antimycine A. Le document 3 présente le mécanisme de production de l'ATP au niveau de la membrane interne mitochondriale.
+
+[Figure — Document 2 : chaîne respiratoire et potentiels redox (V) — NADH,H+ → NAD+ (−0,32, Complexe I) ; FADH2 → FAD (Complexe II) ; Q (−0,10) ; Complexe III (+0,08) [site d'action de l'Antimycine A : inhibition] ; C (+0,25) ; Complexe IV (+0,29) ; ½ O2 → H2O (+0,82). Sens du flux des électrons indiqué.]
+
+[Figure — Document 3 : mécanisme de production de l'ATP — membrane interne, espace inter-membranaire (H+), matrice (ADP + Pi → ATP) ; complexes I, II, III, IV ; Q, C ; NADH,H+/NAD+, FADH2/FAD, O2/H2O.]
+
+2. En exploitant le document 2 :
+a. Montrez la relation entre le sens de transfert des électrons et le potentiel redox des différents complexes de la chaîne respiratoire. (0,25 pt)
+b. Expliquez l'effet de l'ajout de l'Antimycine A sur la concentration en dioxygène présentée dans la figure (b) du document 1. (0,5 pt)
+
+3. En vous aidant des documents 2 et 3, expliquez l'effet de l'Antimycine A sur la production de l'ATP par les cellules. (0,75 pt)
+
+### Exercice 2 (5 pts)
+
+Dans le cadre de l'étude de la transmission de l'information génétique et des mécanismes de son expression, on propose les données suivantes :
+
+• Donnée 1 : La mitose assure la multiplication et le renouvellement des tissus vivants et constitue avec l'interphase un cycle cellulaire. Le document 1 présente deux phases de ce cycle chez une cellule animale [figure (a) : interphase ; figure (b) : prophase].
+
+[Figure — Document 1 : figure (a) interphase : Membrane nucléaire, Centrosome, Nucléole, Chromatine, Cytoplasme, Fibre ; figure (b) prophase : Vésicules de la membrane nucléaire, Centrosome, Chromosome condensé, Fibres du fuseau mitotique.]
+
+1. Dégagez les modifications qui se sont produites au niveau du noyau et du cytoplasme en passant de l'interphase à la prophase. (1 pt)
+
+• Donnée 2 : Le noyau contient plusieurs types de protéines fibreuses appelées « Lamines » responsables de la structure du noyau. L'altération d'un type de lamines « Lamine A » peut être à l'origine d'un syndrome appelé « Progéria ». Parmi les symptômes de ce syndrome : une taille petite, des complications métaboliques et un vieillissement prématuré grave associé à une prédisposition aux cancers. Le document 2 présente des données concernant le rôle des « lamines A » dans le cas normal et dans le cas de « Progéria ».
+
+[Figure — Document 2 : Disposition des lamines A sur la membrane nucléaire (ordonnée / désordonnée), Structure du noyau (normale / déformée), Phénotypes (division normale avec réparation et renouvellement des tissus / division anormale avec vieillissement précoce). D'après la comparaison du corrigé officiel.]
+
+2. En vous basant sur le document 2, comparez les données de la personne saine à celles de la personne malade, puis montrez la relation protéine – caractère. (1,5 pt)
+
+• Des analyses génétiques ont permis d'associer cette maladie au gène LMNA. Deux allèles de ce gène ont été identifiés : LMNA+ qui gouverne la synthèse de la protéine normale et LMNA− qui gouverne la synthèse de la protéine anormale. La figure (a) du document 3 présente un fragment du brin transcrit de l'allèle LMNA+ d'un sujet sain, et un fragment de l'allèle LMNA− d'un sujet atteint d'une des formes de la Progéria. La figure (b) du document 3 présente un extrait du tableau du code génétique.
+
+Document 3 — Figure (a) : fragments du brin transcrit (sens de lecture →) :
+- Fragment de l'allèle LMNA+ d'un sujet sain : CAC – CGG – TTC – GAA – CTC – CGT – CGG – GAT – CCA
+- Fragment de l'allèle LMNA− d'un sujet malade : CCC – GGT – TCG – AAC – TCC – GTC – GGG – ATC – CA
+[Attribution sain/malade vérifiée par les séquences du corrigé officiel ; la numérotation des triplets (dont le triplet 169) n'a pas été extraite.]
+
+Document 3 — Figure (b) : extrait du code génétique :
+
+| Codons | UUG, CUA, CUU | UAG, UGA | CCC, CCA | GAG, GAA | AAA, AAG | AGA, AGG | AGU, AGC | GUU, GUG | GCC, GCA | GGA, GGG, GGU | CAA, CAG |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Acides aminés | Leu | non sens | Pro | Ac.glu | Lys | Arg | Ser | Val | Ala | Gly | Gln |
+
+3. En vous basant sur le document 3, donnez les séquences des ARNm et des acides aminés du sujet sain et du sujet malade, puis montrez la relation gène – protéine. (1,5 pt)
+
+• Donnée 3 : Dans l'espoir de trouver un traitement au syndrome « Progéria », des études récentes, basées sur les techniques du génie génétique, ont été réalisées sur des souris présentant les mêmes symptômes de la Progéria. Ces études utilisent un traitement génétique qui consiste à introduire une séquence d'ARN « antisens » dans les cellules de ces souris. Cet ARN « antisens » est capable de se lier d'une façon complémentaire à l'ARNm codant pour la protéine anormale. Le document 4 présente le principe du traitement utilisé.
+
+[Figure — Document 4 : principe du traitement — l'ARN antisens se lie de façon complémentaire à l'ARNm codant la protéine anormale ; Acides aminés.]
+
+4. En vous basant sur les données du document 4 :
+a. Montrez comment l'ARN « antisens » empêche la production de la protéine anormale responsable de ce syndrome. (0,5 pt)
+b. Proposez une technique qui permettrait expérimentalement de modifier génétiquement les cellules malades et les rendre capables de produire l'ARN « antisens » de façon permanente. (0,5 pt)
+
+### Exercice 3 (4 pts)
+
+Dans le cadre de l'étude de la transmission des caractères héréditaires chez les diploïdes et de l'effet de certains facteurs de variation sur la structure génétique d'une population, on propose les données suivantes qui concernent l'escargot « Cepaea nemoralis ».
+
+• Donnée 1 : La coquille de l'escargot « Cepaea nemoralis » montre une forte variation entre les individus en ce qui concerne la couleur et l'absence ou la présence de bandes. On s'intéresse à l'étude de la transmission de deux couples d'allèles :
+- Un couple d'allèles qui gouverne la couleur de la coquille : l'un responsable de la couleur rose, l'autre responsable de la couleur jaune.
+- Un autre couple d'allèles qui gouverne la présence ou l'absence de bandes sur la coquille : l'un responsable de la présence des bandes, l'autre responsable de l'absence des bandes.
+
+- Premier croisement, entre deux lignées pures d'escargots P1 et P2 (Parents) : la lignée P1 à coquilles roses avec bandes et la lignée P2 à coquilles jaunes sans bandes. Ce croisement a donné des individus (génération F1) ayant tous des coquilles roses sans bandes.
+- Deuxième croisement, entre des individus de la génération F1 et des individus de phénotype jaune avec bandes. Les résultats issus de ce croisement sont :
+  - 234 individus à coquille rose avec bandes ;
+  - 246 individus à coquille jaune sans bandes ;
+  - 54 individus à coquille rose sans bandes ;
+  - 66 individus à coquille jaune avec bandes.
+
+1. En vous basant sur les résultats des deux croisements, déterminez, en justifiant votre réponse :
+a. les allèles dominants et les allèles récessifs. (0,5 pt)
+b. est-ce que les deux gènes sont liés ou indépendants. (0,5 pt)
+
+2. Donnez l'interprétation chromosomique des deux croisements. (1,5 pt)
+
+Utilisez les symboles suivants :
+- R et r pour les allèles du gène responsable de la couleur des coquilles ;
+- B et b pour les allèles du gène responsable de la présence ou l'absence des bandes sur les coquilles.
+[Attention : d'après le corrigé officiel, l'allèle dominant est « absence de bandes » et l'allèle récessif est « présence de bandes ».]
+
+• Donnée 2 : L'habitat de l'escargot « Cepaea nemoralis » est très varié. En forêt, l'environnement dans lequel on rencontre cet escargot est relativement uniforme et sombre, composé particulièrement de feuilles mortes. En revanche, dans les prairies, les herbes plus ou moins hautes forment un environnement hétérogène pour les escargots.
+La grive musicienne, un oiseau prédateur des escargots, a pour habitude de briser leur coquille sur des rochers. L'étude des fragments de coquilles permet de déterminer le phénotype le plus prédaté dans les forêts et les prairies. Le document 1 présente les résultats de l'examen des débris de coquilles dans une forêt et dans une prairie.
+
+Document 1 — Taux d'escargots prédatés (%) :
+
+|  | Escargots avec bandes | Escargots sans bandes |
+|---|---|---|
+| Forêt | 45 | 37,5 |
+| Prairie | 33,3 | 43,3 |
+
+3. Comparez les résultats obtenus dans les deux habitats. (0,5 pt)
+
+4. Déterminez le facteur de variation responsable de la différence observée entre les deux habitats, puis expliquez son mode d'action sur la population d'escargots dans chaque habitat. (1 pt)
+
+### Exercice 4 (3 pts)
+
+Les lymphocytes T4 (LT4) jouent un rôle fondamental dans la réponse immunitaire spécifique. Afin d'étudier le rôle de ces cellules on présente les données suivantes :
+
+• Donnée 1 : Dans certains cas comme celui du SIDA, le dérèglement de la fonction des LT4 entraîne des conséquences graves sur la réponse immunitaire. Le document 1 présente l'évolution du nombre des LT4 et du nombre de virus VIH dans le sang d'une personne infectée par le VIH.
+
+Document 1 :
+
+|  | LT4 (Nombre de LT4 / µL de sang) | VIH (Nombre de VIH / mL de sang) |
+|---|---|---|
+| 0 | 1150 | 0 |
+| 3 | 1000 | 1000 |
+| 6 | 420 | 900 |
+| 9 | 700 | 500 |
+| 12 | 840 | 210 |
+| 4 à 10 ans | 620 | 130 |
+| 1 à 3 ans | 280 | 1300 |
+
+[Les libellés des deux dernières lignes et les valeurs de la charge virale sont incertains dans l'extraction ; le corrigé officiel décrit : semaines 6→12 : virus 10⁷→10³/mL et LT4 400→800+/µL ; phase SIDA : virus 10³→10⁷/mL et LT4 400→0/µL. Se référer au PDF source.]
+
+1. En vous basant sur les données du document 1, décrivez l'évolution du nombre de VIH et des LT4 entre la 6ème et la 12ème semaine d'une part et pendant la phase du SIDA déclaré d'autre part, puis expliquez l'évolution du nombre de VIH durant les deux phases. (1 pt)
+
+• Donnée 2 : Afin de montrer le rôle des LT4 dans la réponse immunitaire spécifique, on a réalisé une expérience sur 6 lots de souris :
+- Le lot 1 n'a subi aucun traitement.
+- Les lots de 2 à 6 ont subi un traitement qui a permis de supprimer certains types de lymphocytes.
+- Les 6 lots de souris ont été infectés par le virus de la grippe.
+- Ensuite on mesure l'efficacité de la réponse immunitaire par la détermination du temps requis pour éliminer le virus et le taux de survie pour chaque lot. Le document 2 présente les conditions expérimentales et les résultats obtenus.
+
+Document 2 (+ : présent ; − : absent) :
+
+|  | Lymphocytes T8 | Lymphocytes T4 | Lymphocytes B | Temps requis pour éliminer le virus (j) | Taux de survie (en %) |
+|---|---|---|---|---|---|
+| Lot 1 | + | + | + | 7 à 10 | 100 |
+| Lot 2 | − | + | + | 10 à 14 | 100 |
+| Lot 3 | − | + | − | > 20 | 0 |
+| Lot 4 | − | − | + | > 20 | 0 |
+| Lot 5 | + | + | − | 10 à 14 | 50 |
+| Lot 6 | − | − | − | > 20 | 0 |
+
+2. En exploitant les données du document 2, déterminez la condition nécessaire au déroulement d'une réponse immunitaire efficace. Justifiez votre réponse. (0,5 pt)
+
+• Les lymphocytes T4, en présence de produits stimulants jouant le rôle d'antigène, sont activés et sécrètent l'interleukine-2. Le document 3 montre l'effet de la concentration de l'interleukine-2 sur le nombre de plasmocytes sécréteurs d'anticorps. Le document 4 présente le nombre des lymphocytes T8 dans la rate chez des souris normales et des souris mutées (déficientes en interleukine-2), avant et après sept jours de l'infection par un virus (le virus de la chorioméningite).
+
+Document 3 — Nombre de plasmocytes (pour 4×10⁴ cellules initiales) :
+
+| Concentration en interleukine-2 (UA) | 10 | 10² | 10³ | 10⁴ |
+|---|---|---|---|---|
+| Nombre de plasmocytes | 50 | 160 | 920 | 1000 |
+
+Document 4 — Nombre de lymphocytes T8 dans la rate (x10⁶) :
+
+|  | Souris normales | Souris mutées |
+|---|---|---|
+| Avant infection | 13 | 14 |
+| 7 jours après infection | 38 | 14 |
+
+3. Décrivez les résultats présentés par les documents 3 et 4, puis déduisez le rôle de l'interleukine-2 dans la réponse immunitaire. (0,75 pt)
+
+4. Réalisez un schéma explicatif montrant le rôle des LT4 dans le déroulement d'une réponse immunitaire spécifique. (0,75 pt)
+
+§ Fin §
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question II-2 : « faciès métamorphique » (l'extraction portait « fossile », manifestement erroné ; le corrigé définit le faciès métamorphique).
+- Exercice 1, document 1 : les valeurs des courbes (O2 ≈ 100→35/40 UA ; ATP ≈ 30→100 UA) sont indiquées d'après la description du corrigé officiel.
+- Exercice 2, question 4a : barème de 0,5 pt reconstitué à partir du corrigé officiel.
+- Exercice 2, document 2 : le contenu détaillé n'a pas été extrait ; résumé d'après la comparaison du corrigé officiel.
+- Exercice 3 : l'allèle « présence de bandes » (B) est récessif et « absence de bandes » (b) est dominant (corrigé officiel) ; la casse B/b a été normalisée car l'extraction confond les deux.
+- Exercice 4, document 1 : tableau transcrit tel qu'extrait mais incohérent avec les lectures du corrigé officiel — se référer au PDF source.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

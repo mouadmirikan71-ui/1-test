@@ -1,0 +1,183 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2020 - Session Rattrapage - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2020-rattrapage-sujet.pdf
+Element: https://www.alloschool.com/element/109872
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة الاستدراكية 2020 - الموضوع -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+RS32F
+
+L'usage de la calculatrice non programmable est autorisé.
+
+## Partie I : Restitution des connaissances (5 pts)
+
+I. Répondre, sur la feuille de rédaction, aux questions suivantes :
+1. Définir : a- Arbre généalogique ; b- Carte chromosomique (Caryotype). (1 pt)
+2. Citer deux moyens de diagnostic prénatal des anomalies chromosomiques. (0,5 pt)
+3. Donner deux exemples de difficultés relatives à l'étude de la génétique humaine. (0,5 pt)
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte. Copier, sur la feuille de rédaction, les couples ci-dessous et adresser à chaque numéro la lettre qui correspond à la suggestion correcte. (1, …) (2, …) (3, …) (4, …) (2 pts)
+
+1. La méiose est constituée d'une :
+a. succession de deux divisions et d'une seule [interphase — fin tronquée] ;
+b. division réductionnelle précédée d'une division équationnelle ;
+c. division réductionnelle suivie d'une division équationnelle ;
+d. succession de deux divisions précédées chacune d'une interphase.
+
+2. Dans le cas d'une maladie héréditaire liée à un allèle dominant porté par le chromosome X :
+a. le père atteint de la maladie est hétérozygote ;
+b. une femme saine donne naissance à un garçon malade ;
+c. un père atteint de la maladie donne naissance à une fille saine ;
+d. un père atteint de la maladie donne naissance à une fille malade.
+
+3. Le brassage intrachromosomique se traduit par :
+a. l'échange des fragments entre les chromosomes non homologues lors de la prophase I ;
+b. l'échange des fragments entre les chromosomes homologues lors de la prophase I ;
+c. la séparation aléatoire des chromosomes homologues lors de l'anaphase I ;
+d. la séparation aléatoire des chromosomes non homologues lors de l'anaphase I.
+
+4. La mitose est une division qui permet :
+a. le brassage intrachromosomique suite au phénomène d'enjambement chromosomique ;
+b. la conservation du nombre des chromosomes chez les cellules filles en comparaison avec la cellule mère ;
+c. le passage d'une cellule mère diploïde à deux cellules filles haploïdes ;
+d. la séparation des chromosomes homologues lors de l'anaphase.
+
+III. Copier sur votre feuille de rédaction, la lettre correspondante à chaque proposition parmi les propositions suivantes, puis écrire devant chaque lettre « Vrai » ou « Faux ». (1 pt)
+
+a. Le syndrome de Down résulte d'une perte d'un chromosome 21.
+b. La réplication de l'ADN est semi-conservative.
+c. La formule chromosomique du gamète femelle chez l'Homme est n = 22AA + X.
+d. Les yeux de réplication s'observent lors de la phase S de l'interphase.
+
+## Partie II : Raisonnement scientifique et expression écrite et graphique (15 pts)
+
+### Exercice 1 (5 pts)
+
+La contraction musculaire nécessite un renouvellement permanent des molécules d'ATP. Certaines personnes souffrent, dès la petite enfance, d'une maladie nommée Glycogénose de type 0 (GSD-0) dont l'intolérance à l'effort musculaire est l'un des symptômes. Afin d'expliquer l'origine métabolique de cette intolérance, on propose l'exploitation des données suivantes :
+
+• Donnée 1 : La figure 1 du document 1 présente deux schémas simplifiés de coupes transversales au niveau de deux échantillons de muscles squelettiques d'un enfant souffrant de la maladie GSD-0 et d'un enfant sain de même âge. La figure 2 représente des étapes de la synthèse du glycogène à partir de molécules de glucose qui sont mis en réserve dans la cellule musculaire pour subvenir à ses besoins énergétiques.
+
+[Figure — Document 1, figure 1 : coupes transversales de muscles (Noyau, Sarcoplasme, Glycogène musculaire ; échelle 50 µm) : Enfant atteint vs Enfant sain.]
+[Figure — Document 1, figure 2 : Glucose → Glucose-1-phosphate → (Glycogène synthétase) → Glycogène ; Phosphorylase. La phosphorylase et la glycogène synthétase sont des enzymes présentes dans les cellules musculaires.]
+
+Remarque : Les enfants atteints de la GSD-0 présentent un déficit dans le fonctionnement de l'enzyme glycogène synthétase.
+
+1. En se basant sur le document 1, dégager la différence observée entre le muscle de l'enfant atteint et celui de l'enfant sain puis expliquer cette différence. (1 pt)
+
+• Donnée 2 : Le document 2 présente les résultats de la mesure de la teneur en glycogène du muscle de la cuisse chez une personne normale, en fonction de l'intensité de l'effort musculaire.
+
+Document 2 :
+
+| Temps (min) | Exercice peu intense (UA) | Exercice modéré (UA) | Exercice intense (UA) |
+|---|---|---|---|
+| 0 | 100 | 100 | 100 |
+| 30 | 90 | 77 | 61 |
+| 60 | 83 | 60 | 30 |
+| 90 | 77 | 49 | 15 |
+| 120 | 71 | 39 | — |
+
+2. En se basant sur les données du document 2, décrire l'évolution de la teneur en glycogène du muscle en fonction de l'intensité de l'effort musculaire, puis déduire la relation entre l'intensité de l'effort musculaire et la consommation du glycogène. (1,25 pt)
+
+• Donnée 3 : Le document 3 représente les voies métaboliques de la synthèse et de l'utilisation d'ATP au niveau de la cellule musculaire.
+
+[Figure — Document 3 : Glycogène → Glucose-1-P → Glucose-6-P → (Glycolyse) → Acide pyruvique → (Cycle de Krebs et chaîne respiratoire) ; Acide lactique ; ATP / ADP + Pi ; Contraction de la myofibrille.]
+
+3. En vous aidant des documents 2 et 3, expliquer la relation entre la consommation du glycogène et l'intensité de l'effort musculaire. (1,25 pt)
+
+4. En vous appuyant sur les données précédentes, expliquer l'origine métabolique de la maladie GSD-0. (1,5 pt)
+
+### Exercice 2 (6,5 pts)
+
+La maladie de Kennedy est une maladie héréditaire rare qui touche les personnes de sexe masculin. Les personnes atteintes présentent un ensemble de symptômes parmi lesquels une altération du développement des caractères sexuels mâles.
+
+Afin de déterminer l'origine génétique de la maladie de Kennedy, on présente les données suivantes :
+
+● Donnée 1 : Les recherches ont montré que cette maladie est associée à un récepteur cytoplasmique de nature protéique qui se lie à des hormones sexuelles (Androgènes) entraînant le développement des caractères sexuels mâles.
+
+Les figures du document 1 illustrent la relation entre les récepteurs des androgènes et le développement des caractères sexuels mâles chez une personne saine (figure a) et chez une personne atteinte de la maladie de Kennedy (figure b).
+
+[Figure — Document 1 : figure (a) personne saine : Récepteur d'androgènes normal (Cytoplasme) + Androgènes → Fixation → Activation → (Noyau, ADN) Expression des gènes cibles → Développement des caractères sexuels mâles ; figure (b) personne atteinte : Récepteur d'androgènes anormal + Androgènes → Fixation → Pas d'activation → Pas d'expression des gènes cibles → Altération du développement des caractères sexuels mâles.]
+
+1. En se basant sur le document 1, montrer la relation protéine-caractère. (1 pt)
+
+• La synthèse du récepteur des androgènes est contrôlée par un gène appelé AR situé sur le chromosome X. Le document 2 représente un fragment du gène AR et la séquence des acides aminés correspondante chez un individu sain (figure a) et chez un individu atteint de la maladie de Kennedy (figure b).
+
+Document 2 :
+- Figure (a), fragment de l'allèle normal du gène AR : TGG CAT TAT CAA GTC GTC GTC + [triplet CAG répété 15 fois] + GTC GTC AAG TCA.
+Séquence d'acides aminés correspondante : Ser – Val – Ile – Val – Gln – Gln + [Glutamine répétée 15 fois] + Gln – Phe – Ser.
+- Figure (b), fragment de l'allèle mutant du gène AR : TGG CAT TAT CAA GTC GTC GTC + [triplet CAG répété 38 fois] + GTC GTC AAG TCA.
+Séquence d'acides aminés correspondante : Ser – Val – Ile – Val – Gln – Gln – Gln – Gln – Gln – Phe – Ser + [Glutamine répétée 38 fois].
+[Ordre des acides aminés transcrit tel qu'extrait ; le corrigé officiel confirme la ressemblance des séquences avant et après les répétitions.]
+
+2. En se basant sur le document 2, comparer les séquences nucléotidiques du gène AR et les séquences des acides aminés entre l'individu sain et l'individu malade. (1 pt)
+
+3. En se basant sur les documents précédents, expliquer l'origine génétique de la maladie de Kennedy. (0,75 pt)
+
+● Donnée 2 : Le document 3 représente un arbre généalogique d'une famille dont certains membres sont atteints de la maladie de Kennedy.
+
+[Figure — Document 3, arbre généalogique : génération I (Homme sain 1, Femme saine 2) ; génération II (Hommes sains 2, Homme malade 1, Femmes saines 3) ; génération III (Hommes sains 4, Homme malade 1, Femmes saines 2) ; génération IV (Hommes sains 3, Femme saine 1, Fœtus 1). Légende : Homme sain (N), Homme malade (n), Femme saine (N), Fœtus (n). Arbre non extrait en détail.]
+
+4. En se basant sur le document 3 :
+a. Montrer que l'allèle responsable de la maladie est récessif et déterminer les génotypes des individus I2, II1, III2. (1 pt)
+b. En supposant que la femme III2 est hétérozygote, calculer la probabilité pour que le couple III2 × III3 donne naissance à un enfant malade en utilisant l'échiquier de croisement. (0,75 pt)
+Utiliser les symboles suivants : N et n pour les allèles du gène étudié.
+
+● Donnée 3 : La maladie de Kennedy est très rare. Elle touche un homme sur 150 000 dans une population donnée. Considérant que cette population est en équilibre selon la loi de Hardy-Weinberg.
+
+5. Calculer la fréquence de l'allèle responsable de la maladie et celle de l'allèle normal dans la population considérée. (1 pt)
+
+6. Calculer la fréquence des femmes porteuses et celle des femmes non porteuses de l'allèle responsable de la maladie. (1 pt)
+
+Remarque : Se contenter de six chiffres après la virgule.
+
+### Exercice 3 (3,5 pts)
+
+Dans le cadre de l'étude de la transmission des caractères héréditaires chez la tomate, on propose les résultats des croisements suivants :
+
+• 1er croisement : Réalisé entre une lignée de tomate sauvage (plante de taille normale et à fruit lisse) et une lignée mutante (plante de taille naine et à fruit velouté). Les plantes de la première génération F1 sont toutes de phénotype sauvage.
+
+1. Que peut-on déduire des résultats de ce croisement ? (0,75 pt)
+
+• 2ème croisement : Réalisé entre des plantes de tomates de la lignée mutante et des plantes de la génération F1. Le tableau suivant présente les résultats de la génération F'2 obtenue :
+
+| Phénotypes des plantes de la génération F'2 | Plantes de taille normale et à fruit lisse | Plantes de taille naine et à fruit velouté | Plantes de taille normale et à fruit velouté | Plantes de taille naine et à fruit lisse |
+|---|---|---|---|---|
+| Répartition des phénotypes dans la génération F'2 | 476 | 480 | 21 | 23 |
+
+2.
+a. Montrer que les gènes étudiés sont liés et déduire la distance relative entre ces deux gènes. (0,75 pt)
+b. Donner, en utilisant l'échiquier de croisement, l'interprétation chromosomique des résultats du deuxième croisement. (1 pt)
+Utiliser les symboles suivants :
+- N et n pour les allèles du gène responsable de la taille des plantes ;
+- L et l pour les allèles du gène responsable de l'aspect des fruits.
+
+● Pour déterminer la position relative d'un troisième gène responsable de la couleur des feuilles (couleur verte ; couleur tachetée) par rapport aux deux autres gènes, on propose les résultats du 3ème et du 4ème croisement.
+
+| Croisements | 3ème croisement | 4ème croisement |
+|---|---|---|
+| Phénotypes des parents | Entre des plantes de taille normale et à feuilles vertes hétérozygotes pour les deux caractères et des plantes doubles récessives de taille naine et à feuilles tachetées | Entre des plantes à fruit lisse et à feuilles vertes hétérozygotes pour les deux caractères et des plantes doubles récessives à fruit velouté et à feuilles tachetées |
+| Résultats | 878 plantes de phénotypes parentaux ; 122 plantes de phénotypes recombinés | 834 plantes de phénotypes parentaux ; 166 plantes de phénotypes recombinés |
+
+3. En se basant sur les résultats du 3ème et du 4ème croisement :
+a. Déterminer la distance relative entre le gène responsable de la taille de la plante et celui responsable de la couleur des feuilles d'une part et la distance relative entre le gène responsable de l'aspect du fruit et celui responsable de la couleur des feuilles d'autre part. (0,5 pt)
+b. Établir la carte factorielle des trois gènes étudiés. (0,5 pt)
+Utiliser le symbole V et v pour les allèles du gène responsable de la couleur des feuilles.
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question II-1, suggestion (a) : fin de la phrase tronquée à l'extraction.
+- Exercice 1, document 2 : case « 120 min / exercice intense » vide dans le source.
+- Exercice 2, document 2 : séquences transcrites telles qu'extraites (voir note) ; « Ile » transcrit pour « Ileu » du source.
+- Exercice 2, document 3 : arbre généalogique non extrait en détail ; résumé d'après le corrigé officiel (parents I1 × I2 sains, enfant II1 malade ; femme III2 hétérozygote, couple III2 × III3).
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

@@ -1,0 +1,241 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2025 - Session Normale - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2025-normale-sujet.pdf
+Element: https://www.alloschool.com/element/145636
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2025 - الموضوع -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+NS32F
+
+Il est permis d'utiliser la calculatrice non programmable.
+
+## Partie I : Restitution des connaissances (5 points)
+
+Répondez sur votre feuille de rédaction aux questions suivantes :
+
+I. Citez deux différences entre : (1 pt)
+a – Le granite intrusif et le granite d'anatexie.
+b – La lithosphère océanique et la lithosphère continentale.
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule suggestion correcte. Recopiez les couples (1 ; …) – (2 ; …) – (3 ; …) – (4 ; …) et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1 – Le refroidissement du magma en surface dans les zones de subduction entraîne la formation :
+a – de l'andésite à structure grenue.
+b – du granite à structure grenue.
+c – de l'andésite à structure microlitique.
+d – du granite à structure microlitique.
+
+2 – Le métamorphisme qui caractérise les zones de collision résulte d'une :
+a – basse pression et d'une basse température.
+b – haute pression et d'une basse température.
+c – basse pression et d'une haute température.
+d – haute pression et d'une haute température.
+
+3 – La migmatite [extraction « magnatite », sic] est une roche intermédiaire entre :
+a – le gneiss et le granite.
+b – le granite et le basalte.
+c – le gneiss et le schiste.
+d – le schiste et le micaschiste.
+
+4 – Le magma andésitique se forme suite à une fusion partielle d'une roche nommée :
+a – le gabbro.
+b – la péridotite.
+c – le granite.
+d – le basalte.
+
+III. Recopiez sur votre feuille de rédaction la lettre correspondante à chaque proposition parmi les propositions suivantes, puis écrivez devant chaque lettre « Vrai » ou « Faux ». (1 pt)
+
+a – Les chaînes d'obduction résultent du chevauchement d'une lithosphère océanique sur une lithosphère continentale.
+b – Le granite d'anatexie se forme par fusion partielle des roches métamorphiques en profondeur.
+c – Les roches métamorphiques conservent toujours la même composition minéralogique que leur roche mère.
+d – Lors de la subduction, la lithosphère océanique subit un métamorphisme dynamique.
+
+IV. Le document ci-contre représente un schéma simplifié d'une structure tectonique caractérisant certaines chaînes de montagnes. Sur votre feuille de rédaction, donnez le nom de cette structure et les noms des éléments numérotés 1, 2 et 3. (1 pt)
+
+[Figure — schéma simplifié d'une nappe de charriage : 1, 2, 3.]
+
+## Partie II : Raisonnement scientifique et communication écrite et graphique (15 points)
+
+### Exercice 1 (3 points)
+
+La sarcopénie ou dystrophie musculaire liée à l'âge est caractérisée par la diminution progressive de la masse musculaire (dégénérescence musculaire) et la faiblesse musculaire. Elle apparaît chez les personnes âgées limitant ainsi leur mobilité. Des recherches récentes ont montré qu'on peut traiter ces symptômes par une hormone protéique appelée l'apéline. Pour expliquer l'effet de cette hormone sur le muscle, on propose les données suivantes :
+
+• Donnée 1 : On a réalisé des expériences au laboratoire lors d'une étude chez deux lots de souris âgées :
+- Lot 1 : souris âgées injectées par l'apéline ;
+- Lot 2 : souris âgées non injectées par l'apéline.
+Le document 1 présente le nombre de mitochondries au niveau de la fibre musculaire chez les deux lots de souris.
+
+[Figure — Document 1 : nombre de mitochondries par fibre musculaire : lot 1 (injectées) ≈ 100 UA ; lot 2 (non injectées) ≈ 60 UA. Valeurs d'après le corrigé officiel.]
+
+1. En vous basant sur le document 1 : (0,5 pt)
+a. Comparez le nombre de mitochondries dans la fibre musculaire chez les deux lots de souris.
+b. Montrez la relation entre l'injection de l'apéline et le nombre de mitochondries dans la fibre musculaire.
+
+• Donnée 2 : Pour étudier les effets de l'apéline sur le muscle, des chercheurs ont injecté cette hormone à des souris âgées pendant plusieurs jours et ils ont déterminé son action sur les enzymes du cycle de Krebs et de la membrane interne mitochondriale, ainsi que sur la consommation d'O2 et la production d'ATP. Le document 2 présente les résultats obtenus avant et après l'injection. Le document 3 présente les sites d'action de l'apéline au niveau mitochondrial.
+
+Document 2 :
+
+|  | Souris âgées avant l'injection | Souris âgées après l'injection |
+|---|---|---|
+| Activité de l'enzyme Citrate Synthase (Cs) | + | +++ |
+| Activité du complexe II | + | +++ |
+| Activité du complexe V | + | +++ |
+| Consommation d'O2 (p.mol/s.mg) | 0,18 | 0,28 |
+| Production d'ATP | + | +++ |
+
++ : Faible ; +++ : Forte
+
+[Figure — Document 3 : mitochondrie : I, Q, II, III, Cyt c, IV : complexes protéiques de la chaîne respiratoire ; V : complexe enzymatique ATP-synthase ; ①, ② et ③ : sites d'action de l'apéline.]
+
+2. En vous basant sur les documents 2 et 3, expliquez l'effet de l'apéline sur la consommation de dioxygène et la production de l'ATP chez les souris âgées après l'injection par l'apéline. (0,75 pt)
+
+• Donnée 3 : La faiblesse musculaire est liée à la quantité de myosine musculaire. Le document 4 présente la quantité de la myosine et la force de la contraction des muscles des souris âgées avant et après l'injection de l'apéline.
+
+Document 4 :
+
+|  | Souris âgées avant l'injection de l'apéline | Souris âgées après l'injection de l'apéline |
+|---|---|---|
+| Quantité de la myosine dans le muscle (UA) | 35 | 90 |
+| Force de la contraction musculaire (UA) | 0,8 | 1 |
+
+3. En vous basant sur les données du document 4, comparez les résultats obtenus chez les souris âgées avant et après l'injection de l'apéline, puis déduisez l'effet de l'apéline sur la force de la contraction musculaire. (1 pt)
+
+4. En vous basant sur les données précédentes, montrez les rôles de l'apéline dans le traitement de la sarcopénie. (0,75 pt)
+
+### Exercice 2 (6 points)
+
+La maladie de Walker-Warburg est une forme de dystrophie musculaire congénitale d'origine génétique. Elle se caractérise par une faiblesse musculaire, un retard du développement psychomoteur, une atteinte oculaire et des convulsions.
+
+Pour comprendre l'origine génétique de cette maladie et son mode de transmission, on propose les données suivantes :
+
+• Donnée 1 : La maladie de Walker-Warburg est associée à une protéine de la membrane des cellules musculaires appelée la dystroglycane, impliquée dans la fixation des filaments d'actine aux fibres de collagène situées dans le milieu extracellulaire, afin d'assurer une contraction musculaire normale. Le document 1 présente la quantité de la protéine dystroglycane active chez une personne saine et chez une personne atteinte du syndrome de Walker-Warburg. Le document 2 présente un schéma simplifié de la relation entre les fibres de collagène (milieu extracellulaire) et les filaments d'actine au niveau de la cellule musculaire chez une personne saine et chez une personne malade.
+
+Document 1 : activité de la protéine dystroglycane : personne saine 100 ; personne malade 71. [extraction « 100 | 71 » ; le corrigé retient 70 %]
+
+[Figure — Document 2 : schéma simplifié de la fixation des filaments d'actine aux fibres de collagène chez une personne saine et chez une personne malade.]
+
+1. En vous basant sur les documents 1 et 2, comparez l'activité de la protéine dystroglycane chez la personne saine et chez la personne malade, puis montrez la relation protéine – caractère héréditaire. (0,75 pt)
+
+• Donnée 2 : Les recherches ont montré que la synthèse de la protéine dystroglycane est contrôlée par un gène portant le nom DAG1. Le document 3 présente deux fragments de brins non transcrits de deux allèles du gène DAG1 : l'un chez une personne saine et l'autre chez une personne atteinte du syndrome de Walker-Warburg. Le document 4 présente le tableau du code génétique.
+
+Document 3 — Numéros des triplets : 1 à 9 : [séquences regroupées en triplets d'après les ARNm du corrigé officiel ; extraction brute incomplète]
+- Fragment de l'allèle chez une personne saine : GGC – CCG – GGA – AAT – GCA – AAA – AAG – GTG – GTG. Sens de lecture →
+- Fragment de l'allèle chez une personne atteinte : GGC – CCG – GGA – AAT – GAA – AAA – AGG – TGG – TG (délétion du 2e nucléotide C du triplet 5). Sens de lecture →
+
+Document 4 — Tableau du code génétique : UUU, UUC : Phe ; UUA, UUG : Leu ; UCU, UCC, UCA, UCG : Ser ; UAU, UAC : Tyr ; UAA, UAG, UGA : Stop ; UGU, UGC : Cys ; UGG : Trp ; CUU, CUC, CUA, CUG : Leu ; CCU, CCC, CCA, CCG : Pro ; CAU, CAC : His ; CAA, CAG : Gln ; CGU, CGC, CGA, CGG : Arg ; AUU, AUC, AUA : Ile ; AUG : Met ; ACU, ACC, ACA, ACG : Thr ; AAU, AAC : Asn ; AAA, AAG : Lys ; AGU, AGC : Ser ; AGA, AGG : Arg ; GUU, GUC, GUA, GUG : Val ; GCU, GCC, GCA, GCG : Ala ; GAU, GAC : Ac. asp ; GAA, GAG : Ac. glu ; GGU, GGC, GGA, GGG : Gly.
+
+2. En vous basant sur les documents 3 et 4, donnez les séquences d'ARNm et d'acides aminés correspondant à chacun des fragments des allèles DAG1 chez la personne saine et chez la personne malade, puis expliquez l'origine génétique du syndrome de Walker-Warburg. (1,75 pts)
+
+• Donnée 3 : Le document 5 présente l'arbre généalogique (pedigree) d'une famille dont certains membres sont touchés par le syndrome de Walker-Warburg.
+
+[Figure — Document 5, arbre généalogique : résumé d'après le corrigé officiel (couple I1 × I2 sains avec fille II3 atteinte ; individus III3 et III4 sains parents d'individus IV malades et du fœtus IV3).]
+
+3. En vous basant sur le document 5, montrez que l'allèle responsable de la maladie est récessif et porté par un chromosome non sexuel (autosome). (1 pt)
+
+4. En vous basant sur le document 5 : (1 pt)
+a. Donnez en justifiant la réponse, les génotypes des deux individus III3 et III4.
+NB : Utiliser les symboles M et m pour désigner les allèles du gène étudié.
+b. Déterminez la probabilité pour que le fœtus IV3 soit sain, justifiez votre réponse en vous aidant d'un échiquier de croisement.
+
+• Donnée 4 : Des études ont montré que la fréquence du syndrome de Walker-Warburg dans la population mondiale est de 1/100000.
+NB : Utiliser cinq (5) chiffres après la virgule.
+
+5. Sachant que cette population obéit à la loi de Hardy-Weinberg (population équilibrée) : (1,5 pts)
+a. Calculez la fréquence de l'allèle anormal (muté) et celle de l'allèle normal (sauvage).
+b. Calculez la fréquence des individus sains porteurs de l'allèle responsable de la maladie dans la population.
+
+### Exercice 3 (3 points)
+
+Chez les poulets, la crête peut avoir des couleurs et des formes différentes :
+- Forme simple ou rosacée (en forme de rose) ;
+- Couleur rouge ou rose.
+Pour déterminer le mode de transmission de ces deux caractères, on propose les croisements suivants :
+
+1er Croisement : on croise des individus à crête rosacée et des individus à crête simple, on obtient une descendance composée uniquement d'individus à crête rosacée.
+NB : le croisement inverse donne les mêmes résultats.
+
+1. Déterminez le mode de transmission du caractère relatif à la forme de la crête. (0,5 pt)
+Utilisez les symboles R et r pour représenter les allèles du gène responsable de la forme de la crête.
+
+2ème Croisement : on croise des individus à crête de couleur rose entre eux, on obtient une descendance composée de :
+- 2/3 individus à crête de couleur rose ;
+- 1/3 individus à crête de couleur rouge.
+
+2. En vous basant sur les résultats de ce 2ème croisement :
+a – Déterminez le mode de transmission du caractère relatif à la couleur de la crête. (0,5 pt)
+b – En vous aidant d'un échiquier de croisement, expliquez les résultats obtenus. (0,5 pt)
+NB : Utilisez les symboles A et a pour représenter les allèles du gène responsable de la couleur de la crête.
+
+3ème Croisement : on croise des individus à crête rosacée et de couleur rose avec des individus à crête simple et de couleur rouge, on obtient une génération F1 composée de :
+- 50 % d'individus à crête rosacée et de couleur rose ;
+- 50 % d'individus à crête rosacée et de couleur rouge.
+
+3. Donnez les génotypes possibles des parents de ce 3ème croisement. (0,5 pt)
+
+4ème Croisement : on croise des individus de la génération F1 : l'un à crête rosacée et de couleur rose et l'autre à crête rosacée et de couleur rouge.
+
+4. Considérant que les deux gènes sont indépendants et en vous aidant d'un échiquier de croisement, donnez les résultats attendus après ce 4ème croisement. (1 pt)
+
+### Exercice 4 (3 points)
+
+La listériose est une maladie grave causée par la bactérie Listeria monocytogenes. Cette bactérie se propage et prolifère dans l'organisme, causant des infections comme des méningites et des infections du cerveau. Au cours de l'infection, Listeria monocytogenes produit des substances qui lui permettent de se multiplier à l'intérieur de nombreuses cellules de l'organisme, d'où elle est qualifiée de bactérie endogène (document 1). Afin d'élucider certains aspects de la réponse immunitaire dirigée contre Listeria, on propose les données suivantes :
+
+[Figure — Document 1 : Listeria monocytogenes, bactérie endogène se multipliant à l'intérieur des cellules de l'organisme.]
+
+• Donnée 1 : In vitro, des macrophages sont isolés à partir de souris, qui n'ont pas été préalablement infectées par Listeria monocytogenes (souris naïves). Ces macrophages sont ensuite répartis dans deux tubes à essai :
+- Tube 1 : contient les macrophages et la bactérie Listeria monocytogenes.
+- Tube 2 : contient les macrophages et la bactérie Listeria monocytogenes ainsi que des interleukines sécrétées par les lymphocytes T4 spécifiques à cette bactérie.
+On suit le pourcentage de la destruction des bactéries en fonction du temps. Le document 2 présente les résultats obtenus.
+
+Document 2 — Pourcentage de destruction de Listeria in vitro :
+
+| Jours | Tube 2 (%) | Tube 1 (%) |
+|---|---|---|
+| 0 | 0 | 0 |
+| 1 | 40 | 10 |
+| 2 | 80 | 14 |
+| 3 | 87 | 16 |
+| 4 | 90 | 16 |
+| 5 | 92 | 17 |
+| 6 | 93 | 19 |
+
+1. En vous basant sur le document 2, comparez le pourcentage de destruction de Listeria dans les deux tubes, puis déduisez la condition nécessaire à la destruction de cette bactérie par les macrophages. (1 pt)
+
+• Donnée 2 : Parfois Listeria monocytogenes échappe à la phagocytose et se retrouve dans le cytoplasme des cellules hôtes (document 1), dans ce cas le système immunitaire met en œuvre un autre mécanisme pour lutter contre les cellules infectées par Listeria.
+Pour étudier ce mécanisme, on a réalisé une expérience sur deux lots de souris :
+- Lot 1 : souris injectées par une dose non mortelle de la bactérie Listeria monocytogenes.
+- Lot 2 : souris non injectées par la bactérie Listeria monocytogenes.
+Le document 3 présente les étapes de l'expérience réalisée (figure a) et les résultats obtenus (figure b).
+
+[Figure — Document 3 : figure a : étapes de l'expérience (mise en culture de cellules infectées avec des lymphocytes des deux lots) ; figure b : milieu 1 : taux de cellules infectées de 100 % à 0 % vers le 4ème jour ; milieu 2 : taux de cellules infectées ≈ 100 % constant. Détail d'après le corrigé officiel.]
+
+2. À partir des données du document 3 : (1 pt)
+a. Décrivez la variation du taux de cellules infectées par Listeria, puis déterminez la condition nécessaire à la destruction des cellules infectées.
+b. Déduisez la nature de la réponse immunitaire dirigée contre Listeria.
+
+Le document 4 présente un schéma montrant le mécanisme de la destruction des cellules cibles infectées par la bactérie.
+
+[Figure — Document 4 : schéma du mécanisme de destruction des cellules cibles infectées par les lymphocytes T cytotoxiques (présentation CMH, perforines, granzymes).]
+
+3. En vous basant sur le document 4, expliquez le mécanisme par lequel les lymphocytes T spécifiques détruisent les cellules infectées par Listeria. (1 pt)
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Partie I, question II.3 : « magnatite » [sic, lire migmatite].
+- Exercice 1, document 1 : valeurs (100 UA vs 60 UA) d'après le corrigé officiel.
+- Exercice 2, document 1 : extraction « 100 | 71 » ; le corrigé retient 70 %.
+- Exercice 2, document 3 : extraction brute incomplète (« GGCCCGGAAATGCAAAAAGGTGGTG » / « GGCCCGGAAATGAAAAAAGGTGGTG ») ; séquences regroupées en triplets d'après les ARNm du corrigé officiel.
+- Exercice 2, document 5 : arbre généalogique non extrait en détail ; résumé d'après le corrigé officiel.
+- Exercice 4, document 3 : figures a/b non extraites en détail ; résumé d'après le corrigé officiel.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].

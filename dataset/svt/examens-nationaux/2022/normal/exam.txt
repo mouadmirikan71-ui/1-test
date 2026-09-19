@@ -1,0 +1,239 @@
+---
+Matière: SVT
+Filière: Sciences de la Vie et de la Terre (2BAC SVT — BIOF)
+Chapitre: Examens Nationaux
+Sujet: 2022 - Session Normale - Sujet
+Type: Sujet
+Source: https://www.alloschool.com/assets/documents/course-398/examen-national-svt-2eme-bac-svt-2022-normale-sujet.pdf
+Element: https://www.alloschool.com/element/138541
+---
+
+المركز الوطني للتقويم والامتحانات والتوجيه
+الامتحان الوطني الموحد للبكالوريا
+الدورة العادية 2022 - الموضوع -
+المادة: علوم الحياة والأرض — الشعبة: العلوم التجريبية — المسلك: مسلك علوم الحياة والأرض (خيار فرنسية) — المسالك الدولية
+مدة الإنجاز: 3h — المعامل: 7
+NS32F
+
+Il est permis d'utiliser la calculatrice non programmable.
+
+## Première partie : Restitution des connaissances (5 pts)
+
+I. Répondez sur votre feuille de rédaction aux questions suivantes :
+1 – Définissez : Chaîne respiratoire – Rendement énergétique. (1 pt)
+2 – Citez deux voies métaboliques de régénération d'ATP dans la cellule musculaire et donnez l'équation globale de chacune d'elles. (1 pt)
+
+II. Pour chacune des données numérotées de 1 à 4, il y a une seule proposition correcte. Recopiez, sur votre feuille de rédaction, les couples (1, …) ; (2, …) ; (3, …) ; (4, …), et adressez à chaque numéro la lettre qui correspond à la suggestion correcte. (2 pts)
+
+1 – Dans la mitochondrie :
+a. la sphère pédonculée transporte H+ vers l'espace intermembranaire ;
+b. la sphère pédonculée est responsable de la phosphorylation de l'ADP ;
+c. la membrane externe contient des protéines qui transportent les électrons vers le dioxygène ;
+d. la membrane externe contient des enzymes d'oxydoréduction.
+
+2 – La réduction de NAD+ en NADH, H+ se fait au cours :
+a. de la glycolyse et du cycle de Krebs ;
+b. de la glycolyse et des réactions de la chaîne respiratoire ;
+c. du cycle de Krebs et des réactions de la chaîne respiratoire ;
+d. des réactions de la chaîne respiratoire et de la phosphorylation de l'ADP.
+
+3 – L'ultrastructure du sarcomère montre que :
+a. la bande sombre est limitée par deux stries Z ;
+b. la bande sombre est limitée par deux bandes H ;
+c. le sarcomère est limité par deux stries Z ;
+d. le sarcomère est limité par deux bandes H.
+
+4 – Les filaments fins de la myofibrille sont formés :
+a. d'actine, de myosine et de troponine ;
+b. d'actine, de myosine et de tropomyosine ;
+c. d'actine, de troponine et de tropomyosine ;
+d. de myosine, de troponine et de tropomyosine.
+
+III. Recopiez, sur votre feuille de rédaction, les couples (1, …) ; (2, …) ; (3, …) ; (4, …) et adressez à chacun des quatre numéros de l'ensemble 1 la lettre qui lui correspond parmi les cinq actions proposées de l'ensemble 2. (1 pt)
+
+| Ensemble 1 : Éléments chimiques | Ensemble 2 : Actions |
+|---|---|
+| 1. Dioxygène | a. se fixe sur la troponine. |
+| 2. Ca2+ | b. se fixe sur la tête de myosine. |
+| 3. NADH, H+ | c. accepteur final des électrons. |
+| 4. ATP | d. hydrolyse l'ATP. |
+|  | e. transporteur d'hydrogène. |
+
+## Deuxième partie : Raisonnement scientifique et communication écrite et graphique (15 pts)
+
+### Exercice 1 (4,5 pts)
+
+L'anémie de Blackfan-Diamond est une maladie héréditaire rare, caractérisée particulièrement par un manque important en globules rouges et en hémoglobine contenue dans ces cellules. Elle est caractérisée aussi par une faiblesse musculaire et des problèmes cardiaques et respiratoires. Afin de déterminer l'origine génétique de cette maladie et son mode de transmission, on propose les données suivantes :
+
+• Donnée 1 : On mesure la quantité des grandes sous-unités et celle des petites sous-unités des ribosomes chez un individu sain et chez un individu malade. La figure (a) du document 1 donne les résultats obtenus. La figure (b) montre l'intervention des ribosomes au cours de la synthèse de l'hémoglobine au niveau des cellules précurseurs des globules rouges chez un individu sain et chez un individu malade.
+
+[Figure — Document 1 : figure (a) : quantités des sous-unités ribosomiques, individu sain : grandes = petites = 46 UA ; individu malade : petites = 23 UA, grandes = 46 UA — valeurs d'après le corrigé officiel. Figure (b) : ARNm de l'hémoglobine + petites et grandes sous-unités : quantité normale d'hémoglobine (sain) vs quantité faible (malade).]
+
+1. En vous basant sur la figure (a) du document 1, comparez la quantité des petites sous-unités à celle des grandes sous-unités des ribosomes chez l'individu sain puis chez l'individu malade. Expliquez, à partir de la figure (b), le manque en hémoglobine observé chez l'individu malade. (1 pt)
+
+• Donnée 2 : Les analyses ont montré que les cellules précurseurs des globules rouges, chez les personnes malades, présentent un déficit dans la production de la protéine RSP19 nécessaire à la formation des petites sous-unités ribosomiques. Les chercheurs ont identifié le gène codant pour cette protéine. Le document 2 présente un fragment du brin non transcrit de l'allèle normal et un autre de l'allèle anormal responsable de la maladie. Le document 3 présente un extrait du code génétique.
+
+Document 2 — Numéros des triplets : 11 à 20 [numérotation reconstituée : le corrigé officiel désigne les triplets n° 15 et n° 18] :
+
+|  | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Fragment non transcrit de l'allèle normal | CAG | CAG | GAG | TTC | GTC | AGA | GCC | CTA | AGA | AGA |
+| Fragment non transcrit de l'allèle anormal | CAG | CAG | GAG | TTC | TTC | AGA | GCC | CGA | AGA | AGA |
+
+Sens de lecture →
+
+Document 3 :
+
+| Codons | CGA, AGA | AUA, AUU | CAA, CAG | CUU, CUA | GCU, GCC | GUU, GUC | GAA, GAG | UUU, UUC |
+|---|---|---|---|---|---|---|---|---|
+| Acides aminés | Arg | Ile | Gln | Leu | Ala | Val | Ac. glu | Phe |
+
+2. En vous basant sur les documents 2 et 3, donnez les séquences d'ARNm et des acides aminés correspondant à l'allèle normal et à l'allèle anormal, puis montrez la relation gène-protéine-caractère. (1,5 pt)
+
+• Donnée 3 : Le document 4 présente l'arbre généalogique d'une famille dont certains membres sont atteints de la maladie de Blackfan-Diamond.
+
+[Figure — Document 4, arbre généalogique : génération I (1 à 4) ; génération II (1 à 7) ; génération III (1 à 5) ; légende : Homme sain, Femme saine, Homme malade, Femme malade. Arbre non extrait en détail.]
+
+3.
+a. Sachant que les individus I2, II2 et II6 sont homozygotes, montrez le mode de transmission de cette maladie. (1 pt)
+b. En vous aidant d'un échiquier de croisement, calculez la probabilité pour que le couple (II5 et II6) donne naissance à un enfant sain. (1 pt)
+(Utilisez les symboles B et b pour désigner les allèles du gène étudié.)
+
+### Exercice 2 (4,5 pts)
+
+Dans le cadre de l'étude de la transmission de certains caractères héréditaires et de l'influence de certains facteurs de variation sur la structure génétique à l'échelle de la population chez la drosophile, on propose les données suivantes :
+
+• Donnée 1 : afin d'étudier le mode de transmission de deux caractères héréditaires relatifs à la taille des ailes et à la couleur du corps chez la drosophile, on dispose de trois lignées : la lignée A et la lignée B aux ailes longues (vg+) et à corps clair (b+) et la lignée C aux ailes vestigiales (vg) et corps noir (b). On réalise deux croisements.
+
+✓ Croisement 1 : entre des individus de la lignée A et des individus de la lignée C. La génération obtenue est constituée de drosophiles qui ont toutes des ailes longues et un corps clair.
+
+Le document 1 présente la position relative de ces deux gènes (loci) de la drosophile, sur le chromosome 2.
+
+[Figure — Document 1 : Chromosome 2 : locus couleur du corps (Noir/Clair) en position 48 ; locus taille des ailes (Longue/Vestigiale) en position 67 ; distance entre les gènes : 19 cM.]
+
+1. En exploitant les résultats du croisement 1 et les données du document 1, déterminez le mode de transmission des deux caractères étudiés. (0,75 pt)
+
+✓ Croisement 2 : entre des individus de la lignée B et des individus de la lignée C. La génération obtenue est constituée de :
+• deux phénotypes parentaux :
+- drosophiles aux ailes longues et à corps clair.
+- drosophiles aux ailes vestigiales et à corps noir.
+• deux phénotypes recombinés :
+- drosophiles aux ailes longues et à corps noir.
+- drosophiles aux ailes vestigiales et à corps clair.
+
+2. En vous basant sur les résultats des deux croisements et sur les données du document 1, donnez les génotypes des trois lignées A, B et C. Justifiez votre réponse. (1 pt)
+
+NB : Utilisez les symboles (vg+, vg) pour les allèles du gène responsable de la forme des ailes et (b+, b) pour les allèles du gène responsable de la couleur du corps.
+
+3. En vous basant sur le document 1 et à l'aide d'un échiquier de croisement, donnez l'interprétation chromosomique du deuxième croisement (lignée B x lignée C) en déterminant les pourcentages attendus des gamètes et des différents phénotypes. (1,25 pt)
+
+• Donnée 2 : Pour étudier l'effet de certains facteurs sur la structure génétique d'une population de drosophiles, on propose l'expérience suivante :
+
+Dans une enceinte d'élevage de drosophiles (document 2), on place une source suspendue de nourriture, puis on met une population composée de 20 % d'individus aux ailes longues (phénotype sauvage) et 80 % d'individus aux ailes vestigiales, c'est-à-dire de très petite taille (phénotype mutant). Au fil des générations, on a compté périodiquement le nombre de drosophiles portant le phénotype « ailes vestigiales ». Le document 3 présente les résultats obtenus.
+
+[Figure — Document 2 : enceinte d'élevage (Axe, Nourriture, Support suspendu).]
+
+Document 3 :
+
+| Générations | Fréquence du phénotype « ailes vestigiales » |
+|---|---|
+| 5 | 0,38 |
+| 10 | 0,29 |
+| 15 | 0,24 |
+| 20 | 0,20 |
+| 25 | 0,17 |
+| 30 | 0,14 |
+| 35 | 0,12 |
+| 40 | 0,11 |
+| 45 | 0,09 |
+| 50 | 0,09 |
+
+4. Décrivez l'évolution de la fréquence du phénotype « ailes vestigiales » au fil des générations (document 3). (0,25 pt)
+
+5. En exploitant les données de l'expérience, expliquez la variation de la fréquence du phénotype « ailes vestigiales » au fil des générations chez cette population de drosophiles. Déduisez le facteur responsable de la variation des fréquences phénotypiques observée. (1,25 pt)
+
+### Exercice 3 (3 pts)
+
+La grippe est une maladie infectieuse causée par le virus « Influenza » qui touche essentiellement les voies respiratoires supérieures. Dans le but de comprendre quelques caractéristiques des réponses immunitaires contre l'infection virale, on propose les données suivantes :
+
+● Donnée 1 : Le graphique du document 1 présente la quantité de virus dans le sang, la quantité des anticorps et des lymphocytes T cytotoxiques après contamination par le virus de la grippe.
+
+Document 1 :
+
+| Jours après l'infection virale | Virus (UA) | Lymphocytes T cytotoxiques (UA) | Anticorps (UA) |
+|---|---|---|---|
+| 0 | 0 | 0 | 0 |
+| 1 | 1,2 | — | — |
+| 2 | 2,7 | — | — |
+| 3 | 3,9 | 0,3 | — |
+| 4 | 4,3 | 1,0 | — |
+| 5 | 4,4 | 2,1 | — |
+| 6 | 4,3 | 3,2 | — |
+| 7 | 3,9 | 5,0 | — |
+| 8 | 3,0 | 4,1 | — |
+| 9 | 2,0 | 5,1 | — |
+| 10 | 1,0 | 5,7 | — |
+| 11 | 0,4 | 5,0 | — |
+| 12 | 0,1 | 3,5 | — |
+
+[Colonne des anticorps et valeurs manquantes non extraites ; le corrigé officiel décrit : anticorps dès le 5ème jour, maximum 5,5 UA.]
+
+1. En vous basant sur le document 1, décrivez les variations observées suite à la contamination par le virus de la grippe puis déduisez la nature de la réponse immunitaire mise en évidence contre ce virus. (1 pt)
+
+● Donnée 2 : l'hémagglutinine est une protéine présente à la surface du virus de la grippe. Cette protéine lui permet de se fixer à un récepteur situé sur la cellule cible et ainsi de l'infecter.
+
+Afin de déterminer l'action des anticorps anti-hémagglutinine contre l'infection par le virus de la grippe, on propose les données du document 2.
+
+[Figure — Document 2 : Virus de la grippe (protéine d'hémagglutinine) + Anticorps anti-hémagglutinine → Interaction impossible avec le récepteur spécifique de la cellule cible.]
+
+2. En exploitant les données du document 2, expliquez le mode d'action des anticorps contre le virus de la grippe. (0,5 pt)
+
+● Donnée 3 : les lymphocytes T cytotoxiques (Tc) jouent un rôle primordial dans la lutte contre les virus. Afin de comprendre ce rôle, on réalise l'expérience suivante : on cultive des cellules dermiques (de la peau) de souris saines ainsi que d'autres infectées par un virus (virus A ou virus B) dans des milieux de culture convenables, puis on les soumet à différentes conditions expérimentales. Le tableau du document 3 présente les conditions expérimentales et les résultats obtenus.
+
+Le document 4 montre le mode d'action des lymphocytes Tc vis-à-vis des cellules infectées.
+
+Document 3 :
+
+| Origine des Tc ajoutées | Cellule dermique saine | Cellule dermique infectée par le virus A (Peptide issu du virus A) | Cellule dermique infectée par le virus B (Peptide issu du virus B) |
+|---|---|---|---|
+| Tc provenant d'une souris saine | Pas de lyse des cellules dermiques | Pas de lyse des cellules dermiques | Pas de lyse des cellules dermiques |
+| Tc provenant d'une souris infectée par le virus A, 24 h auparavant | Pas de lyse des cellules dermiques | Lyse des cellules dermiques | Pas de lyse des cellules dermiques |
+
+[Figure — Document 4 : Lymphocyte T cytotoxique (Récepteur T, Vésicule, Perforine, Granzyme) + cellule cible (Antigène, Molécule CMHI, Pore de perforine) → Mort de la cellule cible (Apoptose).]
+
+3.
+a. En exploitant les résultats du document 3, dégagez les conditions de lyse des cellules dermiques par les Tc. (0,75 pt)
+b. À partir des données du document 4, expliquez comment les lymphocytes T cytotoxiques (Tc) interviennent dans l'élimination des cellules infectées par le virus. (0,75 pt)
+
+### Exercice 4 (3 pts)
+
+Au niveau des zones de subduction, on constate un magmatisme intense accompagné d'un volcanisme important. On admet actuellement que ce magmatisme a pour origine une fusion partielle des péridotites du manteau.
+
+Le document 1 montre quelques caractéristiques d'une zone de subduction et la localisation des magmas.
+
+[Figure — Document 1 : Fosse océanique, Volcans, Croûte continentale, Prisme d'accrétion, Lithosphère continentale, Lithosphère océanique, Croûte océanique ; Isothermes 500 °C, 750 °C, 1000 °C ; H2O ; Zone de fusion partielle ; Profondeur en km (0, 100).]
+
+1. À partir du document 1, dégagez quatre caractéristiques de la zone de subduction. (1 pt)
+
+Le document 2 présente les résultats expérimentaux de la fusion partielle de la péridotite en fonction des conditions de température et de pression, dans deux cas :
+• ① péridotite non hydratée.
+• ② péridotite hydratée.
+
+[Figure — Document 2 : Température (1000, 2000 °C) ; Pression (2,5 ; 5 ; 7,5 GPa) ; Profondeur (80, 160, 240 km) ; domaines SOLIDE, LIQUIDE, SOLIDE + LIQUIDE ; Liquidus ; ① Solidus de la péridotite non hydratée ; ② Solidus de la péridotite hydratée ; ③ Géotherme de la zone de subduction ; Zone de fusion partielle. Courbes non extraites.]
+
+2. En vous basant sur le document 2, dégagez les conditions nécessaires à la fusion partielle de la péridotite. (1 pt)
+
+3. En exploitant les données du document 1, montrez que ces conditions se réalisent dans la zone de subduction. (1 pt)
+
+Fin
+
+FIN
+
+---
+
+NOTES DE TRANSCRIPTION :
+- Exercice 1, document 2 : numérotation des triplets (11 à 20) reconstituée d'après le corrigé officiel (triplets n° 15 et n° 18).
+- Exercice 1, document 4 : arbre généalogique non extrait en détail ; résumé d'après le corrigé officiel (couple II5 × II6 ; individus I2, II2, II6 homozygotes).
+- Exercice 2, document 1 : distance entre les gènes (19 cM) calculée d'après les positions 48 et 67.
+- Exercice 3, document 1 : colonne des anticorps et valeurs manquantes non extraites (voir note) ; valeur LTc du jour 8 (4,1) transcrite telle qu'extraite.
+- Les schémas et figures du PDF original sont décrits entre crochets [Figure — …].
