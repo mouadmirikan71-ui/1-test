@@ -67,13 +67,17 @@ Listeria ; 2024R: myopathie RyR1, Miyoshi/DYSF, linkage souris, THC…).
 
 ## 2026 status
 
-As of 2026-09-19 the 2026 SVT-BIOF papers are **not yet published on
-AlloSchool** (`section/5191` still ends at 2025R; predictable
-`…-2026-normale-*.pdf` URLs return *File Not Found*). The June-2026 Normale
-paper is announced with « عناصر الاجابة » on svtsciences.com, but the page is
-JS-rendered and its download links are not machine-extractable. When the PDFs
-become available: drop transcriptions into `2026/{normal,rattrapage}/`,
-rebuild PDFs + manifest, done.
+As of 2026-09-19 the 2026 SVT-track papers are **not machine-obtainable**:
+`section/5191` still ends at 2025R, AlloSchool site search returns nothing for
+2026, predictable `…-2026-normale-*.pdf` URLs return *File Not Found*,
+talamidi/moutamadris/baclibre top out at ≤2025, 9rayti's section is empty,
+kezakoo is login-walled, CNEE (cnee.men.gov.ma) is unreachable, and the
+Wayback Machine has no snapshot. The June-2026 Normale paper does circulate
+(svtsciences.com advertises it with « عناصر الاجابة », but the page is
+JS-rendered with non-extractable links; a YouTube video shows the scanned
+booklet, but for the PC track, not SVT). When the SVT PDFs become available:
+drop transcriptions into `2026/{normal,rattrapage}/`, rebuild PDFs +
+manifest, done.
 
 ## Validation
 
