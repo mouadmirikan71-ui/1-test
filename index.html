@@ -388,12 +388,12 @@ body::before{
 /* long messages (AI status/errors) must not overflow the phone shell.
    Short toasts render exactly as before: still one centred line. */
 /*
- * The base .toast rule is left untouched. The AI messages are much longer than
- * the original toasts (up to ~94 chars) and the base rule sets
- * `white-space:nowrap`, which would push them off a phone screen. Scoped to
- * #toast on purpose so it never reads as a redefinition of .toast.
+ * The base .toast rule is left completely untouched. AI messages run up to ~94
+ * chars and the base rule's `white-space:nowrap` would push them off a phone
+ * screen, so they opt in to wrapping via .wrap — applied by showToast() only
+ * when the text is actually long. Short pre-existing toasts are unaffected.
  */
-#toast{max-width:calc(100% - 32px);white-space:normal;text-align:center;line-height:1.35}
+#toast.wrap{max-width:calc(100% - 32px);white-space:normal;text-align:center;line-height:1.35}
 
 /* ============ AI ASSISTANT (additive — existing tokens only, no redesign) ============ */
 
@@ -932,6 +932,9 @@ body::before{
   let toastT;
   function showToast(msg){
     toast.textContent = msg;
+    /* Long AI messages must wrap; short pre-existing toasts must look exactly
+       as they did before, so the wrapping style is opt-in per message. */
+    toast.classList.toggle('wrap', String(msg).length > 42);
     toast.classList.add('show');
     clearTimeout(toastT);
     toastT = setTimeout(()=>toast.classList.remove('show'), 1900);

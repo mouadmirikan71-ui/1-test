@@ -556,3 +556,30 @@ test('DESIGN: the pre-existing 2BAC badge keeps its original gradient styling', 
   assert.ok(/class="keypill" id="keyStatus"/.test(html),
     'the key status pill must not reuse the .pill class');
 });
+
+test('DESIGN: only long messages opt into toast wrapping', async () => {
+  const app = await bootApp({ fallback: { stream: ['ok'] } });
+  try {
+    const toast = app.el('toast');
+
+    // a short pre-existing toast (New Chat) keeps its original one-line styling
+    app.el('newChatBtn').click();
+    await settle(200);
+    assert.ok(toast.textContent.includes('Nouvelle discussion'), 'toast did not fire');
+    assert.equal(toast.classList.contains('wrap'), false,
+      'a short toast must not be restyled — pre-existing UI must be untouched');
+
+    // an invalid key produces a 74-char message that must be allowed to wrap
+    app.el('apiKeyInput').value = 'nope';
+    app.el('saveKeyBtn').click();
+    await settle(300);
+    assert.ok(toast.textContent.length > 42, 'expected a long message, got: ' + toast.textContent);
+    assert.equal(toast.classList.contains('wrap'), true,
+      'a long message must wrap instead of running off a phone screen');
+
+    // and it must switch back rather than stick
+    app.el('newChatBtn').click();
+    await settle(200);
+    assert.equal(toast.classList.contains('wrap'), false, 'wrap class must not persist');
+  } finally { await app.close(); }
+});
