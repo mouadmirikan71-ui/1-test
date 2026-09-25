@@ -44,7 +44,7 @@ index.html ──► window.BackeyAI  (lib/ai-core.js)  ──► POST /api/chat
 | `index.html` | UI only. Renders messages, owns the transcript, calls the service layer. |
 | `lib/ai-core.js` | **The AI provider/service layer.** The only code that knows the Gemini protocol: endpoints, auth, request/response shapes, streaming, retry policy, model fallback, error classification, Markdown rendering. Shared by the browser *and* the server (UMD, zero deps). |
 | `server.mjs` | Secure backend proxy. Holds the key, relays tokens over SSE, enforces limits, redacts logs. Zero deps. |
-| `test/` | 57 tests, including a protocol-faithful Gemini stand-in and a small DOM shim that runs the real UI code. |
+| `test/` | The suite, including a protocol-faithful Gemini stand-in and a small DOM shim that runs the real UI code. |
 
 The chat UI never talks to Gemini directly. Two transports exist in the service layer:
 
@@ -278,7 +278,7 @@ generic "Une erreur est survenue." message.
 ## Tests
 
 ```bash
-npm test        # 86 tests
+npm test
 ```
 
 The suite runs the **real** `lib/ai-core.js`, `server.mjs` and the real inline script
