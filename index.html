@@ -385,6 +385,137 @@ body::before{
   opacity:0;pointer-events:none;transition:.3s;white-space:nowrap
 }
 .toast.show{opacity:1;transform:translate(-50%,0)}
+/* long messages (AI status/errors) must not overflow the phone shell.
+   Short toasts render exactly as before: still one centred line. */
+.toast{max-width:calc(100% - 32px);white-space:normal;text-align:center;line-height:1.35}
+
+/* ============ AI ASSISTANT (additive — existing tokens only, no redesign) ============ */
+
+/* --- markdown inside bot bubbles --- */
+.msg.bot .bubble p{margin:0}
+.msg.bot .bubble p + p{margin-top:7px}
+.msg.bot .bubble .md-h{font-weight:700;font-size:13.6px;letter-spacing:-.2px}
+.msg.bot .bubble .md-list{margin:5px 0;padding-left:17px}
+.msg.bot .bubble .md-list li{margin:2px 0}
+.msg.bot .bubble .md-list li::marker{color:var(--muted)}
+.msg.bot .bubble .md-q{border-left:2.5px solid var(--ring-track);padding-left:9px;color:var(--muted)}
+.msg.bot .bubble .md-hr{border:none;border-top:1px solid var(--border);margin:8px 0}
+.msg.bot .bubble a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+.msg.bot .bubble code.md-i{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12.2px;
+  background:var(--chip);padding:1px 5px;border-radius:6px
+}
+.msg.bot .bubble .md-code{
+  margin:7px 0;border-radius:12px;overflow:hidden;background:var(--board);
+  border:1px solid var(--nav-border)
+}
+.msg.bot .bubble .md-code .md-lang{
+  display:block;padding:5px 10px;font-size:9.5px;font-weight:600;letter-spacing:.4px;
+  text-transform:uppercase;color:#a9abbd;background:var(--board-2);border-bottom:1px solid rgba(255,255,255,.07)
+}
+.msg.bot .bubble .md-code pre{margin:0;padding:10px 11px;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.msg.bot .bubble .md-code code{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:11.8px;line-height:1.6;
+  color:#e8e9f2;white-space:pre;background:none;padding:0
+}
+/* streaming caret */
+.caret{display:inline-block;width:6px;height:13px;margin-left:2px;border-radius:2px;
+  background:var(--muted);vertical-align:-2px;animation:bl 1s infinite}
+
+/* --- per-message actions (copy / regenerate) --- */
+.msg-actions{display:flex;align-items:center;gap:2px;margin-top:2px;margin-left:-4px}
+.act-btn{
+  background:none;border:none;padding:3px 4px;border-radius:8px;cursor:pointer;
+  color:var(--muted);display:grid;place-items:center;transition:color .18s,background .18s;
+  font-family:inherit
+}
+.act-btn svg{width:14px;height:14px}
+.act-btn:active{background:var(--chip);color:var(--text)}
+.act-btn.on{color:#14b8a6}
+
+/* --- error bubble + retry --- */
+.bubble.err{border-color:rgba(239,68,68,.28);background:rgba(239,68,68,.07);color:var(--bot-text)}
+.retry-btn{
+  margin-top:8px;display:inline-flex;align-items:center;gap:6px;
+  background:var(--chip);border:1px solid var(--border);color:var(--text);
+  font-family:inherit;font-size:11.5px;font-weight:600;padding:6px 11px;border-radius:999px;cursor:pointer;
+  transition:transform .18s,background .18s
+}
+.retry-btn svg{width:13px;height:13px}
+.retry-btn:active{transform:scale(.94)}
+.meta-note{color:var(--muted);font-weight:500}
+
+/* --- chat overflow menu (uses the existing ⋯ button) --- */
+.chat-menu{
+  position:absolute;top:52px;right:14px;z-index:30;min-width:196px;
+  background:var(--card);border:1px solid var(--border);border-radius:16px;box-shadow:var(--shadow);
+  padding:6px;opacity:0;transform:translateY(-6px) scale(.97);pointer-events:none;
+  transition:opacity .18s ease,transform .18s cubic-bezier(.2,.9,.3,1)
+}
+.chat-menu.show{opacity:1;transform:none;pointer-events:auto}
+.chat-menu button{
+  display:flex;align-items:center;gap:10px;width:100%;background:none;border:none;cursor:pointer;
+  padding:10px 11px;border-radius:11px;color:var(--text);font-family:inherit;
+  font-size:13px;font-weight:600;text-align:left
+}
+.chat-menu button svg{width:16px;height:16px;color:var(--muted);flex:0 0 auto}
+.chat-menu button:active{background:var(--chip)}
+.chat-menu button.warn{color:#ef4444}
+.chat-menu button.warn svg{color:#ef4444}
+.chat-menu button[disabled]{opacity:.45;pointer-events:none}
+
+/* --- Settings: API key block --- */
+.srow.no-tap{cursor:default}
+.srow.no-tap:active{background:none}
+.srow.col{flex-direction:column;align-items:stretch;gap:10px}
+.srow .si.tint{color:#8b5cf6;background:var(--tint-2)}
+.keyline{display:flex;align-items:center;gap:10px}
+.key-input{
+  flex:1;min-width:0;height:40px;border-radius:12px;border:1px solid var(--border);
+  background:var(--input);color:var(--text);padding:0 12px;font-family:inherit;
+  font-size:13px;font-weight:500;outline:none;letter-spacing:.4px;
+  -webkit-text-security:disc;text-security:disc
+}
+.key-input::placeholder{color:var(--muted);letter-spacing:0;-webkit-text-security:none}
+.key-input:focus{border-color:rgba(139,92,246,.55)}
+.eye-btn{
+  width:36px;height:36px;border-radius:11px;border:1px solid var(--border);background:var(--chip);
+  color:var(--muted);display:grid;place-items:center;flex:0 0 auto;cursor:pointer
+}
+.eye-btn svg{width:16px;height:16px}
+.eye-btn.on{color:var(--text)}
+.srow-btn{
+  display:flex;align-items:center;justify-content:center;gap:8px;width:100%;height:42px;
+  border-radius:13px;border:none;background:var(--grad);color:#fff;cursor:pointer;
+  font-family:inherit;font-size:13px;font-weight:700;letter-spacing:-.1px;
+  box-shadow:0 8px 18px -8px rgba(99,102,241,.6);transition:transform .18s,opacity .2s
+}
+.srow-btn svg{width:16px;height:16px}
+.srow-btn:active{transform:scale(.98)}
+.srow-btn[disabled]{opacity:.55;pointer-events:none}
+/* the UA `display:none` for [hidden] loses to .srow-btn{display:flex}, so restore it */
+.srow-btn[hidden]{display:none}
+.srow-btn.ghost{background:var(--chip);color:var(--text);border:1px solid var(--border);box-shadow:none}
+.pill{
+  display:inline-flex;align-items:center;gap:5px;font-size:10.5px;font-weight:700;
+  padding:3.5px 9px;border-radius:999px;background:var(--chip);color:var(--muted);
+  border:1px solid var(--border);white-space:nowrap
+}
+.pill i{width:6px;height:6px;border-radius:50%;background:currentColor;display:block}
+.pill.ok{color:#10b981;background:rgba(16,185,129,.12);border-color:rgba(16,185,129,.28)}
+.pill.ko{color:#ef4444;background:rgba(239,68,68,.10);border-color:rgba(239,68,68,.26)}
+.pill.wait{color:#f59e0b;background:rgba(245,158,11,.12);border-color:rgba(245,158,11,.28)}
+.hint{font-size:10.5px;font-weight:500;color:var(--muted);line-height:1.45}
+.hint b{font-weight:700;color:var(--text)}
+.spinner{
+  width:15px;height:15px;border-radius:50%;flex:0 0 auto;
+  border:2px solid rgba(255,255,255,.35);border-top-color:#fff;animation:spin .7s linear infinite
+}
+.srow-btn.ghost .spinner{border-color:var(--ring-track);border-top-color:var(--text)}
+@keyframes spin{to{transform:rotate(360deg)}}
+.shake{animation:shake .34s ease}
+@keyframes shake{0%,100%{transform:translateX(0)}20%{transform:translateX(-5px)}40%{transform:translateX(5px)}60%{transform:translateX(-3px)}80%{transform:translateX(3px)}}
+
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
@@ -421,6 +552,16 @@ body::before{
     <symbol id="i-out" viewBox="0 0 24 24"><path d="M15 8.2V6.4A1.9 1.9 0 0013.1 4.5H6.4A1.9 1.9 0 004.5 6.4v11.2a1.9 1.9 0 001.9 1.9h6.7a1.9 1.9 0 001.9-1.9v-1.8" stroke-linecap="round"/><path d="M10.5 12h9.5M17.2 9.2L20 12l-2.8 2.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
     <symbol id="i-cap" viewBox="0 0 24 24"><path d="M12 3.2L23 8.4 12 13.6 1 8.4 12 3.2z" fill="currentColor"/><path d="M12 13.6L1 8.4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" opacity="0"/><path d="M5.6 10.6v4.1c0 1.9 2.9 3.3 6.4 3.3s6.4-1.4 6.4-3.3v-4.1" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M22.2 8.9v5.3" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><circle cx="22.2" cy="15.4" r="1.35" fill="currentColor"/></symbol>
     <symbol id="i-bot" viewBox="0 0 48 48"><path d="M24 5.5a2.6 2.6 0 012.6 2.6c0 1-.6 1.9-1.4 2.3v3.2h-2.4v-3.2a2.6 2.6 0 011.2-4.9z" fill="currentColor"/><rect x="3.6" y="21.4" width="5" height="10.4" rx="2.5" fill="currentColor" opacity=".65"/><rect x="39.4" y="21.4" width="5" height="10.4" rx="2.5" fill="currentColor" opacity=".65"/><rect x="8" y="13.4" width="32" height="25.6" rx="11" fill="currentColor"/><rect x="13" y="18.4" width="22" height="15.6" rx="8" fill="#0d0d16" opacity=".34"/><circle cx="19" cy="26" r="2.7" fill="#fff"/><circle cx="29" cy="26" r="2.7" fill="#fff"/><path d="M19.5 30.6c2.6 2.4 6.4 2.4 9 0" stroke="#fff" stroke-width="1.9" fill="none" stroke-linecap="round"/><rect x="21" y="39" width="6" height="4.2" rx="2.1" fill="currentColor" opacity=".65"/></symbol>
+    <symbol id="i-key" viewBox="0 0 24 24"><circle cx="8.4" cy="8.4" r="4.4" stroke="currentColor" fill="none" stroke-width="1.8"/><path d="M11.6 11.6L20 20M17.4 17.4l-1.9 1.9M14.6 14.6l-1.7 1.7" stroke="currentColor" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-plug" viewBox="0 0 24 24"><path d="M9 2.8v5.4M15 2.8v5.4M6.2 8.2h11.6v3.2a5.8 5.8 0 01-5.8 5.8 5.8 5.8 0 01-5.8-5.8V8.2zM12 17.2v4" stroke="currentColor" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8.6" y="8.6" width="11.4" height="11.4" rx="2.6" stroke="currentColor" fill="none" stroke-width="1.8"/><path d="M15.4 5.4A2.4 2.4 0 0013 3H6.4A2.4 2.4 0 004 5.4V13a2.4 2.4 0 002.4 2.4" stroke="currentColor" fill="none" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-refresh" viewBox="0 0 24 24"><path d="M20 12a8 8 0 11-2.6-5.9M20 3.6V8h-4.4" stroke="currentColor" fill="none" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-stop" viewBox="0 0 24 24"><rect x="6.4" y="6.4" width="11.2" height="11.2" rx="2.6" fill="currentColor"/></symbol>
+    <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4.6 6.6h14.8M9.4 6.6V4.8a1.4 1.4 0 011.4-1.4h2.4a1.4 1.4 0 011.4 1.4v1.8M6.6 6.6l.9 12.2a1.8 1.8 0 001.8 1.7h5.4a1.8 1.8 0 001.8-1.7l.9-12.2" stroke="currentColor" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-newchat" viewBox="0 0 24 24"><path d="M20.4 11.2c0 3.9-3.7 7-8.4 7-1 0-2-.15-2.9-.43l-4.3 1.5 1.3-3.5c-1.3-1.3-2-2.8-2-4.6" stroke="currentColor" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M15.6 3.4v5.2M13 6h5.2" stroke="currentColor" fill="none" stroke-width="1.9" stroke-linecap="round"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 2.8l7.4 2.9v5.6c0 4.6-3 8.3-7.4 9.9-4.4-1.6-7.4-5.3-7.4-9.9V5.7L12 2.8z" stroke="currentColor" fill="none" stroke-width="1.7" stroke-linejoin="round"/><path d="M9 12.2l2.2 2.2 4-4.4" stroke="currentColor" fill="none" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-eye" viewBox="0 0 24 24"><path d="M2.4 12S6 5.8 12 5.8 21.6 12 21.6 12 18 18.2 12 18.2 2.4 12 2.4 12z" stroke="currentColor" fill="none" stroke-width="1.7" stroke-linejoin="round"/><circle cx="12" cy="12" r="2.9" stroke="currentColor" fill="none" stroke-width="1.7"/></symbol>
+    <symbol id="i-eye-off" viewBox="0 0 24 24"><path d="M4.2 7.6C2.9 8.9 2.4 12 2.4 12s3.6 6.2 9.6 6.2c1.6 0 3-.4 4.2-1M19.8 15.4c1.1-1.3 1.8-3.4 1.8-3.4S18 5.8 12 5.8c-.7 0-1.4.1-2 .2" stroke="currentColor" fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M10.1 10.2a2.9 2.9 0 003.9 4M3.4 3.4l17.2 17.2" stroke="currentColor" fill="none" stroke-width="1.7" stroke-linecap="round"/></symbol>
   </defs>
 </svg>
 
@@ -547,7 +688,19 @@ body::before{
           <div class="chat-role">Prof IA · Maths</div>
         </div>
         <div class="spacer"></div>
-        <button class="icon-btn" id="menuBtn" aria-label="Menu"><svg fill="currentColor"><use href="#i-dots"/></svg></button>
+        <button class="icon-btn" id="menuBtn" aria-label="Menu" aria-haspopup="true" aria-expanded="false"><svg fill="currentColor"><use href="#i-dots"/></svg></button>
+      </div>
+
+      <div class="chat-menu" id="chatMenu" role="menu" aria-label="Options de la discussion">
+        <button type="button" id="newChatBtn" role="menuitem">
+          <svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-newchat"/></svg>Nouvelle discussion
+        </button>
+        <button type="button" id="regenBtn" role="menuitem" disabled>
+          <svg fill="none" stroke="currentColor" stroke-width="1.9"><use href="#i-refresh"/></svg>Régénérer la réponse
+        </button>
+        <button type="button" id="clearChatBtn" role="menuitem" class="warn">
+          <svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-trash"/></svg>Effacer la conversation
+        </button>
       </div>
 
       <div class="msgs" id="msgs">
@@ -560,50 +713,12 @@ body::before{
             <div class="meta">9:12</div>
           </div>
         </div>
-
-        <div class="msg me">
-          <div>
-            <div class="bubble">Salut Backey ! Je bloque sur la leçon des limites de fonctions 😅</div>
-            <div class="meta">9:13 <svg fill="none" stroke="currentColor" stroke-width="2.2"><use href="#i-checks"/></svg></div>
-          </div>
-        </div>
-
-        <div class="msg bot">
-          <div class="mini-bot"><svg fill="currentColor"><use href="#i-bot"/></svg></div>
-          <div>
-            <div class="bubble">Pas de souci 😉 Rappel : <b>lim<sub>x→a</sub> f(x) = L</b> signifie que f(x) se rapproche de L quand x tend vers a. Tu bloques sur quelle partie exactement ?</div>
-            <div class="meta">9:13</div>
-          </div>
-        </div>
-
-        <div class="msg me">
-          <div>
-            <div class="bubble">Sur la forme indéterminée « ∞ − ∞ » 🤔</div>
-            <div class="meta">9:14 <svg fill="none" stroke="currentColor" stroke-width="2.2"><use href="#i-checks"/></svg></div>
-          </div>
-        </div>
-
-        <div class="msg bot">
-          <div class="mini-bot"><svg fill="currentColor"><use href="#i-bot"/></svg></div>
-          <div>
-            <div class="bubble">Astuce : pour <b>∞ − ∞</b>, on factorise par le terme dominant.<br>Exemple : f(x) = √(x² + x) − x = x(√(1 + 1/x) − 1) → <b>1/2</b> quand x → +∞.<br>Refais le calcul et montre-moi ton résultat 💪</div>
-            <div class="meta">9:14</div>
-          </div>
-        </div>
-
-        <div class="msg bot">
-          <div class="mini-bot"><svg fill="currentColor"><use href="#i-bot"/></svg></div>
-          <div>
-            <div class="bubble">Petit exercice : calcule <b>lim<sub>x→+∞</sub> (√(x² + 3x) − x)</b>. Prends ton temps ✍️</div>
-            <div class="meta">9:15</div>
-          </div>
-        </div>
       </div>
 
       <div class="chat-input">
         <button class="attach" aria-label="Joindre"><svg fill="none" stroke="currentColor" stroke-width="2"><use href="#i-plus"/></svg></button>
         <input id="chatText" type="text" placeholder="Écris ton message..." autocomplete="off" />
-        <button class="send" id="sendBtn" aria-label="Envoyer"><svg fill="none" stroke="currentColor" stroke-width="1.9"><use href="#i-send"/></svg></button>
+        <button class="send" id="sendBtn" aria-label="Envoyer"><svg fill="none" stroke="currentColor" stroke-width="1.9"><use href="#i-send" id="sendIcon"/></svg></button>
       </div>
     </section>
 
@@ -752,6 +867,41 @@ body::before{
         </div>
       </div>
 
+      <div class="sec">Assistant IA</div>
+      <div class="settings">
+        <div class="srow col no-tap" id="keyRow">
+          <div style="display:flex;align-items:center;gap:12px">
+            <div class="si tint"><svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-key"/></svg></div>
+            <div class="sl">Clé API Gemini</div>
+            <span class="pill" id="keyStatus"><i></i><span id="keyStatusTxt">Non connectée</span></span>
+          </div>
+
+          <div class="keyline">
+            <input class="key-input" id="apiKeyInput" type="password" inputmode="text"
+                   placeholder="Colle ta clé Gemini ici" autocomplete="off" autocapitalize="off"
+                   autocorrect="off" spellcheck="false" aria-label="Clé API Gemini" />
+            <button class="eye-btn" id="keyEyeBtn" aria-label="Afficher ou masquer la clé" aria-pressed="false">
+              <svg fill="none" stroke="currentColor" stroke-width="1.7"><use href="#i-eye" id="keyEyeIcon"/></svg>
+            </button>
+          </div>
+
+          <div class="hint" id="keyHint">Ta clé est <b>masquée</b> et conservée côté serveur : elle n’est jamais affichée, enregistrée dans le navigateur, ni envoyée dans les messages.</div>
+
+          <button class="srow-btn" id="saveKeyBtn">
+            <svg fill="none" stroke="currentColor" stroke-width="2.2"><use href="#i-check"/></svg>
+            <span id="saveKeyLbl">Enregistrer la clé</span>
+          </button>
+          <button class="srow-btn ghost" id="testKeyBtn">
+            <svg fill="none" stroke="currentColor" stroke-width="1.9"><use href="#i-plug"/></svg>
+            <span id="testKeyLbl">Tester la connexion</span>
+          </button>
+          <button class="srow-btn ghost" id="removeKeyBtn" hidden>
+            <svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-trash"/></svg>
+            <span>Retirer la clé</span>
+          </button>
+        </div>
+      </div>
+
       <div class="foot">Backey v1.0 · Fait avec ❤️ pour les 2BAC</div>
     </section>
 
@@ -767,6 +917,8 @@ body::before{
   </nav>
 </div>
 
+<!-- AI provider/service layer (shared with the backend). Never contains an API key. -->
+<script src="lib/ai-core.js"></script>
 <script>
 (function(){
   const html = document.documentElement;
@@ -848,6 +1000,7 @@ body::before{
         s.scrollTop = 0;
         if(name === 'matieres') animateRings(s);
         if(name === 'home') animateMini(s);
+        if(name === 'chat') setTimeout(()=>scrollDown(false, true), 60);
       }
     });
     navBtns.forEach(b=>b.classList.toggle('active', b.dataset.screen === name));
@@ -866,65 +1019,579 @@ body::before{
   animateRings(document.getElementById('screen-matieres'));
   animateMini(document.getElementById('screen-home'));
 
-  /* ---------- CHAT ---------- */
+  /* ---------- CHAT : real Gemini, through the AI service layer (window.BackeyAI) ---------- */
+  const AI = window.BackeyAI || {};
   const msgs = document.getElementById('msgs');
   const input = document.getElementById('chatText');
   const send = document.getElementById('sendBtn');
+  const sendIcon = document.getElementById('sendIcon');
+  const chatMenu = document.getElementById('chatMenu');
+  const menuBtn = document.getElementById('menuBtn');
+  const regenMenuBtn = document.getElementById('regenBtn');
+
+  const CHAT_STORE = 'backey-chat-v1';
+  const KEY_STORE = 'backey-key-v1';
+  const GREETING = "Salut Yassine 👋 Je suis Backey, ton prof IA. On révise quoi aujourd'hui ?";
+
+  /** Real conversation turns ONLY. UI chrome (greeting, error bubbles) is never sent to Gemini. */
+  let history = [];
+  let generating = false;
+  let abortCtl = null;
+  /** `configured` = a key exists. `verified` = Google actually accepted it. */
+  const aiStatus = { mode: 'unknown', configured: false, verified: false, allowDirect: true };
 
   function now(){
     const d = new Date();
     return String(d.getHours()).padStart(2,'0') + ':' + String(d.getMinutes()).padStart(2,'0');
   }
-  function scrollDown(smooth){
-    requestAnimationFrame(()=>{ msgs.scrollTo({top: msgs.scrollHeight, behavior: smooth?'smooth':'auto'}); });
+  function nearBottom(){ return (msgs.scrollHeight - msgs.scrollTop - msgs.clientHeight) < 110; }
+  function scrollDown(smooth, force){
+    if(!force && !nearBottom()) return;
+    requestAnimationFrame(()=>{ msgs.scrollTo({top: msgs.scrollHeight, behavior: smooth ? 'smooth' : 'auto'}); });
   }
-  function addBot(text, delay){
-    const t = document.createElement('div');
-    t.className = 'msg bot';
-    t.innerHTML = '<div class="mini-bot"><svg fill="currentColor"><use href="#i-bot"/></svg></div>' +
-      '<div><div class="bubble"><span class="typing"><i></i><i></i><i></i></span></div></div>';
-    msgs.appendChild(t);
-    scrollDown(true);
-    setTimeout(()=>{
-      t.querySelector('.bubble').innerHTML = text;
-      const meta = document.createElement('div');
-      meta.className = 'meta';
-      meta.textContent = now();
-      t.querySelector('div:last-child').appendChild(meta);
-      scrollDown(true);
-    }, delay);
+  function shake(node){
+    node.classList.remove('shake');
+    void node.offsetWidth;
+    node.classList.add('shake');
+    setTimeout(()=>node.classList.remove('shake'), 420);
   }
-  function addUser(text){
-    const t = document.createElement('div');
-    t.className = 'msg me';
-    t.innerHTML = '<div><div class="bubble"></div><div class="meta">' + now() +
-      ' <svg fill="none" stroke="currentColor" stroke-width="2.2"><use href="#i-checks"/></svg></div></div>';
-    t.querySelector('.bubble').textContent = text;
-    msgs.appendChild(t);
+  function mk(tag, cls, htmlStr){
+    const n = document.createElement(tag);
+    if(cls) n.className = cls;
+    if(htmlStr != null) n.innerHTML = htmlStr;
+    return n;
+  }
+  function renderMd(text){
+    if(AI.renderMarkdown){ try{ return AI.renderMarkdown(text); }catch(e){} }
+    return AI.escapeHtml ? AI.escapeHtml(text) : String(text == null ? '' : text);
+  }
+
+  /* --- DOM builders (same markup/classes as the original design) --- */
+  function botRow(){
+    const row = mk('div','msg bot');
+    row.appendChild(mk('div','mini-bot','<svg fill="currentColor"><use href="#i-bot"/></svg>'));
+    const wrap = mk('div'); wrap.style.minWidth = '0';
+    const bubble = mk('div','bubble');
+    wrap.appendChild(bubble);
+    row.appendChild(wrap);
+    msgs.appendChild(row);
+    scrollDown(true, true);
+    return {row:row, wrap:wrap, bubble:bubble};
+  }
+  function userRow(text){
+    const row = mk('div','msg me');
+    const wrap = mk('div'); wrap.style.minWidth = '0';
+    const bubble = mk('div','bubble');
+    bubble.textContent = text;
+    wrap.appendChild(bubble);
+    wrap.appendChild(mk('div','meta', now() + ' <svg fill="none" stroke="currentColor" stroke-width="2.2"><use href="#i-checks"/></svg>'));
+    row.appendChild(wrap);
+    msgs.appendChild(row);
+    scrollDown(true, true);
+    return row;
+  }
+  function greetingRow(){
+    const r = botRow();
+    r.bubble.textContent = GREETING;
+    r.wrap.appendChild(mk('div','meta','9:12'));
+    return r.row;
+  }
+  function addMeta(wrap, label){ wrap.appendChild(mk('div','meta', AI.escapeHtml ? AI.escapeHtml(label) : label)); }
+
+  function addActions(wrap, getRaw){
+    const bar = mk('div','msg-actions');
+    const copy = mk('button','act-btn','<svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-copy"/></svg>');
+    copy.type = 'button'; copy.setAttribute('aria-label','Copier la réponse');
+    copy.addEventListener('click', ()=>copyAnswer(getRaw(), copy));
+    const regen = mk('button','act-btn','<svg fill="none" stroke="currentColor" stroke-width="1.9"><use href="#i-refresh"/></svg>');
+    regen.type = 'button'; regen.setAttribute('aria-label','Régénérer la réponse');
+    regen.addEventListener('click', ()=>regenerate());
+    bar.appendChild(copy); bar.appendChild(regen);
+    wrap.appendChild(bar);
+    updateRegenAvailability();
+  }
+
+  async function copyAnswer(text, btn){
+    const plain = AI.markdownToText ? AI.markdownToText(text) : String(text == null ? '' : text);
+    if(!plain.trim()) return;
+    let ok = false;
+    try{
+      if(navigator.clipboard && window.isSecureContext){ await navigator.clipboard.writeText(plain); ok = true; }
+    }catch(e){ ok = false; }
+    if(!ok){
+      try{
+        const ta = document.createElement('textarea');
+        ta.value = plain; ta.setAttribute('readonly','');
+        ta.style.cssText = 'position:fixed;top:-1200px;left:0;opacity:0';
+        document.body.appendChild(ta); ta.select();
+        ok = document.execCommand('copy');
+        document.body.removeChild(ta);
+      }catch(e){ ok = false; }
+    }
+    if(btn){ btn.classList.add('on'); setTimeout(()=>btn.classList.remove('on'), 1200); }
+    showToast(ok ? 'Réponse copiée 📋' : 'Copie indisponible sur ce navigateur');
+  }
+
+  /* --- streaming renderer (rAF-throttled so mobile stays smooth) --- */
+  function makeStreamer(bubble){
+    let buf = '', raf = 0, done = false;
+    function paint(withCaret){
+      raf = 0;
+      bubble.innerHTML = renderMd(buf) + (withCaret ? '<span class="caret"></span>' : '');
+      scrollDown(false);
+    }
+    return {
+      push(t){ if(done || !t) return; buf += t; if(!raf) raf = requestAnimationFrame(()=>paint(true)); },
+      finish(){ done = true; if(raf){ cancelAnimationFrame(raf); raf = 0; } paint(false); },
+      text(){ return buf; }
+    };
+  }
+
+  function removeRow(wrap){
+    const row = wrap && wrap.parentNode;
+    if(row && row.parentNode) row.parentNode.removeChild(row);
+  }
+  function removeLastBotRow(){
+    const rows = msgs.querySelectorAll('.msg.bot');
+    if(rows.length) rows[rows.length-1].remove();
+  }
+  function errorBubble(message, onRetry){
+    const r = botRow();
+    r.bubble.classList.add('err');
+    r.bubble.textContent = message;
+    if(onRetry){
+      r.bubble.appendChild(document.createElement('br'));
+      const btn = mk('button','retry-btn','<svg fill="none" stroke="currentColor" stroke-width="2"><use href="#i-refresh"/></svg>Réessayer');
+      btn.type = 'button';
+      btn.addEventListener('click', ()=>{ if(generating) return; onRetry(); });
+      r.bubble.appendChild(btn);
+    }
+    return r;
+  }
+
+  /* --- key / transport state --- */
+  function localKey(){ try{ return localStorage.getItem(KEY_STORE) || ''; }catch(e){ return ''; } }
+  function setLocalKey(k){
+    /* Custody backstop: when a backend owns the key, it must never be written
+       to the browser — not even transiently, not even on a failed probe. */
+    if(!aiStatus.allowDirect) return;
+    try{ if(k) localStorage.setItem(KEY_STORE, k); else localStorage.removeItem(KEY_STORE); }catch(e){}
+  }
+
+  async function probeProxy(){
+    /* file:// cannot have a backend at all — direct mode is the only option. */
+    if(typeof location === 'undefined' || !/^https?:$/.test(location.protocol)){
+      aiStatus.mode = 'direct'; aiStatus.allowDirect = true; return false;
+    }
+    let netErr = false;
+    try{
+      const ctl = new AbortController();
+      const t = setTimeout(()=>ctl.abort(), 2500);
+      const res = await fetch('/api/health', {signal: ctl.signal, cache: 'no-store'});
+      clearTimeout(t);
+      const j = await res.json().catch(()=>null);
+      if(res.ok && j && j.proxy){
+        aiStatus.mode = 'proxy';
+        /* Key custody: the backend decides whether the browser may ever hold a key. */
+        aiStatus.allowDirect = j.allowDirect === true;
+        aiStatus.configured = !!j.keyConfigured;
+        aiStatus.verified = !!j.keyVerified;
+        return true;
+      }
+      /* A 404 means no backend is deployed here (plain static host), so
+         browser-side direct mode is the only option and is legitimate.
+         Any other failure (5xx, bad payload) means a backend IS present but
+         unhealthy — in that case the key must not move into the browser. */
+      if(res.status === 404){ aiStatus.mode = 'direct'; aiStatus.allowDirect = true; return false; }
+      aiStatus.mode = 'proxy'; aiStatus.allowDirect = false;
+      return false;
+    }catch(e){ netErr = true; }
+    /* No HTTP answer at all: a backend is probably deployed but unreachable.
+       Never fall back to storing the key in the browser in that case. */
+    if(netErr){ aiStatus.mode = 'proxy'; aiStatus.allowDirect = false; }
+    return false;
+  }
+  function keyConfigured(){ return aiStatus.mode === 'proxy' ? !!aiStatus.configured : !!localKey(); }
+
+  /* --- the turn: send -> stream -> history --- */
+  async function runTurn(userText, opts){
+    const o = opts || {};
+    if(generating) return;                       // duplicate clicks / Enter spam
+    const text = String(userText == null ? '' : userText).trim();
+    if(!text){ shake(input); return; }           // empty message
+
+    generating = true;
+    setSendIcon('stop');
+    closeMenu();
+    updateRegenAvailability();
+    abortCtl = new AbortController();
+
+    if(!o.silentUser){
+      userRow(text);
+      history.push({role:'user', text:text});
+      persist();
+    }
+
+    const r = botRow();
+    r.bubble.innerHTML = '<span class="typing"><i></i><i></i><i></i></span>';
+    const streamer = makeStreamer(r.bubble);
+    let model = null;
+
+    const onDelta = (t)=>streamer.push(t);
+    const onMeta = (m)=>{ model = (m && m.model) || model; };
+
+    let result = null, failure = null;
+    try{
+      if(aiStatus.mode === 'proxy'){
+        result = await AI.streamViaProxy({history: history, signal: abortCtl.signal, onDelta: onDelta, onMeta: onMeta});
+      }else{
+        result = await AI.streamChat({apiKey: localKey(), history: history, signal: abortCtl.signal, onDelta: onDelta, onMeta: onMeta});
+      }
+    }catch(err){
+      failure = err;
+    }
+
+    streamer.finish();
+    const finalText = ((result && result.text) || streamer.text() || '');
+    const kind = failure ? ((failure && failure.kind) || 'unknown') : null;
+
+    if(failure && kind === 'aborted'){
+      if(finalText.trim()){
+        history.push({role:'model', text: finalText});
+        persist();
+        addMeta(r.wrap, now() + ' · arrêté');
+        addActions(r.wrap, ()=>finalText);
+      }else{
+        removeRow(r.wrap);
+      }
+      showToast(AI.FRIENDLY ? AI.FRIENDLY.aborted : 'Génération arrêtée.');
+    }else if(failure || !finalText.trim()){
+      removeRow(r.wrap);
+      const message = failure
+        ? ((AI.friendly && AI.friendly(kind)) || 'Une erreur est survenue. Réessaie.')
+        : ((AI.friendly && AI.friendly('empty-response')) || 'Réessaie.');
+      if(kind === 'no-key'){
+        const er = errorBubble(message, null);
+        const btn = mk('button','retry-btn','<svg fill="none" stroke="currentColor" stroke-width="1.9"><use href="#i-key"/></svg>Ouvrir les réglages');
+        btn.type = 'button';
+        er.bubble.appendChild(document.createElement('br'));
+        er.bubble.appendChild(btn);
+        btn.addEventListener('click', ()=>go('profil'));
+      }else{
+        errorBubble(message, ()=>retryLast());
+      }
+    }else{
+      history.push({role:'model', text: finalText});
+      persist();
+      addMeta(r.wrap, now() + ((result && result.interrupted) ? ' · interrompu' : ''));
+      addActions(r.wrap, ()=>finalText);
+      // a real answer is proof the key works — upgrade the status if needed
+      if(!aiStatus.verified){ aiStatus.verified = true; refreshKeyStatus(); }
+    }
+
+    generating = false;
+    abortCtl = null;
+    setSendIcon('send');
+    updateRegenAvailability();
     scrollDown(true);
   }
 
-  const replies = [
-    "Bonne démarche ! 👏 Pour une limite en <b>+∞ d'un polynôme</b>, garde seulement le terme de plus haut degré.",
-    "N'oublie pas le théorème des gendarmes : si g(x) ≤ f(x) ≤ h(x) et que g et h tendent vers L, alors f tend vers L aussi 📘",
-    "Attention ⚠️ aux formes <b>0/0</b> : factorise ou utilise l'expression conjuguée (√A − √B → multiplier par √A + √B).",
-    "Très bien ! Pour <b>lim<sub>x→a</sub> (f(x)−f(a))/(x−a)</b>, tu retrouves le nombre dérivé — c'est le lien avec la dérivabilité 🔗",
-    "Astuce TVI : si f est continue sur [a,b] et f(a)·f(b) &lt; 0, alors l'équation f(x)=0 admet au moins une solution dans ]a,b[ ✅",
-    "Continue comme ça 💪 Veux-tu que je te donne un exercice type examen national sur les limites ?"
-  ];
-  let ri = 0;
+  function retryLast(){
+    if(generating) return;
+    const h = history.slice();
+    while(h.length && h[h.length-1].role === 'model') h.pop();
+    if(!h.length || h[h.length-1].role !== 'user') return;
+    history = h;
+    persist();
+    runTurn(history[history.length-1].text, {silentUser:true});
+  }
 
+  function regenerate(){
+    if(generating){ showToast('Une réponse est déjà en cours'); return; }
+    if(!history.length){ showToast('Envoie d’abord un message'); return; }
+    let changed = false;
+    while(history.length && history[history.length-1].role === 'model'){ history.pop(); removeLastBotRow(); changed = true; }
+    const last = history[history.length-1];
+    if(!last || last.role !== 'user'){ showToast('Rien à régénérer pour l’instant'); return; }
+    if(changed) persist();
+    closeMenu();
+    runTurn(last.text, {silentUser:true});
+  }
+
+  function stopGeneration(){
+    if(!generating || !abortCtl) return;
+    try{ abortCtl.abort(); }catch(e){}
+  }
+
+  function resetTranscript(){
+    msgs.innerHTML = '';
+    msgs.appendChild(mk('div','day',"Aujourd'hui"));
+    greetingRow();
+    scrollDown(false, true);
+  }
+  function newChat(){
+    stopGeneration();
+    history = [];
+    persist();
+    resetTranscript();
+    updateRegenAvailability();
+    closeMenu();
+    showToast('Nouvelle discussion ✨');
+  }
+  function clearChat(){
+    stopGeneration();
+    history = [];
+    persist();
+    resetTranscript();
+    updateRegenAvailability();
+    closeMenu();
+    showToast('Conversation effacée');
+  }
+
+  /* --- persistence --- */
+  function persist(){
+    try{ localStorage.setItem(CHAT_STORE, JSON.stringify(history.slice(-40))); }catch(e){}
+  }
+  function loadHistory(){
+    let raw = null;
+    try{ raw = localStorage.getItem(CHAT_STORE); }catch(e){ return; }
+    if(!raw) return;
+    try{
+      const arr = JSON.parse(raw);
+      if(!Array.isArray(arr)) return;
+      history = arr
+        .filter(m=>m && typeof m.text === 'string' && m.text.trim() && (m.role === 'user' || m.role === 'model'))
+        .map(m=>({role:m.role, text:m.text}))
+        .slice(-40);
+    }catch(e){ history = []; }
+  }
+  function renderHistory(){
+    history.forEach(m=>{
+      if(m.role === 'user'){ userRow(m.text); return; }
+      const r = botRow();
+      r.bubble.innerHTML = renderMd(m.text);
+      addMeta(r.wrap, now());
+      addActions(r.wrap, ()=>m.text);
+    });
+  }
+
+  /* --- send / stop button (same button, icon swap only) --- */
+  function setSendIcon(mode){
+    if(sendIcon) sendIcon.setAttribute('href', mode === 'stop' ? '#i-stop' : '#i-send');
+    send.setAttribute('aria-label', mode === 'stop' ? 'Arrêter la génération' : 'Envoyer');
+  }
   function submit(){
+    if(generating) return;
     const v = input.value.trim();
-    if(!v) return;
-    addUser(v);
+    if(!v){ shake(input); return; }
     input.value = '';
-    const r = replies[ri % replies.length]; ri++;
-    addBot(r, 900 + Math.random()*700);
+    runTurn(v);
   }
-  send.addEventListener('click', submit);
-  input.addEventListener('keydown', e=>{ if(e.key === 'Enter') submit(); });
-  scrollDown(false);
+  send.addEventListener('click', ()=>{ generating ? stopGeneration() : submit(); });
+  input.addEventListener('keydown', e=>{
+    if(e.key === 'Enter'){ e.preventDefault(); if(!generating) submit(); }
+  });
+  input.addEventListener('focus', ()=>setTimeout(()=>scrollDown(false, true), 280));
+  window.addEventListener('pagehide', ()=>{ if(generating && abortCtl){ try{ abortCtl.abort(); }catch(e){} } });
+
+  /* --- chat menu (existing ⋯ button) --- */
+  function openMenu(){ chatMenu.classList.add('show'); menuBtn.setAttribute('aria-expanded','true'); }
+  function closeMenu(){ chatMenu.classList.remove('show'); menuBtn.setAttribute('aria-expanded','false'); }
+  function updateRegenAvailability(){
+    if(regenMenuBtn) regenMenuBtn.disabled = generating || history.length === 0;
+  }
+  menuBtn.addEventListener('click', e=>{
+    e.stopPropagation();
+    chatMenu.classList.contains('show') ? closeMenu() : openMenu();
+  });
+  document.addEventListener('click', e=>{
+    if(!chatMenu.classList.contains('show')) return;
+    if(chatMenu.contains(e.target) || menuBtn.contains(e.target)) return;
+    closeMenu();
+  });
+  document.getElementById('newChatBtn').addEventListener('click', newChat);
+  document.getElementById('clearChatBtn').addEventListener('click', clearChat);
+  if(regenMenuBtn) regenMenuBtn.addEventListener('click', regenerate);
+
+  /* ---------- SETTINGS : Gemini API key (masked, server-held, never displayed) ---------- */
+  const keyInput = document.getElementById('apiKeyInput');
+  const keyEyeBtn = document.getElementById('keyEyeBtn');
+  const keyEyeIcon = document.getElementById('keyEyeIcon');
+  const keyStatus = document.getElementById('keyStatus');
+  const keyStatusTxt = document.getElementById('keyStatusTxt');
+  const keyHint = document.getElementById('keyHint');
+  const saveKeyBtn = document.getElementById('saveKeyBtn');
+  const saveKeyLbl = document.getElementById('saveKeyLbl');
+  const testKeyBtn = document.getElementById('testKeyBtn');
+  const testKeyLbl = document.getElementById('testKeyLbl');
+  const removeKeyBtn = document.getElementById('removeKeyBtn');
+
+  const HINT_PROXY = 'Ta clé est <b>masquée</b> et conservée côté serveur : elle n’est jamais affichée, enregistrée dans le navigateur, ni envoyée dans les messages.';
+  const HINT_DIRECT = 'Aucun serveur détecté : la clé reste <b>masquée</b> et stockée uniquement dans ce navigateur. Lance <b>node server.mjs</b> pour la garder côté serveur.';
+
+  function setKeyStatus(state, label){
+    keyStatus.classList.remove('ok','ko','wait');
+    if(state) keyStatus.classList.add(state);
+    keyStatusTxt.textContent = label;
+  }
+  function setBtnBusy(btn, lbl, busy, idleText, busyText){
+    btn.disabled = !!busy;
+    const svg = btn.querySelector('svg');
+    if(busy){
+      if(svg) svg.style.display = 'none';
+      let sp = btn.querySelector('.spinner');
+      if(!sp){ sp = mk('span','spinner'); btn.insertBefore(sp, lbl); }
+      lbl.textContent = busyText;
+    }else{
+      if(svg) svg.style.display = '';
+      const sp = btn.querySelector('.spinner');
+      if(sp) sp.remove();
+      lbl.textContent = idleText;
+    }
+  }
+
+  async function refreshKeyStatus(){
+    if(aiStatus.mode === 'proxy' || aiStatus.mode === 'unknown') await probeProxy();
+    aiStatus.configured = keyConfigured();
+    if(!aiStatus.configured) aiStatus.verified = false;
+
+    if(!aiStatus.configured)   setKeyStatus('ko', 'Non connectée');
+    else if(aiStatus.verified) setKeyStatus('ok', 'Connectée');
+    else                       setKeyStatus('wait', 'Clé enregistrée');
+
+    const base = aiStatus.mode === 'proxy' ? HINT_PROXY : HINT_DIRECT;
+    keyHint.innerHTML = (aiStatus.configured && !aiStatus.verified)
+      ? base + ' Lance <b>Tester la connexion</b> pour la valider.'
+      : base;
+    removeKeyBtn.hidden = !aiStatus.configured;
+    updateRegenAvailability();
+  }
+
+  /* reveal-for-a-moment toggle, always masked again after 4s */
+  let keyVisible = false, keyHideTimer = null;
+  function setKeyVisible(on){
+    keyVisible = !!on;
+    keyInput.type = keyVisible ? 'text' : 'password';
+    keyEyeIcon.setAttribute('href', keyVisible ? '#i-eye-off' : '#i-eye');
+    keyEyeBtn.classList.toggle('on', keyVisible);
+    keyEyeBtn.setAttribute('aria-pressed', keyVisible ? 'true' : 'false');
+    clearTimeout(keyHideTimer);
+    if(keyVisible) keyHideTimer = setTimeout(()=>setKeyVisible(false), 4000);
+  }
+  keyEyeBtn.addEventListener('click', ()=>setKeyVisible(!keyVisible));
+  keyInput.addEventListener('input', ()=>{
+    if(keyInput.value.trim()) setKeyStatus('wait','Non enregistrée');
+    else refreshKeyStatus();
+  });
+  keyInput.addEventListener('keydown', e=>{ if(e.key === 'Enter'){ e.preventDefault(); saveKeyBtn.click(); } });
+
+  saveKeyBtn.addEventListener('click', async ()=>{
+    if(saveKeyBtn.disabled) return;
+    const raw = keyInput.value.trim();
+    if(!raw){ shake(keyInput); showToast('Colle d’abord ta clé API Gemini'); return; }
+    if(AI.looksLikeKey && !AI.looksLikeKey(raw)){
+      setKeyStatus('ko','Clé invalide');
+      showToast(AI.FRIENDLY['invalid-key']);
+      return;
+    }
+    setBtnBusy(saveKeyBtn, saveKeyLbl, true, 'Enregistrer la clé', 'Vérification…');
+    setKeyStatus('wait','Vérification…');
+    let saved = false, verified = false, message = '';
+    try{
+      if(aiStatus.mode === 'proxy'){
+        /* key goes straight to the backend, is verified there, and is never kept here */
+        const res = await fetch('/api/key', {
+          method: 'POST',
+          headers: {'content-type': 'application/json'},
+          body: JSON.stringify({key: raw})
+        });
+        const j = await res.json().catch(()=>null);
+        saved = !!(res.ok && j && j.saved);
+        verified = !!(j && j.verified);
+        message = (j && j.message) || (saved ? AI.FRIENDLY.saving : AI.FRIENDLY['test-fail']);
+      }else{
+        /* no backend: verify, then keep it unless Google itself rejected the key */
+        const t = await AI.testConnection({apiKey: raw});
+        verified = !!t.connected;
+        const credentialBad = AI.isCredentialFailure ? AI.isCredentialFailure(t.kind, t.code) : !verified;
+        saved = verified || !credentialBad;
+        setLocalKey(saved ? raw : '');
+        message = t.message || (verified ? AI.FRIENDLY['test-ok'] : AI.FRIENDLY['test-fail']);
+      }
+      if(saved){ keyInput.value = ''; setKeyVisible(false); }
+    }catch(e){
+      saved = false; verified = false;
+      message = AI.FRIENDLY.network;
+    }
+    setBtnBusy(saveKeyBtn, saveKeyLbl, false, 'Enregistrer la clé', 'Vérification…');
+    aiStatus.verified = verified;
+    await refreshKeyStatus();
+    showToast(message);
+  });
+
+  testKeyBtn.addEventListener('click', async ()=>{
+    if(testKeyBtn.disabled) return;
+    const raw = keyInput.value.trim();
+    if(raw && AI.looksLikeKey && !AI.looksLikeKey(raw)){
+      setKeyStatus('ko','Clé invalide');
+      showToast(AI.FRIENDLY['invalid-key']);
+      return;
+    }
+    setBtnBusy(testKeyBtn, testKeyLbl, true, 'Tester la connexion', 'Test en cours…');
+    setKeyStatus('wait','Test en cours…');
+    let ok = false, message = '';
+    try{
+      if(raw && aiStatus.mode !== 'proxy'){
+        const t = await AI.testConnection({apiKey: raw});
+        ok = !!t.connected; message = t.message || AI.FRIENDLY['test-fail'];
+      }else if(raw && aiStatus.mode === 'proxy'){
+        /* keep the key server-side: saving it also performs a real verification */
+        const res = await fetch('/api/key', {
+          method: 'POST',
+          headers: {'content-type': 'application/json'},
+          body: JSON.stringify({key: raw})
+        });
+        const j = await res.json().catch(()=>null);
+        ok = !!(res.ok && j && j.ok);
+        message = (j && j.message) || AI.FRIENDLY['test-fail'];
+        if(ok) keyInput.value = '';
+      }else{
+        const res = await fetch('/api/test', {method: 'POST'});
+        const j = await res.json().catch(()=>null);
+        ok = !!(j && j.connected);
+        message = (j && j.message) || (ok ? AI.FRIENDLY['test-ok'] : AI.FRIENDLY['no-key']);
+      }
+    }catch(e){
+      ok = false;
+      message = aiStatus.mode === 'proxy' ? AI.FRIENDLY.network : AI.FRIENDLY['test-fail'];
+    }
+    setBtnBusy(testKeyBtn, testKeyLbl, false, 'Tester la connexion', 'Test en cours…');
+    aiStatus.verified = ok;
+    await refreshKeyStatus();
+    showToast(message);
+  });
+
+  removeKeyBtn.addEventListener('click', async ()=>{
+    if(removeKeyBtn.disabled) return;
+    removeKeyBtn.disabled = true;
+    try{
+      if(aiStatus.mode === 'proxy') await fetch('/api/key', {method: 'DELETE'});
+      setLocalKey('');
+    }catch(e){}
+    removeKeyBtn.disabled = false;
+    await refreshKeyStatus();
+    showToast('Clé retirée 🔒');
+  });
+
+  /* ---------- CHAT BOOT ---------- */
+  (async function initChat(){
+    await probeProxy();
+    loadHistory();
+    if(history.length) renderHistory();
+    await refreshKeyStatus();
+    updateRegenAvailability();
+    scrollDown(false, true);
+  })();
 
   /* ---------- PROFIL CONTROLS ---------- */
   document.getElementById('darkRow').addEventListener('click', ()=>applyDark(!html.classList.contains('dark'), true));
@@ -947,7 +1614,6 @@ body::before{
   });
   document.getElementById('helpRow').addEventListener('click', ()=>showToast('Un souci ? Écris à Backey 💬'));
   document.getElementById('logoutRow').addEventListener('click', ()=>showToast('Déconnexion… à bientôt ! 👋'));
-  document.getElementById('menuBtn').addEventListener('click', ()=>showToast('Options : effacer, exporter, sonnerie'));
   document.getElementById('statsBtn').addEventListener('click', ()=>showToast('Statistiques · 15 j de série 🔥'));
   document.getElementById('motiv').addEventListener('click', ()=>showToast('Objectif du jour : 2 leçons + 5 exos ✨'));
 

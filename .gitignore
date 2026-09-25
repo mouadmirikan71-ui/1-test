@@ -1,0 +1,14 @@
+# --- secrets: never commit an API key ---
+.env
+.env.*
+!.env.example
+data/
+*.key
+gemini.key
+
+# --- node ---
+node_modules/
+npm-debug.log*
+
+# --- misc ---
+.DS_Store
