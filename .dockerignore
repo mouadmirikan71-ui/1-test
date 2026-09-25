@@ -1,0 +1,29 @@
+# Security-critical: keeps secrets and repository history out of the image
+# build context, so they can never be baked into a layer.
+
+# --- secrets ---
+.env
+.env.*
+!.env.example
+data/
+*.key
+gemini.key
+
+# --- repository history (contains every past version of every file) ---
+.git
+.gitignore
+
+# --- not needed at runtime ---
+node_modules/
+npm-debug.log*
+test/
+README.md
+DEPLOYMENT.md
+railway.json
+render.yaml
+fly.toml
+Dockerfile
+.dockerignore
+
+# --- misc ---
+.DS_Store
