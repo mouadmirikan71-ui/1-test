@@ -552,3 +552,80 @@ test('CUSTODY: no endpoint ever returns any part of the key', async () => {
     }
   } finally { await fx.close(); }
 });
+
+/* ------------------------------------------------------------------ *
+ * Production guards — previously only asserted by reading the code.
+ * ------------------------------------------------------------------ */
+
+test('GUARD: an oversized request body is rejected with 413', async () => {
+  const fx = await boot({ envKey: KEY });
+  try {
+    const huge = JSON.stringify({ history: [{ role: 'user', text: 'x'.repeat(1024 * 1024 + 100) }] });
+    const res = await fetch(fx.base + '/api/chat', {
+      method: 'POST', headers: { 'content-type': 'application/json' }, body: huge
+    });
+    assert.equal(res.status, 413, 'expected 413 for a >1MB body, got ' + res.status);
+    const j = await res.json();
+    assert.equal(j.error.kind, 'invalid-request');
+    assert.ok(!JSON.stringify(j).includes(KEY.slice(6)), 'error body must not leak the key');
+  } finally { await fx.close(); }
+});
+
+test('GUARD: the concurrency cap sheds load with 429 instead of queueing forever', async () => {
+  const fx = await boot({ envKey: KEY, env: { BACKEY_MAX_CONCURRENT: '1' } });
+  try {
+    fx.gemini.setFallback({ hangMs: 1200, stream: ['slow'] });
+    const body = JSON.stringify({ history: [{ role: 'user', text: 'hi' }] });
+    const first = fetch(fx.base + '/api/chat', {
+      method: 'POST', headers: { 'content-type': 'application/json' }, body
+    });
+    await new Promise((r) => setTimeout(r, 250)); // let it take the only slot
+    const second = await fetch(fx.base + '/api/chat', {
+      method: 'POST', headers: { 'content-type': 'application/json' }, body
+    });
+    assert.equal(second.status, 429, 'second concurrent request should be shed');
+    const j = await second.json();
+    assert.equal(j.error.kind, 'busy');
+    assert.ok(typeof j.error.message === 'string' && j.error.message.length > 5);
+    await first; // drain
+  } finally { await fx.close(); }
+});
+
+test('GUARD: the concurrency slot is released after a failure, not leaked', async () => {
+  const fx = await boot({ envKey: KEY, env: { BACKEY_MAX_CONCURRENT: '1' } });
+  try {
+    fx.gemini.setFallback({ status: 403, googleStatus: 'PERMISSION_DENIED' });
+    const body = JSON.stringify({ history: [{ role: 'user', text: 'hi' }] });
+    const post = () => fetch(fx.base + '/api/chat', {
+      method: 'POST', headers: { 'content-type': 'application/json' }, body
+    });
+    for (let i = 0; i < 3; i++) {
+      const r = await post();
+      await r.text();
+      assert.notEqual(r.status, 429, `request ${i + 1} was shed — the slot leaked`);
+    }
+  } finally { await fx.close(); }
+});
+
+test('GUARD: static serving is allowlisted — no source, no traversal, no dotfiles', async () => {
+  const fx = await boot({ envKey: KEY });
+  try {
+    const allowed = ['/', '/index.html', '/lib/ai-core.js'];
+    for (const p of allowed) {
+      const r = await fetch(fx.base + p);
+      assert.equal(r.status, 200, `${p} should be served, got ${r.status}`);
+    }
+    const denied = [
+      '/server.mjs', '/package.json', '/.gitignore', '/data/gemini.key',
+      '/../package.json', '/..%2fpackage.json', '/%2e%2e/server.mjs',
+      '/test/server.test.mjs', '/README.md'
+    ];
+    for (const p of denied) {
+      const r = await fetch(fx.base + p);
+      assert.notEqual(r.status, 200, `${p} must not be served (got ${r.status})`);
+    }
+    // and the served app must not carry key material
+    const html = await (await fetch(fx.base + '/')).text();
+    assert.ok(!html.includes(KEY.slice(6)), 'served HTML leaked key material');
+  } finally { await fx.close(); }
+});

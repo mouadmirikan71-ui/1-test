@@ -145,18 +145,34 @@ function sendJson(res, status, payload) {
 function readBody(req) {
   return new Promise((resolve, reject) => {
     let size = 0;
+    let settled = false;
     const chunks = [];
-    req.on('data', (c) => {
+    const onData = (c) => {
+      if (settled) return;
       size += c.length;
       if (size > BODY_LIMIT) {
+        /*
+         * Stop buffering but do NOT destroy the socket here: destroying it
+         * first means the 413 never reaches the client, which only sees a
+         * connection reset. The handler sends the response, then closes.
+         */
+        settled = true;
+        req.off('data', onData);
+        req.off('end', onEnd);
+        req.pause();
         reject(Object.assign(new Error('payload too large'), { status: 413 }));
-        req.destroy();
         return;
       }
       chunks.push(c);
-    });
-    req.on('end', () => resolve(Buffer.concat(chunks).toString('utf8')));
-    req.on('error', reject);
+    };
+    const onEnd = () => {
+      if (settled) return;
+      settled = true;
+      resolve(Buffer.concat(chunks).toString('utf8'));
+    };
+    req.on('data', onData);
+    req.on('end', onEnd);
+    req.on('error', (e) => { if (!settled) { settled = true; reject(e); } });
   });
 }
 
@@ -536,11 +552,22 @@ const server = http.createServer(async (req, res) => {
     res.writeHead(405, { 'content-type': 'text/plain; charset=utf-8' });
     res.end('Method not allowed');
   } catch (err) {
+    const status = err && err.status === 413 ? 413 : 500;
     logError('unhandled', err && err.name ? err.name : 'error');
     if (!res.headersSent) {
-      sendJson(res, err && err.status === 413 ? 413 : 500, {
-        error: { kind: 'server', message: AI.FRIENDLY.server }
+      sendJson(res, status, {
+        error: {
+          kind: status === 413 ? 'invalid-request' : 'server',
+          message: status === 413 ? AI.FRIENDLY['invalid-request'] : AI.FRIENDLY.server
+        }
       });
+      /*
+       * An over-limit client is usually still writing. Close only after our
+       * response has been flushed, so it receives the 413 rather than a reset.
+       */
+      if (status === 413) {
+        res.on('finish', () => { try { req.destroy(); } catch { /* already gone */ } });
+      }
     } else if (!res.writableEnded) {
       try { sseSend(res, 'error', { kind: 'server', message: AI.FRIENDLY.server }); } catch { /* ignore */ }
       sseEnd(res);
