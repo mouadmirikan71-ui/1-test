@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover" />
+<title>Backey — Ton prof IA pour le 2BAC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+/* ============ THEME TOKENS ============ */
+:root{
+  --g1:#3b82f6; --g2:#8b5cf6; --g3:#14b8a6;
+  --grad: linear-gradient(135deg,#3b82f6 0%,#8b5cf6 52%,#14b8a6 100%);
+  --bg:#eceafb;
+  --bg-glow-1:rgba(59,130,246,.20);
+  --bg-glow-2:rgba(139,92,246,.20);
+  --card:#ffffff;
+  --card-2:#f5f4fc;
+  --text:#15151f;
+  --muted:#6e7086;
+  --border:rgba(21,21,31,.07);
+  --shadow:0 12px 30px rgba(84,72,168,.10);
+  --shadow-sm:0 6px 18px rgba(84,72,168,.08);
+  --nav-bg:rgba(255,255,255,.82);
+  --nav-border:rgba(21,21,31,.06);
+  --bot-bubble:#f2f1f8;
+  --bot-text:#22222e;
+  --chip:rgba(21,21,31,.05);
+  --ring-track:rgba(21,21,31,.08);
+  --board:#171821;
+  --board-2:#101118;
+  --input:#f3f2fa;
+  --tint-1:rgba(59,130,246,.10);
+  --tint-2:rgba(139,92,246,.10);
+  --tint-3:rgba(20,184,166,.10);
+}
+html.dark{
+  --bg:#0a0a0f;
+  --bg-glow-1:rgba(59,130,246,.22);
+  --bg-glow-2:rgba(139,92,246,.22);
+  --card:#14141d;
+  --card-2:#1b1b26;
+  --text:#f3f3f8;
+  --muted:#9a9cb0;
+  --border:rgba(255,255,255,.08);
+  --shadow:0 14px 34px rgba(0,0,0,.55);
+  --shadow-sm:0 8px 22px rgba(0,0,0,.45);
+  --nav-bg:rgba(13,13,20,.86);
+  --nav-border:rgba(255,255,255,.07);
+  --bot-bubble:#1c1c27;
+  --bot-text:#e9e9f2;
+  --chip:rgba(255,255,255,.06);
+  --ring-track:rgba(255,255,255,.10);
+  --board:#171821;
+  --board-2:#0f0f16;
+  --input:#1b1b26;
+  --tint-1:rgba(59,130,246,.16);
+  --tint-2:rgba(139,92,246,.16);
+  --tint-3:rgba(20,184,166,.16);
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;padding:0}
+body{
+  font-family:'Poppins',system-ui,-apple-system,'Segoe UI',sans-serif;
+  background:var(--bg);
+  color:var(--text);
+  min-height:100dvh;
+  display:flex;align-items:center;justify-content:center;
+  transition:background .35s ease,color .35s ease;
+  -webkit-font-smoothing:antialiased;
+}
+body::before{
+  content:"";position:fixed;inset:0;pointer-events:none;z-index:0;
+  background:
+    radial-gradient(520px 420px at 12% 6%,var(--bg-glow-1),transparent 70%),
+    radial-gradient(560px 460px at 92% 96%,var(--bg-glow-2),transparent 70%);
+  transition:background .35s ease;
+}
+
+/* ============ PHONE SHELL ============ */
+.phone{
+  position:relative;z-index:1;
+  width:100%;max-width:400px;
+  height:100dvh;
+  background:var(--bg);
+  display:flex;flex-direction:column;
+  overflow:hidden;
+  transition:background .35s ease;
+}
+@media(min-width:480px) and (min-height:760px){
+  .phone{height:min(880px,calc(100dvh - 48px));border-radius:44px;
+    box-shadow:0 40px 80px -20px rgba(40,30,90,.35),0 0 0 10px var(--card),0 0 0 11px var(--border)}
+}
+.statusbar{
+  flex:0 0 auto;height:44px;padding:0 22px 0 26px;
+  display:flex;align-items:center;justify-content:space-between;
+  font-size:13.5px;font-weight:600;letter-spacing:.2px;
+}
+.statusbar .sicons{display:flex;align-items:center;gap:6px}
+
+/* ============ SCREENS ============ */
+.stage{position:relative;flex:1;min-height:0;overflow:hidden}
+.screen{
+  position:absolute;inset:0;overflow-y:auto;overflow-x:hidden;
+  padding:4px 20px 96px;
+  opacity:0;transform:translateY(10px) scale(.99);
+  pointer-events:none;
+  transition:opacity .28s ease,transform .28s ease;
+  scrollbar-width:none;
+}
+.screen::-webkit-scrollbar{display:none}
+.screen.active{opacity:1;transform:none;pointer-events:auto}
+#screen-chat{display:flex;flex-direction:column;padding:0;overflow:hidden}
+#screen-chat.active{transform:none}
+
+/* ============ TYPO / UTILS ============ */
+.h1{font-size:25px;font-weight:700;line-height:1.25;letter-spacing:-.4px;margin:0}
+.grad-text{background:var(--grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+.grad-fill{fill:url(#bgrad)}
+.sub{color:var(--muted);font-size:13.5px;font-weight:500}
+.card{background:var(--card);border:1px solid var(--border);border-radius:20px;box-shadow:var(--shadow-sm)}
+.row{display:flex;align-items:center;gap:12px}
+.press{transition:transform .18s cubic-bezier(.2,.9,.3,1),box-shadow .2s}
+.press:active{transform:scale(.955)}
+
+/* ============ HEADER ============ */
+.apphead{display:flex;align-items:center;gap:10px;padding:6px 0 16px}
+.logo-ico{
+  width:38px;height:38px;border-radius:13px;display:grid;place-items:center;
+  background:var(--card);border:1px solid var(--border);box-shadow:var(--shadow-sm)
+}
+.logo-ico svg{width:22px;height:22px}
+.wordmark{font-size:19px;font-weight:700;letter-spacing:-.4px}
+.pill{
+  font-size:10.5px;font-weight:700;padding:4px 9px;border-radius:999px;
+  background:var(--grad);color:#fff;letter-spacing:.5px;box-shadow:0 4px 12px rgba(139,92,246,.32)
+}
+.icon-btn{
+  width:38px;height:38px;border-radius:13px;border:1px solid var(--border);
+  background:var(--card);display:grid;place-items:center;color:var(--text);
+  box-shadow:var(--shadow-sm);cursor:pointer;flex:0 0 auto;
+  transition:transform .18s ease
+}
+.icon-btn:active{transform:scale(.9)}
+.icon-btn svg{width:19px;height:19px}
+.spacer{flex:1}
+
+/* ============ BANNERS ============ */
+.banner{
+  border-radius:20px;padding:15px 16px;display:flex;align-items:center;gap:12px;
+  background:linear-gradient(135deg,var(--tint-1),var(--tint-2) 50%,var(--tint-3));
+  border:1px solid var(--border);cursor:pointer;
+  transition:transform .18s cubic-bezier(.2,.9,.3,1)
+}
+.banner:active{transform:scale(.975)}
+.banner .btitle{font-size:13.8px;font-weight:600;line-height:1.4}
+.banner .ico-wrap{
+  width:36px;height:36px;border-radius:12px;background:var(--grad);
+  display:grid;place-items:center;color:#fff;flex:0 0 auto;box-shadow:0 6px 16px rgba(139,92,246,.32)
+}
+.banner .ico-wrap svg{width:19px;height:19px}
+.banner .chev{margin-left:auto;color:var(--muted);flex:0 0 auto}
+.banner .chev svg{width:18px;height:18px}
+
+/* ===== Home : 2×2 grid → 3 chalkboard subjects + "Chat avec Backey" ===== */
+.sec-row{display:flex;align-items:center;justify-content:space-between;margin:22px 2px 10px}
+.sec-row .sec{margin:0}
+.link{
+  border:none;padding:4px 2px;cursor:pointer;font-family:inherit;font-size:12px;font-weight:600;
+  background:var(--grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent
+}
+.board-grid{
+  --chalk-tex:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cg fill='none' stroke='%23ffffff' stroke-opacity='.075' stroke-width='1.1' stroke-linecap='round'%3E%3Cpath d='M8 98c13-11 21-27 29-45'/%3E%3Cpath d='M27 28c6 8 14 12 24 12'/%3E%3Ccircle cx='88' cy='24' r='9'/%3E%3Cpath d='M68 88c8-12 20-18 34-16'/%3E%3Cpath d='M50 62c6-4 15-4 21 0'/%3E%3Cpath d='M74 50h20M84 40v20'/%3E%3C/g%3E%3C/svg%3E");
+  display:grid;grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:1fr;gap:12px
+}
+.board{
+  position:relative;overflow:hidden;isolation:isolate;
+  display:flex;flex-direction:column;min-height:150px;padding:14px;border-radius:20px;
+  background:
+    var(--chalk-tex),
+    radial-gradient(70% 50% at 88% 6%,rgba(255,255,255,.07),transparent 70%),
+    radial-gradient(120% 90% at 20% 0%,#22232e 0%,var(--board) 45%,var(--board-2) 100%);
+  border:1px solid rgba(255,255,255,.07);
+  box-shadow:var(--shadow-sm);cursor:pointer;color:#fff;
+  transition:transform .18s cubic-bezier(.2,.9,.3,1),box-shadow .2s;
+}
+.board:active{transform:scale(.955)}
+/* chalk formulas doodled on each board */
+.chalk{position:absolute;inset:0;z-index:-1;pointer-events:none;color:#fff;font-family:'Caveat',cursive;font-weight:600}
+.chalk > *{position:absolute;opacity:.17;line-height:1;white-space:nowrap}
+.chalk svg{fill:none;stroke:#fff;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.btop{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
+.board .sico{
+  width:38px;height:38px;border-radius:12px;display:grid;place-items:center;color:#fff;flex:0 0 auto;
+  box-shadow:0 8px 16px -6px rgba(0,0,0,.55),inset 0 1px 0 rgba(255,255,255,.22)
+}
+.board .sico svg{width:20px;height:20px}
+.board .go{
+  width:28px;height:28px;border-radius:50%;display:grid;place-items:center;flex:0 0 auto;
+  background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.14);color:#fff;
+  transition:transform .2s ease,background .2s ease
+}
+.board:hover .go{transform:translateX(2px)}
+.board .go svg{width:13px;height:13px}
+.bbody{margin-top:auto;padding-top:12px;min-width:0}
+.board .sname{font-size:14.5px;font-weight:600;letter-spacing:-.1px;line-height:1.3}
+.board .ssub{font-size:10.8px;font-weight:500;color:rgba(255,255,255,.6);margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mrow{display:flex;align-items:center;gap:8px;height:20px;margin-top:8px}
+.mbar{flex:1;height:5px;border-radius:999px;background:rgba(255,255,255,.12);overflow:hidden}
+.mbar i{display:block;height:100%;width:0;border-radius:inherit}
+.mpct{font-size:10.5px;font-weight:700;color:rgba(255,255,255,.9);min-width:26px;text-align:right}
+
+/* 4th card : Chat avec Backey (same shape, gradient skin) */
+.board.chatcard{
+  background:linear-gradient(140deg,#4f7ff3 0%,#8b5cf6 55%,#12b3a4 100%);
+  border-color:rgba(255,255,255,.22);
+  box-shadow:0 16px 30px -14px rgba(99,102,241,.8);
+}
+.chatcard .glow{position:absolute;z-index:-1;border-radius:50%;pointer-events:none;background:rgba(255,255,255,.15)}
+.chatcard .glow.a{width:130px;height:130px;right:-48px;top:-56px}
+.chatcard .glow.b{width:96px;height:96px;left:-38px;bottom:-46px;background:rgba(255,255,255,.08)}
+.mascot{width:50px;height:50px;margin:-6px 0 0 -5px;color:#fff;flex:0 0 auto;
+  filter:drop-shadow(0 6px 10px rgba(30,20,90,.32));animation:floaty 3.2s ease-in-out infinite}
+.mascot svg{display:block;width:50px;height:50px}
+.chatcard .go{background:rgba(255,255,255,.22);border-color:rgba(255,255,255,.36)}
+.chatcard .ssub{color:rgba(255,255,255,.88)}
+.online{display:inline-flex;align-items:center;gap:6px;height:20px;padding:0 9px;border-radius:999px;
+  font-size:10px;font-weight:600;background:rgba(255,255,255,.2);border:1px solid rgba(255,255,255,.3)}
+.online i{width:6px;height:6px;border-radius:50%;background:#6ee7b7;animation:live 1.8s infinite}
+@keyframes live{0%{box-shadow:0 0 0 0 rgba(110,231,183,.8)}70%{box-shadow:0 0 0 6px rgba(110,231,183,0)}100%{box-shadow:0 0 0 0 rgba(110,231,183,0)}}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+
+/* section title */
+.sec{font-size:13px;font-weight:600;color:var(--muted);letter-spacing:.2px;margin:22px 2px 10px}
+
+/* ============ CHAT ============ */
+.chat-head{
+  flex:0 0 auto;display:flex;align-items:center;gap:10px;padding:8px 16px 12px;
+  border-bottom:1px solid var(--border);background:var(--card);
+  box-shadow:0 6px 18px -14px rgba(0,0,0,.4)
+}
+.avatar{
+  width:38px;height:38px;border-radius:50%;background:var(--grad);display:grid;place-items:center;
+  color:#fff;flex:0 0 auto;box-shadow:0 6px 14px rgba(139,92,246,.35)
+}
+.avatar svg{width:24px;height:24px}
+.chat-name{font-size:15px;font-weight:600;letter-spacing:-.2px}
+.chat-role{font-size:11px;color:var(--muted);font-weight:500}
+.msgs{flex:1;min-height:0;overflow-y:auto;padding:16px 16px 14px;display:flex;flex-direction:column;gap:12px;scrollbar-width:none}
+.msgs::-webkit-scrollbar{display:none}
+.msg{display:flex;gap:8px;max-width:86%;animation:pop .32s cubic-bezier(.2,.9,.3,1) both}
+@keyframes pop{from{opacity:0;transform:translateY(8px) scale(.97)}to{opacity:1;transform:none}}
+.msg.bot{align-self:flex-start}
+.msg.me{align-self:flex-end;flex-direction:row-reverse;max-width:84%}
+.bubble{padding:10px 13px;border-radius:18px;font-size:13.2px;line-height:1.55;font-weight:500}
+.msg.bot .bubble{background:var(--bot-bubble);color:var(--bot-text);border:1px solid var(--border);border-top-left-radius:6px}
+.msg.me .bubble{background:var(--grad);color:#fff;border-bottom-right-radius:6px;box-shadow:0 8px 18px -8px rgba(99,102,241,.6)}
+.meta{display:flex;align-items:center;gap:4px;margin-top:5px;font-size:9.5px;font-weight:500;color:var(--muted)}
+.msg.me .meta{justify-content:flex-end;color:rgba(255,255,255,.82)}
+.meta svg{width:13px;height:13px}
+.mini-bot{width:28px;height:28px;border-radius:50%;background:var(--grad);display:grid;place-items:center;color:#fff;flex:0 0 auto;margin-top:auto}
+.mini-bot svg{width:18px;height:18px}
+.day{align-self:center;font-size:10px;font-weight:600;color:var(--muted);background:var(--chip);padding:4px 10px;border-radius:999px}
+.typing{display:flex;gap:4px;align-items:center;padding:4px 2px}
+.typing i{width:6px;height:6px;border-radius:50%;background:var(--muted);display:block;animation:bl 1.1s infinite}
+.typing i:nth-child(2){animation-delay:.16s}
+.typing i:nth-child(3){animation-delay:.32s}
+@keyframes bl{0%,60%,100%{opacity:.3;transform:translateY(0)}30%{opacity:1;transform:translateY(-3px)}}
+.chat-input{
+  flex:0 0 auto;display:flex;align-items:center;gap:9px;
+  padding:10px 14px calc(76px + env(safe-area-inset-bottom));
+  border-top:1px solid var(--border);background:var(--card)
+}
+.chat-input .attach{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;background:var(--chip);color:var(--muted);flex:0 0 auto}
+.chat-input .attach svg{width:19px;height:19px}
+.chat-input input{
+  flex:1;min-width:0;height:44px;border-radius:22px;border:1px solid var(--border);
+  background:var(--input);color:var(--text);padding:0 16px;font-family:inherit;font-size:13.5px;font-weight:500;outline:none
+}
+.chat-input input::placeholder{color:var(--muted)}
+.send{
+  width:44px;height:44px;border-radius:50%;border:none;background:var(--grad);color:#fff;
+  display:grid;place-items:center;flex:0 0 auto;cursor:pointer;
+  box-shadow:0 8px 18px -6px rgba(99,102,241,.7);transition:transform .18s
+}
+.send:active{transform:scale(.9)}
+.send svg{width:19px;height:19px}
+
+/* ============ MATIÈRES ============ */
+.topbanner{
+  position:relative;overflow:hidden;border-radius:20px;padding:16px;color:#fff;
+  background:linear-gradient(135deg,#3b82f6 0%,#8b5cf6 58%,#14b8a6 100%);
+  box-shadow:0 16px 34px -14px rgba(99,102,241,.65)
+}
+.topbanner .tt{font-size:17px;font-weight:700;letter-spacing:-.4px;line-height:1.3}
+.topbanner .ts{font-size:12px;opacity:.9;font-weight:500;margin-top:4px}
+.topbanner svg.cap{position:absolute;right:8px;bottom:-6px;width:104px;height:104px;opacity:.96}
+.topbanner .glow{position:absolute;width:140px;height:140px;border-radius:50%;background:rgba(255,255,255,.14);right:-30px;top:-50px}
+.subj{
+  background:var(--card);border:1px solid var(--border);border-radius:20px;padding:15px;
+  box-shadow:var(--shadow-sm);margin-top:14px;cursor:pointer;
+  transition:transform .18s cubic-bezier(.2,.9,.3,1),box-shadow .2s
+}
+.subj:active{transform:scale(.975)}
+.subj-top{display:flex;align-items:center;gap:11px}
+.sq{width:40px;height:40px;border-radius:13px;display:grid;place-items:center;color:#fff;flex:0 0 auto;box-shadow:0 6px 14px -4px rgba(0,0,0,.28)}
+.sq svg{width:21px;height:21px}
+.subj-name{font-size:14.5px;font-weight:600;letter-spacing:-.2px}
+.tags{font-size:11px;color:var(--muted);font-weight:500;margin-top:2px}
+.ring{position:relative;width:52px;height:52px;flex:0 0 auto}
+.ring svg{transform:rotate(-90deg);width:52px;height:52px}
+.ring .bg{stroke:var(--ring-track)}
+.ring .fg{transition:stroke-dashoffset 1.4s cubic-bezier(.22,1,.36,1)}
+.ring-num{position:absolute;inset:0;display:grid;place-items:center;font-size:11.5px;font-weight:700}
+.bar{height:7px;border-radius:999px;background:var(--ring-track);margin-top:14px;overflow:hidden}
+.bar i{display:block;height:100%;border-radius:999px;width:0;transition:width 1.4s cubic-bezier(.22,1,.36,1)}
+.chips{display:flex;gap:7px;margin-top:13px;flex-wrap:wrap}
+.chip{
+  display:inline-flex;align-items:center;gap:5px;font-size:10.4px;font-weight:600;
+  background:var(--chip);color:var(--muted);padding:6px 9px;border-radius:10px
+}
+.chip svg{width:12px;height:12px}
+.foot{text-align:center;color:var(--muted);font-size:11.5px;font-weight:500;margin:20px 0 4px}
+
+/* ============ PROFIL ============ */
+.usercard{
+  display:flex;align-items:center;gap:13px;background:var(--card);border:1px solid var(--border);
+  border-radius:20px;padding:16px;box-shadow:var(--shadow-sm)
+}
+.bigava{width:56px;height:56px;border-radius:19px;background:var(--grad);display:grid;place-items:center;color:#fff;
+  font-size:19px;font-weight:700;box-shadow:0 10px 22px -8px rgba(139,92,246,.7);flex:0 0 auto}
+.uname{font-size:16px;font-weight:600;letter-spacing:-.3px}
+.ulevel{display:inline-flex;align-items:center;gap:5px;margin-top:5px;font-size:10.5px;font-weight:700;color:#fff;
+  background:var(--grad);padding:4px 9px;border-radius:999px}
+.mini-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin-top:14px}
+.mini-stats .m{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:11px 8px;text-align:center;box-shadow:var(--shadow-sm)}
+.mini-stats .mv{font-size:16px;font-weight:700;background:var(--grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.mini-stats .ml{font-size:9.8px;color:var(--muted);font-weight:500;margin-top:2px}
+.settings{overflow:hidden;border-radius:20px;background:var(--card);border:1px solid var(--border);box-shadow:var(--shadow-sm)}
+.srow{display:flex;align-items:center;gap:12px;padding:14px 15px;border-bottom:1px solid var(--border);cursor:pointer;transition:background .18s}
+.srow:last-child{border-bottom:none}
+.srow:active{background:var(--chip)}
+.srow .si{width:34px;height:34px;border-radius:11px;display:grid;place-items:center;background:var(--chip);color:var(--text);flex:0 0 auto}
+.srow .si svg{width:17px;height:17px}
+.srow .sl{font-size:13.5px;font-weight:600;flex:1}
+.srow .sv{font-size:11.5px;color:var(--muted);font-weight:500}
+.srow.danger .sl{color:#ef4444}
+.srow.danger .si{color:#ef4444;background:rgba(239,68,68,.12)}
+.chev{color:var(--muted);display:grid;place-items:center}
+.chev svg{width:16px;height:16px}
+.switch{width:46px;height:27px;border-radius:999px;background:var(--ring-track);position:relative;flex:0 0 auto;
+  border:1px solid var(--border);transition:background .25s}
+.switch i{position:absolute;top:2.5px;left:2.5px;width:20px;height:20px;border-radius:50%;background:#fff;
+  box-shadow:0 2px 6px rgba(0,0,0,.25);transition:transform .25s cubic-bezier(.2,.9,.3,1)}
+.switch.on{background:var(--grad)}
+.switch.on i{transform:translateX(19px)}
+
+/* ============ BOTTOM NAV ============ */
+.bottomnav{
+  position:absolute;left:0;right:0;bottom:0;z-index:20;
+  display:grid;grid-template-columns:repeat(4,1fr);
+  padding:6px 8px calc(10px + env(safe-area-inset-bottom));
+  background:var(--nav-bg);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
+  border-top:1px solid var(--nav-border)
+}
+.nav-btn{background:none;border:none;padding:7px 2px 4px;display:flex;flex-direction:column;align-items:center;gap:3px;
+  color:var(--muted);cursor:pointer;font-family:inherit;position:relative;transition:color .22s,transform .18s}
+.nav-btn:active{transform:scale(.92)}
+.nav-btn .ni{height:23px;display:grid;place-items:center}
+.nav-btn .ni svg{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width:1.8}
+.nav-btn span{font-size:10px;font-weight:600;letter-spacing:.1px}
+.nav-btn.active{color:transparent}
+.nav-btn.active .ni svg{stroke:url(#bgrad);stroke-width:2}
+.nav-btn.active span{background:var(--grad);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.nav-btn::before{content:"";position:absolute;top:-6px;left:50%;transform:translateX(-50%) scaleX(0);width:34px;height:3px;
+  border-radius:999px;background:var(--grad);transition:transform .28s cubic-bezier(.2,.9,.3,1)}
+.nav-btn.active::before{transform:translateX(-50%) scaleX(1)}
+
+/* toast */
+.toast{
+  position:absolute;left:50%;bottom:96px;transform:translate(-50%,16px);z-index:40;
+  background:var(--card);border:1px solid var(--border);color:var(--text);
+  padding:10px 16px;border-radius:14px;font-size:12.5px;font-weight:600;box-shadow:var(--shadow);
+  opacity:0;pointer-events:none;transition:.3s;white-space:nowrap
+}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+
+<!-- shared gradient + icons -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <linearGradient id="bgrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3b82f6"/><stop offset="52%" stop-color="#8b5cf6"/><stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+    <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 2.2l2.1 5.3a3 3 0 001.7 1.7l5.3 2.1-5.3 2.1a3 3 0 00-1.7 1.7L12 20.4l-2.1-5.3a3 3 0 00-1.7-1.7L2.9 11.3l5.3-2.1a3 3 0 001.7-1.7L12 2.2z"/><path d="M18.6 2.4l.6 1.5 1.5.6-1.5.6-.6 1.5-.6-1.5-1.5-.6 1.5-.6.6-1.5z"/></symbol>
+    <symbol id="i-home" viewBox="0 0 24 24"><path d="M3.5 10.4L12 3.6l8.5 6.8V19a1.6 1.6 0 01-1.6 1.6h-3.3v-5.4H8.4v5.4H5.1A1.6 1.6 0 013.5 19v-8.6z" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-chat" viewBox="0 0 24 24"><path d="M20.5 12c0 4-3.8 7.2-8.5 7.2-1 0-2-.15-2.9-.43L4.2 20.4l1.3-3.6C4.2 15.4 3.5 13.8 3.5 12c0-4 3.8-7.2 8.5-7.2s8.5 3.2 8.5 7.2z" stroke-linecap="round" stroke-linejoin="round"/><path d="M8.6 12h.01M12 12h.01M15.4 12h.01" stroke-linecap="round" stroke-width="2.4"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5.2A2.2 2.2 0 016.2 3H19v15.2H6.4A2.4 2.4 0 004 20.6V5.2z" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 18.4A2.2 2.2 0 016.2 16.2H19V21H6.2A2.2 2.2 0 014 18.8v-.4z" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-user" viewBox="0 0 24 24"><circle cx="12" cy="8.2" r="3.7" stroke-linecap="round"/><path d="M4.8 20c.9-3.6 3.8-5.6 7.2-5.6s6.3 2 7.2 5.6" stroke-linecap="round"/></symbol>
+    <symbol id="i-calc" viewBox="0 0 24 24"><rect x="4.6" y="2.6" width="14.8" height="18.8" rx="3.2" stroke="currentColor" fill="none" stroke-width="1.8"/><rect x="7.4" y="5.6" width="9.2" height="3.6" rx="1.2" fill="currentColor" opacity=".55"/><path d="M8 13h.01M12 13h.01M16 13h.01M8 17.4h.01M12 17.4h.01M16 17.4h.01" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" fill="none"/></symbol>
+    <symbol id="i-atom" viewBox="0 0 24 24"><circle cx="12" cy="12" r="2.2" fill="currentColor"/><ellipse cx="12" cy="12" rx="9" ry="4" stroke="currentColor" fill="none" stroke-width="1.7"/><ellipse cx="12" cy="12" rx="9" ry="4" stroke="currentColor" fill="none" stroke-width="1.7" transform="rotate(60 12 12)"/><ellipse cx="12" cy="12" rx="9" ry="4" stroke="currentColor" fill="none" stroke-width="1.7" transform="rotate(120 12 12)"/></symbol>
+    <symbol id="i-dna" viewBox="0 0 24 24"><g transform="rotate(32 12 12)" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M7.5 2.5C7.5 7.5 16.5 7.5 16.5 12C16.5 16.5 7.5 16.5 7.5 21.5"/><path d="M16.5 2.5C16.5 7.5 7.5 7.5 7.5 12C7.5 16.5 16.5 16.5 16.5 21.5"/><path d="M8.5 4.2h7M8.5 10.4h7M8.5 13.6h7M8.5 19.8h7" stroke-width="1.5" opacity=".85"/></g></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M4.5 12h14M13 6.4l5.8 5.6-5.8 5.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-chev" viewBox="0 0 24 24"><path d="M9 5.5l6.5 6.5L9 18.5" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-back" viewBox="0 0 24 24"><path d="M19.5 12h-14M11 6.4L5.2 12l5.8 5.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-dots" viewBox="0 0 24 24"><circle cx="5.5" cy="12" r="1.8" fill="currentColor"/><circle cx="12" cy="12" r="1.8" fill="currentColor"/><circle cx="18.5" cy="12" r="1.8" fill="currentColor"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14" stroke-linecap="round" stroke-width="2.1"/></symbol>
+    <symbol id="i-send" viewBox="0 0 24 24"><path d="M21 3L10.6 13.4M21 3l-6.6 18-3.8-7.6L3 9.6 21 3z" stroke="currentColor" fill="none" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-checks" viewBox="0 0 24 24"><path d="M1.5 12.6l3.2 3.2 6-6.6" stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M9.2 12.6l3.2 3.2 6-6.6" stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="M4.5 12.6l4.4 4.4L19.5 6.4" stroke="currentColor" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3.4l2.7 5.6 6.1.8-4.5 4.3 1.1 6.1-5.4-3-5.4 3 1.1-6.1L3.2 9.8l6.1-.8L12 3.4z" stroke="currentColor" fill="none" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+    <symbol id="i-chart" viewBox="0 0 24 24"><path d="M5 19V12M12 19V5M19 19v-5" stroke-linecap="round" stroke-width="2.2"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.2A8.2 8.2 0 019.8 4 8.4 8.4 0 1020 14.2z" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-bell" viewBox="0 0 24 24"><path d="M18 15.6V11a6 6 0 10-12 0v4.6L4.4 18h15.2L18 15.6z" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 21h4" stroke-linecap="round"/></symbol>
+    <symbol id="i-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.6"/><path d="M3.6 12h16.8M12 3.4c2.3 2.3 3.4 5.2 3.4 8.6s-1.1 6.3-3.4 8.6c-2.3-2.3-3.4-5.2-3.4-8.6s1.1-6.3 3.4-8.6z"/></symbol>
+    <symbol id="i-help" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.6"/><path d="M9.6 9.4a2.5 2.5 0 114.2 1.8c-.8.7-1.8 1.2-1.8 2.4" stroke-linecap="round"/><path d="M12 17.2h.01" stroke-linecap="round" stroke-width="2.2"/></symbol>
+    <symbol id="i-out" viewBox="0 0 24 24"><path d="M15 8.2V6.4A1.9 1.9 0 0013.1 4.5H6.4A1.9 1.9 0 004.5 6.4v11.2a1.9 1.9 0 001.9 1.9h6.7a1.9 1.9 0 001.9-1.9v-1.8" stroke-linecap="round"/><path d="M10.5 12h9.5M17.2 9.2L20 12l-2.8 2.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-cap" viewBox="0 0 24 24"><path d="M12 3.2L23 8.4 12 13.6 1 8.4 12 3.2z" fill="currentColor"/><path d="M12 13.6L1 8.4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" opacity="0"/><path d="M5.6 10.6v4.1c0 1.9 2.9 3.3 6.4 3.3s6.4-1.4 6.4-3.3v-4.1" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M22.2 8.9v5.3" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><circle cx="22.2" cy="15.4" r="1.35" fill="currentColor"/></symbol>
+    <symbol id="i-bot" viewBox="0 0 48 48"><path d="M24 5.5a2.6 2.6 0 012.6 2.6c0 1-.6 1.9-1.4 2.3v3.2h-2.4v-3.2a2.6 2.6 0 011.2-4.9z" fill="currentColor"/><rect x="3.6" y="21.4" width="5" height="10.4" rx="2.5" fill="currentColor" opacity=".65"/><rect x="39.4" y="21.4" width="5" height="10.4" rx="2.5" fill="currentColor" opacity=".65"/><rect x="8" y="13.4" width="32" height="25.6" rx="11" fill="currentColor"/><rect x="13" y="18.4" width="22" height="15.6" rx="8" fill="#0d0d16" opacity=".34"/><circle cx="19" cy="26" r="2.7" fill="#fff"/><circle cx="29" cy="26" r="2.7" fill="#fff"/><path d="M19.5 30.6c2.6 2.4 6.4 2.4 9 0" stroke="#fff" stroke-width="1.9" fill="none" stroke-linecap="round"/><rect x="21" y="39" width="6" height="4.2" rx="2.1" fill="currentColor" opacity=".65"/></symbol>
+  </defs>
+</svg>
+
+<div class="phone">
+  <!-- STATUS BAR -->
+  <div class="statusbar">
+    <div>9:41</div>
+    <div class="sicons">
+      <svg width="17" height="12" viewBox="0 0 17 12" fill="currentColor"><rect x="0" y="8" width="3" height="4" rx="1"/><rect x="4.6" y="5.5" width="3" height="6.5" rx="1"/><rect x="9.2" y="3" width="3" height="9" rx="1"/><rect x="13.8" y="0.5" width="3" height="11.5" rx="1" opacity=".35"/></svg>
+      <svg width="16" height="12" viewBox="0 0 16 12" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M1 4.2A9.5 9.5 0 0115 4.2"/><path d="M3.6 6.9a6 6 0 018.8 0"/><path d="M6.3 9.5a2.4 2.4 0 013.4 0"/></svg>
+      <svg width="25" height="12" viewBox="0 0 25 12" fill="none"><rect x="0.6" y="0.6" width="20" height="10.8" rx="3.2" stroke="currentColor" stroke-opacity=".45" stroke-width="1.1"/><rect x="2.4" y="2.4" width="14" height="7.2" rx="2" fill="currentColor"/><path d="M22.4 4v4a2.2 2.2 0 000-4z" fill="currentColor" fill-opacity=".45"/></svg>
+    </div>
+  </div>
+
+  <div class="stage">
+    <!-- ============ SCREEN 1 : HOME ============ -->
+    <section class="screen active" id="screen-home">
+      <header class="apphead">
+        <div class="logo-ico"><svg class="grad-fill"><use href="#i-spark"/></svg></div>
+        <div class="wordmark">Backey</div>
+        <div class="pill">2BAC</div>
+        <div class="spacer"></div>
+        <button class="icon-btn" data-go="profil" aria-label="Profil"><svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-user"/></svg></button>
+      </header>
+
+      <div style="padding:2px 2px 0">
+        <h1 class="h1">Salut <span class="grad-text">Yassine</span> !</h1>
+        <p class="sub" style="margin:5px 0 0">Prêt à progresser aujourd'hui ?</p>
+      </div>
+
+      <div class="banner press" id="motiv" style="margin-top:16px">
+        <div class="ico-wrap"><svg fill="currentColor"><use href="#i-spark"/></svg></div>
+        <div class="btitle">Un petit effort chaque jour fait de grandes réussites !</div>
+        <div class="chev"><svg fill="none" stroke="currentColor" stroke-width="2"><use href="#i-chev"/></svg></div>
+      </div>
+
+      <div class="sec-row">
+        <div class="sec">Par où commencer ?</div>
+        <button class="link" data-go="matieres">Voir tout</button>
+      </div>
+
+      <!-- 4 cards : Maths · Physique · SVT · Chat avec Backey -->
+      <div class="board-grid">
+        <!-- Maths -->
+        <div class="board press" data-go="matieres" aria-label="Maths">
+          <div class="chalk" aria-hidden="true">
+            <span style="top:6px;left:62px;font-size:30px;transform:rotate(-10deg)">π</span>
+            <span style="top:12px;right:48px;font-size:16px;transform:rotate(6deg)">x²</span>
+            <span style="top:50px;right:12px;font-size:17px;transform:rotate(-6deg)">∫ f(x)dx</span>
+            <span style="top:56px;left:15px;font-size:15px;transform:rotate(-3deg)">lim</span>
+          </div>
+          <div class="btop">
+            <div class="sico" style="background:linear-gradient(135deg,#3b82f6,#2563eb)"><svg fill="none" stroke="currentColor" stroke-width="1.7"><use href="#i-calc"/></svg></div>
+            <div class="go"><svg fill="none" stroke="currentColor" stroke-width="2.4"><use href="#i-arrow"/></svg></div>
+          </div>
+          <div class="bbody">
+            <div class="sname">Maths</div>
+            <div class="ssub">Limites · Continuité · TVI</div>
+            <div class="mrow"><div class="mbar"><i data-pct="68" style="background:linear-gradient(90deg,#60a5fa,#3b82f6)"></i></div><span class="mpct">68%</span></div>
+          </div>
+        </div>
+
+        <!-- Physique -->
+        <div class="board press" data-go="matieres" aria-label="Physique">
+          <div class="chalk" aria-hidden="true">
+            <span style="top:9px;left:60px;font-size:16px;transform:rotate(-7deg)">E = mc²</span>
+            <svg style="top:50px;right:10px;width:70px;height:18px" viewBox="0 0 70 18"><path d="M2 9Q10 1 18 9T34 9T50 9T66 9"/></svg>
+            <span style="top:55px;left:15px;font-size:14px;transform:rotate(-3deg)">F = m·a</span>
+          </div>
+          <div class="btop">
+            <div class="sico" style="background:linear-gradient(135deg,#8b5cf6,#6d28d9)"><svg fill="none" stroke="currentColor" stroke-width="1.6"><use href="#i-atom"/></svg></div>
+            <div class="go"><svg fill="none" stroke="currentColor" stroke-width="2.4"><use href="#i-arrow"/></svg></div>
+          </div>
+          <div class="bbody">
+            <div class="sname">Physique</div>
+            <div class="ssub">Mécanique · Électricité</div>
+            <div class="mrow"><div class="mbar"><i data-pct="74" style="background:linear-gradient(90deg,#a78bfa,#8b5cf6)"></i></div><span class="mpct">74%</span></div>
+          </div>
+        </div>
+
+        <!-- SVT -->
+        <div class="board press" data-go="matieres" aria-label="SVT">
+          <div class="chalk" aria-hidden="true">
+            <span style="top:8px;left:62px;font-size:17px;transform:rotate(-6deg)">ADN</span>
+            <svg style="top:46px;right:10px;width:72px;height:24px" viewBox="0 0 72 24"><path d="M2 12Q10.5 0 19 12T36 12T53 12T70 12M2 12Q10.5 24 19 12T36 12T53 12T70 12M10.5 6.5v11M27.5 6.5v11M44.5 6.5v11M61.5 6.5v11"/></svg>
+            <span style="top:56px;left:15px;font-size:13px;transform:rotate(-3deg)">A=T · G≡C</span>
+          </div>
+          <div class="btop">
+            <div class="sico" style="background:linear-gradient(135deg,#14b8a6,#0d9488)"><svg fill="none" stroke="currentColor" stroke-width="1.7"><use href="#i-dna"/></svg></div>
+            <div class="go"><svg fill="none" stroke="currentColor" stroke-width="2.4"><use href="#i-arrow"/></svg></div>
+          </div>
+          <div class="bbody">
+            <div class="sname">SVT</div>
+            <div class="ssub">Génétique · Écosystèmes</div>
+            <div class="mrow"><div class="mbar"><i data-pct="61" style="background:linear-gradient(90deg,#5eead4,#14b8a6)"></i></div><span class="mpct">61%</span></div>
+          </div>
+        </div>
+
+        <!-- Chat avec Backey : 4th card -->
+        <div class="board chatcard press" data-go="chat" aria-label="Chat avec Backey">
+          <span class="glow a"></span><span class="glow b"></span>
+          <div class="btop">
+            <div class="mascot"><svg viewBox="0 0 48 48" fill="currentColor"><use href="#i-bot"/></svg></div>
+            <div class="go"><svg fill="none" stroke="currentColor" stroke-width="2.4"><use href="#i-arrow"/></svg></div>
+          </div>
+          <div class="bbody">
+            <div class="sname">Chat avec Backey</div>
+            <div class="ssub">Ton prof IA, toujours là !</div>
+            <div class="mrow"><span class="online"><i></i>En ligne</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="foot">Backey · Ton compagnon de révision 2BAC</div>
+    </section>
+
+    <!-- ============ SCREEN 2 : CHAT ============ -->
+    <section class="screen" id="screen-chat">
+      <div class="chat-head">
+        <button class="icon-btn" data-go="home" aria-label="Retour"><svg fill="none" stroke="currentColor" stroke-width="2"><use href="#i-back"/></svg></button>
+        <div class="avatar"><svg fill="currentColor"><use href="#i-bot"/></svg></div>
+        <div>
+          <div class="chat-name">Backey</div>
+          <div class="chat-role">Prof IA · Maths</div>
+        </div>
+        <div class="spacer"></div>
+        <button class="icon-btn" id="menuBtn" aria-label="Menu"><svg fill="currentColor"><use href="#i-dots"/></svg></button>
+      </div>
+
+      <div class="msgs" id="msgs">
+        <div class="day">Aujourd'hui</div>
+
+        <div class="msg bot">
+          <div class="mini-bot"><svg fill="currentColor"><use href="#i-bot"/></svg></div>
+          <div>
+            <div class="bubble">Salut Yassine 👋 Je suis Backey, ton prof IA. On révise quoi aujourd'hui ?</div>
+            <div class="meta">9:12</div>
+          </div>
+        </div>
+
+        <div class="msg me">
+          <div>
+            <div class="bubble">Salut Backey ! Je bloque sur la leçon des limites de fonctions 😅</div>
+            <div class="meta">9:13 <svg fill="none" stroke="currentColor" stroke-width="2.2"><use href="#i-checks"/></svg></div>
+          </div>
+        </div>
+
+        <div class="msg bot">
+          <div class="mini-bot"><svg fill="currentColor"><use href="#i-bot"/></svg></div>
+          <div>
+            <div class="bubble">Pas de souci 😉 Rappel : <b>lim<sub>x→a</sub> f(x) = L</b> signifie que f(x) se rapproche de L quand x tend vers a. Tu bloques sur quelle partie exactement ?</div>
+            <div class="meta">9:13</div>
+          </div>
+        </div>
+
+        <div class="msg me">
+          <div>
+            <div class="bubble">Sur la forme indéterminée « ∞ − ∞ » 🤔</div>
+            <div class="meta">9:14 <svg fill="none" stroke="currentColor" stroke-width="2.2"><use href="#i-checks"/></svg></div>
+          </div>
+        </div>
+
+        <div class="msg bot">
+          <div class="mini-bot"><svg fill="currentColor"><use href="#i-bot"/></svg></div>
+          <div>
+            <div class="bubble">Astuce : pour <b>∞ − ∞</b>, on factorise par le terme dominant.<br>Exemple : f(x) = √(x² + x) − x = x(√(1 + 1/x) − 1) → <b>1/2</b> quand x → +∞.<br>Refais le calcul et montre-moi ton résultat 💪</div>
+            <div class="meta">9:14</div>
+          </div>
+        </div>
+
+        <div class="msg bot">
+          <div class="mini-bot"><svg fill="currentColor"><use href="#i-bot"/></svg></div>
+          <div>
+            <div class="bubble">Petit exercice : calcule <b>lim<sub>x→+∞</sub> (√(x² + 3x) − x)</b>. Prends ton temps ✍️</div>
+            <div class="meta">9:15</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="chat-input">
+        <button class="attach" aria-label="Joindre"><svg fill="none" stroke="currentColor" stroke-width="2"><use href="#i-plus"/></svg></button>
+        <input id="chatText" type="text" placeholder="Écris ton message..." autocomplete="off" />
+        <button class="send" id="sendBtn" aria-label="Envoyer"><svg fill="none" stroke="currentColor" stroke-width="1.9"><use href="#i-send"/></svg></button>
+      </div>
+    </section>
+
+    <!-- ============ SCREEN 3 : MATIÈRES ============ -->
+    <section class="screen" id="screen-matieres">
+      <header class="apphead">
+        <button class="icon-btn" data-go="home" aria-label="Retour"><svg fill="none" stroke="currentColor" stroke-width="2"><use href="#i-back"/></svg></button>
+        <div class="wordmark" style="font-size:17px">Mes matières</div>
+        <div class="spacer"></div>
+        <button class="icon-btn" id="statsBtn" aria-label="Statistiques"><svg fill="none" stroke="currentColor" stroke-width="2"><use href="#i-chart"/></svg></button>
+      </header>
+
+      <div class="topbanner press">
+        <div class="glow"></div>
+        <div class="tt">Ensemble vers la réussite !</div>
+        <div class="ts">Chaque matière compte</div>
+        <svg class="cap" viewBox="0 0 24 24" fill="currentColor"><use href="#i-cap"/></svg>
+      </div>
+
+      <!-- MATHS -->
+      <article class="subj press" data-pct="68">
+        <div class="subj-top">
+          <div class="sq" style="background:linear-gradient(135deg,#3b82f6,#2563eb)"><svg fill="none" stroke="currentColor" stroke-width="1.7"><use href="#i-calc"/></svg></div>
+          <div style="flex:1;min-width:0">
+            <div class="subj-name">Maths</div>
+            <div class="tags">Limites · Continuité · TVI</div>
+          </div>
+          <div class="ring" data-pct="68" style="--c:#3b82f6">
+            <svg viewBox="0 0 52 52">
+              <circle class="bg" cx="26" cy="26" r="22" fill="none" stroke-width="5"/>
+              <circle class="fg" cx="26" cy="26" r="22" fill="none" stroke="#3b82f6" stroke-width="5" stroke-linecap="round" data-c="138.23" stroke-dasharray="138.23" stroke-dashoffset="138.23"/>
+            </svg>
+            <div class="ring-num">0%</div>
+          </div>
+        </div>
+        <div class="bar"><i style="background:linear-gradient(90deg,#3b82f6,#8b5cf6)"></i></div>
+        <div class="chips">
+          <div class="chip"><svg fill="none" stroke="currentColor" stroke-width="1.9"><use href="#i-book"/></svg>17/25 leçons</div>
+          <div class="chip"><svg fill="none" stroke="currentColor" stroke-width="2.2"><use href="#i-check"/></svg>42/60 exos</div>
+          <div class="chip"><svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-star"/></svg>14/20</div>
+        </div>
+      </article>
+
+      <!-- PHYSIQUE -->
+      <article class="subj press" data-pct="74">
+        <div class="subj-top">
+          <div class="sq" style="background:linear-gradient(135deg,#8b5cf6,#6d28d9)"><svg fill="none" stroke="currentColor" stroke-width="1.6"><use href="#i-atom"/></svg></div>
+          <div style="flex:1;min-width:0">
+            <div class="subj-name">Physique</div>
+            <div class="tags">Mécanique · Électricité · Ondes</div>
+          </div>
+          <div class="ring" data-pct="74" style="--c:#8b5cf6">
+            <svg viewBox="0 0 52 52">
+              <circle class="bg" cx="26" cy="26" r="22" fill="none" stroke-width="5"/>
+              <circle class="fg" cx="26" cy="26" r="22" fill="none" stroke="#8b5cf6" stroke-width="5" stroke-linecap="round" data-c="138.23" stroke-dasharray="138.23" stroke-dashoffset="138.23"/>
+            </svg>
+            <div class="ring-num">0%</div>
+          </div>
+        </div>
+        <div class="bar"><i style="background:linear-gradient(90deg,#8b5cf6,#6366f1)"></i></div>
+        <div class="chips">
+          <div class="chip"><svg fill="none" stroke="currentColor" stroke-width="1.9"><use href="#i-book"/></svg>19/26 leçons</div>
+          <div class="chip"><svg fill="none" stroke="currentColor" stroke-width="2.2"><use href="#i-check"/></svg>55/70 exos</div>
+          <div class="chip"><svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-star"/></svg>16/20</div>
+        </div>
+      </article>
+
+      <!-- SVT -->
+      <article class="subj press" data-pct="61">
+        <div class="subj-top">
+          <div class="sq" style="background:linear-gradient(135deg,#14b8a6,#0d9488)"><svg fill="none" stroke="currentColor" stroke-width="1.7"><use href="#i-dna"/></svg></div>
+          <div style="flex:1;min-width:0">
+            <div class="subj-name">SVT</div>
+            <div class="tags">Génétique · Écosystèmes · Corps humain</div>
+          </div>
+          <div class="ring" data-pct="61" style="--c:#14b8a6">
+            <svg viewBox="0 0 52 52">
+              <circle class="bg" cx="26" cy="26" r="22" fill="none" stroke-width="5"/>
+              <circle class="fg" cx="26" cy="26" r="22" fill="none" stroke="#14b8a6" stroke-width="5" stroke-linecap="round" data-c="138.23" stroke-dasharray="138.23" stroke-dashoffset="138.23"/>
+            </svg>
+            <div class="ring-num">0%</div>
+          </div>
+        </div>
+        <div class="bar"><i style="background:linear-gradient(90deg,#14b8a6,#22d3ee)"></i></div>
+        <div class="chips">
+          <div class="chip"><svg fill="none" stroke="currentColor" stroke-width="1.9"><use href="#i-book"/></svg>13/22 leçons</div>
+          <div class="chip"><svg fill="none" stroke="currentColor" stroke-width="2.2"><use href="#i-check"/></svg>30/54 exos</div>
+          <div class="chip"><svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-star"/></svg>12/20</div>
+        </div>
+      </article>
+
+      <div class="foot">Tu progresses, continue !</div>
+    </section>
+
+    <!-- ============ SCREEN 4 : PROFIL ============ -->
+    <section class="screen" id="screen-profil">
+      <header class="apphead">
+        <div class="wordmark" style="font-size:20px;margin-left:2px">Profil</div>
+      </header>
+
+      <div class="usercard press">
+        <div class="bigava">YA</div>
+        <div style="flex:1;min-width:0">
+          <div class="uname">Yassine Amrani</div>
+          <div class="ulevel"><svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor"><use href="#i-cap"/></svg> 2BAC · Sciences PC</div>
+        </div>
+      </div>
+
+      <div class="mini-stats">
+        <div class="m"><div class="mv">68%</div><div class="ml">Maths</div></div>
+        <div class="m"><div class="mv">74%</div><div class="ml">Physique</div></div>
+        <div class="m"><div class="mv">61%</div><div class="ml">SVT</div></div>
+      </div>
+
+      <div class="sec">Préférences</div>
+      <div class="settings">
+        <div class="srow" id="darkRow">
+          <div class="si"><svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-moon"/></svg></div>
+          <div class="sl">Mode sombre</div>
+          <div class="switch" id="darkSwitch"><i></i></div>
+        </div>
+        <div class="srow" id="notifRow">
+          <div class="si"><svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-bell"/></svg></div>
+          <div class="sl">Notifications</div>
+          <div class="switch on" id="notifSwitch"><i></i></div>
+        </div>
+        <div class="srow" id="langRow">
+          <div class="si"><svg fill="none" stroke="currentColor" stroke-width="1.7"><use href="#i-globe"/></svg></div>
+          <div class="sl">Langue</div>
+          <div class="sv" id="langVal">Français</div>
+          <div class="chev"><svg fill="none" stroke="currentColor" stroke-width="2"><use href="#i-chev"/></svg></div>
+        </div>
+      </div>
+
+      <div class="sec">Support</div>
+      <div class="settings">
+        <div class="srow" id="helpRow">
+          <div class="si"><svg fill="none" stroke="currentColor" stroke-width="1.7"><use href="#i-help"/></svg></div>
+          <div class="sl">Aide &amp; assistance</div>
+          <div class="chev"><svg fill="none" stroke="currentColor" stroke-width="2"><use href="#i-chev"/></svg></div>
+        </div>
+        <div class="srow danger" id="logoutRow">
+          <div class="si"><svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-out"/></svg></div>
+          <div class="sl">Déconnexion</div>
+          <div class="chev"><svg fill="none" stroke="currentColor" stroke-width="2"><use href="#i-chev"/></svg></div>
+        </div>
+      </div>
+
+      <div class="foot">Backey v1.0 · Fait avec ❤️ pour les 2BAC</div>
+    </section>
+
+    <div class="toast" id="toast"></div>
+  </div>
+
+  <!-- BOTTOM NAV -->
+  <nav class="bottomnav">
+    <button class="nav-btn active" data-screen="home"><span class="ni"><svg><use href="#i-home"/></svg></span><span>Accueil</span></button>
+    <button class="nav-btn" data-screen="chat"><span class="ni"><svg><use href="#i-chat"/></svg></span><span>Chat</span></button>
+    <button class="nav-btn" data-screen="matieres"><span class="ni"><svg><use href="#i-book"/></svg></span><span>Matières</span></button>
+    <button class="nav-btn" data-screen="profil"><span class="ni"><svg><use href="#i-user"/></svg></span><span>Profil</span></button>
+  </nav>
+</div>
+
+<script>
+(function(){
+  const html = document.documentElement;
+  const toast = document.getElementById('toast');
+  let toastT;
+  function showToast(msg){
+    toast.textContent = msg;
+    toast.classList.add('show');
+    clearTimeout(toastT);
+    toastT = setTimeout(()=>toast.classList.remove('show'), 1900);
+  }
+
+  /* ---------- THEME ---------- */
+  function applyDark(on, announce){
+    html.classList.toggle('dark', on);
+    const sw = document.getElementById('darkSwitch');
+    sw.classList.toggle('on', on);
+    try{ localStorage.setItem('backey-dark', on ? '1' : '0'); }catch(e){}
+    if(announce) showToast(on ? 'Mode sombre activé 🌙' : 'Mode clair activé ☀️');
+  }
+  let saved = null;
+  try{ saved = localStorage.getItem('backey-dark'); }catch(e){}
+  applyDark(saved === null ? window.matchMedia('(prefers-color-scheme: dark)').matches : saved === '1', false);
+
+  /* ---------- NAVIGATION ---------- */
+  const navBtns = document.querySelectorAll('.nav-btn');
+  const screens = document.querySelectorAll('.screen');
+  let current = 'home';
+
+  function animateRings(scope){
+    scope.querySelectorAll('.ring[data-pct]').forEach(ring=>{
+      const fg = ring.querySelector('.fg');
+      const num = ring.querySelector('.ring-num');
+      if(!fg) return;
+      const C = parseFloat(fg.dataset.c);
+      const pct = parseFloat(ring.dataset.pct);
+      fg.style.transition = 'none';
+      fg.style.strokeDashoffset = C;
+      num.textContent = '0%';
+      // progress bar
+      const card = ring.closest('.subj');
+      const bar = card ? card.querySelector('.bar i') : null;
+      if(bar){ bar.style.transition='none'; bar.style.width='0'; }
+      requestAnimationFrame(()=>requestAnimationFrame(()=>{
+        fg.style.transition = 'stroke-dashoffset 1.5s cubic-bezier(.22,1,.36,1)';
+        fg.style.strokeDashoffset = C * (1 - pct/100);
+        if(bar){ bar.style.transition='width 1.5s cubic-bezier(.22,1,.36,1)'; bar.style.width = pct + '%'; }
+      }));
+      // count-up
+      const start = performance.now(), dur = 1400;
+      (function tick(now){
+        const p = Math.min(1,(now-start)/dur);
+        const eased = 1 - Math.pow(1-p, 3);
+        num.textContent = Math.round(pct * eased) + '%';
+        if(p < 1) requestAnimationFrame(tick);
+      })(start);
+    });
+  }
+
+  /* mini progress bars on the Home cards */
+  function animateMini(scope){
+    scope.querySelectorAll('.mbar i[data-pct]').forEach(bar=>{
+      bar.style.transition = 'none';
+      bar.style.width = '0';
+      requestAnimationFrame(()=>requestAnimationFrame(()=>{
+        bar.style.transition = 'width 1.3s cubic-bezier(.22,1,.36,1)';
+        bar.style.width = bar.dataset.pct + '%';
+      }));
+    });
+  }
+
+  function go(name){
+    if(name === current) { return; }
+    current = name;
+    screens.forEach(s=>{
+      const on = s.id === 'screen-' + name;
+      s.classList.toggle('active', on);
+      if(on){
+        s.scrollTop = 0;
+        if(name === 'matieres') animateRings(s);
+        if(name === 'home') animateMini(s);
+      }
+    });
+    navBtns.forEach(b=>b.classList.toggle('active', b.dataset.screen === name));
+  }
+
+  navBtns.forEach(b=>b.addEventListener('click', ()=>go(b.dataset.screen)));
+  document.querySelectorAll('[data-go]').forEach(el=>{
+    el.addEventListener('click', e=>{
+      e.stopPropagation();
+      /* let the press feedback play briefly on tappable cards before switching */
+      setTimeout(()=>go(el.dataset.go), el.classList.contains('press') ? 130 : 0);
+    });
+  });
+
+  /* initial animations */
+  animateRings(document.getElementById('screen-matieres'));
+  animateMini(document.getElementById('screen-home'));
+
+  /* ---------- CHAT ---------- */
+  const msgs = document.getElementById('msgs');
+  const input = document.getElementById('chatText');
+  const send = document.getElementById('sendBtn');
+
+  function now(){
+    const d = new Date();
+    return String(d.getHours()).padStart(2,'0') + ':' + String(d.getMinutes()).padStart(2,'0');
+  }
+  function scrollDown(smooth){
+    requestAnimationFrame(()=>{ msgs.scrollTo({top: msgs.scrollHeight, behavior: smooth?'smooth':'auto'}); });
+  }
+  function addBot(text, delay){
+    const t = document.createElement('div');
+    t.className = 'msg bot';
+    t.innerHTML = '<div class="mini-bot"><svg fill="currentColor"><use href="#i-bot"/></svg></div>' +
+      '<div><div class="bubble"><span class="typing"><i></i><i></i><i></i></span></div></div>';
+    msgs.appendChild(t);
+    scrollDown(true);
+    setTimeout(()=>{
+      t.querySelector('.bubble').innerHTML = text;
+      const meta = document.createElement('div');
+      meta.className = 'meta';
+      meta.textContent = now();
+      t.querySelector('div:last-child').appendChild(meta);
+      scrollDown(true);
+    }, delay);
+  }
+  function addUser(text){
+    const t = document.createElement('div');
+    t.className = 'msg me';
+    t.innerHTML = '<div><div class="bubble"></div><div class="meta">' + now() +
+      ' <svg fill="none" stroke="currentColor" stroke-width="2.2"><use href="#i-checks"/></svg></div></div>';
+    t.querySelector('.bubble').textContent = text;
+    msgs.appendChild(t);
+    scrollDown(true);
+  }
+
+  const replies = [
+    "Bonne démarche ! 👏 Pour une limite en <b>+∞ d'un polynôme</b>, garde seulement le terme de plus haut degré.",
+    "N'oublie pas le théorème des gendarmes : si g(x) ≤ f(x) ≤ h(x) et que g et h tendent vers L, alors f tend vers L aussi 📘",
+    "Attention ⚠️ aux formes <b>0/0</b> : factorise ou utilise l'expression conjuguée (√A − √B → multiplier par √A + √B).",
+    "Très bien ! Pour <b>lim<sub>x→a</sub> (f(x)−f(a))/(x−a)</b>, tu retrouves le nombre dérivé — c'est le lien avec la dérivabilité 🔗",
+    "Astuce TVI : si f est continue sur [a,b] et f(a)·f(b) &lt; 0, alors l'équation f(x)=0 admet au moins une solution dans ]a,b[ ✅",
+    "Continue comme ça 💪 Veux-tu que je te donne un exercice type examen national sur les limites ?"
+  ];
+  let ri = 0;
+
+  function submit(){
+    const v = input.value.trim();
+    if(!v) return;
+    addUser(v);
+    input.value = '';
+    const r = replies[ri % replies.length]; ri++;
+    addBot(r, 900 + Math.random()*700);
+  }
+  send.addEventListener('click', submit);
+  input.addEventListener('keydown', e=>{ if(e.key === 'Enter') submit(); });
+  scrollDown(false);
+
+  /* ---------- PROFIL CONTROLS ---------- */
+  document.getElementById('darkRow').addEventListener('click', ()=>applyDark(!html.classList.contains('dark'), true));
+  document.getElementById('notifSwitch').addEventListener('click', e=>{
+    e.stopPropagation();
+    const on = e.currentTarget.classList.toggle('on');
+    showToast(on ? 'Notifications activées 🔔' : 'Notifications désactivées 🔕');
+  });
+  document.getElementById('notifRow').addEventListener('click', ()=>{
+    const sw = document.getElementById('notifSwitch');
+    const on = sw.classList.toggle('on');
+    showToast(on ? 'Notifications activées 🔔' : 'Notifications désactivées 🔕');
+  });
+  const langs = ['Français','العربية','English'];
+  let li = 0;
+  document.getElementById('langRow').addEventListener('click', ()=>{
+    li = (li + 1) % langs.length;
+    document.getElementById('langVal').textContent = langs[li];
+    showToast('Langue : ' + langs[li]);
+  });
+  document.getElementById('helpRow').addEventListener('click', ()=>showToast('Un souci ? Écris à Backey 💬'));
+  document.getElementById('logoutRow').addEventListener('click', ()=>showToast('Déconnexion… à bientôt ! 👋'));
+  document.getElementById('menuBtn').addEventListener('click', ()=>showToast('Options : effacer, exporter, sonnerie'));
+  document.getElementById('statsBtn').addEventListener('click', ()=>showToast('Statistiques · 15 j de série 🔥'));
+  document.getElementById('motiv').addEventListener('click', ()=>showToast('Objectif du jour : 2 leçons + 5 exos ✨'));
+
+  /* subject cards tap feedback (haptic-ish pulse) */
+  document.querySelectorAll('.subj, .board').forEach(el=>{
+    el.addEventListener('click', ()=>el.animate(
+      [{transform:'scale(.975)'},{transform:'scale(1)'}],
+      {duration:260, easing:'cubic-bezier(.2,.9,.3,1)'}
+    ));
+  });
+})();
+</script>
+</body>
+</html>
