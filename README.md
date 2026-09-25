@@ -278,7 +278,7 @@ generic "Une erreur est survenue." message.
 ## Tests
 
 ```bash
-npm test        # 82 tests
+npm test        # 86 tests
 ```
 
 The suite runs the **real** `lib/ai-core.js`, `server.mjs` and the real inline script
