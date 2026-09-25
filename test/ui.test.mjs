@@ -505,3 +505,54 @@ test('CUSTODY: a plain static host (health 404) may still keep the key locally',
       'a backendless static host must still be able to store the key');
   } finally { await app.close(); }
 });
+
+/* ------------------------------------------------------------------ *
+ * Design preservation: new CSS must not silently restyle existing UI.
+ * A second definition of an existing selector overrides it, because both
+ * sit at top level with equal specificity.
+ * ------------------------------------------------------------------ */
+
+test('DESIGN: no CSS selector is defined twice (no silent overrides)', async () => {
+  const html = await readFile(path.join(ROOT, 'index.html'), 'utf8');
+  const style = html.slice(html.indexOf('<style>'), html.indexOf('</style>'))
+    .replace(/\/\*[\s\S]*?\*\//g, '');
+
+  // track nesting so @keyframes stops (0%, 100%, ...) are not read as selectors
+  const counts = new Map();
+  let depth = 0;
+  let buf = '';
+  for (const ch of style) {
+    if (ch === '{') {
+      const sel = buf.trim();
+      if (depth === 0 && sel && !sel.startsWith('@')) {
+        for (const part of sel.split(',')) {
+          const p = part.trim();
+          if (p) counts.set(p, (counts.get(p) || 0) + 1);
+        }
+      }
+      buf = '';
+      depth++;
+    } else if (ch === '}') { buf = ''; depth = Math.max(0, depth - 1); }
+    else if (depth === 0) buf += ch;
+  }
+
+  // `body` is defined twice in the original app, before any AI work — that is
+  // pre-existing and must not be "fixed" here. Anything else is a regression.
+  const PRE_EXISTING = new Set(['body']);
+  const dupes = [...counts].filter(([s, n]) => n > 1 && !PRE_EXISTING.has(s)).map(([s]) => s);
+  assert.deepEqual(dupes, [], 'these selectors are defined more than once and silently override earlier UI: ' + dupes);
+});
+
+test('DESIGN: the pre-existing 2BAC badge keeps its original gradient styling', async () => {
+  const html = await readFile(path.join(ROOT, 'index.html'), 'utf8');
+  // the original pill: purple gradient, white text, glow
+  const m = /\.pill\s*\{([^}]*)\}/.exec(html);
+  assert.ok(m, 'the original .pill rule is gone');
+  assert.ok(/var\(--grad\)/.test(m[1]), 'the 2BAC badge lost its gradient background');
+  assert.ok(/color:\s*#fff/.test(m[1]), 'the 2BAC badge lost its white text');
+  // and the badge markup is still there, unmodified
+  assert.ok(/class="pill">2BAC</.test(html), 'the 2BAC badge markup changed');
+  // the AI status pill must use its OWN class, not the shared one
+  assert.ok(/class="keypill" id="keyStatus"/.test(html),
+    'the key status pill must not reuse the .pill class');
+});

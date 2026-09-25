@@ -553,7 +553,25 @@ const server = http.createServer(async (req, res) => {
     res.end('Method not allowed');
   } catch (err) {
     const status = err && err.status === 413 ? 413 : 500;
-    logError('unhandled', err && err.name ? err.name : 'error');
+    /*
+     * A 413 is an expected, handled client error — log it as such. Treating it
+     * as "unhandled" buries genuine crashes in noise.
+     */
+    if (status === 413) {
+      log('rejected oversized body', JSON.stringify({ bytes: 'over limit', limit: BODY_LIMIT }));
+    } else {
+      /*
+       * Log enough to diagnose: name, redacted message and the origin frame.
+       * Previously this logged only err.name, so every failure was the useless
+       * string "unhandled Error".
+       */
+      logError('unhandled', JSON.stringify({
+        name: (err && err.name) || 'Error',
+        status: (err && err.status) || null,
+        message: AI.redact(String((err && err.message) || err || '')).slice(0, 300),
+        at: err && err.stack ? AI.redact(String(err.stack).split('\n')[1] || '').trim().slice(0, 160) : null
+      }));
+    }
     if (!res.headersSent) {
       sendJson(res, status, {
         error: {

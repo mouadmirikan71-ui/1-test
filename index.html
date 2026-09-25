@@ -387,7 +387,13 @@ body::before{
 .toast.show{opacity:1;transform:translate(-50%,0)}
 /* long messages (AI status/errors) must not overflow the phone shell.
    Short toasts render exactly as before: still one centred line. */
-.toast{max-width:calc(100% - 32px);white-space:normal;text-align:center;line-height:1.35}
+/*
+ * The base .toast rule is left untouched. The AI messages are much longer than
+ * the original toasts (up to ~94 chars) and the base rule sets
+ * `white-space:nowrap`, which would push them off a phone screen. Scoped to
+ * #toast on purpose so it never reads as a redefinition of .toast.
+ */
+#toast{max-width:calc(100% - 32px);white-space:normal;text-align:center;line-height:1.35}
 
 /* ============ AI ASSISTANT (additive — existing tokens only, no redesign) ============ */
 
@@ -496,15 +502,15 @@ body::before{
 /* the UA `display:none` for [hidden] loses to .srow-btn{display:flex}, so restore it */
 .srow-btn[hidden]{display:none}
 .srow-btn.ghost{background:var(--chip);color:var(--text);border:1px solid var(--border);box-shadow:none}
-.pill{
+.keypill{
   display:inline-flex;align-items:center;gap:5px;font-size:10.5px;font-weight:700;
   padding:3.5px 9px;border-radius:999px;background:var(--chip);color:var(--muted);
   border:1px solid var(--border);white-space:nowrap
 }
-.pill i{width:6px;height:6px;border-radius:50%;background:currentColor;display:block}
-.pill.ok{color:#10b981;background:rgba(16,185,129,.12);border-color:rgba(16,185,129,.28)}
-.pill.ko{color:#ef4444;background:rgba(239,68,68,.10);border-color:rgba(239,68,68,.26)}
-.pill.wait{color:#f59e0b;background:rgba(245,158,11,.12);border-color:rgba(245,158,11,.28)}
+.keypill i{width:6px;height:6px;border-radius:50%;background:currentColor;display:block}
+.keypill.ok{color:#10b981;background:rgba(16,185,129,.12);border-color:rgba(16,185,129,.28)}
+.keypill.ko{color:#ef4444;background:rgba(239,68,68,.10);border-color:rgba(239,68,68,.26)}
+.keypill.wait{color:#f59e0b;background:rgba(245,158,11,.12);border-color:rgba(245,158,11,.28)}
 .hint{font-size:10.5px;font-weight:500;color:var(--muted);line-height:1.45}
 .hint b{font-weight:700;color:var(--text)}
 .spinner{
@@ -873,7 +879,7 @@ body::before{
           <div style="display:flex;align-items:center;gap:12px">
             <div class="si tint"><svg fill="none" stroke="currentColor" stroke-width="1.8"><use href="#i-key"/></svg></div>
             <div class="sl">Clé API Gemini</div>
-            <span class="pill" id="keyStatus"><i></i><span id="keyStatusTxt">Non connectée</span></span>
+            <span class="keypill" id="keyStatus"><i></i><span id="keyStatusTxt">Non connectée</span></span>
           </div>
 
           <div class="keyline">
